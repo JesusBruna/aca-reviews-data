@@ -1,0 +1,253 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jose Serrano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-05-27T08:59:07.339649Z",
+    "updateTime": "2025-05-27T08:59:07.339649Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2025-05-30T10:10:24.360148Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VOVE1qOEMtbWQyVjJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Paz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-05-26T13:57:36.960345Z",
+    "updateTime": "2025-05-26T13:57:36.960345Z",
+    "reviewReply": {
+      "comment": "Gracias Jose",
+      "updateTime": "2025-05-30T10:10:40.475644Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VOU2VwOWYybmJtUmpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Ariza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-05-25T17:28:32.343132Z",
+    "updateTime": "2025-05-25T17:28:32.343132Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Daniel",
+      "updateTime": "2025-05-30T10:10:58.780383Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VQLUNsYl84dXE3aHFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Gri"
+    },
+    "starRating": "ONE",
+    "comment": "La estación de servicio mas lenta del universo. Atendida por Tortuguita y Tortugon.\n\n(Translated by Google)\nThe slowest gas station in the universe. Served by Tortuguita and Tortugon.",
+    "createTime": "2025-05-23T20:41:44.592652Z",
+    "updateTime": "2025-05-23T20:41:44.592652Z",
+    "reviewReply": {
+      "comment": "Hola Roberto. Mil disculpa por la demora",
+      "updateTime": "2025-05-30T10:11:39.227308Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VQaVA3Y3JOaHVmLVRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Giuliani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-05-22T14:47:19.334366Z",
+    "updateTime": "2025-05-22T14:47:19.334366Z",
+    "reviewReply": {
+      "comment": "Gracias Miguel",
+      "updateTime": "2025-05-30T10:11:49.677949Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VKU2RfYjZBMGFMNEhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Celina jesica Barchiesi"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísima la atención!!!\n\n(Translated by Google)\nExcellent service!!!",
+    "createTime": "2025-05-18T23:35:28.903858Z",
+    "updateTime": "2025-05-18T23:35:28.903858Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias",
+      "updateTime": "2025-05-30T10:12:02.733452Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VKRzU3NXZRM2Q3Tk9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Cantarini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-05-18T15:46:35.900199Z",
+    "updateTime": "2025-05-18T15:46:35.900199Z",
+    "reviewReply": {
+      "comment": "Gracias Manuel",
+      "updateTime": "2025-05-30T10:12:12.906069Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VKSFJ5LXpRanFxUUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Maria Abente Cabrera"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso pueblo, camino de la 40. Nos sorprendió gratamente. Tranquilo y con todos los servicios.\n\n(Translated by Google)\nBeautiful town, on the way to Route 40. We were pleasantly surprised. Quiet and with all amenities.",
+    "createTime": "2025-05-14T13:02:45.552327Z",
+    "updateTime": "2025-05-14T13:02:45.552327Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias",
+      "updateTime": "2025-05-30T10:12:28.185123Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VMdlhqYkhQenZhdmp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Darío De Lauro"
+    },
+    "starRating": "ONE",
+    "comment": "Siempre hay cola y apenas un par de bombas para expender combustible. Servicio del siglo pasado. La atención de los empleados es excelente\n\n(Translated by Google)\nThere\u0027s always a line and only a couple of pumps. The service is outdated. The staff, however, are excellent.",
+    "createTime": "2025-05-14T01:06:59.670851Z",
+    "updateTime": "2025-05-14T01:06:59.670851Z",
+    "reviewReply": {
+      "comment": "Hola Dario. Lamentablemente nos supera la demanda, es algo que no podemos controlar. Te invitamos a a venir en ottos horarios. Google tiene una herramienta para saber la concurrencia en el momento y esta muy buena. Te recomendamos que la mires antws de venir",
+      "updateTime": "2025-05-14T12:06:40.237158Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VNbWUycV9wN0otNU1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noemi Lopez"
+    },
+    "starRating": "FIVE",
+    "comment": "Acá se pueden comprar los stickers del hito de la ruta 40\n\n(Translated by Google)\nHere you can buy stickers commemorating the Route 40 landmark",
+    "createTime": "2025-05-12T19:41:27.879571Z",
+    "updateTime": "2025-05-12T19:41:27.879571Z",
+    "reviewReply": {
+      "comment": "Correcto. Y también tenemos Naipes con fotos de nuestto Norte Neuquino que esta muy bueno",
+      "updateTime": "2025-05-14T12:07:27.003590Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VPLUlzNktydHIyemd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo daniel"
+    },
+    "starRating": "ONE",
+    "comment": "Siempre las  filas de 2 cuadras para cargar comb.\nLamentable.\nLos playeros  unos genios!!!\n\n(Translated by Google)\nAlways two-block lines to get gas.\nDisgraceful.\nThe gas station attendants are amazing!!!",
+    "createTime": "2025-05-10T11:49:02.147752Z",
+    "updateTime": "2025-05-10T11:49:02.147752Z",
+    "reviewReply": {
+      "comment": "Hola Eduardo. Lamentablemente la demanda nos supera. Hay horarios en los que no hay tanta cola. Podes usar la herramienta de google par saber como estamos de congestionados y venir a cargar",
+      "updateTime": "2025-05-10T19:16:29.597022Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VLeWhsZFNudWRUSDF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Emilio Cressa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-05-09T20:18:08.470010Z",
+    "updateTime": "2025-05-09T20:18:08.470010Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2025-05-10T19:16:40.928885Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VPMy10Yl9SanU3NVJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo MAXPOWER"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio, el baño tenés q cagar y tener la puerta con la mano, no tiene seguro.\n\n(Translated by Google)\nExcellent service, you have to take a dump in the bathroom and hold the door with your hand, it doesn\u0027t have a lock.",
+    "createTime": "2025-05-09T02:16:01.835857Z",
+    "updateTime": "2025-05-09T02:16:01.835857Z",
+    "reviewReply": {
+      "comment": "Gracias. Nos ponemos a arregalrlo. Gracias por avisar",
+      "updateTime": "2025-05-10T19:17:10.177912Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VNbXBpNS1faE5uejBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "lucasdaniels"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y baños impecables.\n\n(Translated by Google)\nExcellent service and spotless bathrooms.",
+    "createTime": "2025-05-07T23:58:18.077534Z",
+    "updateTime": "2025-05-07T23:58:18.077534Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2025-05-10T19:17:18.837340Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJajgwcHVEOE0tUFBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Esquivel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-05-07T21:00:07.078858Z",
+    "updateTime": "2025-05-07T21:00:07.078858Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2025-05-10T19:17:24.972682Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VOeWs2T2pPLWZuX2RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "CYP BROADCAST ARGENTINA"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-05-07T11:33:56.103660Z",
+    "updateTime": "2025-05-07T11:33:56.103660Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2025-05-10T19:17:31.747840Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VOMnR2dnlwdDdybEp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Saizar"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2025-05-06T10:54:02.002756Z",
+    "updateTime": "2025-05-06T10:54:02.002756Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2025-05-10T19:17:39.041215Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VKXzZwb0xCNU16bVhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ramiro Quintana"
+    },
+    "starRating": "THREE",
+    "createTime": "2025-05-05T13:21:10.933534Z",
+    "updateTime": "2025-05-05T13:21:10.933534Z",
+    "reviewReply": {
+      "comment": "Hola Ramiro. Podrías dejar algún comentario para justificar tu opinion. Muchas gracias",
+      "updateTime": "2025-05-06T07:59:31.807015Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZMmNQckxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Haberstroh"
+    },
+    "starRating": "FOUR",
+    "comment": "Bueno y los baños amplios y limpios!! Es la mejor de la ciudad\n\n(Translated by Google)\nGreat, and the bathrooms are spacious and clean!! It\u0027s the best in the city",
+    "createTime": "2025-05-03T14:33:53.359477Z",
+    "updateTime": "2025-05-03T14:33:53.359477Z",
+    "reviewReply": {
+      "comment": "Muchad gracias",
+      "updateTime": "2025-05-03T19:27:58.458085Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZbXZQaXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Tassi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-04-30T17:28:21.252960Z",
+    "updateTime": "2025-04-30T17:28:21.252960Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2025-05-03T19:28:09.914499Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZeU1qUGVnEAE"
+  }]
+}

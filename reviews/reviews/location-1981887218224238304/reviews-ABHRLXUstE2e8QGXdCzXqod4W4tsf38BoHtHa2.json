@@ -1,0 +1,200 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Diego Perretti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-27T10:21:19.602091Z",
+    "updateTime": "2023-11-27T10:21:19.602091Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Diego !",
+      "updateTime": "2023-12-23T01:48:26.426562Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNscTczYWZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victory Patagonia"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-11-26T00:57:46.652891Z",
+    "updateTime": "2023-11-26T00:57:46.652891Z",
+    "reviewReply": {
+      "comment": "Gracias.",
+      "updateTime": "2023-12-23T01:48:39.638562Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsNF9qWThnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "santiago martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen café y medias lunas!\n\n(Translated by Google)\nGood coffee and croissants!",
+    "createTime": "2023-11-24T10:46:23.251164Z",
+    "updateTime": "2023-11-24T10:46:23.251164Z",
+    "reviewReply": {
+      "comment": "Gracias Santiago, nos alegra que te haya gustado.",
+      "updateTime": "2023-12-23T01:49:33.014573Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsclpUMUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Herrlein"
+    },
+    "starRating": "THREE",
+    "comment": "Tenía los baños clausurado\n\n(Translated by Google)\nThe bathrooms were closed",
+    "createTime": "2023-11-22T19:22:36.862730Z",
+    "updateTime": "2023-11-22T19:22:36.862730Z",
+    "reviewReply": {
+      "comment": "Seguramente. Se cierran mientras se procede a la limpieza. Es lógico.",
+      "updateTime": "2023-12-23T01:50:35.945857Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNseFlHRVV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Piatti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-11-20T23:48:07.821772Z",
+    "updateTime": "2023-11-20T23:48:07.821772Z",
+    "reviewReply": {
+      "comment": "Gracias Diego.",
+      "updateTime": "2023-12-23T01:50:58.966203Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsc2JuSTZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ramon Encinas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-11-20T20:15:57.435107Z",
+    "updateTime": "2023-11-20T20:15:57.435107Z",
+    "reviewReply": {
+      "comment": "Gracias Ramón.",
+      "updateTime": "2024-01-27T01:41:44.519293Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMFpmRmNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mary"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y ubicación.\n\n(Translated by Google)\nExcellent service and location.",
+    "createTime": "2023-11-17T18:09:39.533016Z",
+    "updateTime": "2023-11-17T18:09:39.533016Z",
+    "reviewReply": {
+      "comment": "Muchas gracias María Rosa.",
+      "updateTime": "2024-01-27T01:42:15.275113Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsbHJMYWtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia.A Chiguay"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-15T10:03:10.775547Z",
+    "updateTime": "2023-11-15T10:03:10.775547Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsc3ZURFdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ANTONIO LUIS Paluch"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-11-12T23:50:24.199861Z",
+    "updateTime": "2023-11-12T23:50:24.199861Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsa1AzX2d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "María Alejandra"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención del Empleado que nos tocó !! Muy atento y respetuoso\n\n(Translated by Google)\nExcellent service from the employee we received! Very attentive and respectful",
+    "createTime": "2023-11-11T23:00:24.429982Z",
+    "updateTime": "2023-11-11T23:00:24.429982Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSURGN19YZG9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Daniel Rabinovich"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención del servicio de playa\n\n(Translated by Google)\nGood service from the beach staff",
+    "createTime": "2023-11-02T00:32:15.986494Z",
+    "updateTime": "2023-11-02T00:32:15.986494Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGczg2NFRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Repele"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-31T03:45:20.891385Z",
+    "updateTime": "2023-10-31T03:45:20.891385Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGemNmZUJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Bernadzki"
+    },
+    "starRating": "THREE",
+    "comment": "Los baños merecen más atencion.\n\n(Translated by Google)\nThe bathrooms deserve more attention.",
+    "createTime": "2023-10-30T15:39:30.713740Z",
+    "updateTime": "2023-10-30T15:39:30.713740Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGdGVfZ3d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emilia Arena"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-29T13:38:49.089958Z",
+    "updateTime": "2023-10-29T13:38:49.089958Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGdWV2Q2lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Cinque"
+    },
+    "starRating": "THREE",
+    "comment": "Los baños imposible! Nos extraño de un A.C.A.\n\n(Translated by Google)\nThe bathrooms are impossible! We miss this A.C.A.",
+    "createTime": "2023-10-29T12:52:58.409308Z",
+    "updateTime": "2023-10-29T12:52:58.409308Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGdWRIOXNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto DAbreu"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, y naftamas barata\n\n(Translated by Google)\nGood service, and cheap gasoline.",
+    "createTime": "2023-10-26T16:20:48.684371Z",
+    "updateTime": "2023-10-26T16:20:48.684371Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1NmJubmpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana María Dall Armellina"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-22T18:40:23.074578Z",
+    "updateTime": "2023-10-22T18:40:23.074578Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1cXZXOGl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Fernanda Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-22T17:11:18.612251Z",
+    "updateTime": "2023-10-22T17:11:18.612251Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1cXNMWGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Figari"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención y la vista hermosa\n\n(Translated by Google)\nExcellent service and a beautiful view",
+    "createTime": "2023-10-21T08:29:04.152542Z",
+    "updateTime": "2023-10-21T08:29:04.152542Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1d3FxS3lBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Marchetti"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-20T13:07:07.116852Z",
+    "updateTime": "2023-10-20T13:07:07.116852Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1cksyNmVREAE"
+  }]
+}

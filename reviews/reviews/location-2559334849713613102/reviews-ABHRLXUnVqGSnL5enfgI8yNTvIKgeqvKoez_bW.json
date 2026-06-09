@@ -1,0 +1,242 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jose Luis Botto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-08-19T18:40:43.459872Z",
+    "updateTime": "2018-08-19T18:40:43.459872Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURnN2NLaE53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Curcio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-08-11T14:59:25.410Z",
+    "updateTime": "2018-08-11T14:59:25.410Z",
+    "reviewReply": {
+      "comment": "Gracias Juan!",
+      "updateTime": "2018-08-11T15:31:09.220036Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBZzk2UUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Exequiel Britos"
+    },
+    "starRating": "THREE",
+    "comment": "Excelente la atención! Igualmente me parece que por el monto en $ de carga de nafta super. Rinde menos kms que cargando en otras estaciones\n\n(Translated by Google)\nExcellent service! However, I think that for the price of premium gasoline, it gets fewer kilometers per tank than filling up at other stations.",
+    "createTime": "2018-08-09T23:27:28.767Z",
+    "updateTime": "2018-08-09T23:28:30.450Z",
+    "reviewReply": {
+      "comment": "Gracias por comentar Exequiel. Paso a informarte que muestra estación y todas las que pertenecen tanto a YPF como al ACA son controladas por el INTI en forma anual e interna de manera mensual. Cualquier duda o consulta que tengas te sugiero que te comuniques con nosotros porque lo que estas sugiriendo es una infamia.  Saludos.",
+      "updateTime": "2018-08-09T23:49:00.321718Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBaTdfSVFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Falkenberg"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-08-07T00:15:11.719Z",
+    "updateTime": "2018-08-07T00:15:11.719Z",
+    "reviewReply": {
+      "comment": "Gracias Sergio!!!",
+      "updateTime": "2018-08-07T00:34:11.081742Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdnZHRVV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Amaya"
+    },
+    "starRating": "FOUR",
+    "comment": "Recomendable lugar.\n\n(Translated by Google)\nRecommended place.",
+    "createTime": "2018-08-01T22:49:44.277Z",
+    "updateTime": "2018-08-01T22:49:49.260Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Federico!!!",
+      "updateTime": "2018-08-01T23:12:49.905025Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBaGRHTE9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Masjoan"
+    },
+    "starRating": "FIVE",
+    "comment": "Mi estación de servicio favorita en Rafaela.\nLa YPF donde atienden más rápido!\n\n(Translated by Google)\nMy favorite gas station in Rafaela.\nThe YPF with the fastest service!",
+    "createTime": "2018-07-21T15:49:31.466Z",
+    "updateTime": "2018-07-21T15:50:37.951Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Pablo!!!!",
+      "updateTime": "2018-07-21T16:01:43.904111Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBOExTRExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Mainardi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-07-18T16:39:01.878Z",
+    "updateTime": "2018-07-18T16:39:01.878Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Mario!",
+      "updateTime": "2018-07-18T16:51:15.009221Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3NGMycWF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Fabris"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena opción en Rafaela\n\n(Translated by Google)\nGood option in Rafaela",
+    "createTime": "2018-07-16T22:04:57.409Z",
+    "updateTime": "2018-07-16T22:05:16.274Z",
+    "reviewReply": {
+      "comment": "Gracias Diego!!!",
+      "updateTime": "2018-07-17T04:19:04.649150Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURRcG92eEdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Clemenz (Visca Demiga)"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2018-07-07T03:29:31.053Z",
+    "updateTime": "2018-07-07T03:29:40.858Z",
+    "reviewReply": {
+      "comment": "Gracias Cristian!!!!",
+      "updateTime": "2018-07-07T12:07:44.236156Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBdl8yMk5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "agustin dellasanta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-06-29T16:31:45.574Z",
+    "updateTime": "2018-06-29T16:31:45.574Z",
+    "reviewReply": {
+      "comment": "Gracias Agustín!!!",
+      "updateTime": "2018-06-29T18:55:47.253422Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3bjlxV0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier González Oddi"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-06-24T12:18:13.793Z",
+    "updateTime": "2018-06-24T12:18:13.793Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSUNROU1pck9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "diego zurbriggen"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar\n\n(Translated by Google)\nGood place",
+    "createTime": "2018-06-21T18:57:49.940Z",
+    "updateTime": "2018-06-21T18:57:56.464Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURnMjl2TER3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Mendoza"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena su atención.\n\n(Translated by Google)\nTheir service was excellent.",
+    "createTime": "2018-06-20T15:08:48.152Z",
+    "updateTime": "2018-06-20T15:09:00.976Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Claudio!!",
+      "updateTime": "2018-06-20T15:22:53.684606Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBNXNUQktnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Morales"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-06-19T00:37:00.231Z",
+    "updateTime": "2018-06-19T00:37:00.231Z",
+    "reviewReply": {
+      "comment": "Gracias por las estrellas Hugo. Esperamos aumentar la cantidad. Saludos",
+      "updateTime": "2018-06-19T00:49:17.932417Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSURnM19YbzV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romero Luis Alberto"
+    },
+    "starRating": "THREE",
+    "comment": "SOY CLIENTE..LA ATENCION ES INMEJORABLE..Y TAMBIEN APARTE DEL COMBUSTIBLE..TIENE UN SERVICIO DE CAFETERIA..Y COMIDA RAPIDA..TODO EXTREMADAMENTE. LIMPIO Y ORDENADO..PUEDE ESTACIONAR AQUI..MIENTRAS TOMA UN CAFE O DESAYUNO..MUY BUENO..LO RECOMIENDO..\n\n(Translated by Google)\nI\u0027M A CUSTOMER. THE SERVICE IS UNBEATABLE. AND ALSO, APART FROM THE FUEL, THEY HAVE A CAFETERIA AND FAST FOOD SERVICE. EVERYTHING IS EXTREMELY CLEAN AND ORDERLY. YOU CAN PARK HERE WHILE HAVING A COFFEE OR BREAKFAST. VERY GOOD. I RECOMMEND IT.",
+    "createTime": "2018-06-10T18:24:41.033Z",
+    "updateTime": "2018-06-10T18:30:23.817Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Luis.",
+      "updateTime": "2018-06-10T18:42:16.850507Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBX3MyWkhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel de la Rosa"
+    },
+    "starRating": "THREE",
+    "comment": "Mucha paciencia para atender...\n\n(Translated by Google)\nA lot of patience is needed to serve...",
+    "createTime": "2018-05-22T13:29:44.139Z",
+    "updateTime": "2018-06-06T13:04:33.264Z",
+    "reviewReply": {
+      "comment": "Gracias Daniel. Esperamos alcanzar el maximo de estrellas. Saludos",
+      "updateTime": "2018-05-23T21:48:47.419146Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnaE1UUy1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Zurbriggen"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-06-03T09:22:34.532Z",
+    "updateTime": "2018-06-03T09:22:34.532Z",
+    "reviewReply": {
+      "comment": "Gracias Diego!",
+      "updateTime": "2018-06-03T13:28:18.050804Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURRNnZlZ1F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Muiño"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-05-28T15:14:03.017Z",
+    "updateTime": "2018-05-28T15:14:03.017Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Miguel.",
+      "updateTime": "2018-05-28T15:31:22.463928Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSURnbTdmTnV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Seira"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy limpio el lugar. Le falta calidad al café. En realidad a cuando lo hacen. Las veces que fui siempre está quemado .\n\n(Translated by Google)\nThe place is very clean. The coffee lacks quality. Actually, it\u0027s always burnt coffee that I\u0027ve been there.",
+    "createTime": "2018-05-23T21:17:49.668Z",
+    "updateTime": "2018-05-23T21:19:08.795Z",
+    "reviewReply": {
+      "comment": "Gracias por comentar. Trabajaremos en la preparación para mejorar la calidad.  Saludos",
+      "updateTime": "2018-05-23T21:30:43.447429Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBXzlmMV9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Abrego"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2018-05-22T11:13:57.713Z",
+    "updateTime": "2018-05-22T11:14:21.529Z",
+    "reviewReply": {
+      "comment": "Gracias Ariel Marcelino. Saludos.",
+      "updateTime": "2018-05-23T21:49:11.315653Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSURnbXJ1ajJBRRAB"
+  }]
+}

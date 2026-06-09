@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ester Bazan"
+    },
+    "starRating": "FIVE",
+    "comment": "Normal",
+    "createTime": "2022-03-13T17:25:35.380070Z",
+    "updateTime": "2022-03-13T17:25:35.380070Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSURXeUpqY29BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciana Congiusta"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-13T03:27:28.004885Z",
+    "updateTime": "2022-03-13T03:27:28.004885Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSURXc1A2UGhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Moragues"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención en la playa. Baños complicados . Mucha gente cargando\n\n(Translated by Google)\nGood service on the beach. Bathrooms are difficult. Lots of people carrying things.",
+    "createTime": "2022-03-13T01:58:46.082094Z",
+    "updateTime": "2022-03-13T01:58:46.082094Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSURXc05LNjZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-12T23:06:55.275281Z",
+    "updateTime": "2022-03-12T23:06:55.275281Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMFB2aGdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Barrios"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-12T18:15:05.324775Z",
+    "updateTime": "2022-03-12T18:15:05.324775Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSURXa0tfNl93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Peralta"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-03-12T16:46:14.323591Z",
+    "updateTime": "2022-03-12T16:46:14.323591Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSURXa0tYVk1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Hector"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-11T22:42:23.634293Z",
+    "updateTime": "2022-03-11T22:42:23.634293Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd0puV3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Sayar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-11T22:02:39.134192Z",
+    "updateTime": "2022-03-11T22:02:39.134192Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd0w2Zm1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Oyarzun"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-10T19:38:10.112774Z",
+    "updateTime": "2022-03-10T19:38:10.112774Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXbjZ2QVRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Zulma Mendoza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-10T15:46:11.527249Z",
+    "updateTime": "2022-03-10T15:46:11.527249Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNy1fNTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Ferreyra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-10T03:01:56.115082Z",
+    "updateTime": "2022-03-10T03:01:56.115082Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXejZXSXVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Eduardo Elias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-09T14:26:59.778993Z",
+    "updateTime": "2022-03-09T14:26:59.778993Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXOV95S3VBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elisa Acevedo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-08T16:18:52.969054Z",
+    "updateTime": "2022-03-08T16:18:52.969054Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNTdDNXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Cano"
+    },
+    "starRating": "FIVE",
+    "comment": "Me agradó, buena atención.\n\n(Translated by Google)\nI liked it, good service.",
+    "createTime": "2022-03-08T14:11:38.197944Z",
+    "updateTime": "2022-03-08T14:11:38.197944Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXcDY2Yml3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabiana Berisso"
+    },
+    "starRating": "FIVE",
+    "comment": "Perfecto todo\n\n(Translated by Google)\nEverything was perfect.",
+    "createTime": "2022-03-08T11:53:00.579209Z",
+    "updateTime": "2022-03-08T11:53:00.579209Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXeF9HNGNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Paruccia"
+    },
+    "starRating": "FOUR",
+    "comment": "No hice uso de los servicios\n\n(Translated by Google)\nI did not use the services",
+    "createTime": "2022-03-08T02:17:17.538996Z",
+    "updateTime": "2022-03-08T02:17:17.538996Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXLThQcjhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel K"
+    },
+    "starRating": "ONE",
+    "comment": "Muy mala atencion. Los empleados desganados todos.\nNo se puede pagar con previaje.\n\n(Translated by Google)\nVery poor service. All the employees were unmotivated. Payment with a prepaid travel pass is not accepted.",
+    "createTime": "2022-03-07T20:45:15.215393Z",
+    "updateTime": "2022-03-07T20:45:15.215393Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXdTVlTHpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Trebol rojo matafuegos"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-03-07T17:05:22.354222Z",
+    "updateTime": "2022-03-07T17:05:22.354222Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXdTdEU2pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Adrian Landriel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-06T12:33:47.524944Z",
+    "updateTime": "2022-03-06T12:33:47.524944Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXODZYSWRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raúl Díaz Campo"
+    },
+    "starRating": "FIVE",
+    "comment": "Amables\n\n(Translated by Google)\nKind",
+    "createTime": "2022-03-06T03:54:58.857431Z",
+    "updateTime": "2022-03-06T03:56:13.646761Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXMDZmR09nEAE"
+  }]
+}

@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Gabriela Botas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-21T10:27:39.484701Z",
+    "updateTime": "2022-02-21T10:27:39.484701Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXX05PbmlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Loreley Carp"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-21T10:23:00.923873Z",
+    "updateTime": "2022-02-21T10:23:00.923873Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXX0pPWTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Beck"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-21T04:33:47.506343Z",
+    "updateTime": "2022-02-21T04:33:47.506343Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXdkt2NXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Pache"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2022-02-21T02:05:30.325518Z",
+    "updateTime": "2022-02-21T02:05:30.325518Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXdlA2eUFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "MARCELO SAIED"
+    },
+    "starRating": "THREE",
+    "comment": "banos publicos . aire gratis\n\n(Translated by Google)\nPublic restrooms. Free air",
+    "createTime": "2022-02-20T14:33:36.147095Z",
+    "updateTime": "2022-02-20T14:35:25.420648Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXbk1xRWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "matiasjose cordero"
+    },
+    "starRating": "THREE",
+    "comment": "Maso y fuimos de noche no estaba abierto el Kiosko\n\n(Translated by Google)\nWe went at night and the kiosk wasn\u0027t open",
+    "createTime": "2022-02-20T13:13:12.600568Z",
+    "updateTime": "2022-02-20T13:13:12.600568Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXbk5EUmdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Circe Lucia"
+    },
+    "starRating": "FOUR",
+    "comment": "Gigante patio de comida\n\n(Translated by Google)\nGiant food court",
+    "createTime": "2022-02-20T04:29:12.921491Z",
+    "updateTime": "2022-02-20T05:01:02.244644Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXcktXZ2x3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Jara"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-20T04:13:58.737370Z",
+    "updateTime": "2022-02-20T04:13:58.737370Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXck5tdDNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Maria giaconia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-02-20T02:11:40.495089Z",
+    "updateTime": "2022-02-20T02:11:40.495089Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXck1yZnh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Carraaco"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo parador cuando vas para el lado de la costa\n\n(Translated by Google)\nNice inn when you go to the coast",
+    "createTime": "2022-02-20T02:01:22.014429Z",
+    "updateTime": "2022-02-20T02:01:22.014429Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXckxMMzVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nits05"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-19T15:40:20.747473Z",
+    "updateTime": "2022-02-19T15:40:20.747473Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXak5xSFJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gregorio Jorge Kozuchar"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-02-19T10:33:31.361854Z",
+    "updateTime": "2022-02-19T10:33:50.153290Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXOUtxeXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aemilio Delrio"
+    },
+    "starRating": "FOUR",
+    "comment": "LUGAR ADECUADO PARA UNA DETENCIÓN DE RELAX EN UN VIAJE LARGO!!!!\n\n(Translated by Google)\nPERFECT PLACE FOR A RELAXING STOP ON A LONG TRIP!!!!",
+    "createTime": "2022-02-19T00:49:01.741331Z",
+    "updateTime": "2022-02-19T00:49:01.741331Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXMUlmWUxBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "alberto azpiazu"
+    },
+    "starRating": "THREE",
+    "comment": "Esmerada atención del personal de cafetería, podrían mejorar el lugar.\nBaños en mal estado, cestos desbordados de papeles y falta del mismo en los dispenser\n\n(Translated by Google)\nThe cafeteria staff provided excellent service, but the place could be improved.\nThe restrooms were in poor condition, the wastebaskets were overflowing with paper, and the dispensers were empty.",
+    "createTime": "2022-02-18T23:00:43.559127Z",
+    "updateTime": "2022-02-18T23:00:43.559127Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXMU55c3R3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "FERNANDO ANDRES RODRIGUEZ Y ESPINA"
+    },
+    "starRating": "FOUR",
+    "comment": "Un poco dejada la estación sobre todo la éntrada por ser del ACA\n\n(Translated by Google)\nThe station is a bit neglected, especially the entrance, since it belongs to the ACA (Automobile Club of Argentina).",
+    "createTime": "2022-02-18T22:12:21.995115Z",
+    "updateTime": "2022-02-18T22:12:21.995115Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXbE0zQnRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silviayjose Lindemann"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo el lugar, muy buena la atencion\n\n(Translated by Google)\nVery nice place, very good service",
+    "createTime": "2022-02-13T12:27:21.226173Z",
+    "updateTime": "2022-02-18T13:32:07.791281Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURtNzlhQzNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Bruno"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y baños en excelente estado\n\n(Translated by Google)\nGood service and bathrooms in excellent condition",
+    "createTime": "2022-02-18T02:27:52.926102Z",
+    "updateTime": "2022-02-18T02:27:52.926102Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXaExtZGpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Romero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-17T18:01:14.794029Z",
+    "updateTime": "2022-02-17T18:01:14.794029Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXLU5DXzZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dani B"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención al cliente\n\n(Translated by Google)\nExcellent customer service",
+    "createTime": "2022-02-17T16:38:59.072466Z",
+    "updateTime": "2022-02-17T16:38:59.072466Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXdUlPT3p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Flavius Janis"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención. Parada obligatoria.\n\n(Translated by Google)\nExcellent service. A must-stop.",
+    "createTime": "2022-02-17T15:42:41.098584Z",
+    "updateTime": "2022-02-17T15:42:41.098584Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXdU5HV1d3EAE"
+  }]
+}

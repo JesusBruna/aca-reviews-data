@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan José Robledo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-08-01T20:54:12.998084Z",
+    "updateTime": "2020-08-01T20:54:12.998084Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4NThmNTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Eduardo Fernandez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención...la dificultad que tiene que veces es que se llena de clientes y obstruye el tránsito\n\n(Translated by Google)\nGood service...the problem is that sometimes it gets crowded with customers and obstructs traffic",
+    "createTime": "2020-07-30T21:38:50.663547Z",
+    "updateTime": "2020-07-30T21:39:16.572634Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4bTktc2JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ramiro Delgado"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo lugar\n\n(Translated by Google)\nVery nice place",
+    "createTime": "2020-07-29T17:21:22.975267Z",
+    "updateTime": "2020-07-29T17:21:22.975267Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4eTU2SmZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mel Tonello"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-26T12:36:36.007767Z",
+    "updateTime": "2020-07-26T12:36:36.007767Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4M2RIQ0tREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Chocobares"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención y muy buen trato!!\n\n(Translated by Google)\nExcellent service and very good treatment!!",
+    "createTime": "2020-07-26T00:24:00.160192Z",
+    "updateTime": "2020-07-26T00:24:11.812365Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4bmRMUlN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Halabi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-25T00:53:02.139419Z",
+    "updateTime": "2020-07-25T00:53:02.139419Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4emRiWkVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Feliú"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-24T22:12:04.728312Z",
+    "updateTime": "2020-07-24T22:12:04.728312Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4emJUOTFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "DANIEL PASTOR"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-24T00:08:28.979124Z",
+    "updateTime": "2020-07-24T00:08:28.979124Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4dFphQ2lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Almaza"
+    },
+    "starRating": "FIVE",
+    "comment": "Es una estación de servicio con todo lo que una estación debe tener\n\n(Translated by Google)\nIt\u0027s a service station with everything a station should have.",
+    "createTime": "2020-07-21T13:07:34.969962Z",
+    "updateTime": "2020-07-21T13:07:34.969962Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4dVpDWjR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gustavo Alvarez Anderson"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-07-20T02:44:59.544237Z",
+    "updateTime": "2020-07-20T02:44:59.544237Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4cWRDWDBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Espinosa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-19T17:45:13.294307Z",
+    "updateTime": "2020-07-19T17:45:13.294307Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4eWRqLXFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "silvina galli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-18T01:31:14.921210Z",
+    "updateTime": "2020-07-18T01:31:14.921210Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4OUpHa1hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Rovaretti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-15T22:48:19.649740Z",
+    "updateTime": "2020-07-15T22:48:19.649740Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4bTdQVkZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián J Indovino"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables los playeros te solucionan cualquier inconveniente que tengas\n\n(Translated by Google)\nThe beach attendants are very friendly and will help you with any problems you may have.",
+    "createTime": "2020-07-14T19:58:59.923368Z",
+    "updateTime": "2020-07-14T19:59:00.573341Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4eTdISW1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "HEBE ROID"
+    },
+    "starRating": "FIVE",
+    "comment": "Cuando salía del aster, éste era EL lugar\n\n(Translated by Google)\nWhen I left the Aster, this was THE place",
+    "createTime": "2020-07-13T18:30:19.926603Z",
+    "updateTime": "2020-07-13T18:30:25.664305Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4czY3RGJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo costa"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-07-11T16:12:10.583703Z",
+    "updateTime": "2020-07-11T16:12:10.583703Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4N2NPM01REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cintia Farias"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-09T21:10:37.378330Z",
+    "updateTime": "2020-07-09T21:10:37.378330Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4aWZIOXJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yessica Angulo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-06-27T20:57:00.429276Z",
+    "updateTime": "2020-07-05T21:43:19.148979Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChRDSUhNMG9nS0VJQ0FnSUM4Z3FwVBAB"
+  }, {
+    "reviewer": {
+      "displayName": "ALEEX BASTY"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-02T21:45:02.659212Z",
+    "updateTime": "2020-07-02T21:45:02.659212Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4bXRtNXhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Augusto"
+    },
+    "starRating": "FOUR",
+    "comment": "Le faltaria un lugar para estacionar para clientes del shop\n\n(Translated by Google)\nIt would need a parking area for shop customers",
+    "createTime": "2020-07-02T17:34:51.778514Z",
+    "updateTime": "2020-07-02T17:34:51.778514Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4bXVpRGVREAE"
+  }]
+}

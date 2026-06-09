@@ -1,0 +1,255 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Natty Sol"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-05-11T09:20:48.319632Z",
+    "updateTime": "2022-05-11T09:20:48.319632Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificacion esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:13:45.200717Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaXFDcjhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Gonzalez"
+    },
+    "starRating": "FOUR",
+    "comment": "Bueno\n\n(Translated by Google)\nWell",
+    "createTime": "2022-05-11T02:20:48.177286Z",
+    "updateTime": "2022-05-11T02:20:48.177286Z",
+    "reviewReply": {
+      "comment": "buen dia gracias por su opinion",
+      "updateTime": "2022-05-11T15:07:46.972280Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyc3FmSFJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leo Jaconis"
+    },
+    "starRating": "FOUR",
+    "comment": "Lugar muy completo, combustible, restaurante y hotel, todo con muy buena atención\n\n(Translated by Google)\nVery complete place, fuel, restaurant and hotel, all with very good service",
+    "createTime": "2022-05-10T10:14:08.046679Z",
+    "updateTime": "2022-05-10T10:14:08.046679Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario nos es util para seguir mejorando",
+      "updateTime": "2022-05-11T22:19:04.409628Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyNHVxUkR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Flavia Yanet Muñoz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-10T02:02:13.941932Z",
+    "updateTime": "2022-05-10T02:02:13.941932Z",
+    "reviewReply": {
+      "comment": "gracias por su calificacion",
+      "updateTime": "2022-05-11T15:09:14.967656Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyd3VPb1RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Ghiotti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-09T14:04:53.106178Z",
+    "updateTime": "2022-05-09T14:04:53.106178Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificacion",
+      "updateTime": "2022-05-11T15:09:30.547869Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyX0xLTjh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Amelia Rosa Libasci"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-08T22:18:26.351668Z",
+    "updateTime": "2022-05-08T22:18:26.351668Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificacion esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:13:17.186092Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybk83b1VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "alejandra biasone"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena lastima que la policía me saco laa uvas que llevaba\n\n(Translated by Google)\nIt\u0027s a shame the police took the grapes I was carrying.",
+    "createTime": "2022-05-08T12:54:59.812582Z",
+    "updateTime": "2022-05-08T12:54:59.812582Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita, lamentamos el problemas de las Uvas pero es por una restricción de SENASA",
+      "updateTime": "2022-05-11T15:14:29.975102Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyckpxaTRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Huber Rodolfo Arese"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, buenos baños, cafetería excelente\n\n(Translated by Google)\nVery good service, nice restrooms, excellent cafeteria",
+    "createTime": "2022-05-07T21:29:40.598252Z",
+    "updateTime": "2022-05-07T21:29:40.598252Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:14:43.663213Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOVAzZEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "German Hoffmann"
+    },
+    "starRating": "THREE",
+    "comment": "Siempre los baños de las estaciones de Servicio con olor a meo... Al menos la nafta tiene olor a nafta\n\n(Translated by Google)\nGas station bathrooms always smell like pee... At least gasoline smells like gasoline.",
+    "createTime": "2022-05-07T17:22:06.795396Z",
+    "updateTime": "2022-05-07T17:22:11.927562Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario solucionaremos este inconveniente a fin de que su próxima visita sea una experiencia grata",
+      "updateTime": "2022-05-11T15:16:01.162120Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQydEsyTE1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "MATIAS PABLO"
+    },
+    "starRating": "FOUR",
+    "comment": "Está genial .parar y descansar un toke .las fotos muestran lo lindo de la ubicación\n\n(Translated by Google)\nIt\u0027s great to stop and rest for a bit. The photos show how beautiful the location is.",
+    "createTime": "2022-05-05T14:13:32.626149Z",
+    "updateTime": "2022-05-05T14:14:14.993671Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:17:44.215250Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQybUxLZ3RnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "bernardo ivan diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, buena comida..\n\n(Translated by Google)\nExcellent service, good food.",
+    "createTime": "2022-05-02T23:54:57.333045Z",
+    "updateTime": "2022-05-02T23:54:57.333045Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificacion esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:17:51.862982Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyZ0pqSUZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "David Pablo Sanchez Dumas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-02T18:01:37.293368Z",
+    "updateTime": "2022-05-02T18:01:37.293368Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:18:09.480294Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyXzlDRWF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cm Amoblamientos"
+    },
+    "starRating": "ONE",
+    "comment": "Un robo los precios, la atención de quinta. Se abusan xq esta al medio de un viaje largo. Uno para a descansar un rato, y te asaltan con los precios\n\n(Translated by Google)\nThe prices are a rip-off, and the service is terrible. They take advantage of the fact that it\u0027s in the middle of a long trip. You stop to rest for a bit, and they rob you with the prices.",
+    "createTime": "2022-05-02T15:40:54.228617Z",
+    "updateTime": "2022-05-02T15:40:54.228617Z",
+    "reviewReply": {
+      "comment": "Buen dia los Precios son estipulados por YPF, estamos abiertos a  escuchar su opinión y trabajar para que su próxima visita sea mucho mejor gracias",
+      "updateTime": "2022-05-11T15:21:49.566720Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMydjc3MENREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Erica Quiroga"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-05-02T02:38:11.670307Z",
+    "updateTime": "2022-05-02T02:38:11.670307Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:21:58.274978Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyNzV1UEdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Marcat"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención Muy limpio todo  excelente\n\n(Translated by Google)\nExcellent service. Very clean, everything was excellent.",
+    "createTime": "2022-05-02T02:21:12.513696Z",
+    "updateTime": "2022-05-02T02:21:12.513696Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:22:05.802740Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyNzR1bzhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Torres"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-04-30T22:05:36.083931Z",
+    "updateTime": "2022-04-30T22:05:36.083931Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:22:15.521811Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyOTZTNnZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Bariffo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-04-30T15:18:09.645925Z",
+    "updateTime": "2022-04-30T15:18:09.645925Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:22:55.323717Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyMTh1X0hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Miori"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-04-28T01:47:36.302599Z",
+    "updateTime": "2022-04-28T01:47:36.302599Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación esperamos una pronta visita",
+      "updateTime": "2022-05-11T15:23:10.435765Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyaThhOFNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Sanchez"
+    },
+    "starRating": "ONE",
+    "comment": "Tardan en atender, nunca contestan el telefono, el restaurant es un afano aunque seas socio del ACA y el desayuno que te dan si te quedas en el motel es una verguenza.\n\n(Translated by Google)\nThey take a long time to answer your call, they never answer the phone, the restaurant is a rip-off even if you\u0027re an ACA member, and the breakfast they give you if you stay at the motel is a disgrace.",
+    "createTime": "2022-04-26T17:06:25.017907Z",
+    "updateTime": "2022-04-26T17:06:25.017907Z",
+    "reviewReply": {
+      "comment": "Buen dia lamentamos que su estadía en nuestro local y hotel no sea de su agrado como otras experiencias que Ud. tiene en su reseñas, es una lastima que no se haya acercado de forma presencial y poder solucionar en conjunto estas dificultades, dado que estamos en las oficinas permamentementes, estoy a su disposición para lo que se de su utilidad",
+      "updateTime": "2022-05-11T22:20:06.181860Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyemYzaExnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Paradizo"
+    },
+    "starRating": "ONE",
+    "comment": "Viajamos al sur y tanto de ida como se vuelta no tenían café y capaz que todavía no tengan ya que la vuelta fue 7 días después. Pero no fue la única en todo el viaje en ninguna estación de neuquen hasta la angostura conseguimos tomar café ☕️ 🤷\n\n(Translated by Google)\nWe traveled south and neither the outbound nor return trips had coffee, and they probably still don\u0027t, since the return trip was 7 days later. But it wasn\u0027t the only time; we couldn\u0027t find coffee at any station from Neuquén to La Angostura ☕️ 🤷",
+    "createTime": "2022-04-26T11:43:08.423672Z",
+    "updateTime": "2022-04-26T11:43:08.423672Z",
+    "reviewReply": {
+      "comment": "Buen dia si tuvimos unos días si maquina de cafe dado a una rotura pero ya esta solucionado espero que en su próxima visita podamos brindarle el servicio acorde",
+      "updateTime": "2022-05-11T16:19:48.478284Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyamVheG13RRAB"
+  }]
+}

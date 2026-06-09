@@ -1,0 +1,193 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Lucas Vega"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-08-06T12:54:41.038466Z",
+    "updateTime": "2023-08-06T12:54:41.038466Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNlktUEVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "roque Castillo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-06T11:06:11.783691Z",
+    "updateTime": "2023-08-06T11:06:11.783691Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNmZMb0RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabio Ciocci"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-08-04T02:42:10.068171Z",
+    "updateTime": "2023-08-04T02:42:10.068171Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwcnFXNE53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Iñiguez"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-08-02T19:53:46.586567Z",
+    "updateTime": "2023-08-02T19:53:46.586567Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwcHZicmdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Cabrera"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buen lugar para volver\n\n(Translated by Google)\nvery good place to return",
+    "createTime": "2023-08-02T01:48:40.487606Z",
+    "updateTime": "2023-08-02T01:48:40.487606Z",
+    "reviewReply": {
+      "comment": "Gracias Jose por elegirnos!!",
+      "updateTime": "2023-08-02T03:15:58.423864Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwMnNTVVFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Specterman"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-01T00:48:12.706688Z",
+    "updateTime": "2023-08-01T00:48:12.706688Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwMHMtU1Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Ángel Gerardi"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-07-30T18:37:01.681408Z",
+    "updateTime": "2023-07-30T18:37:01.681408Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwM05QRVlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maxi Morena"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-30T16:35:09.433416Z",
+    "updateTime": "2023-07-30T16:35:09.433416Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwM09TR2J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Cañette"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena estación de servicio. Igual que todas\n\n(Translated by Google)\nVery good gas station. Just like all the others.",
+    "createTime": "2023-07-28T12:58:59.914631Z",
+    "updateTime": "2023-07-28T12:58:59.914631Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwLUtDTTV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Ovejero"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy amables\n\n(Translated by Google)\nVery kind",
+    "createTime": "2023-07-28T01:30:45.621108Z",
+    "updateTime": "2023-07-28T01:30:45.621108Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNlBfUlZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Torres"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-07-21T01:28:58.696153Z",
+    "updateTime": "2023-07-21T01:28:58.696153Z",
+    "reviewReply": {
+      "comment": "Gracias por elegirnos!!",
+      "updateTime": "2023-07-21T03:07:34.655115Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSURKNWVHWDhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Goitea"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-20T04:00:48.984242Z",
+    "updateTime": "2023-07-20T04:00:48.984242Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSURKMlpIT3h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "YOLANDA VILLALBA"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar a pasos de la plaza libertad. En una esquina característica Belgrano y calle saenz peña. El automovil club una trayectoria de muchos años en santiago del estero. Lleguense a disfrutar de un desayuno o merienda. Mes de cumple de la provincia mas antigua de la República Argentina con 470 años desde su fundación\n\n(Translated by Google)\nA great spot just steps from Plaza Libertad. On the corner of Belgrano and Saenz Peña streets. The Automobile Club has a long history in Santiago del Estero. Come and enjoy breakfast or afternoon tea. This month marks the anniversary of the oldest province in Argentina, celebrating 470 years since its founding.",
+    "createTime": "2023-07-18T18:39:18.012226Z",
+    "updateTime": "2023-07-18T18:39:18.012226Z",
+    "reviewReply": {
+      "comment": "Gracias Yolanda por tu recomendación!!!",
+      "updateTime": "2023-09-18T03:38:17.485789Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSURKa2I3RXB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Ezequiel Garcia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-18T14:46:34.023847Z",
+    "updateTime": "2023-07-18T14:46:34.023847Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURKNGREcEN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nem3sis 3D"
+    },
+    "starRating": "FIVE",
+    "comment": "siempre amables y serviciales, y lo mejor de todo es q se pueden calibrar tus cubiertas\n\n(Translated by Google)\nAlways friendly and helpful, and best of all, you can calibrate your tires.",
+    "createTime": "2023-07-14T09:54:24.600400Z",
+    "updateTime": "2023-07-14T09:54:24.600400Z",
+    "reviewReply": {
+      "comment": "Gracias por compartir tu experiencia!!",
+      "updateTime": "2023-11-07T14:01:01.803666Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURKOHBEUkR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cabañas TEYOS"
+    },
+    "starRating": "FIVE",
+    "comment": "Personal de playa eficaces y serviciales, prácticamente no hay espera para recibir el servicio. Solamente usamos el servicio de carga de combustibles.\n\n(Translated by Google)\nEfficient and helpful beach staff; there\u0027s virtually no wait for service. We only used the fuel service.",
+    "createTime": "2023-07-10T11:56:46.904086Z",
+    "updateTime": "2023-07-10T11:56:46.904086Z",
+    "reviewReply": {
+      "comment": "Gracias por elegirnos!!",
+      "updateTime": "2023-07-11T04:39:03.944958Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSURKMk9pSDdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Diego"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención de los playeros\n\n(Translated by Google)\nVery good attention from the beach attendants",
+    "createTime": "2023-07-08T23:53:34.616316Z",
+    "updateTime": "2023-07-08T23:53:34.616316Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSURKNE42bzVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Ayuch (Clau)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-07T10:30:26.026228Z",
+    "updateTime": "2023-07-07T10:30:26.026228Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKajdXLTVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Garcia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-05T13:35:59.599206Z",
+    "updateTime": "2023-07-05T13:35:59.599206Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKbTRYRmtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ilda Villalba"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-03T02:17:56.006726Z",
+    "updateTime": "2023-07-03T02:17:56.006726Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKbmRiMWtnRRAB"
+  }]
+}

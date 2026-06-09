@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Maria Josefina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-06-16T11:01:37.516245Z",
+    "updateTime": "2024-06-16T11:01:37.516245Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMN0tQbG1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Bonutto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-06-15T13:00:42.026183Z",
+    "updateTime": "2024-06-15T13:00:42.026183Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMNU1YRWRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Abba"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-06-14T15:30:42.513223Z",
+    "updateTime": "2024-06-14T15:30:42.513223Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMNklMRE9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel San Miguel"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo excelente,muy buena atención, muy bien cuidado los sanitarios,el personal muy amable, excelente ubicación, ideal para los viajeros. El Full muy completo. YPF lo más\n\n(Translated by Google)\nEverything was excellent, very good service, the restrooms were very well maintained, the staff was very friendly, and the location was excellent, ideal for travelers. The full package was very complete. YPF is the best.",
+    "createTime": "2024-06-14T02:35:10.461449Z",
+    "updateTime": "2024-06-14T02:35:10.461449Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario. Lo esperamos nuevamente!",
+      "updateTime": "2024-06-19T14:25:27.707195Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMNE9LWTJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Salas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-06-11T10:02:44.888230Z",
+    "updateTime": "2024-06-11T10:02:44.888230Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6dGFQdnZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Andrada"
+    },
+    "starRating": "FIVE",
+    "comment": "Falta GNC y estaría  súper\n\n(Translated by Google)\nIt\u0027s missing CNG and that would be great.",
+    "createTime": "2024-06-06T18:39:50.398946Z",
+    "updateTime": "2024-06-06T18:41:03.035860Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6d0pTV25nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Georgina Avaro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-06-04T01:33:14.335063Z",
+    "updateTime": "2024-06-04T01:33:14.335063Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6elp5elRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Coletta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-06-03T23:48:20.452626Z",
+    "updateTime": "2024-06-03T23:48:20.452626Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6amRLQndRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo D. Avalos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-28T16:23:50.858021Z",
+    "updateTime": "2024-05-28T16:23:50.858021Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURULThlUEpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucía Hilal"
+    },
+    "starRating": "FIVE",
+    "comment": "Una estación de servicios a mitad de camino Sgo- Córdoba. Bien organizado, baños limpios, se puede consumir en el bar, o bien para llevar. Buena atención\n\n(Translated by Google)\nA service station halfway between Santiago and Córdoba. Well-organized, clean restrooms, you can eat in the bar or get takeaway. Good service.",
+    "createTime": "2024-05-27T15:37:08.647782Z",
+    "updateTime": "2024-05-27T15:37:08.647782Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURUMDlPQ2N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel R. Ferreiro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-05-23T03:00:20.059255Z",
+    "updateTime": "2024-05-23T03:00:20.059255Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURUaktycUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "《Ana》 《Sayago 》"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-20T23:25:28.549467Z",
+    "updateTime": "2024-05-20T23:25:28.549467Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUdjVyZFRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hemy Rom"
+    },
+    "starRating": "ONE",
+    "comment": "En otra ocasión y lo vuelvo a reiterar malisima la atención!\n\n(Translated by Google)\nOn another occasion, and I repeat, the service was terrible!",
+    "createTime": "2024-05-19T12:15:28.008560Z",
+    "updateTime": "2024-05-19T12:18:48.167552Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUbV9uVjRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Angel José Valdecantos García"
+    },
+    "starRating": "FIVE",
+    "comment": "Que hermoso l lugar. La Full no recibe app YPF Serviclub\n\n(Translated by Google)\nWhat a beautiful place. The Full doesn\u0027t accept the YPF Serviclub app.",
+    "createTime": "2024-05-16T23:20:20.252547Z",
+    "updateTime": "2024-05-16T23:20:20.252547Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUaGZTd0xREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Josefa Corvalan"
+    },
+    "starRating": "TWO",
+    "comment": "Siempre hay que esperar para cargar nafta  son muy lentos y los baños estaban muy sucios no había ni papel ni jabón es la primera vez que están así\n\n(Translated by Google)\nYou always have to wait to get gas, they\u0027re very slow, and the bathrooms were very dirty; there was neither toilet paper nor soap. It\u0027s the first time they\u0027ve been like this.",
+    "createTime": "2023-08-15T17:52:36.888845Z",
+    "updateTime": "2024-05-16T01:09:34.733584Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURwMklIMGJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "javier maldonado"
+    },
+    "starRating": "FOUR",
+    "comment": "la mejor atención como siempre\n\n(Translated by Google)\nThe best service as always",
+    "createTime": "2024-05-15T18:55:55.378793Z",
+    "updateTime": "2024-05-15T18:55:55.378793Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUNGJYc1RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Arce"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre que viajo a Córdoba y cuando estoy de regreso paro a comer  unos de los mejores sandwiches de milanesas.\nSi hace falta cargo combustible.  Baños limpios, amplios. Buen lugar para un descanso cuando se está de viaje por esas rutas.\n\n(Translated by Google)\nWhenever I travel to Córdoba and on my way back, I stop to eat one of the best milanesa sandwiches. I also fill up with gas if needed. The restrooms are clean and spacious. It\u0027s a good place to rest while traveling on those roads.",
+    "createTime": "2024-05-15T13:56:04.105493Z",
+    "updateTime": "2024-05-15T13:56:04.105493Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUd1pDS0dBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Vaschetto"
+    },
+    "starRating": "THREE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-05-12T01:56:26.320997Z",
+    "updateTime": "2024-05-12T01:56:26.320997Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUN0tQMkxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "ruth diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar para pasar a desayunar , almorzar, merendar , cenar....\nLos empleados son muy agradables y atentos...\nLos dormís un lujo excelente lugar un 10 👌🏻\n\n(Translated by Google)\nExcellent place to stop for breakfast, lunch, afternoon tea, dinner... The staff are very friendly and attentive... The bedrooms are luxurious, an excellent place, a 10/10 👌🏻",
+    "createTime": "2024-05-11T23:17:14.716147Z",
+    "updateTime": "2024-05-11T23:17:14.716147Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUck9QWHdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Francisco Varvasino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-05-09T18:36:47.871441Z",
+    "updateTime": "2024-05-09T18:36:47.871441Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUb05iMC1nRRAB"
+  }]
+}

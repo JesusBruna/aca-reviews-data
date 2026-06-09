@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Javier Getar"
+    },
+    "starRating": "THREE",
+    "createTime": "2025-02-03T12:07:25.828199Z",
+    "updateTime": "2025-02-03T12:07:25.828199Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBM2VPLWl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Arqueros"
+    },
+    "starRating": "FIVE",
+    "comment": "Mi estación de servicio preferida. Buena atención!!\n\n(Translated by Google)\nMy favorite gas station. Great service!",
+    "createTime": "2018-11-23T11:31:12.082048Z",
+    "updateTime": "2025-02-03T03:30:40.179836Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJcVlDeFlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "charlie Byrne"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-01-30T23:53:33.824261Z",
+    "updateTime": "2025-01-30T23:53:33.824261Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChRDSUhNMG9nS0VJQ0FnTUNBcXA4ahAB"
+  }, {
+    "reviewer": {
+      "displayName": "SILVANA ELIZABETH BARRERA (Silvana)"
+    },
+    "starRating": "FIVE",
+    "comment": "El personal es muy eficiente y amable\n\n(Translated by Google)\nThe staff is very efficient and friendly.",
+    "createTime": "2025-01-30T20:11:21.559913Z",
+    "updateTime": "2025-01-30T20:11:21.559913Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBaXB2bXlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gricelda olivera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-28T22:04:26.275558Z",
+    "updateTime": "2025-01-28T22:04:26.275558Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBNEx1Rk5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Zamer"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-16T13:05:42.236298Z",
+    "updateTime": "2025-01-16T13:05:42.236298Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfM282NXJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mar Jara"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-01-15T22:38:54.968413Z",
+    "updateTime": "2025-01-15T22:38:54.968413Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfbHV1SWl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Muñoz"
+    },
+    "starRating": "ONE",
+    "comment": "Mala atención...te hacen esperar demasiado y los playeros piensan que tenemos todo el tiempo del mundo cuando en otras estaciones de servicio son mucho más rápido y eficiente... atienden uno a la ves y dejan que se forme una fila de autos larguísima...por favor hagan algo o cambien de empleados ...\n\n(Translated by Google)\nTerrible service...they make you wait way too long and the attendants think we have all the time in the world, when other gas stations are much faster and more efficient...they serve one customer at a time and let a huge line of cars form...please do something or change your staff...",
+    "createTime": "2025-01-14T11:37:39.420061Z",
+    "updateTime": "2025-01-14T11:37:39.420061Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNHF5azJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Martin Quijano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-09T05:50:05.780923Z",
+    "updateTime": "2025-01-09T05:50:05.780923Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSURmemNiTk1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "alejandro bestard"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-04-20T11:12:28.627465Z",
+    "updateTime": "2025-01-02T22:43:10.933093Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZcS1TaW1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Alejandro Romero"
+    },
+    "starRating": "FIVE",
+    "comment": "Tengo un Jeep Renegade y siempre compro mi combustible en el ACA.\n\n(Translated by Google)\nI own a Jeep Renegade and I always buy my fuel at the ACA.",
+    "createTime": "2021-07-03T21:26:20.223196Z",
+    "updateTime": "2024-12-30T00:07:03.582002Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2021-10-14T19:06:39.414836Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSURxMHBYRll3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Antonio de jesus Cabrera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-12-26T02:59:23.841640Z",
+    "updateTime": "2024-12-26T02:59:23.841640Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmeEk3U2lRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "julieta ledesma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-12-23T03:50:17.829092Z",
+    "updateTime": "2024-12-23T03:50:17.829092Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2bll6clVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Stella Gomez"
+    },
+    "starRating": "TWO",
+    "createTime": "2019-08-20T20:41:53.087805Z",
+    "updateTime": "2024-12-22T16:39:09.706636Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSURVMnNtdVZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angela H Arrieta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-12-18T16:50:55.069293Z",
+    "updateTime": "2024-12-18T16:50:55.069293Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2X0o2dTh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Station"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-12-12T03:27:11.498842Z",
+    "updateTime": "2024-12-12T03:27:11.498842Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2c2MzNnN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Escobar"
+    },
+    "starRating": "THREE",
+    "comment": "Bastante pequeño el lugar para maniobrar con el auto, no tienen agua para el mate pero buena atención.\n\n(Translated by Google)\nThe place is quite small for maneuvering the car, they don\u0027t have water for mate but the service is good.",
+    "createTime": "2024-12-12T01:16:44.179244Z",
+    "updateTime": "2024-12-12T01:16:44.179244Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2MGZXSDl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Fusco"
+    },
+    "starRating": "FOUR",
+    "comment": "Poca espera para la carga de combustible.\n\n(Translated by Google)\nShort wait for refueling.",
+    "createTime": "2024-11-26T14:17:11.416233Z",
+    "updateTime": "2024-11-26T14:17:11.416233Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQbGRYdVZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Benjamin Vignolo"
+    },
+    "starRating": "FIVE",
+    "comment": "💪",
+    "createTime": "2019-06-04T11:17:51.458907Z",
+    "updateTime": "2024-11-24T23:00:44.160454Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSUM0ek15cHJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Viota"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-11-23T15:19:58.288033Z",
+    "updateTime": "2024-11-23T15:19:58.288033Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQLXVEdFp3EAE"
+  }]
+}

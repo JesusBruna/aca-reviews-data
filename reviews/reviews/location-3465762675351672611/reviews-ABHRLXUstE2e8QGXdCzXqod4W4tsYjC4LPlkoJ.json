@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "juan bonelli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-03T12:00:43.412939Z",
+    "updateTime": "2023-08-03T12:00:43.412939Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwdHNiNV9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Berardi"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-08-03T00:33:24.656730Z",
+    "updateTime": "2023-08-03T00:33:24.656730Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNXFHQlBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luisito"
+    },
+    "starRating": "TWO",
+    "comment": "SIEMPRE UNA RE COLA PARA CARGAR.MAL ORGANIZADOS\n\n(Translated by Google)\nALWAYS A LONG LINE TO CHARGE. POORLY ORGANIZED",
+    "createTime": "2023-08-02T22:04:40.647678Z",
+    "updateTime": "2023-08-02T22:04:40.647678Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNXREVVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Cortondo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-01T00:50:39.268115Z",
+    "updateTime": "2023-08-01T00:50:39.268115Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwMHEtMG9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Gauna"
+    },
+    "starRating": "THREE",
+    "comment": "Bastante incómodo para cargar nafta pero buena la atención. Una cosa muy importante que tienen que cambiar es el compresor para inflar neumáticos, no puede estar ubicado al lado del lavadero, tuve que decirle al chico que para mientras inflaba pq me estaba mojando con el agua que salpicaba\n\n(Translated by Google)\nIt was quite inconvenient to get gas at the station, but the service was good. One very important thing they need to change is the tire inflator; it can\u0027t be located next to the car wash. I had to tell the guy to stop while he was inflating the tires because I was getting wet from the splashing water.",
+    "createTime": "2023-07-31T15:15:12.955585Z",
+    "updateTime": "2023-07-31T15:15:12.955585Z",
+    "reviewReply": {
+      "comment": "Hola Marcelo, tomamos tu consejo y vamos a procurar cambiar el lugar del medidor de aire.",
+      "updateTime": "2023-08-15T19:48:26.665812Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwNHV5V3d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javoescobar Escobar"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-30T01:33:36.787404Z",
+    "updateTime": "2023-07-30T01:33:36.787404Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwekxqUGRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Fuhr"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-29T22:56:33.456265Z",
+    "updateTime": "2023-07-29T22:56:33.456265Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwak1Xd1JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lorena Muñoz"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-07-29T16:00:30.080739Z",
+    "updateTime": "2023-07-29T16:00:30.080739Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwdFBuZ2Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ilma Costa"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent! Good prices.\n\n(Original)\nExcelente! Bons preços",
+    "createTime": "2023-07-29T15:50:55.373112Z",
+    "updateTime": "2023-07-29T15:50:55.373112Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwdEltYXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Seño Rosalia"
+    },
+    "starRating": "FIVE",
+    "comment": "Hay Lavadero de autos rápido y barato\n\n(Translated by Google)\nThere is a fast and cheap car wash",
+    "createTime": "2023-07-29T01:58:37.249118Z",
+    "updateTime": "2023-07-29T01:58:37.249118Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwcE1QOGlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Carlos Rodiguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-28T22:53:04.534027Z",
+    "updateTime": "2023-07-28T22:53:04.534027Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwcEl6WEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victoria Ferrer"
+    },
+    "starRating": "ONE",
+    "comment": "Otro lugar confiable!!!\n\n(Translated by Google)\nAnother reliable place!!!",
+    "createTime": "2023-07-28T20:51:36.981542Z",
+    "updateTime": "2023-07-28T20:52:05.789960Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNweE0yLVdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "roberto claudio"
+    },
+    "starRating": "FIVE",
+    "comment": "El lugar que visito siempre. Para comer, tomar café, cargar combustible y ahora, para guardar el auto\n\n(Translated by Google)\nThe place I always visit. To eat, drink coffee, fill up with gas, and now, to park my car.",
+    "createTime": "2023-07-28T19:10:53.707954Z",
+    "updateTime": "2023-07-28T19:10:53.707954Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNweEl5U3ZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Beatriz Allan"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-07-28T14:44:39.137844Z",
+    "updateTime": "2023-07-28T14:44:39.137844Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwLUpXMXFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alejandro routurou"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-28T02:22:56.240302Z",
+    "updateTime": "2023-07-28T02:22:56.240302Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwbUpTVHhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Bejarsky"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente el servicio,  muy buena predisposición del personal para solucionar  problemas a los socios. Rapidez y eficiencia.\n\n(Translated by Google)\nExcellent service, the staff were very helpful in resolving members\u0027 issues. Fast and efficient.",
+    "createTime": "2023-07-27T16:56:46.956964Z",
+    "updateTime": "2023-07-27T16:56:46.956964Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNweUtQS2F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Perez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-27T14:49:32.715986Z",
+    "updateTime": "2023-07-27T14:49:32.715986Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaUt2eWpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Delgado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-26T15:10:01.807444Z",
+    "updateTime": "2023-07-26T15:10:01.807444Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwb042VVNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Lopez"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención cómo en todas las sucursales del ACA. Los combustibles más caros que en capital federal (+$50 aprox x litro)\n\n(Translated by Google)\nExcellent service, as in all ACA branches. Fuel prices are higher than in the capital (approximately $50 more per liter).",
+    "createTime": "2023-07-26T07:29:48.382090Z",
+    "updateTime": "2023-07-26T07:29:48.382090Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwZ0pDckt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Espacio SANDALO"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-07-26T00:48:48.715159Z",
+    "updateTime": "2023-07-26T00:48:48.715159Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURKdjVYMnhnRRAB"
+  }]
+}

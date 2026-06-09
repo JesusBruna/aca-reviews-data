@@ -1,0 +1,225 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Graciela Bautista"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-19T21:34:52.435512Z",
+    "updateTime": "2022-06-19T21:34:52.435512Z",
+    "reviewReply": {
+      "comment": "buenas noches Graciela, que pena no hemos recibido su mejor puntuacion. la esperamos para mejorar la atencion en otra oportunidad",
+      "updateTime": "2022-06-26T23:19:18.375481Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPeV9hb2ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Celeste Dominguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-18T02:07:35.936433Z",
+    "updateTime": "2022-06-18T02:07:35.936433Z",
+    "reviewReply": {
+      "comment": "Gracias por elegirnos.",
+      "updateTime": "2022-06-27T13:21:55.406862Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPZ18zdldBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Virginia Tobio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-16T22:04:53.868440Z",
+    "updateTime": "2022-06-16T22:04:53.868440Z",
+    "reviewReply": {
+      "comment": "Buenas noches Virginia, gracias por recibir la mejor puntuación.\nle esperamos nuevamente.",
+      "updateTime": "2022-07-23T05:53:23.962932Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPN2NLbTBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Fernandez"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo lugar\n\n(Translated by Google)\nBeautiful place",
+    "createTime": "2022-06-11T13:33:07.360916Z",
+    "updateTime": "2022-06-11T13:33:07.360916Z",
+    "reviewReply": {
+      "comment": "Muchas gracias FABIAN por tu puntuación, le esperamos para atenderle mejor.",
+      "updateTime": "2022-07-23T06:16:40.423517Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPX3ZPcktREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pato Matamala"
+    },
+    "starRating": "FOUR",
+    "comment": "Perfecto\n\n(Translated by Google)\nPerfect",
+    "createTime": "2022-06-09T00:03:27.492757Z",
+    "updateTime": "2022-06-09T00:03:27.492757Z",
+    "reviewReply": {
+      "comment": "Gracias por visitarnos.",
+      "updateTime": "2022-07-23T06:17:08.549120Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNW8yc0F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Acosta"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-06-08T22:58:39.632010Z",
+    "updateTime": "2022-06-08T22:58:39.632010Z",
+    "reviewReply": {
+      "comment": "Buenas noches Nestor, gracias por tu puntuación.",
+      "updateTime": "2022-07-23T06:17:47.913330Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNXBIT2NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "adrian rivero"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy amables\n\n(Translated by Google)\nVery kind",
+    "createTime": "2022-06-04T23:54:24.905459Z",
+    "updateTime": "2022-06-04T23:54:24.905459Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Adrian por elegirnos.",
+      "updateTime": "2022-07-23T06:18:22.145802Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPZ3NDRU9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "omarvaira@gmail.com Vaira"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo, chico, pero muy bueno, buena atencion\n\n(Translated by Google)\nNice, small, but very good, good service",
+    "createTime": "2022-06-03T13:14:12.074454Z",
+    "updateTime": "2022-06-03T13:14:12.074454Z",
+    "reviewReply": {
+      "comment": "buenas noches Omar, le agradecemos su alta puntuación, le esperamos pronto.",
+      "updateTime": "2022-07-23T06:19:23.019321Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPelBDQXpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Bermond"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar y muy tranquu. Posee un parwuizado. On mesas y buena sombrs\n\n(Translated by Google)\nNice and very quiet place. It has a park, tables, and good shade.",
+    "createTime": "2022-06-01T17:08:20.509901Z",
+    "updateTime": "2022-06-01T17:08:43.114Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Jorge por resaltar en tu comentario nuestros espacios verdes.\nle esperamos nuevamente.",
+      "updateTime": "2022-07-23T06:20:48.997848Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPaEpYdm9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "luciano podesta"
+    },
+    "starRating": "FIVE",
+    "comment": "Me dejaron acampar! Muy buena onda\n\n(Translated by Google)\nThey let me camp! So cool.",
+    "createTime": "2022-05-29T18:42:13.613169Z",
+    "updateTime": "2022-05-29T18:42:13.613169Z",
+    "reviewReply": {
+      "comment": "Buenas noches Luciano, gracias por tu puntuación y por visitarnos.",
+      "updateTime": "2022-07-23T06:22:00.230166Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPZ08zbmx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Giammarini"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-24T18:16:40.222186Z",
+    "updateTime": "2022-05-24T18:16:40.222186Z",
+    "reviewReply": {
+      "comment": "buenas noches Omar, gracias por su puntuación.",
+      "updateTime": "2022-07-23T06:22:59.353057Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyODg2UGJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luisa Ester Vanegas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-22T03:21:05.580029Z",
+    "updateTime": "2022-05-22T03:21:05.580029Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Luisa por una puntuación tan alta. le esperamos pronto.",
+      "updateTime": "2022-07-23T06:23:52.882054Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQycmZPQ2xRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Vazquez"
+    },
+    "starRating": "FIVE",
+    "comment": "Me gustó la atención,las personas que allí trabajan muy servicial\n\n(Translated by Google)\nI liked the service, the people who work there were very helpful.",
+    "createTime": "2022-05-20T06:08:46.409660Z",
+    "updateTime": "2022-05-20T06:08:46.409660Z",
+    "reviewReply": {
+      "comment": "Buenas noches Ruben, gracias por resaltar nuestro servicio, le esperamos nuevamente.",
+      "updateTime": "2022-07-23T06:24:48.288233Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQycGJUSl9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Alejandro Trombetta"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar para parar desayunar o merendar algo en la ruta rumbo a la Patagonia o hacia la Ciudad de Buenos Aires y estirar un poco las piernas.\nLa Nafta es cara en este lugar recomiendo llenar el tanque en ACA Santa Rosa o ACA General Acha rumbo a la Patagonia. o cargar en ACA 9 de Julio rumbo a Buenos Aires.\nEn ruta suelo parar casi siempre que puedo en estaciones del ACA debido a que soy socio, en este caso el ACA Trenque Lauquen es la ultima estación de servicio de ACA dentro de la provincia de Buenos Aires con rumbo a la Patagonia.\nLa estación es moderna y cuenta con YPF full mas estacionamiento techado y lugar de esparcimiento.\nSi bien me detuve tanto a la ida como a la vuelta del viaje a la Patagonia mi consejo es que no carguen nafta en este lugar ya que es el precio mas caro de todo el viaje... por estas lejos de Capital Federal es el precio mas ato de la provincia de Buenos Aires y si hacen algunos kilómetros mas hasta Santa Rosa o aun mas hasta General Acha van a obtener un precio NOTABLEMENTE INFERIOR!!\nEl personal en los surtidores como en el YPF Full es muy cordial y amable.\nBaños impecables!\n\n(Translated by Google)\nA good place to stop for breakfast or a snack on the road to Patagonia or Buenos Aires and stretch your legs.\nGasoline is expensive here; I recommend filling up at ACA Santa Rosa or ACA General Acha on your way to Patagonia, or at ACA 9 de Julio on your way to Buenos Aires. When traveling, I usually stop at ACA stations whenever possible because I\u0027m a member. In this case, ACA Trenque Lauquen is the last ACA service station in the province of Buenos Aires on the way to Patagonia.\nThe station is modern and has a full YPF station, covered parking, and a recreation area. Although I stopped there both on the way to and from Patagonia, my advice is not to fill up here, as it\u0027s the most expensive gas station of the entire trip. Because it\u0027s far from Buenos Aires, it\u0027s the highest price in the province of Buenos Aires, and if you drive a few more kilometers to Santa Rosa or even further to General Acha, you\u0027ll find a significantly lower price!\nThe staff at the pumps, like at the YPF Full station, are very friendly and helpful.\nThe restrooms are spotless!",
+    "createTime": "2022-05-19T18:09:24.590538Z",
+    "updateTime": "2022-05-20T04:08:42.574818Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaGRMbHJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "celeste brizuela"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-19T10:27:35.671543Z",
+    "updateTime": "2022-05-19T10:27:35.671543Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUQydWNxR0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ernesto Andrés Haack"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-15T00:24:34.628681Z",
+    "updateTime": "2022-05-15T00:24:34.628681Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyenZpdGpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julian Auxilio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-14T14:29:47.969312Z",
+    "updateTime": "2022-05-14T14:29:47.969312Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyOXFDaTFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alejandra biasone"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar\n\n(Translated by Google)\nGood place",
+    "createTime": "2022-05-08T12:56:00.099816Z",
+    "updateTime": "2022-05-08T12:56:00.099816Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyckpxN2hBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sixto Carlos Muñoz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-07T21:49:07.977822Z",
+    "updateTime": "2022-05-07T21:49:07.977822Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOUxPRmRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Armanini"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-05-05T22:56:12.594885Z",
+    "updateTime": "2022-05-05T22:56:12.594885Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQydUlMUWdnRRAB"
+  }]
+}

@@ -1,0 +1,170 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "JOSE LEONEL SAN MARTÍN"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-16T20:09:12.033523Z",
+    "updateTime": "2022-07-16T20:09:12.033523Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPOTQybjBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "David Daguerre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-15T22:18:13.496650Z",
+    "updateTime": "2022-07-15T22:18:13.496650Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPcDlYTHdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anibal Benitez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-15T21:07:33.954848Z",
+    "updateTime": "2022-07-15T21:07:33.954848Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPcDdhbkFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Julia Marmiroli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-15T21:02:31.062944Z",
+    "updateTime": "2022-07-15T21:02:31.062944Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPcDViV0JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Allende"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-15T19:15:06.532581Z",
+    "updateTime": "2022-07-15T19:15:06.532581Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPcDZEUWJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Versellino"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención y muy económico, pegado a la estación hay Shell mucho más caro\n\n(Translated by Google)\nExcellent service and very affordable; there\u0027s a much more expensive Shell station right next door.",
+    "createTime": "2022-07-15T13:24:44.439512Z",
+    "updateTime": "2022-07-15T13:24:44.439512Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPaDhHcGZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Zoe Maciel"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre cargo ypf\n\n(Translated by Google)\nI always fill up with YPF fuel.",
+    "createTime": "2022-07-14T16:59:11.863708Z",
+    "updateTime": "2022-07-14T16:59:11.863708Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPbTdTWUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Denis Del Puerto"
+    },
+    "starRating": "FOUR",
+    "comment": "la atencion de su personal es excelente. Te ayuda con la aplicación si es necesario.\n\n(Translated by Google)\nThe staff\u0027s service is excellent. They help you with the application if needed.",
+    "createTime": "2022-07-14T02:58:23.477793Z",
+    "updateTime": "2022-07-14T02:58:23.477793Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPaThfM3lBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Soledad Martino"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-14T01:08:24.060144Z",
+    "updateTime": "2022-07-14T01:08:24.060144Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPaS1YOVhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Cristina Morandi"
+    },
+    "starRating": "THREE",
+    "comment": "Poca variedad de oferta gastronómica. Siempre lo mismo, facturas o sandwichs de miga.\n\n(Translated by Google)\nLimited food options. Always the same: pastries or finger sandwiches.",
+    "createTime": "2022-07-13T22:18:16.066522Z",
+    "updateTime": "2022-07-13T22:18:16.066522Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPaTdTM3ZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Panoza"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-13T11:55:38.407555Z",
+    "updateTime": "2022-07-13T11:55:38.407555Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMDhUMGpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Martín Dicundo"
+    },
+    "starRating": "FIVE",
+    "comment": "Cool",
+    "createTime": "2022-07-12T11:36:59.261421Z",
+    "updateTime": "2022-07-12T11:36:59.261421Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPX2VTUUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emilio Pena"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-12T11:10:06.600489Z",
+    "updateTime": "2022-07-12T11:10:06.600489Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPX2NESEZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "omar jorge Godoy"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion, comidas a valores razonables, buena calidad, todo muy limpio.\nFelicitaciones\n\n(Translated by Google)\nGood service, reasonably priced food, good quality, and everything very clean.\nCongratulations",
+    "createTime": "2022-07-12T01:17:09.359249Z",
+    "updateTime": "2022-07-12T01:17:09.359249Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPbmJYejZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos alberto Gil"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-11T23:10:42.377798Z",
+    "updateTime": "2022-07-11T23:10:42.377798Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPblpyb3BnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Domanski"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-11T20:50:17.493075Z",
+    "updateTime": "2022-07-11T20:50:17.493075Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPN2FlRWpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Edgardo Capurro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-11T13:45:34.624103Z",
+    "updateTime": "2022-07-11T13:45:34.624103Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURPelpmZUN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-10T21:49:33.554259Z",
+    "updateTime": "2022-07-10T21:49:33.554259Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPdGNieXVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Cepeda"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-10T19:53:26.022192Z",
+    "updateTime": "2022-07-10T19:53:26.022192Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMWUtNnp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Noe De Weert"
+    },
+    "starRating": "THREE",
+    "comment": "Lindo amplio y variedad de cosas.  Buena atención y limpieza.\n\n(Translated by Google)\nNice, spacious, and with a wide variety of things. Good service and cleanliness.",
+    "createTime": "2022-07-10T11:59:58.195767Z",
+    "updateTime": "2022-07-10T11:59:58.195767Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURPNWN2cDdnRRAB"
+  }]
+}

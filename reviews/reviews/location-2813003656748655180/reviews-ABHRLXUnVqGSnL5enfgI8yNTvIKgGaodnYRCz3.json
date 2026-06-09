@@ -1,0 +1,54 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Axel Velazquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2015-07-14T17:34:43.137Z",
+    "updateTime": "2015-07-14T17:34:43.137Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURBM2V6b3ZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Limardo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2015-06-25T17:30:57.616Z",
+    "updateTime": "2015-06-25T17:30:57.616Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3MWFlZXJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Maffei"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena\n\n(Translated by Google)\nvery good",
+    "createTime": "2014-12-25T19:50:15.833Z",
+    "updateTime": "2014-12-25T19:50:15.833Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURRa0tYWkJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina קרול Camaño קמנו"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente!\n\n(Translated by Google)\nExcellent!",
+    "createTime": "2014-12-20T04:26:36.365Z",
+    "updateTime": "2014-12-20T04:26:36.365Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRNFBTc3ZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Sujoluzky"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y buena gente.\nTanto en la playa como cafeteria. Me quedé con el auto y me ayudaron.\n\n(Translated by Google)\nGood service and nice people.\nBoth at the beach and in the cafeteria. I kept the car and they helped me.",
+    "createTime": "2014-11-26T22:58:02.075Z",
+    "updateTime": "2014-11-26T22:58:02.075Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBX3NETDh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Klew"
+    },
+    "starRating": "FIVE",
+    "createTime": "2012-03-01T21:42:57.584975Z",
+    "updateTime": "2012-03-01T21:42:57.584975Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3a0lmVWpnRRAB"
+  }]
+}

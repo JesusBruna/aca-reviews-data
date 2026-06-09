@@ -1,0 +1,170 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Samuel Villalobos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-06T00:01:04.922257Z",
+    "updateTime": "2020-01-06T00:01:04.922257Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNcFpLSFRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "juan andres"
+    },
+    "starRating": "TWO",
+    "comment": "Está mal ubicada, si hay mucho tráfico no podes salir\n\n(Translated by Google)\nIt\u0027s badly located; if there\u0027s a lot of traffic you can\u0027t get out.",
+    "createTime": "2020-01-05T14:40:02.538531Z",
+    "updateTime": "2020-01-05T14:40:02.538531Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNaFoyU2ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fermín Barros"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-05T03:10:29.814400Z",
+    "updateTime": "2020-01-05T03:10:29.814400Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNdWJ1M09nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Lopez"
+    },
+    "starRating": "THREE",
+    "comment": "Lindo lugar para poder tomarse un cafe o simplemente comorar algun elemento de kiosco. Creo yo qe distribuyendo mejor los productos y teniendo mas variedad harian a un excelente lugar de paraje para compras de viajantes.\n\n(Translated by Google)\nA nice place to grab a coffee or just pick up something from a kiosk. I think a better distribution of products and more variety would make this an excellent shopping spot for travelers.",
+    "createTime": "2020-01-05T02:58:58.756398Z",
+    "updateTime": "2020-01-05T02:58:58.756398Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURNdWV1YW1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Adamo Salvo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-04T16:04:46.457464Z",
+    "updateTime": "2020-01-04T16:04:47.447696Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURNbWItMXlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Carrasco"
+    },
+    "starRating": "THREE",
+    "comment": "Quise inflar las ruedas y no tenian el aparato!\n\n(Translated by Google)\nI wanted to inflate the tires and they didn\u0027t have the pump!",
+    "createTime": "2020-01-03T02:44:38.628665Z",
+    "updateTime": "2020-01-04T02:49:58.500797Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURNc2NfbXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Barbero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-04T01:58:51.514996Z",
+    "updateTime": "2020-01-04T01:58:51.514996Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNcWNYTGRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Crhistian Austin"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-01-04T00:13:42.079737Z",
+    "updateTime": "2020-01-04T00:13:42.079737Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURNcWJiZzZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Alejandro Zarate"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-01-03T20:51:25.774325Z",
+    "updateTime": "2020-01-03T20:51:25.774325Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURNeWZlWWh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-03T16:20:25.733385Z",
+    "updateTime": "2020-01-03T16:20:25.733385Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNeWJpOVBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rocio Hernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-03T12:07:33.673891Z",
+    "updateTime": "2020-01-03T12:07:33.673891Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNaWJMb09BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Nicastro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-03T01:34:32.260082Z",
+    "updateTime": "2020-01-03T01:34:32.260082Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNc2RPaVlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ale Rubio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-02T19:55:21.456513Z",
+    "updateTime": "2020-01-02T19:55:21.456513Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURNMGJfQnNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ciro Porro"
+    },
+    "starRating": "ONE",
+    "createTime": "2020-01-02T18:01:10.544897Z",
+    "updateTime": "2020-01-02T18:01:10.544897Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNMGFYRkhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angeles Antonella Delgado"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-02T17:58:17.106350Z",
+    "updateTime": "2020-01-02T17:58:17.106350Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNMGNXT2RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Sanchez Galarce"
+    },
+    "starRating": "TWO",
+    "comment": "Lenta atención, el playero le dió prioridad a sus amigos en una cola de 40 minutos y luego se quedó charlando en vez de seguir cargando, falta de personal\n\n(Translated by Google)\nSlow service, the beachcomber gave priority to his friends in a 40-minute queue and then stayed chatting instead of continuing to load, lack of staff",
+    "createTime": "2020-01-02T14:09:39.892587Z",
+    "updateTime": "2020-01-02T14:09:39.892587Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNa2F1ZElBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Salas Claudia Elizabeth"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo lugar\n\n(Translated by Google)\nVery nice place",
+    "createTime": "2019-10-29T22:32:01.873170Z",
+    "updateTime": "2020-01-02T13:20:48.507884Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwcW9IUDJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Natale"
+    },
+    "starRating": "THREE",
+    "comment": "Buen servicio pero mucha espera\n\n(Translated by Google)\nGood service but long wait",
+    "createTime": "2020-01-01T17:05:20.469617Z",
+    "updateTime": "2020-01-01T17:05:20.469617Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURNd2VXVm9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "nolis paredes"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y rápido\n\n(Translated by Google)\nGood and fast service",
+    "createTime": "2019-12-31T21:39:52.858288Z",
+    "updateTime": "2019-12-31T21:39:52.858288Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURNX3ZMMGZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cande Gc"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-12-31T21:26:53.240449Z",
+    "updateTime": "2019-12-31T21:26:53.240449Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURNX3VMZjJnRRAB"
+  }]
+}

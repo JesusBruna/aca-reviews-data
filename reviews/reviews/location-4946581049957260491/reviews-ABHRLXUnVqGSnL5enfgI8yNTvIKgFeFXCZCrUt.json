@@ -1,0 +1,254 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Daniel Adrian ZUCARI"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-20T19:21:18.706467Z",
+    "updateTime": "2022-07-20T19:21:18.706467Z",
+    "reviewReply": {
+      "comment": "Daniel\nAgradecemos su calificación, aunque nos gustaría saber cuál fue el detalle que faltó para no llegar a la máxima puntuación, ya que de esta manera nos ayuda a mejorar. Muchas gracias",
+      "updateTime": "2022-07-21T01:14:10.365554Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1LU1LcjVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Aliaga"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-20T04:10:30.694649Z",
+    "updateTime": "2022-07-20T04:10:30.694649Z",
+    "reviewReply": {
+      "comment": "Sr. Cliente\nDada la calificación, nos interesaría saber cuales fueron los motivos para no lograr la mayor puntuación, ya que de esta manera nos ayudaría a mejorar. Muchas gracias",
+      "updateTime": "2022-07-21T01:15:50.482228Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1NlBMLTJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Omar Barros"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-20T00:30:03.413121Z",
+    "updateTime": "2022-07-20T00:30:03.413121Z",
+    "reviewReply": {
+      "comment": "Sr. Luis\nAgradecemos mucho su calificación. Seguriemoa trabajando para mejorar.",
+      "updateTime": "2022-07-21T01:16:39.030707Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1cU9tb1BREAE"
+  }, {
+    "reviewer": {
+      "displayName": "maxi frasson"
+    },
+    "starRating": "FOUR",
+    "comment": "Se puede desayunar adentro.espacio reducido si hay mucha gente como en este momento y los baños por lo menos de hombres no agradan mucho...\n\n(Translated by Google)\nYou can have breakfast inside. It\u0027s a small space if there are a lot of people, like right now, and the restrooms, at least the men\u0027s, aren\u0027t very pleasant...",
+    "createTime": "2022-07-19T14:13:44.691188Z",
+    "updateTime": "2022-07-19T14:13:44.691188Z",
+    "reviewReply": {
+      "comment": "Sr. Maxi\nAgradecemos su calificación, y lamentamos el no haber podido satisfacer sus necesidades. Trabajarenos en lo observado, aunque en lo respecta a los espacios, esta prevista una obra que se retraso por la pandemia, aunque se llevará a cabo próximamente.",
+      "updateTime": "2022-07-21T01:20:42.832662Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1OElQT1BBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Edu Ces"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-19T10:41:11.890379Z",
+    "updateTime": "2022-07-19T10:41:11.890379Z",
+    "reviewReply": {
+      "comment": "Sr Eduardo\nAgradecemos su calificación, aunque nos gustaría saber cuál fue el detalle para no obtener la mayor puntuación, ya que de esta manera nos ayuda a mejorar. Muchas gracias",
+      "updateTime": "2022-07-21T01:22:17.718403Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1c0xYd2dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "nes"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-17T23:31:27.738901Z",
+    "updateTime": "2022-07-17T23:31:27.738901Z",
+    "reviewReply": {
+      "comment": "Sr. David\nAgradecemos su calificación, aunque nos gustaría saber cuál fue el detalle que faltó para no obtener la mayor puntuación, ya que de esta forma nos ayudaría a mejorar. Muchas Gracias.",
+      "updateTime": "2022-07-21T01:23:33.574121Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMzVlLXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Camila Mareque"
+    },
+    "starRating": "FIVE",
+    "comment": "restaurante con Opciones veganas y muy buena atención!!!\n\n(Translated by Google)\nrestaurant with vegan options and very good service!!!",
+    "createTime": "2022-07-17T20:58:46.779956Z",
+    "updateTime": "2022-07-17T20:58:46.779956Z",
+    "reviewReply": {
+      "comment": "Sra Camila\nLe agradecemos mucho su calificación y comentario. Seguiremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:29:02.118276Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURPMzliWkh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo De Gaetano"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre muy atentos cada vez que me toco pasar.\n\n(Translated by Google)\nThey were always very attentive every time I had to go through.",
+    "createTime": "2022-07-17T16:11:38.378922Z",
+    "updateTime": "2022-07-17T16:11:38.378922Z",
+    "reviewReply": {
+      "comment": "Sr.Marcelo\nAgradecemos mucho su calificación y comentario. Seguiremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:29:53.211586Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURPbjlEUEF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Moreno"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelencia, calidad y servicio de primera. Atendido con calidez y profesionalismo\n\n(Translated by Google)\nExcellence, quality, and first-class service. Served with warmth and professionalism.",
+    "createTime": "2022-07-16T17:22:31.636128Z",
+    "updateTime": "2022-07-16T17:22:31.636128Z",
+    "reviewReply": {
+      "comment": "Sra Marcela\nAgradecemos mucho su calificación y comentario. Seguiremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:32:09.558573Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURPdDV2RUl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pablo Cardozo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-16T09:48:36.785782Z",
+    "updateTime": "2022-07-16T09:48:36.785782Z",
+    "reviewReply": {
+      "comment": "Sr. Juan Pablo\nAgradecemos mucho su calificación. Continuaremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:32:44.636313Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURPbDd1NGJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Burgos"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención! De casi todos los chicos !\n\n(Translated by Google)\nExcellent service! From almost all the staff!",
+    "createTime": "2022-07-15T21:25:08.830919Z",
+    "updateTime": "2022-07-15T21:25:08.830919Z",
+    "reviewReply": {
+      "comment": "Sr. Marcelo\nAgradecemos mucho su calificación, aunque nos gustaría saber cuál fue el detalle para no obtener la mayor puntuación, ya que de esta manera nos ayudaría a mejorar. Muchas gracias!",
+      "updateTime": "2022-07-21T01:33:51.040691Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURPcDc3N2pRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ma Flor"
+    },
+    "starRating": "FIVE",
+    "comment": "Recomendable muy buena atención.\n\n(Translated by Google)\nHighly recommended, excellent service.",
+    "createTime": "2022-07-15T19:24:40.254630Z",
+    "updateTime": "2022-07-15T19:24:40.254630Z",
+    "reviewReply": {
+      "comment": "Sra. María Florencia\nAgradecemos mucho su calificación y comentario. Seguiremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:34:35.514841Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURPcDdDNjBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victoria Painen"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-15T16:45:55.594876Z",
+    "updateTime": "2022-07-15T16:45:55.594876Z",
+    "reviewReply": {
+      "comment": "Sra. Victoria\nAgradecemos mucho su calificación. Continuaremos rabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:35:44.316548Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURPeDdiN09REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Toledo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-15T04:06:21.363177Z",
+    "updateTime": "2022-07-15T04:06:21.363177Z",
+    "reviewReply": {
+      "comment": "Sr Martin\nAgradecemos mucho su calificación. Continuaremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:36:24.566089Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURPdTlhTllREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Garcia"
+    },
+    "starRating": "TWO",
+    "comment": "Los stickers que compré un poco caros\n\n(Translated by Google)\nThe stickers I bought were a bit expensive.",
+    "createTime": "2022-07-15T03:02:55.960108Z",
+    "updateTime": "2022-07-15T03:02:55.960108Z",
+    "reviewReply": {
+      "comment": "Sra Martina\nLamentamos haya tenido una mala experiencia con nosotros, de igual manera nos gustaría saber que diferencia encontró en productos similares, ya que nuestros proveedores son locales, y quizás las distancias encarecen los costos. Aguardamos su comentario. Muchas Gracias",
+      "updateTime": "2022-07-21T01:40:17.750574Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURPdV96bmxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Wessely"
+    },
+    "starRating": "FOUR",
+    "comment": "10 puntos\n\n(Translated by Google)\n10 points",
+    "createTime": "2022-07-14T23:27:20.920161Z",
+    "updateTime": "2022-07-14T23:27:20.920161Z",
+    "reviewReply": {
+      "comment": "Sr.Luis\nAgradecemos su calificación y comentario, aunque nos gustaría saber cuál fue el detalle que faltó, para que no llegar a lograr la mayor puntuación, ya que de esta manera nos ayuda a mejorar.",
+      "updateTime": "2022-07-21T01:41:49.598562Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMjRXM3ZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Aguilera Merlo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio!!\n\n(Translated by Google)\nGreat service!!",
+    "createTime": "2022-07-12T20:42:31.591394Z",
+    "updateTime": "2022-07-12T20:42:31.591394Z",
+    "reviewReply": {
+      "comment": "Sra. Claudia\nAgradecemos su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:42:21.869817Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURPbzdDb0p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raúl Marin"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-07-12T10:24:21.638410Z",
+    "updateTime": "2022-07-12T10:24:21.638410Z",
+    "reviewReply": {
+      "comment": "Sr. Raul\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2022-07-21T01:43:04.447157Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURPdmJQZThnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nelida Ester Ferreyra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-10T12:11:42.879002Z",
+    "updateTime": "2022-07-10T12:11:42.879002Z",
+    "reviewReply": {
+      "comment": "Sra. Nelida\nAgradecemos su calificación, aunque nos gustaría saber cuál fue el detalle para  no llegar a alcanzar la mayor puntuación,  ya que de esta manera nos ayuda a mejorar. Muchas gracias!",
+      "updateTime": "2022-07-21T01:44:37.477665Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURPNVlmc3lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Mario Penacchioni"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. Los baños son aceptables, pero, podrían mejorar más, también los usuarios deben colaborar utilizando estos debidamente.\n\n(Translated by Google)\nGood service. The restrooms are acceptable, but they could be improved; users should also cooperate by using them properly.",
+    "createTime": "2022-07-07T10:14:53.833918Z",
+    "updateTime": "2022-07-07T10:14:53.833918Z",
+    "reviewReply": {
+      "comment": "Sr. Ruben\nAgradecemos mucho su calificación, y continuaremos trabajando para mejorar, y satisfacer sus necesidades. Muchas Gracias",
+      "updateTime": "2022-07-21T19:10:25.456915Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURPNGVMRmpnRRAB"
+  }]
+}

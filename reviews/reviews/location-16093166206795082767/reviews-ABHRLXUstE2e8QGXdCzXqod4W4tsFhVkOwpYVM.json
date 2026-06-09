@@ -1,0 +1,234 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Olga Videla"
+    },
+    "starRating": "FIVE",
+    "comment": "Bueno\n\n(Translated by Google)\nWell",
+    "createTime": "2023-06-17T03:20:12.437902Z",
+    "updateTime": "2023-06-17T03:20:12.437902Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:48:18.626008Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4ai15V1FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Posada"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención !!! siempre lugar de encuentro!!\n\n(Translated by Google)\nExcellent service!!! Always a great meeting place!!",
+    "createTime": "2023-06-15T20:45:28.705782Z",
+    "updateTime": "2023-06-15T20:45:28.705782Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:48:26.101480Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4LThidGd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban medina"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo, limpio, pero caro\n\n(Translated by Google)\nNice, clean, but expensive",
+    "createTime": "2023-06-15T18:43:48.999660Z",
+    "updateTime": "2023-06-15T18:43:48.999660Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:48:32.248287Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4dTlIcDVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Bordaberry"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente árabe de crudo y queso.\n\n(Translated by Google)\nExcellent raw cassava and cheese.",
+    "createTime": "2023-06-15T17:35:36.215192Z",
+    "updateTime": "2023-06-15T17:35:36.215192Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:48:37.247201Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4dTdEUnNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "andrea bertozzi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-15T16:33:48.798014Z",
+    "updateTime": "2023-06-15T16:33:48.798014Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4MjZuek93EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose jose1"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo ok\n\n(Translated by Google)\nEverything\u0027s OK",
+    "createTime": "2023-06-14T18:54:44.713977Z",
+    "updateTime": "2023-06-14T18:54:44.713977Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4OC1PVnl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Cortez"
+    },
+    "starRating": "FOUR",
+    "comment": "Cómoda\n\n(Translated by Google)\nComfortable",
+    "createTime": "2023-06-12T18:29:25.813702Z",
+    "updateTime": "2023-06-12T18:29:25.813702Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario! Los esperamos nuevamente!",
+      "updateTime": "2023-06-23T19:02:45.502514Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4MWNHT0F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-06-12T17:58:30.949712Z",
+    "updateTime": "2023-06-12T17:58:30.949712Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:48:50.173269Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4MWRxTE1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "LEANDRO MEYNET"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-06-11T22:38:44.470968Z",
+    "updateTime": "2023-06-11T22:38:44.470968Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4aGFLLTV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Oliva"
+    },
+    "starRating": "FOUR",
+    "comment": "Un rico cafecito\n\n(Translated by Google)\nA nice little coffee",
+    "createTime": "2023-06-11T11:31:17.121321Z",
+    "updateTime": "2023-06-11T11:31:17.121321Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:49:05.126266Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4bWRXQ1Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Kenny Sala"
+    },
+    "starRating": "THREE",
+    "comment": "El café no está muy bueno\n\n(Translated by Google)\nThe coffee is not very good",
+    "createTime": "2023-06-11T02:47:00.228610Z",
+    "updateTime": "2023-06-11T02:47:00.228610Z",
+    "reviewReply": {
+      "comment": "Hola,lamentamos su experiencia, trataremos de mejorarnos",
+      "updateTime": "2023-06-23T18:49:48.011517Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4cWE3SmpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rubén María arrua rios Rios"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar recomendado\n\n(Translated by Google)\nRecommended place",
+    "createTime": "2023-06-11T02:15:40.195469Z",
+    "updateTime": "2023-06-11T02:15:40.195469Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:49:53.207692Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4cWRyelNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Sabbino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-07T18:06:43.579270Z",
+    "updateTime": "2023-06-07T18:06:43.579270Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4dHJDOHVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Segovia"
+    },
+    "starRating": "FIVE",
+    "comment": "Oasis ...",
+    "createTime": "2023-06-05T20:36:15.926379Z",
+    "updateTime": "2023-06-05T20:36:15.926379Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:52:19.205554Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4eW9TRlFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Martín"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-05T00:22:27.804678Z",
+    "updateTime": "2023-06-05T00:22:27.804678Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4NHFuaHd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Zulma Galvan"
+    },
+    "starRating": "FIVE",
+    "comment": "Rapido\n\n(Translated by Google)\nFast",
+    "createTime": "2023-06-04T00:44:45.527718Z",
+    "updateTime": "2023-06-04T00:44:45.527718Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:52:31.154337Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4M091T29RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro J. Mattiacci"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelentes servicios. Muy buen restaurante y los sanitarios estaban impecables como siempre.\n\n(Translated by Google)\nExcellent service. Very good restaurant and the restrooms were spotless as always.",
+    "createTime": "2017-11-18T12:44:36.783Z",
+    "updateTime": "2023-06-03T11:56:24.024765Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:52:38.087062Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3b0xiOHJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio María Ragazzini"
+    },
+    "starRating": "FIVE",
+    "comment": "Me gustó su espacio de cafetería, limpieza y baños\n\n(Translated by Google)\nI liked their cafeteria space, cleanliness, and restrooms",
+    "createTime": "2023-05-30T14:39:59.846472Z",
+    "updateTime": "2023-06-02T14:39:25.730547Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario!",
+      "updateTime": "2023-06-23T18:52:48.502014Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4NE9qN1dREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo A"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-02T00:47:04.382689Z",
+    "updateTime": "2023-06-02T00:47:04.382689Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4cEtDSXpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Humberto Dal Lago"
+    },
+    "starRating": "THREE",
+    "comment": "Muy mala señalización de acceso y egreso a la estación\n\n(Translated by Google)\nVery poor signage for access and exit to the station",
+    "createTime": "2023-06-02T00:15:15.484070Z",
+    "updateTime": "2023-06-02T00:15:15.484070Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia, mejoraremos la próxima!",
+      "updateTime": "2023-06-23T18:53:19.728841Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4eExlSE13EAE"
+  }]
+}

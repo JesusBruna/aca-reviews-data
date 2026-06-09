@@ -1,0 +1,255 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Dr. Tiago Zanus"
+    },
+    "starRating": "THREE",
+    "comment": "No tiene YPF full, tiene un mini kiosco con escasas opciones de comidas, la higiene de los baños es pobre sobretodo en épocas de turismo, una lástima que sacaron las mesas y bancos en el parque al lado de la estación.\n\n(Translated by Google)\nIt doesn\u0027t have a full YPF station, it has a mini kiosk with few food options, the hygiene of the bathrooms is poor especially during tourist seasons, it\u0027s a shame that they removed the tables and benches in the park next to the station.",
+    "createTime": "2023-06-12T19:44:07.318417Z",
+    "updateTime": "2023-06-12T19:44:07.318417Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, Dr Tiago esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-07-17T20:06:09.625266Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4MWR2YmdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "23892941ful"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-06-12T02:31:13.886989Z",
+    "updateTime": "2023-06-12T02:31:13.886989Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-07-17T20:06:18.833161Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4aGRfcjNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Carrascosa"
+    },
+    "starRating": "ONE",
+    "comment": "Baños sucios\n\n(Translated by Google)\nDirty bathrooms",
+    "createTime": "2023-06-11T21:04:24.128325Z",
+    "updateTime": "2023-06-11T21:04:24.128325Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Natalia, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-07-17T20:06:31.368399Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4LWJlNS1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Arq. Rosana Szprycer"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables los funcionarios\n\n(Translated by Google)\nThe staff were very friendly.",
+    "createTime": "2023-06-11T16:38:56.467620Z",
+    "updateTime": "2023-06-11T16:38:56.467620Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Arq Rosana, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-07-17T20:06:45.545885Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4dVliaU53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Baez Lugo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y muy completo !! ,Ideal para el café y seguir viaje\n\n(Translated by Google)\nGreat service and very well-stocked! Ideal for a coffee before continuing your journey.",
+    "createTime": "2023-05-20T14:51:14.899006Z",
+    "updateTime": "2023-05-20T14:51:14.899006Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Susana, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-07-17T20:06:58.074640Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4eWZudHVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Telò Gt"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-05-15T19:29:23.750403Z",
+    "updateTime": "2023-05-15T19:29:23.750403Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Teló, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-07-17T20:08:07.699519Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4MnNuQnF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan F Piriz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y un café espectacular que no es fácil encontrar ni en las grandes ciudades.\n\n(Translated by Google)\nExcellent service and spectacular coffee that is not easy to find even in big cities.",
+    "createTime": "2023-05-10T00:28:01.811324Z",
+    "updateTime": "2023-05-10T23:21:36.400187Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Juan, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:57:10.518392Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4bU8tTVpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Achem"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-05-10T18:50:49.005636Z",
+    "updateTime": "2023-05-10T18:50:49.005636Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Fabian, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-07-17T20:08:17.329502Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4eEwybS1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Paiva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-05-05T21:49:54.797945Z",
+    "updateTime": "2023-05-05T21:49:54.797945Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Marcelo, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:57:23.040052Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSMV82SFFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban horacio Romero"
+    },
+    "starRating": "FIVE",
+    "comment": "Super",
+    "createTime": "2023-05-01T01:13:21.607976Z",
+    "updateTime": "2023-05-01T01:13:21.607976Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Esteban, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:57:30.799006Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSamRHUUl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nancy Niczyporuk"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio. Un full con variedad..recomienda\n\n(Translated by Google)\nGood service. A full menu with variety...recommended.",
+    "createTime": "2023-04-25T13:23:22.453634Z",
+    "updateTime": "2023-04-25T13:23:22.453634Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Nancy, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:57:40.807005Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURSenNPZXhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raquel Sosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-22T01:58:51.512619Z",
+    "updateTime": "2023-04-22T01:58:51.512619Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Raquel, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:57:48.419100Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSc3JfYmJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Bautista (AES / HANDY MAN)"
+    },
+    "starRating": "THREE",
+    "comment": "Mala atención y baños sucios\n\n(Translated by Google)\nPoor service and dirty bathrooms",
+    "createTime": "2023-04-21T00:51:02.014640Z",
+    "updateTime": "2023-04-21T00:51:02.014640Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Manu, tendremos en cuanta tus comentarios para mejorar! esperamos vuelvas pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:58:34.187742Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSd3RuNmJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Muchi Lezcano Longoni"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena predisposició del personal...\n\n(Translated by Google)\nvery good disposition of the staff...",
+    "createTime": "2023-04-17T20:25:39.922112Z",
+    "updateTime": "2023-04-17T20:25:39.922112Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Muchi, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:58:42.516871Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSaEt6bUZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "valdivino neves"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent service...\n\n(Original)\nÓtimo atendimento...",
+    "createTime": "2023-04-16T00:52:15.224009Z",
+    "updateTime": "2023-04-16T00:52:15.224009Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Valdivino, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:58:54.384802Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURSc0xtMHV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Codermatz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-15T19:20:47.178897Z",
+    "updateTime": "2023-04-15T19:20:47.178897Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Jorge, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:59:05.576071Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSMFBHeFpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Dure"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-15T19:05:34.306986Z",
+    "updateTime": "2023-04-15T19:05:34.306986Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Adriana, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:59:14.499816Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURSMFA3OWx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ramon Rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-15T01:02:52.894685Z",
+    "updateTime": "2023-04-15T01:02:52.894685Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Ramon, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:59:23.355376Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSd05yNVZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucio Feldick"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención,  es muy agradable\n\n(Translated by Google)\nExcellent service, very pleasant.",
+    "createTime": "2023-04-08T15:57:44.378398Z",
+    "updateTime": "2023-04-08T15:57:44.378398Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Lucio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:59:32.106810Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSM2NMLWRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Andrade"
+    },
+    "starRating": "FOUR",
+    "comment": "siempre que viajo a Resistencia o a Corrientes es una parada casi obligatoria, le falta un comedor.\n\n(Translated by Google)\nWhenever I travel to Resistencia or Corrientes, it\u0027s almost a mandatory stop; it\u0027s missing a dining area.",
+    "createTime": "2023-04-07T21:03:25.880848Z",
+    "updateTime": "2023-04-07T21:03:25.880848Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Luis, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2023-05-10T14:59:40.402219Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSemFMNjV3RRAB"
+  }]
+}

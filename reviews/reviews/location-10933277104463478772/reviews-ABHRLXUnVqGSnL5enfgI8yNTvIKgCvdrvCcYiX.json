@@ -1,0 +1,186 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jorge Jaime"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-06-21T02:18:03.156101Z",
+    "updateTime": "2022-06-21T02:18:03.156101Z",
+    "reviewReply": {
+      "comment": "Sr. Jaime le agradeceríamos nos cuente un poco más sobre su experiencia ya que su opinión es importante para nosotros. Saludos",
+      "updateTime": "2022-07-14T10:45:58.379638Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPLTd5S2hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Valdez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-20T21:36:33.684322Z",
+    "updateTime": "2022-06-20T21:36:33.684322Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdS1HczZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Alberto Colombo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-20T19:57:09.301458Z",
+    "updateTime": "2022-06-20T19:57:09.301458Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPdV9TWE5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Freytes"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-20T06:16:01.832475Z",
+    "updateTime": "2022-06-20T06:16:01.832475Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPcTcyU3NnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "NICOLAS VICENTE AIMARE VILLANUEVA"
+    },
+    "starRating": "ONE",
+    "comment": "Sin combustible gasoil, estacion de bandera nacional....\n\n(Translated by Google)\nNo diesel fuel, national brand station....",
+    "createTime": "2022-06-20T03:02:17.013101Z",
+    "updateTime": "2022-06-20T03:02:17.013101Z",
+    "reviewReply": {
+      "comment": "Lamentamos que no haya podido cargar Diésel pero es una situación que escapa a nuestras estaciones.",
+      "updateTime": "2022-06-20T04:47:21.752721Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPcTl6OXFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "RUBEN EDUARDO TOSELLO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-19T15:47:03.672331Z",
+    "updateTime": "2022-06-19T15:47:03.672331Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPaV9UU1FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "ivan ivan"
+    },
+    "starRating": "FIVE",
+    "comment": "Como siempre. Muy bien, exelente atención y precios.\n\n(Translated by Google)\nAs always. Very good, excellent service and prices.",
+    "createTime": "2022-06-18T16:08:47.174269Z",
+    "updateTime": "2022-06-18T16:08:48.119021Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNDZHamZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Yani Huppi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-17T03:12:42.914820Z",
+    "updateTime": "2022-06-17T03:12:42.914820Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPbmFpUVpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Zamora"
+    },
+    "starRating": "ONE",
+    "comment": "No pudimos tomar un desayuno todo serrado 6 a.m.\n\n(Translated by Google)\nWe couldn\u0027t have breakfast, everything was closed at 6 a.m.",
+    "createTime": "2022-06-16T23:42:53.639719Z",
+    "updateTime": "2022-06-16T23:42:53.639719Z",
+    "reviewReply": {
+      "comment": "Sr. Zamora el Servicompras de la estación ya está abierto las 24hs. Saludos",
+      "updateTime": "2022-07-14T10:47:15.325396Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPN2RIbWZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ani Baromei"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-14T21:31:44.210050Z",
+    "updateTime": "2022-06-14T21:31:44.210050Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPeGNyY2p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Joaquin Moreno"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-09T02:00:50.199385Z",
+    "updateTime": "2022-06-09T02:00:50.199385Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNXAta2R3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Dutto Avila"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-09T01:08:11.204878Z",
+    "updateTime": "2022-06-09T01:08:11.204878Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPNXB1UzB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Gonzales"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente  de. Confianza\n\n(Translated by Google)\nExcellent. Reliable",
+    "createTime": "2022-06-06T23:44:42.479492Z",
+    "updateTime": "2022-06-06T23:44:42.479492Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPeXVQdHZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Enzo Bertinotti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-06T18:21:10.571964Z",
+    "updateTime": "2022-06-06T18:21:10.571964Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPaXBtZFZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto R Aguilo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-06T00:10:57.582914Z",
+    "updateTime": "2022-06-06T00:10:57.582914Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPa3QyUlpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastereo"
+    },
+    "starRating": "THREE",
+    "comment": "Medio medio no ? En un surtidor solo había super. No infinita. Raro\n\n(Translated by Google)\nSo-so, right? At one pump, there was only premium. Not unlimited. Weird.",
+    "createTime": "2022-06-05T18:46:08.100755Z",
+    "updateTime": "2022-06-05T18:47:14.007553Z",
+    "reviewReply": {
+      "comment": "Buenas tardes y gracias por su comentario. Efectivamente en nuestra estación solo tenemos un producto por surtidor. Saludos cordiales",
+      "updateTime": "2022-06-05T19:01:01.825130Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPNG92SG1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Fabian Senn"
+    },
+    "starRating": "FOUR",
+    "comment": "Bueno, pero nada extraordinario.\n\n(Translated by Google)\nWell, but nothing extraordinary.",
+    "createTime": "2022-06-05T18:01:36.828388Z",
+    "updateTime": "2022-06-05T18:01:36.828388Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNHBYTERnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Bustamante"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-05T13:27:09.198397Z",
+    "updateTime": "2022-06-05T13:27:09.198397Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPb3VtcU5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Magallanes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-03T02:53:33.298076Z",
+    "updateTime": "2022-06-03T02:53:33.298076Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPOU16cGtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anibal Cardozo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien\n\n(Translated by Google)\nVery good",
+    "createTime": "2022-06-02T16:02:54.667611Z",
+    "updateTime": "2022-06-02T16:02:54.667611Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPMUx6N0JBEAE"
+  }]
+}

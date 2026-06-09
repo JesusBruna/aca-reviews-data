@@ -1,0 +1,20 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jorge MALDONADO"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-06-19T05:40:07.098Z",
+    "updateTime": "2016-06-19T05:40:07.098Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3dUlPU0ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge O´Connor"
+    },
+    "starRating": "THREE",
+    "comment": "Aceptan tarjetas de crédito y débito. Auto shop\n\n(Translated by Google)\nThey accept credit and debit cards. Auto shop",
+    "createTime": "2016-05-15T00:41:55.936Z",
+    "updateTime": "2016-05-15T00:42:24.805Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRLWVLSGFBEAE"
+  }]
+}

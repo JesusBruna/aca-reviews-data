@@ -1,0 +1,243 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Julio Vicencio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-28T20:26:55.715069Z",
+    "updateTime": "2023-12-28T20:26:55.715069Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxcHRDWk53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Moyano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-27T19:47:55.117740Z",
+    "updateTime": "2023-12-27T19:47:55.117740Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxNnFQdllBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eugenio Godoy"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-20T22:04:57.666552Z",
+    "updateTime": "2023-12-20T22:04:57.666552Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:32:45.796823Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxMEwzNFpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge eduardo Strippoli"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-15T21:51:15.582024Z",
+    "updateTime": "2023-12-15T21:51:15.582024Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:32:50.959280Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURWODdLQXd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Olguin"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-12-15T14:42:18.478153Z",
+    "updateTime": "2023-12-15T14:42:18.478153Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos y por su comentario!",
+      "updateTime": "2023-12-22T13:33:02.957945Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURWNDVMeEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Petetta"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-13T03:49:35.522130Z",
+    "updateTime": "2023-12-13T03:49:35.522130Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:33:06.992419Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURWcnRlSnZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Ricci"
+    },
+    "starRating": "THREE",
+    "comment": "buen lugar, un poco triste\n\n(Translated by Google)\nNice place, a little sad",
+    "createTime": "2023-12-11T11:50:16.046493Z",
+    "updateTime": "2023-12-11T11:50:16.046493Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su opinión. Le ocmentamos que en breve se realizara una reforma integral de nuestra estación modernizando nuestra imagen y servicios. Saludos.",
+      "updateTime": "2023-12-22T13:32:23.740701Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURWck1paGR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "ana maría Bertella"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-11T01:48:46.454437Z",
+    "updateTime": "2023-12-11T01:48:46.454437Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:33:10.651728Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURWeFBxemVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Simonin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-08T14:32:09.294804Z",
+    "updateTime": "2023-12-08T14:32:09.294804Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:33:15.140955Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWbGZIaDRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Baudino"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y el mejor combustible...\n\n(Translated by Google)\nGreat service and the best fuel...",
+    "createTime": "2023-11-16T02:10:21.792759Z",
+    "updateTime": "2023-12-08T13:59:56.248421Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos y por su comentario!",
+      "updateTime": "2023-12-22T13:33:26.364647Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNscXNIaEFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Donato"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-05T23:28:29.023992Z",
+    "updateTime": "2023-12-05T23:28:29.023992Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:33:30.126847Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWck5DR1FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dayi! Herrera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-01T17:36:55.598180Z",
+    "updateTime": "2023-12-01T17:36:55.598180Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:33:32.949199Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURseHRXNndBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrés Grosso"
+    },
+    "starRating": "FOUR",
+    "comment": "Un poco lento para atender\n\n(Translated by Google)\nA little slow to serve",
+    "createTime": "2023-11-25T15:37:38.707264Z",
+    "updateTime": "2023-11-25T15:37:38.707264Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos! Agradecemos su comentario y haremos nuestro mejor esfuerzo para reducir las demoras de atención.",
+      "updateTime": "2023-12-22T13:34:06.904615Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsd19EUGhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Beatriz Bustos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-24T17:00:38.751350Z",
+    "updateTime": "2023-11-24T17:00:38.751350Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:34:10.259407Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsN2FfaGRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Grassani"
+    },
+    "starRating": "FIVE",
+    "comment": "Cómodo\n\n(Translated by Google)\nComfortable",
+    "createTime": "2023-11-22T23:18:52.254715Z",
+    "updateTime": "2023-11-23T15:09:31.786590Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:34:14.515612Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNscGFyUFdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Zayas"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio, excelente limpieza y orden.\n\n(Translated by Google)\nVery good service, excellent cleanliness and order.",
+    "createTime": "2023-11-21T16:29:49.255863Z",
+    "updateTime": "2023-11-21T16:29:49.255863Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos y por sus comentarios!",
+      "updateTime": "2023-12-22T13:34:23.040387Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscWVlZnFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mónica Barberis"
+    },
+    "starRating": "THREE",
+    "comment": "El baño impecable.... no hay opciones saludables en el snack bar\n\n(Translated by Google)\nThe bathroom was spotless.... there are no healthy options at the snack bar",
+    "createTime": "2023-11-20T21:06:05.223362Z",
+    "updateTime": "2023-11-20T21:06:05.223362Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos y por su sugerencia. Tendremos en cuenta su comentario para reforzar nuestra oferta de productos.",
+      "updateTime": "2023-12-22T13:34:53.007696Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsc1pqSHdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "viviana nanci carasa bello"
+    },
+    "starRating": "FOUR",
+    "comment": "Personal muy amable. Baños limpios y en buenas condiciones.\n\n(Translated by Google)\nVery friendly staff. Clean and well-maintained restrooms.",
+    "createTime": "2023-11-19T23:17:50.977451Z",
+    "updateTime": "2023-11-19T23:17:50.977451Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos y por sus comentarios!",
+      "updateTime": "2023-12-22T13:35:02.076551Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsZ2EyWXp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Ramella"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-19T16:02:35.590585Z",
+    "updateTime": "2023-11-19T16:02:35.590585Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:35:05.321416Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsX3JDbHp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "charly lang"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-15T16:17:38.963377Z",
+    "updateTime": "2023-11-15T16:17:38.963377Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos!",
+      "updateTime": "2023-12-22T13:35:08.167625Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsaXZUbjFBRRAB"
+  }]
+}

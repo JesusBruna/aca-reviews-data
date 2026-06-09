@@ -1,0 +1,255 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Oscar Fenocchio"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención y calidad de sus productos\n\n(Translated by Google)\nExcellent service and quality of products",
+    "createTime": "2023-09-09T22:17:08.779885Z",
+    "updateTime": "2023-09-09T22:17:08.779885Z",
+    "reviewReply": {
+      "comment": "Oscar gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-09-09T22:32:21.227590Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabHQ3NkJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nico Fino"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente precio y calidad comidas caseras y abundantes\n\n(Translated by Google)\nExcellent price and quality homemade and abundant meals",
+    "createTime": "2023-09-08T20:22:03.931234Z",
+    "updateTime": "2023-09-08T20:22:03.931234Z",
+    "reviewReply": {
+      "comment": "Nico gracias por su calificación y comentario. Esperamos su pronta visita ",
+      "updateTime": "2023-09-08T22:44:33.706850Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMnJIdnd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romi"
+    },
+    "starRating": "THREE",
+    "comment": "Mala atención en shop...solo nafta premium.\n\n(Translated by Google)\nPoor service at the shop...only premium gasoline.",
+    "createTime": "2023-09-06T12:19:33.969027Z",
+    "updateTime": "2023-09-06T12:19:33.969027Z",
+    "reviewReply": {
+      "comment": "Romina gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-09-06T12:45:38.880668Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNadktxM09BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ing. Dario Martinez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-05T15:58:40.542644Z",
+    "updateTime": "2023-09-05T15:58:40.542644Z",
+    "reviewReply": {
+      "comment": "Dario gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-09-05T16:35:48.195452Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaekpxaF9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paul godoy"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-05T15:54:13.735123Z",
+    "updateTime": "2023-09-05T15:54:13.735123Z",
+    "reviewReply": {
+      "comment": "Paul gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-09-05T16:27:17.881602Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaek1xMFZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "gerardo castillo"
+    },
+    "starRating": "FOUR",
+    "comment": "De primera\n\n(Translated by Google)\nTop-notch",
+    "createTime": "2023-08-31T15:06:40.899218Z",
+    "updateTime": "2023-08-31T15:06:40.899218Z",
+    "reviewReply": {
+      "comment": "Gerardo gracias por tu calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-31T15:23:53.088213Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwejV5SUR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Cisterna"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-31T01:44:00.921961Z",
+    "updateTime": "2023-08-31T01:44:00.921961Z",
+    "reviewReply": {
+      "comment": "Mariano gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-31T02:08:17.699376Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwMTZXTkJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Joaquin Latorre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-27T03:03:08.849846Z",
+    "updateTime": "2023-08-27T03:03:08.849846Z",
+    "reviewReply": {
+      "comment": "Joaquin gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-27T03:22:49.766134Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwN1pLTGJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Megey"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención\n\n(Translated by Google)\nThe service was very good.",
+    "createTime": "2023-08-27T02:50:46.759430Z",
+    "updateTime": "2023-08-27T02:50:46.759430Z",
+    "reviewReply": {
+      "comment": "Alejandro gracias por su calificación y comentario. Esperamos su pronta visita ",
+      "updateTime": "2023-08-27T03:03:39.412345Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURwN1lLNG93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Alexis Castaño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-26T22:48:35.269144Z",
+    "updateTime": "2023-08-26T22:48:35.269144Z",
+    "reviewReply": {
+      "comment": "Omar gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-09-05T16:36:25.223224Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwcmVHNUhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Lew"
+    },
+    "starRating": "FIVE",
+    "comment": "Punto estrategico....buen servicio\n\n(Translated by Google)\nStrategic location...good service",
+    "createTime": "2023-08-25T00:48:08.958452Z",
+    "updateTime": "2023-08-25T00:48:08.958452Z",
+    "reviewReply": {
+      "comment": "Marcelo gracias por su comentario y calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-25T01:13:49.923057Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwMmF5N2R3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Martinez"
+    },
+    "starRating": "ONE",
+    "comment": "Jamas tienen comida caliente. Sólo para dessyunos o meriendas.\n\n(Translated by Google)\nThey never have hot food. Only for breakfast or snacks.",
+    "createTime": "2023-08-24T21:11:08.433412Z",
+    "updateTime": "2023-08-24T21:11:08.433412Z",
+    "reviewReply": {
+      "comment": "Cecilia gracias por su comentario. Cecilia Tuvimos problema de logística en la entrega de productos .Estamos trabajando para un mejor servicio. Esperamos su pronta visita ",
+      "updateTime": "2023-08-25T01:17:07.065314Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURwbWE2UHl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "anibal Baena"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente la atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-08-24T17:59:26.896196Z",
+    "updateTime": "2023-08-24T17:59:26.896196Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-24T20:29:47.569678Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURwNmE2eTNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Nuñez"
+    },
+    "starRating": "THREE",
+    "comment": "Malísimo el café. Re incompleto de productos.\n\n(Translated by Google)\nThe coffee was terrible. The selection of products was very limited.",
+    "createTime": "2023-08-24T11:20:17.753709Z",
+    "updateTime": "2023-08-24T11:20:17.753709Z",
+    "reviewReply": {
+      "comment": "Fernando gracias por su comentario y calificación. Estamos trabajando para un mejor servicio. Esperamos su pronta visita ",
+      "updateTime": "2023-08-24T20:30:53.612483Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURweWJEYnN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan R"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-22T12:01:39.972483Z",
+    "updateTime": "2023-08-22T12:01:39.972483Z",
+    "reviewReply": {
+      "comment": "Juan gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-22T21:55:01.369789Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwN3Y2bWZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Castro"
+    },
+    "starRating": "FIVE",
+    "comment": "Atencion Super Buena , Buenos Precios ,\n\n(Translated by Google)\nExcellent service, good prices.",
+    "createTime": "2023-08-21T23:36:34.858830Z",
+    "updateTime": "2023-08-21T23:36:34.858830Z",
+    "reviewReply": {
+      "comment": "Daniel gracias por su comentario y calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-22T21:54:30.999496Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwanR5b01REAE"
+  }, {
+    "reviewer": {
+      "displayName": "jorge ramirez"
+    },
+    "starRating": "THREE",
+    "comment": "Muy lindo espacio. Sanitarios limpios. El internet no funciona bien, con lo cual la aplicación para cargar combustible no se puede utilizar. Ojalá reparen este detalle\n\n(Translated by Google)\nVery nice space. Clean restrooms. The internet isn\u0027t working well, so the fuel app can\u0027t be used. Hopefully, they\u0027ll fix this soon.",
+    "createTime": "2023-08-21T21:59:34.289704Z",
+    "updateTime": "2023-08-21T21:59:34.289704Z",
+    "reviewReply": {
+      "comment": "Jorge gracias por su comentario y calificación. Estamos trabajando para un mejor servicio. Esperamos su pronta visita ",
+      "updateTime": "2023-08-22T21:53:55.814518Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwOXVlUEt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Zarratea"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-19T09:32:01.698046Z",
+    "updateTime": "2023-08-19T09:32:01.698046Z",
+    "reviewReply": {
+      "comment": "Jorge gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-20T02:28:08.414899Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURwc3ZMZnZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Mazzina"
+    },
+    "starRating": "THREE",
+    "comment": "Lindo descanso luego del camino del desierto!!! El ACA siempre ayuda! Los caminos un desastre! La ruta nacional destruida! Una vergüenza!\n\n(Translated by Google)\nNice rest after the desert journey! The ACA always helps! The roads are a disaster! The national highway destroyed! A disgrace!",
+    "createTime": "2023-08-19T02:29:55.553299Z",
+    "updateTime": "2023-08-19T02:29:55.553299Z",
+    "reviewReply": {
+      "comment": "Marcelo gracias por su comentario y calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-20T02:27:37.797821Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURwa3JtaDJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cespablo CS"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-17T23:47:21.371280Z",
+    "updateTime": "2023-08-17T23:47:21.371280Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación. Esperamos su pronta visita ",
+      "updateTime": "2023-08-17T23:59:58.916088Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURwM09UNkNBEAE"
+  }]
+}

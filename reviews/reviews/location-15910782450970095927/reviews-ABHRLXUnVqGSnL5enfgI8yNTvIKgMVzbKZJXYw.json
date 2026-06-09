@@ -1,0 +1,245 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Sergio Gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-24T21:55:33.910483Z",
+    "updateTime": "2021-12-24T21:55:33.910483Z",
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtcW91UktREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marilyn Liebrecht"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-23T19:10:13.275704Z",
+    "updateTime": "2021-12-23T19:10:13.275704Z",
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtc29Qc2NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Me la olvidé a mi hija una vez!!! 🤭🤭 porque tardaban mucho con la comida. Pero después? Son geniales.\n\n(Translated by Google)\nI forgot to order it for my daughter once!!! 🤭🤭 because they took so long with the food. But after that? They\u0027re great.",
+    "createTime": "2021-12-22T22:24:21.508390Z",
+    "updateTime": "2021-12-22T22:24:22.935817Z",
+    "reviewReply": {
+      "comment": "Buenas tardes, Alejandra. Muchas gracias por tu calificacion.  Saludos YPF",
+      "updateTime": "2022-02-25T17:44:23.985531Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNHZUVUZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Padilla"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-22T21:14:04.809101Z",
+    "updateTime": "2021-12-22T21:14:04.809101Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Raúl, gracias por tu calificación. Saludos YPF",
+      "updateTime": "2022-02-25T17:47:05.947813Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtb3ZfNXFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Ariel Gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Impecable!!!!!\n\n(Translated by Google)\nFlawless!!!!!",
+    "createTime": "2021-12-22T19:47:13.279676Z",
+    "updateTime": "2021-12-22T19:47:13.279676Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Cristian, gracias por tu valoración. Saludos YPF",
+      "updateTime": "2022-02-25T17:46:06.347591Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtb3IyOWt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "roberto suarez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy atentos siempre paso x ahi\n\n(Translated by Google)\nVery attentive, I always pass by there.",
+    "createTime": "2021-12-20T22:55:43.744983Z",
+    "updateTime": "2021-12-20T22:55:45.293991Z",
+    "reviewReply": {
+      "comment": "Hola Roberto. Muchas gracias por tu comentario y valoracion. Saludos YPF",
+      "updateTime": "2021-12-21T19:11:01.329812Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtclBIdGZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nelson Centioni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-19T01:55:05.127415Z",
+    "updateTime": "2021-12-19T01:55:05.127415Z",
+    "reviewReply": {
+      "comment": "Hola Nelson. Muchas gracias por tu calificacion. Saludos YPF",
+      "updateTime": "2021-12-21T19:09:45.051552Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtcEtQRVVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Ambort"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio.\n\n(Translated by Google)\nVery good service.",
+    "createTime": "2021-12-17T22:15:18.489843Z",
+    "updateTime": "2021-12-17T22:15:18.489843Z",
+    "reviewReply": {
+      "comment": "Hola Daniel. Muchas gracias por tu valoracion. Saludos YPF",
+      "updateTime": "2021-12-21T19:09:04.453028Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdUlLNFhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jonas Navarro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-17T11:30:48.327409Z",
+    "updateTime": "2021-12-17T11:30:48.327409Z",
+    "reviewReply": {
+      "comment": "Hola Cooky. Muchas gracias por calificarnos. Saludos YPF",
+      "updateTime": "2021-12-21T19:08:15.520821Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtbUpDVnlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "FER Rollando Bruera"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables!. Muy buena atención\n\n(Translated by Google)\nVery friendly! Very good service.",
+    "createTime": "2021-12-15T02:42:02.352670Z",
+    "updateTime": "2021-12-15T02:42:02.352670Z",
+    "reviewReply": {
+      "comment": "Hola FEFE. Muchas gracias por tu calificacion. Saludos YPF",
+      "updateTime": "2021-12-21T19:07:17.906585Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtd051MEdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "cecilia bellocq"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buen lugar y atencion..\n\n(Translated by Google)\nVery good place and service.",
+    "createTime": "2021-12-14T10:07:14.416001Z",
+    "updateTime": "2021-12-14T10:07:14.416001Z",
+    "reviewReply": {
+      "comment": "Hola Cecilia. Muchas gracias por tu calificacion. Saludos YPF",
+      "updateTime": "2021-12-17T18:59:40.870393Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSURHdjk3RFdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio y atención\n\n(Translated by Google)\nVery good service and attention",
+    "createTime": "2021-12-09T17:25:11.304538Z",
+    "updateTime": "2021-12-09T17:25:11.304538Z",
+    "reviewReply": {
+      "comment": "Hola Fabian, te agradezco por tu puntuación. Te esperamos nuevamente. Saludos YPF",
+      "updateTime": "2021-12-09T18:37:50.038645Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSURHcV9pc0JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jor Roggero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-09T01:48:48.051398Z",
+    "updateTime": "2021-12-09T01:48:48.051398Z",
+    "reviewReply": {
+      "comment": "Hola Jor, gracias por tu puntuacion. Te esperamos nuevamente. Saludos YPF",
+      "updateTime": "2021-12-10T19:28:12.161275Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSURHczVmaFF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nor Sand"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-08T06:01:21.896621Z",
+    "updateTime": "2021-12-08T06:01:21.896621Z",
+    "reviewReply": {
+      "comment": "Hola Nor, gracias por tu puntuacion. Te esperamos Nuevamente. Saludos YPF",
+      "updateTime": "2021-12-10T19:29:48.414572Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSURHNDVDbDB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Ayala"
+    },
+    "starRating": "THREE",
+    "comment": "Lugar agradable ..para almorzar los chicos son amable\nY los chicos que atienden el surtidor de NAFTA son amables y educados ...\n\n(Translated by Google)\nNice place for lunch, the staff are friendly.\nAnd the guys who work at the gas pump are friendly and polite.",
+    "createTime": "2021-12-07T19:18:21.879870Z",
+    "updateTime": "2021-12-07T19:18:21.879870Z",
+    "reviewReply": {
+      "comment": "Hola Mirta, Gracias por puntuar. En que deberiamos mejorar para obtener 5 estrellas?. Saludos YPF",
+      "updateTime": "2021-12-10T19:31:32.774493Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChZDSUhNMG9nS0VJQ0FnSURHd19ySkRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Taboro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-06T03:42:48.751310Z",
+    "updateTime": "2021-12-06T03:42:48.751310Z",
+    "reviewReply": {
+      "comment": "Hola Carolina, Gracias por tu calificacion. Saludos YPF",
+      "updateTime": "2021-12-10T19:32:42.210366Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSURHemRuUXdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Flor Pochettino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-28T15:48:04.841916Z",
+    "updateTime": "2021-11-28T15:48:04.841916Z",
+    "reviewReply": {
+      "comment": "Hola Flor, gracias por tu calificacion. Saludos YPF",
+      "updateTime": "2021-12-10T19:33:22.306124Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSURHcm9uN2xRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabrizio Novello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-25T16:12:43.158166Z",
+    "updateTime": "2021-11-25T16:12:43.158166Z",
+    "reviewReply": {
+      "comment": "Hola Frabrizio, gracias por tu calificacion. Saludos YPF",
+      "updateTime": "2021-12-10T19:34:12.303556Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSURHLXU2N3hBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JJUAAN JPJ"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y accedo rapido\n\n(Translated by Google)\nGood service and quick access",
+    "createTime": "2021-11-25T14:14:25.141105Z",
+    "updateTime": "2021-11-25T14:14:25.141105Z",
+    "reviewReply": {
+      "comment": "Hola Juampi, Gracias por tu calificacion. Saludos YPF",
+      "updateTime": "2021-12-10T19:34:59.523480Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSURHLXRDUC13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pedros Bravos"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables el personal nada que ver con ceres muy conforme.\n\n(Translated by Google)\nThe staff were very friendly, nothing like Ceres, very satisfied.",
+    "createTime": "2021-11-23T23:39:47.156080Z",
+    "updateTime": "2021-11-23T23:39:47.156080Z",
+    "reviewReply": {
+      "comment": "Hola Pedro, gracias por tu calificacion. Saludos YPF",
+      "updateTime": "2021-12-10T19:35:41.425581Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15910782450970095927/reviews/ChdDSUhNMG9nS0VJQ0FnSURHaXJuTTBBRRAB"
+  }]
+}

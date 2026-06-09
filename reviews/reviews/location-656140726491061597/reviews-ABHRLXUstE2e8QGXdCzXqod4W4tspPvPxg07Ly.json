@@ -1,0 +1,248 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Paola emilse Veron"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-04-01T06:09:52.032454Z",
+    "updateTime": "2022-04-01T06:09:52.032454Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2022-08-30T16:43:22.762353Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbmN5TVVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noemi Silvia Ureta"
+    },
+    "starRating": "FIVE",
+    "comment": "Totalmente recomendable\n\n(Translated by Google)\nHighly recommended",
+    "createTime": "2022-03-31T19:16:39.851329Z",
+    "updateTime": "2022-03-31T19:16:39.851329Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2022-04-01T14:15:31.989177Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXcmU3NGVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Fernandez Acevedo"
+    },
+    "starRating": "FOUR",
+    "comment": "Hamburguesas espectaculares!!!\n\n(Translated by Google)\nSpectacular burgers!!!",
+    "createTime": "2022-03-31T17:45:39.090941Z",
+    "updateTime": "2022-03-31T17:45:39.090941Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-03-31T18:04:59.632899Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXcmFUUXd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Huayquillan"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion de las empleadas muy sociable Y QUE LE AUMENTEN EL SUELDO\n\n(Translated by Google)\nExcellent service from the employees, very sociable, AND THEY SHOULD GET A RAISE",
+    "createTime": "2022-03-30T22:34:16.328638Z",
+    "updateTime": "2022-03-30T22:34:16.328638Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-03-31T18:05:49.972445Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdFoyN2FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Segura"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-28T12:10:37.844525Z",
+    "updateTime": "2022-03-28T12:10:37.844525Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2022-08-30T16:43:17.040538Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXNmZUNlh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Szaingurten"
+    },
+    "starRating": "FOUR",
+    "comment": "Una estación de servicio. Atención amable.\n\n(Translated by Google)\nA gas station. Friendly service.",
+    "createTime": "2022-03-24T23:04:36.698130Z",
+    "updateTime": "2022-03-24T23:04:36.698130Z",
+    "reviewReply": {
+      "comment": "Gracias.",
+      "updateTime": "2022-03-28T15:43:03.160099Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXbnV6UXlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "sebastian Rivero"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención del playero más viejo\n\n(Translated by Google)\nVery good attention from the oldest beach attendant",
+    "createTime": "2022-03-24T22:25:22.972026Z",
+    "updateTime": "2022-03-24T22:25:22.972026Z",
+    "reviewReply": {
+      "comment": "Se lo transmitiremos, gracias.",
+      "updateTime": "2022-03-28T15:42:50.120238Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXbnJqYjNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Romero"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención de los muchachos de playa.\n\n(Translated by Google)\nExcellent service from the beach staff.",
+    "createTime": "2022-03-24T19:45:11.268304Z",
+    "updateTime": "2022-03-24T19:45:11.268304Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2022-03-28T15:42:22.914218Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXN3Q2bUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Fnk"
+    },
+    "starRating": "FOUR",
+    "comment": "Mejoren el camping, mejoraria la pobre oferta del sector de café.\n\n(Translated by Google)\nImprove the campsite; it would improve the poor offerings in the coffee sector.",
+    "createTime": "2022-03-23T14:56:14.475458Z",
+    "updateTime": "2022-03-23T14:56:14.475458Z",
+    "reviewReply": {
+      "comment": "Comenzamos a trabajar en eso, gracias por su comentario.",
+      "updateTime": "2022-03-24T10:36:54.382787Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMXEtZ3dBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Maria Curci"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-22T16:50:19.157873Z",
+    "updateTime": "2022-03-22T16:50:19.157873Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2022-08-30T16:43:14.733392Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXeHYyTHN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Una vueltita por mi Pais"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-21T18:18:44.058030Z",
+    "updateTime": "2022-03-21T18:18:44.058030Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2022-08-30T16:43:11.100193Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMnBiYWpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Altamirano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-21T16:13:39.998128Z",
+    "updateTime": "2022-03-21T16:13:39.998128Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2022-08-30T16:43:07.806134Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbW8tNFpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucia Fiorenzo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención!  👍 Empleados con predisposición.\n\n(Translated by Google)\nGreat service! 👍 Helpful staff.",
+    "createTime": "2022-03-21T14:25:16.486926Z",
+    "updateTime": "2022-03-21T14:25:16.486926Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario.",
+      "updateTime": "2022-03-21T19:51:54.291725Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbXY2SVRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Bodega"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!!!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2022-03-19T22:06:15.112615Z",
+    "updateTime": "2022-03-19T22:06:15.112615Z",
+    "reviewReply": {
+      "comment": "Gracias.",
+      "updateTime": "2022-03-21T19:51:28.053123Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMHA2ZGhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "STELLA MARIS BARREYRO"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención como todos los servicios de YPF\n\n(Translated by Google)\nExcellent service, as with all YPF services.",
+    "createTime": "2022-03-18T16:38:05.039781Z",
+    "updateTime": "2022-03-18T16:38:05.039781Z",
+    "reviewReply": {
+      "comment": "Muchas gracias\nPertenecemos a la red de estaciones del AUTOMOVIL CLUB ARGENTINO.",
+      "updateTime": "2022-03-21T19:51:12.220871Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXX04tVTNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Edgardo Quintas"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-03-17T11:07:18.113684Z",
+    "updateTime": "2022-03-17T11:07:18.113684Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXck1ycU5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dante Cardozo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, lindo lugar para desayuno.\n\n(Translated by Google)\nExcellent service, lovely place for breakfast.",
+    "createTime": "2022-03-16T03:45:55.848883Z",
+    "updateTime": "2022-03-16T03:45:55.848883Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2022-03-17T12:04:40.097367Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbE1MRlRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Varela"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-16T02:12:23.269686Z",
+    "updateTime": "2022-03-16T02:12:23.269686Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbEtDdE5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "monica maldonado"
+    },
+    "starRating": "FOUR",
+    "comment": "Solamente paso a cargar combustible alguna vez\n\n(Translated by Google)\nI only stop to refuel occasionally.",
+    "createTime": "2022-03-16T00:15:32.636091Z",
+    "updateTime": "2022-03-16T00:18:27.518989Z",
+    "reviewReply": {
+      "comment": "Gracias por elegirnos",
+      "updateTime": "2022-03-17T12:04:20.544487Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURXNVA2elpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Martin Brassart"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-03-14T16:38:41.525203Z",
+    "updateTime": "2022-03-14T16:38:41.525203Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-03-17T12:02:28.683876Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMlBqZ3hBRRAB"
+  }]
+}

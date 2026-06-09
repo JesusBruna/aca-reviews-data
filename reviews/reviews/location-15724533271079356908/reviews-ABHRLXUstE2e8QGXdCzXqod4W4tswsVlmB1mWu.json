@@ -1,0 +1,184 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Raymundo Sosa Quintana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-09-30T02:09:26.487385Z",
+    "updateTime": "2020-09-30T02:09:26.487385Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSURDb1lhZDhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-09-05T14:12:37.774354Z",
+    "updateTime": "2020-09-05T14:12:37.774354Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDaDV6b2pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Guzmán Arias"
+    },
+    "starRating": "TWO",
+    "comment": "Cafetería solo lo elemental .\nBuen café.\n\n(Translated by Google)\nCafeteria with just the essentials.\nGood coffee.",
+    "createTime": "2018-05-31T00:52:29.352Z",
+    "updateTime": "2020-08-31T16:26:03.549118Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRc1B1Q0pnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Dana"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-08-30T16:55:04.284853Z",
+    "updateTime": "2020-08-30T16:55:04.284853Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDNWZQOE1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "GABRIELA MANZUR"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-08-26T16:48:11.274628Z",
+    "updateTime": "2020-08-26T16:48:11.274628Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDc1lyNkhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Ariel Sosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-08-21T18:58:23.337427Z",
+    "updateTime": "2020-08-21T18:58:23.337427Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDdHVyNlBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "uMaria Del Mar Ramia Damario"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-08-18T20:45:53.935523Z",
+    "updateTime": "2020-08-18T20:45:53.935523Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDOG8zWWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "luis ponce"
+    },
+    "starRating": "THREE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-08-17T20:26:14.805475Z",
+    "updateTime": "2020-08-17T20:26:14.805475Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDa3ZTTXZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Martinez Albertazzi"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena y rapida atencion\n\n(Translated by Google)\nGood and fast service",
+    "createTime": "2020-08-17T00:26:55.578795Z",
+    "updateTime": "2020-08-17T00:26:55.578795Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDd3Y2bHpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Terraza"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy Buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-08-15T19:12:11.996162Z",
+    "updateTime": "2020-08-15T19:12:26.886039Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDM0tmQW93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín miguel Yapura"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-06-01T22:48:11.847137Z",
+    "updateTime": "2020-08-08T15:56:51.482470Z",
+    "reviewReply": {
+      "comment": "Quisiéramos saber a que se debe su disconformidad ya que no fue aclarada al ponernos una estrella",
+      "updateTime": "2020-06-02T10:42:51.925406Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSURjb3ItQlZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Recina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-08-01T14:46:47.419884Z",
+    "updateTime": "2020-08-01T14:46:47.419884Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4cDZxc0tBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Morales"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-30T15:36:47.067853Z",
+    "updateTime": "2020-07-30T15:36:47.067853Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4bTVpR2NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Leiva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-27T17:15:35.580566Z",
+    "updateTime": "2020-07-27T17:15:35.580566Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4dzRTdVR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "jose matias lemir"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-27T13:18:02.766837Z",
+    "updateTime": "2020-07-27T13:18:02.766837Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4Zy03ajd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Jurado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-17T23:41:09.465625Z",
+    "updateTime": "2020-07-17T23:41:09.465625Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4bEx6SlZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Eugenio Gutierrez Martinez"
+    },
+    "starRating": "TWO",
+    "comment": "Mala atención\n\n(Translated by Google)\nPoor service",
+    "createTime": "2020-07-17T17:10:32.701986Z",
+    "updateTime": "2020-07-17T17:10:35.153245Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4OFBUdW13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Pagano"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno el servicio\n\n(Translated by Google)\nThe service was very good.",
+    "createTime": "2020-07-16T10:56:23.658435Z",
+    "updateTime": "2020-07-16T10:56:43.997827Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su valoracion",
+      "updateTime": "2023-02-02T17:03:55.847761Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4bDg3b3BnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fermin Gutierrez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar, pulcritud y buena atencion.\n\n(Translated by Google)\nGood place, clean and good service.",
+    "createTime": "2020-07-15T15:50:39.293255Z",
+    "updateTime": "2020-07-15T15:50:46.232500Z",
+    "reviewReply": {
+      "comment": "Muchas gracias...nos esforzamos y mas aun en estos tiempos por la limpieza.",
+      "updateTime": "2020-07-15T17:53:55.895097Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChRDSUhNMG9nS0VJQ0FnSUM4Ni1zUxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Freddy Ernesto Guevara"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2020-07-14T22:30:04.527854Z",
+    "updateTime": "2020-07-14T22:30:04.527854Z",
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4eV91b3NRRRAB"
+  }]
+}

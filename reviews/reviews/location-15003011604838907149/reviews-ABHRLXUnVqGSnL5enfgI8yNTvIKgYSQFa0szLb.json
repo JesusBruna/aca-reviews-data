@@ -1,0 +1,250 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "andre albe"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-25T18:06:40.208478Z",
+    "updateTime": "2023-07-25T18:06:40.208478Z",
+    "reviewReply": {
+      "comment": "Buen día Andre! muchas gracias por calificarnos, que tengas una buena semana. Saludos!",
+      "updateTime": "2023-07-26T11:41:58.708888Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSURKbjcyTENBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patri Edu"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-07-24T21:24:37.597286Z",
+    "updateTime": "2023-07-24T21:24:37.597286Z",
+    "reviewReply": {
+      "comment": "Hola buenas noches, gracias por calificarnos. Lamentamos no haber brindado un mejor servicio. Cualquier inquietud pueden escribirnos a YPFACA352@gmail.com Saludos!",
+      "updateTime": "2023-07-24T23:38:21.580643Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChRDSUhNMG9nS0VJQ0FnSURKdF9FWhAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Augusto Canelas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-23T11:08:20.579280Z",
+    "updateTime": "2023-07-23T11:08:20.579280Z",
+    "reviewReply": {
+      "comment": "Buen día Juan! Muchas gracias por la calificación, saludos y buen domingo!",
+      "updateTime": "2023-07-23T11:29:10.006665Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChdDSUhNMG9nS0VJQ0FnSURKbTZ1RjRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Bonorino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-19T01:57:47.483495Z",
+    "updateTime": "2023-07-19T01:57:47.483495Z",
+    "reviewReply": {
+      "comment": "Buen día Rodrigo! Muchas gracias por calificarnos! Saludos!",
+      "updateTime": "2023-07-19T14:59:25.452367Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSURKc2JhQlRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Desconocido"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-18T14:25:58.301814Z",
+    "updateTime": "2023-07-18T14:25:58.301814Z",
+    "reviewReply": {
+      "comment": "Buen día Alejandro! Muchas gracias por calificarnos! Saludos!",
+      "updateTime": "2023-07-19T14:59:07.286245Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChdDSUhNMG9nS0VJQ0FnSURKb1pmVzF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Franco"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-07-16T15:18:45.264436Z",
+    "updateTime": "2023-07-16T15:18:45.264436Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Martín, gracias por calificarnos, esperamos mejorar la próxima, saludos y buen Domingo!",
+      "updateTime": "2023-07-16T21:18:58.566330Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChdDSUhNMG9nS0VJQ0FnSURKMXBQQTZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jose luis roldan"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención rápida y cordial\n\n(Translated by Google)\nFast and friendly service",
+    "createTime": "2023-07-16T01:12:41.643305Z",
+    "updateTime": "2023-07-16T01:12:41.643305Z",
+    "reviewReply": {
+      "comment": "Hola José Luis! Muchas gracias por calificarnos y por el comentario! Saludos!",
+      "updateTime": "2023-07-16T21:17:57.470199Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSURKcHNDSEpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre recomendable y de confianza\n\n(Translated by Google)\nAlways recommended and trustworthy",
+    "createTime": "2023-07-09T16:23:58.003431Z",
+    "updateTime": "2023-07-09T16:23:58.003431Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Pablo! Muchas gracias por calificarnos y sobre todo por la confianza! Saludos y que tengas una gran semana!",
+      "updateTime": "2023-07-09T21:32:40.961868Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChdDSUhNMG9nS0VJQ0FnSURKOE5fTHJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "raul christian sanchez portillo"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buen café y excelente atención. Le falta conexión WiFi.\n\n(Translated by Google)\nVery good coffee and excellent service. It lacks Wi-Fi.",
+    "createTime": "2023-07-03T02:45:20.889687Z",
+    "updateTime": "2023-07-03T02:45:20.889687Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Raúl! Muchas gracias por calificarnos. Tenemos WIFI, quizás hubo algún inconveniente momentáneo. Saludos y que tengas una gran semana!",
+      "updateTime": "2023-07-09T21:34:01.129603Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKbllHV3p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-28T01:05:14.082572Z",
+    "updateTime": "2023-06-28T01:05:14.082572Z",
+    "reviewReply": {
+      "comment": "Hola Gonzalo! Muchas gracias por calificarnos, que tengas un gran día, saludos!",
+      "updateTime": "2023-06-28T14:31:14.226320Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKM283cHRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Vuchevich"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-14T22:20:28.201046Z",
+    "updateTime": "2023-06-27T22:05:18.245353Z",
+    "reviewReply": {
+      "comment": "Buen día Marcelo! Muchas gracias por calificarnos,  saludos!",
+      "updateTime": "2023-06-15T14:40:46.538382Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4aS1YNWZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luciana González"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-24T09:56:49.864988Z",
+    "updateTime": "2023-06-24T09:56:49.864988Z",
+    "reviewReply": {
+      "comment": "Hola Luciana! Muchas gracias por calificarnos! Buen fin de semana 😁 ",
+      "updateTime": "2023-06-25T02:18:57.246474Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKc3V6eUVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pameli Federico"
+    },
+    "starRating": "ONE",
+    "comment": "malisimo servicio no tiene baños\n\n(Translated by Google)\nTerrible service, no bathrooms",
+    "createTime": "2023-06-21T20:42:33.371742Z",
+    "updateTime": "2023-06-21T20:42:33.371742Z",
+    "reviewReply": {
+      "comment": "Buen día Federico! Te pedimos disculpas. La empresa Edesur rompió el caño cloacasl en la calle 9 de julio. Lamentablemente no tuvimos otra solución. Saludos y disculpas por las molestias.",
+      "updateTime": "2023-06-22T13:29:36.985254Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKdEt1T0l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elizabeth Avila"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-21T13:45:18.015234Z",
+    "updateTime": "2023-06-21T13:45:18.015234Z",
+    "reviewReply": {
+      "comment": "Buen día! Muchas gracias por calificarnos! Saludos 🤗 ",
+      "updateTime": "2023-06-22T13:29:58.850769Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKbE1IR2RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "CROMA STREAM"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-21T01:48:03.949094Z",
+    "updateTime": "2023-06-21T01:48:03.949094Z",
+    "reviewReply": {
+      "comment": "Buen día! Muchas gracias por calificarnos saludos!",
+      "updateTime": "2023-06-22T13:27:13.019027Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKeE9INE9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Umpierrez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-19T01:16:36.349134Z",
+    "updateTime": "2023-06-19T01:16:36.349134Z",
+    "reviewReply": {
+      "comment": "Buenos días Adrian! muchas gracias por calificarnos, saludos!",
+      "updateTime": "2023-06-20T12:46:06.529454Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKa05TUEFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Moscoso Zanone"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-16T23:20:09.093361Z",
+    "updateTime": "2023-06-16T23:20:09.093361Z",
+    "reviewReply": {
+      "comment": "Buen día Francisco! Muchas gracias por calificarnos,  saludos 🤗 ",
+      "updateTime": "2023-06-17T15:39:15.534179Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4dDVfUXhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nico Sanso"
+    },
+    "starRating": "FOUR",
+    "comment": "Exelente lugar\n\n(Translated by Google)\nExcellent place",
+    "createTime": "2023-06-16T10:09:34.369827Z",
+    "updateTime": "2023-06-16T10:09:34.369827Z",
+    "reviewReply": {
+      "comment": "Buen día Nico! Muchas gracias por calificarnos! Saludos y buen fin de semana!",
+      "updateTime": "2023-06-17T15:40:02.049571Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4cDkzZEp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Denice González"
+    },
+    "starRating": "FOUR",
+    "comment": "Similares características al resto de las estaciones de servicio de la marca.\n\n(Translated by Google)\nSimilar characteristics to the rest of the brand\u0027s service stations.",
+    "createTime": "2023-06-16T04:58:44.207941Z",
+    "updateTime": "2023-06-16T04:58:44.207941Z",
+    "reviewReply": {
+      "comment": "Buen día Denice! Muchas gracias por calificarnos! Saludos y buen fin de semana!",
+      "updateTime": "2023-06-17T15:40:44.352581Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4eDlyRVFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "edgardo ciarlantini"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-06-15T18:47:45.115368Z",
+    "updateTime": "2023-06-15T18:47:45.115368Z",
+    "reviewReply": {
+      "comment": "Buen día Edgardo! Muchas gracias por calificarnos,  saludos y buen fin de semana 😁 ",
+      "updateTime": "2023-06-17T15:41:33.879357Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15003011604838907149/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4dThuQUhREAE"
+  }]
+}

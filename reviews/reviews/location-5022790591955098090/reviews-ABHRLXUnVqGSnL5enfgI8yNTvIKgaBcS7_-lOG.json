@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Raúl Cabral"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-09-02T23:19:18.754045Z",
+    "updateTime": "2021-09-02T23:19:18.754045Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2Mm9Ib19RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "silvana turletti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-08-30T17:15:36.107315Z",
+    "updateTime": "2021-08-30T17:15:36.107315Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2aE1LVEpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luciana Del Carlo"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-08-30T01:17:00.344996Z",
+    "updateTime": "2021-08-30T01:17:00.344996Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2bU9PcFB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Aguirre"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-08-29T23:56:40.592900Z",
+    "updateTime": "2021-08-29T23:56:40.592900Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2bU5tVldREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Goldberg"
+    },
+    "starRating": "THREE",
+    "comment": "Muy pocos surtidores para la cantidad de vehículos. Excelente el estado de los baños\n\n(Translated by Google)\nToo few pumps for the number of vehicles. The restrooms are in excellent condition.",
+    "createTime": "2021-08-29T03:28:03.264651Z",
+    "updateTime": "2021-08-29T03:28:03.264651Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2aU9QcTBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Ameratte"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-08-28T19:48:37.926165Z",
+    "updateTime": "2021-08-28T19:48:37.926165Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2OEtXVUJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Kosak"
+    },
+    "starRating": "ONE",
+    "comment": "Pésimo servicio en esta estación de servicio del A.C.A., siempre fue así hace años que pasa lo mismo.\n\n(Translated by Google)\nTerrible service at this A.C.A. service station, it\u0027s always been like this, the same thing has been happening for years.",
+    "createTime": "2021-08-28T14:45:37.147655Z",
+    "updateTime": "2021-08-28T14:45:37.147655Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2c0o2SkRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Humberto Manni"
+    },
+    "starRating": "THREE",
+    "comment": "El lugar está bien, pero tiene una sola isla de combustible...muy lenta la atención.\n\n(Translated by Google)\nThe place is fine, but it only has one fuel island...the service is very slow.",
+    "createTime": "2021-08-26T20:29:41.603164Z",
+    "updateTime": "2021-08-26T20:29:41.603164Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhdl9PdUtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Gabarini"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-08-26T15:26:59.142998Z",
+    "updateTime": "2021-08-26T15:26:59.142998Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhM183eUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Edgardo Garnero"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy completa\n\n(Translated by Google)\nVery complete",
+    "createTime": "2021-08-26T15:12:01.805875Z",
+    "updateTime": "2021-08-26T15:12:01.805875Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhMzdiY1NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Rover"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy completa la estación de servicios, como la mayoría de las de la red ACA. Entiendo que es una ubicación estratégica en el mapa, pero no por eso debieran abusarse tanto con los precios en el shopp. Me atrevo a decir que todo está al doble de precio que en cualquier lado.\n\n(Translated by Google)\nThe service station is very well-equipped, like most in the ACA network. I understand it\u0027s a strategic location, but that doesn\u0027t excuse the exorbitant prices in the convenience store. I\u0027d venture to say everything is twice the price of anything else.",
+    "createTime": "2021-08-25T10:01:24.351909Z",
+    "updateTime": "2021-08-25T10:01:24.351909Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhbTlyaFVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "alexiscristian menaortega"
+    },
+    "starRating": "THREE",
+    "comment": "(Translated by Google) Mason\n\n(Original)\nMasó",
+    "createTime": "2021-08-24T20:35:26.535436Z",
+    "updateTime": "2021-08-24T20:35:26.535436Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhN2JUc0Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Molina Muscará"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-08-24T14:17:05.842825Z",
+    "updateTime": "2021-08-24T14:17:05.842825Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSURhamNTeTN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Luis Segnorile"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y servicios\n\n(Translated by Google)\nExcellent service and attention",
+    "createTime": "2021-08-24T03:45:32.398721Z",
+    "updateTime": "2021-08-24T03:45:32.398721Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhbWVIMFhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Velazquez"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo\n\n(Translated by Google)\nNice",
+    "createTime": "2021-08-22T16:47:25.094076Z",
+    "updateTime": "2021-08-22T16:47:25.094076Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhbnZuQU9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Teo Miceli"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo supermercado, le faltan algunos productos\n\n(Translated by Google)\nNice supermarket, it\u0027s missing some products",
+    "createTime": "2021-08-22T13:58:07.134091Z",
+    "updateTime": "2021-08-22T13:58:07.134091Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhN28tYVRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Daniel Rodríguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables\n\n(Translated by Google)\nVery kind",
+    "createTime": "2021-08-21T21:51:02.160775Z",
+    "updateTime": "2021-08-21T21:51:02.160775Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhem9hdGRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pepita Flores"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-08-21T17:44:26.735609Z",
+    "updateTime": "2021-08-21T17:44:26.735609Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhanI2Y0xnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Bongiovanni"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-08-20T00:07:24.357448Z",
+    "updateTime": "2021-08-20T00:07:24.357448Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhaHF5TlNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Godoy"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-08-19T23:41:00.801789Z",
+    "updateTime": "2021-08-19T23:41:00.801789Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURhaHNUU1hnEAE"
+  }]
+}

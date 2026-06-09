@@ -1,0 +1,201 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Oscar Bustamante"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-16T23:47:18.312326Z",
+    "updateTime": "2024-07-16T23:47:18.312326Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSURyMnRYNW9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Mautoni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-30T11:43:23.975996Z",
+    "updateTime": "2024-07-14T21:05:13.419732Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1Ml92M0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Marconi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-13T13:16:12.218060Z",
+    "updateTime": "2024-07-13T13:16:54.340105Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSURyaUtQVE9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston germán Bustos"
+    },
+    "starRating": "FIVE",
+    "comment": "Nada ke objetar... Todo bueno, en especial la atención\n\n(Translated by Google)\nNothing to complain about... Everything was good, especially the service",
+    "createTime": "2024-07-13T08:36:52.061744Z",
+    "updateTime": "2024-07-13T08:36:52.061744Z",
+    "reviewReply": {
+      "comment": "¡Gracias por tu valoración y por destacar la atención de nuestro equipo! 😄 🌟 Nos alegra mucho que hayas tenido una buena experiencia!! Te esperamos pronto nuevamente!!",
+      "updateTime": "2024-08-13T18:02:17.575594Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSURyc0xxYVhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Jujinovich"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-12T23:11:01.128195Z",
+    "updateTime": "2024-07-12T23:11:01.128195Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSURyb0xIQ0ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Ruiz"
+    },
+    "starRating": "FIVE",
+    "comment": "Generalmente no hay mucha gente y la atención es rápida con personal muy amable.\n\n(Translated by Google)\nThere are usually not many people and the service is quick with very friendly staff.",
+    "createTime": "2024-07-10T23:46:31.343265Z",
+    "updateTime": "2024-07-10T23:46:31.343265Z",
+    "reviewReply": {
+      "comment": "¡Qué alegría recibir tus estrellas, Matías!! 🌟 Agradecemos mucho tu apoyo y nos alegra saber que tu experiencia fue positiva. ¡Hasta la próxima!\n",
+      "updateTime": "2024-09-08T01:52:25.131855Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyazRybGJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bárbara Ferro"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2024-07-10T13:41:07.195241Z",
+    "updateTime": "2024-07-10T13:41:07.195241Z",
+    "reviewReply": {
+      "comment": "Hola Barby!! Te agradecemos sinceramente por tu comentario y por la calificación que nos has dado. Nos alegra que destaques nuestra atención!!! tus palabras nos motivan a seguir ofreciendo lo mejor. GRACIAS!! te esperamos pronto!!",
+      "updateTime": "2024-08-13T18:03:42.522760Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyX1pqcWlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cynthia Calustro"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-07-10T13:16:31.055106Z",
+    "updateTime": "2024-07-10T13:16:31.055106Z",
+    "reviewReply": {
+      "comment": "Hola Cynthia, ¡gracias por tu comentario! 😊 Nos alegra saber que la atención fue de tu agrado!! Te esperamos cuando quieras volver para seguir brindándote el mejor servicio!!",
+      "updateTime": "2025-04-15T23:53:25.178704Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUNydlp2TktREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Fonseca"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2024-07-10T09:00:47.086716Z",
+    "updateTime": "2024-07-10T09:00:47.086716Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUNybmJXcXBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rocio Cerrada"
+    },
+    "starRating": "FOUR",
+    "comment": "Solo to.amos café la chica era única en atención al cliente muy amable el café con leche muy fuerte. Para comenzar la mañana una buena carga de cafeína.\nCreo deberían poner más empleados para la cantidad de temporadistas.\n\n(Translated by Google)\nWe only have coffee. The girl was exceptional in customer service, very friendly, and the latte was very strong. A great way to start the morning with a good caffeine boost. I think they should hire more staff for the number of seasonal tourists.",
+    "createTime": "2024-07-10T01:42:42.021534Z",
+    "updateTime": "2024-07-10T01:42:42.021534Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyemVPSERnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Raffa"
+    },
+    "starRating": "THREE",
+    "comment": "La atención es cordial y sin demoras. No tienen las promociones con modo de BNA, por lo que no obtienes descuento en tu compra.\n\n(Translated by Google)\nThe service is friendly and prompt. They don\u0027t offer promotions with BNA payment options, so you don\u0027t get a discount on your purchase.",
+    "createTime": "2024-07-09T23:00:01.165837Z",
+    "updateTime": "2024-07-09T23:00:01.165837Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyamY2ODdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Maltrat"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion !!!!\n\n(Translated by Google)\nExcellent service!!!!",
+    "createTime": "2024-07-09T15:04:06.488670Z",
+    "updateTime": "2024-07-09T15:04:06.488670Z",
+    "reviewReply": {
+      "comment": "Hola Jorge, qué lindo leer tu comentario!! 😊 Nos pone muy contentos que hayas quedado conforme con la atención!! Gracias por tomarte el tiempo de compartirlo, te esperamos cuando quieras!!\n",
+      "updateTime": "2025-04-15T23:53:55.886335Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyNVktRzl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gloria Sosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-07T13:34:11.868353Z",
+    "updateTime": "2024-07-07T13:34:11.868353Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUNybnNQUzFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marianela Peralta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-07T13:17:46.221485Z",
+    "updateTime": "2024-07-07T13:17:46.221485Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUNybm9YM2JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Femenia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-04T20:50:32.190108Z",
+    "updateTime": "2024-07-04T20:50:32.190108Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUNybk1Td2ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cosme Argerich"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-07-04T11:03:12.028696Z",
+    "updateTime": "2024-07-04T11:03:12.028696Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyMU9PbGNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "HECTOR de CASTRO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-03T14:16:38.604930Z",
+    "updateTime": "2024-07-03T14:16:38.604930Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUNyaU8yaW13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "villalber"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los chicos ..!! Del Café y de la Playa.. todos atención de Excelencia\n100 Estrellas ⭐️⭐️⭐️⭐️⭐️\n\n(Translated by Google)\nExcellent service from the staff!! From the café to the beach... all top-notch service.\n100 Stars ⭐️⭐️⭐️⭐️⭐️",
+    "createTime": "2023-04-10T17:13:48.362643Z",
+    "updateTime": "2024-07-01T14:23:01.315824Z",
+    "reviewReply": {
+      "comment": "Hola Villalber, qué hermoso lo que nos decís!! 🥰 Nos alegra muchísimo saber que te sentiste tan bien atendido, ¡y qué lindo lo de las 100 estrellas!! ⭐️ Gracias por compartirlo, te esperamos siempre con la mejor onda!!",
+      "updateTime": "2025-04-15T23:54:36.633969Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSaThPbS13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Gutierrez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio, café y comida, fundamental, aire para poder continuar con el viaje\n\n(Translated by Google)\nExcellent service, coffee and food, essential, fresh air to be able to continue the journey",
+    "createTime": "2024-06-29T16:25:26.255165Z",
+    "updateTime": "2024-06-29T16:25:26.255165Z",
+    "reviewReply": {
+      "comment": "Hola Claudio, qué bueno leer tu comentario!! 😊 Nos alegra mucho que hayas disfrutado del servicio, el café y la comida. Es un placer ser parte de tu viaje! Te esperamos nuevamente, hasta la próxima visita!!",
+      "updateTime": "2025-04-15T23:55:22.397106Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSURMN1lDenh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Javier Bringas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-06-29T04:24:47.755822Z",
+    "updateTime": "2024-06-29T04:24:47.755822Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSURMeGM3Y1pBEAE"
+  }]
+}

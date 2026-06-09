@@ -1,0 +1,205 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Oscar Sanchez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-15T05:54:51.182872Z",
+    "updateTime": "2024-08-25T13:14:55.831181Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNFA3NG53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Cortez Euliarte"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-08-23T04:30:59.485528Z",
+    "updateTime": "2024-08-23T04:30:59.485528Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3OHQtLUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Sanchez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-23T00:55:53.621436Z",
+    "updateTime": "2024-08-23T00:55:53.621436Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-02-13T17:14:40.347647Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3c3Z5OTR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Benitez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-16T12:04:25.760440Z",
+    "updateTime": "2024-08-16T12:04:25.760440Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-02-13T17:14:45.284630Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3NGI3RklnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Escañuela"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-16T10:59:16.526152Z",
+    "updateTime": "2024-08-16T10:59:16.526152Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-02-13T17:14:50.411260Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3b1pYUm13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Lujan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-14T23:06:01.157989Z",
+    "updateTime": "2024-08-11T20:19:16.663610Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-02-13T17:15:11.395310Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURSd05EUGVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sonia Silva"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-08-08T02:42:11.040859Z",
+    "updateTime": "2024-08-08T02:42:11.040859Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURiamF6OGZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Albarracin"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-08-03T05:30:25.131015Z",
+    "updateTime": "2024-08-03T05:30:25.131015Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURidk9uWEpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elena Beatriz Alderete"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-07-28T14:07:24.085689Z",
+    "updateTime": "2024-07-28T14:07:24.085689Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiaWZxOHFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rocho"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. Los baños un poco sucios.\n\n(Translated by Google)\nGood service. The bathrooms were a little dirty.",
+    "createTime": "2024-07-25T04:34:32.973802Z",
+    "updateTime": "2024-07-25T04:34:32.973802Z",
+    "reviewReply": {
+      "comment": " lamentamos mucho que te hayas llevado esa impresión de nuestra estación. La limpieza y el trato cordial son nuestras prioridades y claramente fallamos en tu visita. Vamos a revisar lo ocurrido con el equipo de turno para que no vuelva a suceder. Esperamos recuperamos tu confianza pronto.\"",
+      "updateTime": "2026-02-13T17:10:47.885887Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNib3Ffc0pREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Cortez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-23T20:33:00.288760Z",
+    "updateTime": "2024-07-23T20:33:00.288760Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-02-13T17:15:27.961574Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNidE9ERmZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Belen Contreras"
+    },
+    "starRating": "ONE",
+    "createTime": "2024-07-19T15:10:24.974698Z",
+    "updateTime": "2024-07-19T15:10:24.974698Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURyZzdDclh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "FERNANDO JORGE HERRERA"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-07-18T02:11:11.030914Z",
+    "updateTime": "2024-07-18T02:11:11.030914Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURyb1lXUVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Marcelo Biancotti"
+    },
+    "starRating": "THREE",
+    "comment": "Lugar amplio para quedarse. Muy bien atendidos pero poca variedad y escasa comida. Desayuno y merienda seguro. El ACA tendría que ver de mejorar el lugar es prometedor le falta más cariño. Recomiendo para quedarse.\n\n(Translated by Google)\nSpacious place to stay. Excellent service, but limited variety and small portions. Breakfast and afternoon tea are definitely worth it. The ACA (Automobile Club of Argentina) should consider improving the place; it has potential but needs more attention. I recommend staying there.",
+    "createTime": "2024-07-16T22:52:11.301010Z",
+    "updateTime": "2024-07-16T22:52:11.301010Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURyMnV6c0VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Oros"
+    },
+    "starRating": "ONE",
+    "comment": "Me perdí 40 minutos en la cola de autos para cargar infinia 15 de julio, 1 solo empleado para cargar de un lado y del otro eran las 13.15 hs, cuando llego a la bomba no tienen infinita solo super, les digo pone un cartel solo super y no perdemos tiempo, al final termine en la shell.\n\n(Translated by Google)\nI wasted 40 minutes in the queue of cars to fill up Infinia 15 de Julio. There was only one employee to fill up on one side and it was 1:15 p.m. on the other. When I got to the pump, they didn\u0027t have Infinia, only Super. I told them they put up a sign, Super only, and we didn\u0027t waste any time. In the end, I ended up at the Shell.",
+    "createTime": "2024-07-15T22:58:34.546820Z",
+    "updateTime": "2024-07-15T22:58:34.546820Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURyM0pMTHpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lilia beatris Smith"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-07-02T12:57:04.284085Z",
+    "updateTime": "2024-07-02T12:57:04.284085Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-02-13T17:15:37.862410Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURMci1HQ253RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Abrego"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-07-02T12:04:27.120641Z",
+    "updateTime": "2024-07-02T12:04:27.120641Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-02-13T17:15:43.439497Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURMejVfQzF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anibal Coronel"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-07-01T11:33:21.629648Z",
+    "updateTime": "2024-07-01T11:33:21.629648Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURMLTlEWVNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Mautoni"
+    },
+    "starRating": "ONE",
+    "comment": "Largas colas de espera, tienen varios surtidores , 2 empleados y cargan de a 1 auto por vez.\nEs de destacar la mugre y abandono de los baños.\n\n(Translated by Google)\nLong queues, multiple pumps, two employees, and they only fill one car at a time. The restrooms are particularly dirty and neglected.",
+    "createTime": "2024-06-29T16:45:41.507571Z",
+    "updateTime": "2024-06-29T16:45:41.507571Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURMN2ZUYnF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel Escobar"
+    },
+    "starRating": "FIVE",
+    "comment": "MUY buen atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2024-06-15T02:48:24.539009Z",
+    "updateTime": "2024-06-15T02:48:24.539009Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-02-13T17:15:51.399217Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMLUllVFZREAE"
+  }]
+}

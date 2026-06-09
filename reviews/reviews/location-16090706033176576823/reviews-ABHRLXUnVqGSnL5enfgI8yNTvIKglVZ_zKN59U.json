@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Walter Molina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-08-15T00:20:44.197792Z",
+    "updateTime": "2020-08-15T00:20:44.197792Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDN1A3X1ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Carbel"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2020-08-03T23:13:23.480548Z",
+    "updateTime": "2020-08-03T23:13:23.480548Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4ei1mcDRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patri Castellano"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-08-03T13:03:06.717184Z",
+    "updateTime": "2020-08-03T13:03:06.717184Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4ajhhRWhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Bustos"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención.  Tanto como en la playa y el shop\n\n(Translated by Google)\nVery good service. Both on the beach and in the shop.",
+    "createTime": "2020-07-27T01:29:02.449111Z",
+    "updateTime": "2020-07-27T01:29:02.449111Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4X1l6cnJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Bocchi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-05T16:44:47.440119Z",
+    "updateTime": "2020-07-05T16:44:47.440119Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4NXZYUGtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jesica Cejas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-01T00:33:19.656988Z",
+    "updateTime": "2020-07-01T00:33:19.656988Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4OHVmNVZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Valdez"
+    },
+    "starRating": "FIVE",
+    "comment": "Comodidad y buena atención\n\n(Translated by Google)\nComfort and good service",
+    "createTime": "2020-06-15T00:50:27.889523Z",
+    "updateTime": "2020-06-15T00:50:28.604454Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSURjOGZDNi13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Brenda Arroyo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-05-23T21:11:13.537378Z",
+    "updateTime": "2020-05-23T21:11:13.537378Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSURjcElEdWdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina González"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-05-19T14:26:57.870797Z",
+    "updateTime": "2020-05-19T14:26:57.870797Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSURjcUpqeDhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Anibal Mendoza"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-04-08T19:36:57.793108Z",
+    "updateTime": "2020-04-08T19:36:57.793108Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjeTdxQ1hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sol Cosseddu"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encanta todo\n\n(Translated by Google)\nI love everything",
+    "createTime": "2020-03-14T19:00:08.894235Z",
+    "updateTime": "2020-03-14T19:00:08.894235Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjeWRXVXRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ale Mary"
+    },
+    "starRating": "THREE",
+    "comment": "Las estaciones ACA deberían tener a lo largo del país un criterio unificado en una cosa tan simple como de qué lado posicionar el auto para cargar combustible. Si bien el sentido común indica que deberías colocarte del lado donde la manguera no tenga que cruzar el vehículo, en algunos lados te indican que es al revés y no te cargan (ya sea al derecho o al revés) si no está colocado según \"su gusto\".\n\n(Translated by Google)\nACA gas stations across the country should have a unified policy on something as simple as which side to position your car on to refuel. While common sense dictates that you should position yourself on the side where the pump doesn\u0027t have to cross the vehicle, some stations tell you it\u0027s the other way around and won\u0027t fill your car (whether it\u0027s the right way or the other way around) if it\u0027s not positioned according to \"their preference.\"",
+    "createTime": "2020-03-14T04:04:32.053773Z",
+    "updateTime": "2020-03-14T04:04:32.053773Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjOGZLRGpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Morea"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-11T15:41:28.702811Z",
+    "updateTime": "2020-03-11T15:41:28.702811Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjOHZmdlVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "carlos martinez"
+    },
+    "starRating": "TWO",
+    "createTime": "2020-03-10T16:41:28.389211Z",
+    "updateTime": "2020-03-10T16:41:28.389211Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjaUlqS1RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Paula Machado"
+    },
+    "starRating": "FIVE",
+    "comment": "Tiene baños limpios\n\n(Translated by Google)\nIt has clean bathrooms",
+    "createTime": "2020-03-09T05:43:13.165740Z",
+    "updateTime": "2020-03-09T05:43:13.165740Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURzdWU3U2RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Viole Vargas"
+    },
+    "starRating": "FIVE",
+    "comment": "Los baños, impecables 🤗\n\n(Translated by Google)\nThe bathrooms were spotless 🤗",
+    "createTime": "2020-03-07T14:16:56.410695Z",
+    "updateTime": "2020-03-07T14:16:56.410695Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURzc2JMR1F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Daniel Andrada"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-06T21:10:50.160585Z",
+    "updateTime": "2020-03-06T21:10:50.160585Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSURzNGJYem9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ramon Casas"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-03-04T16:52:01.187910Z",
+    "updateTime": "2020-03-04T16:52:01.187910Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURzcnZlTllBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "FLIA CUENCA sandra y rafael"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-03-04T01:05:59.935565Z",
+    "updateTime": "2020-03-04T01:05:59.935565Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSURzanNydTJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Karina Escudero"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy cordial la atención de los playeros y del shop... Recomendable totalmente!!!!\n\n(Translated by Google)\nThe beach attendants and shop staff were very friendly... Highly recommended!",
+    "createTime": "2020-03-03T02:16:46.931518Z",
+    "updateTime": "2020-03-03T02:16:46.931518Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURzbHVDQ1VnEAE"
+  }]
+}

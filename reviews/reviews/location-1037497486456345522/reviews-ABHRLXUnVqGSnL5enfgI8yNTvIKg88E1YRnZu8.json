@@ -1,0 +1,255 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Gustavo Rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-31T22:39:18.891284Z",
+    "updateTime": "2023-10-31T22:39:18.891284Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2023-11-04T14:08:39.244795Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGX2ZhNExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Lambrecht"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-10-30T12:17:26.543657Z",
+    "updateTime": "2023-10-30T12:17:26.543657Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Luciano",
+      "updateTime": "2023-11-04T14:08:58.956073Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGMWVuSkJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Delbares"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-27T21:24:34.231665Z",
+    "updateTime": "2023-10-27T21:24:34.231665Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2023-10-28T12:18:10.419882Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGc28tc3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Arnold"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-27T16:04:48.817163Z",
+    "updateTime": "2023-10-27T16:04:48.817163Z",
+    "reviewReply": {
+      "comment": "Gracias Walter",
+      "updateTime": "2023-10-28T12:18:26.612417Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGaEpLZ0NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Micha C."
+    },
+    "starRating": "FOUR",
+    "comment": "Zona céntrica, buen lugar\n\n(Translated by Google)\nCentral location, good place",
+    "createTime": "2023-10-26T00:00:53.529330Z",
+    "updateTime": "2023-10-26T00:00:53.529330Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2023-10-28T12:18:34.238352Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1c2Z5MjN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela GONZALEZ"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención.  Baños en buen estado y limpios.\n\n(Translated by Google)\nExcellent service. Bathrooms in good condition and clean.",
+    "createTime": "2023-10-25T23:48:58.409832Z",
+    "updateTime": "2023-10-25T23:48:58.409832Z",
+    "reviewReply": {
+      "comment": "Hola Gabriela. Te esperamos de vuelta",
+      "updateTime": "2023-10-28T12:19:00.715254Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1c1l5bGJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Dominguez"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo lugar bien atendido\n\n(Translated by Google)\nNice place, good service",
+    "createTime": "2023-10-25T19:01:20.162016Z",
+    "updateTime": "2023-10-25T19:01:20.162016Z",
+    "reviewReply": {
+      "comment": "Gracias Sergio",
+      "updateTime": "2023-10-28T12:19:11.581711Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1a1lPeTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Pincheira"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena y rápida atención\n\n(Translated by Google)\nGood and fast service",
+    "createTime": "2023-10-23T12:07:38.736352Z",
+    "updateTime": "2023-10-23T12:07:38.736352Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2023-10-28T12:20:33.647616Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1dXVtRHZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Taller Mingo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-22T12:01:58.125267Z",
+    "updateTime": "2023-10-22T12:01:58.125267Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2023-10-28T12:20:41.651896Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1aXVXODFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Calful"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-22T00:36:55.449702Z",
+    "updateTime": "2023-10-22T00:36:55.449702Z",
+    "reviewReply": {
+      "comment": "Chelo. Mil gracias",
+      "updateTime": "2023-10-28T12:20:53.230340Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1MHEtNDlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Ojeda"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo ok. Muy amables\n\n(Translated by Google)\nEverything\u0027s OK. Very kind.",
+    "createTime": "2023-10-21T04:45:25.867651Z",
+    "updateTime": "2023-10-21T04:45:25.867651Z",
+    "reviewReply": {
+      "comment": "Hola Cecilia. Gracias por tu visita.",
+      "updateTime": "2023-10-21T09:24:28.602031Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1Z3VxaWx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Huber Gal"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-10-21T03:53:26.935587Z",
+    "updateTime": "2023-10-21T03:53:26.935587Z",
+    "reviewReply": {
+      "comment": "Gracias Huber",
+      "updateTime": "2023-10-21T09:24:45.572673Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1Z3NUY3dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter González"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-20T09:38:19.712222Z",
+    "updateTime": "2023-10-20T09:38:19.712222Z",
+    "reviewReply": {
+      "comment": "Gracias Walter",
+      "updateTime": "2023-10-20T10:33:56.047243Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1OUxYY1NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dionatan andrades hoffmann"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-20T02:01:04.099389Z",
+    "updateTime": "2023-10-20T02:01:04.099389Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias",
+      "updateTime": "2023-10-20T10:34:15.722831Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1aFBicl9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Molina"
+    },
+    "starRating": "FIVE",
+    "comment": "Servicio y calidad\n\n(Translated by Google)\nService and quality",
+    "createTime": "2023-10-19T20:59:06.032281Z",
+    "updateTime": "2023-10-19T20:59:06.032281Z",
+    "reviewReply": {
+      "comment": "Gracias Totales",
+      "updateTime": "2023-10-20T10:34:30.833288Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1Nk9hOXR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Gonzalez Burgos"
+    },
+    "starRating": "FIVE",
+    "comment": "Fue un día raro en Chos Malal porque no habia luz. Atencion impecable, baños limpios, todo bien\n\n(Translated by Google)\nIt was a strange day in Chos Malal because there was no electricity. Impeccable service, clean bathrooms, everything was fine.",
+    "createTime": "2023-10-19T01:03:29.224225Z",
+    "updateTime": "2023-10-19T01:03:29.224225Z",
+    "reviewReply": {
+      "comment": "Cecilia, no es raro en Chos Malal que se corte la luz. Por eso tenemos nuestro propio generador que garanriza que si venis viajando puedas continuar tu ruta. ",
+      "updateTime": "2023-10-20T10:37:18.640508Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1ME1QUzZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sil"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-17T19:31:31.434451Z",
+    "updateTime": "2023-10-17T19:31:31.434451Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2023-10-17T20:34:41.530206Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1MTRYRTR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana natali Suarez"
+    },
+    "starRating": "ONE",
+    "comment": "El playero un mal educado y poca paciencia para esperar que mi madre una señora mayor busque la tarjeta para pagarle\n\n(Translated by Google)\nThe beach attendant was rude and impatient while my elderly mother looked for her card to pay him.",
+    "createTime": "2023-10-17T13:50:17.531840Z",
+    "updateTime": "2023-10-17T13:50:17.531840Z",
+    "reviewReply": {
+      "comment": "Hola. No tenemos playeros con poca paciencia. Por lo general se esmeran en atender. Podrías darnos el nombre del playero",
+      "updateTime": "2023-10-17T20:35:30.354541Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1aDk3YS13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nazareno villalobos"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención y cordialidad\n\n(Translated by Google)\nGood service and friendliness",
+    "createTime": "2023-10-17T11:18:34.544507Z",
+    "updateTime": "2023-10-17T11:27:43.127131Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias",
+      "updateTime": "2023-10-17T20:34:30.879050Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1dTZ6QzlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Abadia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los playeros y la gente del full!!\n\n(Translated by Google)\nExcellent service from the beach attendants and the staff at the full resort!",
+    "createTime": "2023-10-17T03:27:34.098280Z",
+    "updateTime": "2023-10-17T03:27:34.098280Z",
+    "reviewReply": {
+      "comment": "Gracias Alicia. Te esperanos cuando quieras",
+      "updateTime": "2023-10-17T20:35:50.593041Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1OC0yUUR3EAE"
+  }]
+}

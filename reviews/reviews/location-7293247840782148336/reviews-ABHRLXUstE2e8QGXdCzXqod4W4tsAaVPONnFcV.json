@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Eduardo Abascal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-09-28T00:44:58.138585Z",
+    "updateTime": "2022-09-28T00:44:58.138585Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlMzQ3NEVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo girbau"
+    },
+    "starRating": "FOUR",
+    "comment": "Bastante bien para ser una construcción vieja, respeta los standard de YPF\n\n(Translated by Google)\nPretty good for an old building, it meets YPF standards.",
+    "createTime": "2022-09-19T11:46:20.988525Z",
+    "updateTime": "2022-09-19T11:46:20.988525Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlcGUtZm53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Arias"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-09-17T19:24:51.872903Z",
+    "updateTime": "2022-09-17T19:24:51.872903Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlNmJhR3l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carina Patiño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-06T10:27:46.240404Z",
+    "updateTime": "2022-09-06T10:27:46.240404Z",
+    "reviewReply": {
+      "comment": "Muchas gracias !!!",
+      "updateTime": "2022-09-06T10:42:23.171152Z"
+    },
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUNleE1Td2FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Romero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-16T21:04:09.771922Z",
+    "updateTime": "2022-08-16T21:04:09.771922Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1b28tNXN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Noelia Torres (Noe)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-16T01:38:22.226724Z",
+    "updateTime": "2022-08-16T01:38:22.226724Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1M01PTWdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Laura Rodriguez Vera"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-08-12T22:45:55.937385Z",
+    "updateTime": "2022-08-12T22:45:55.937385Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1MktXSkRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Milagros Ribas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-09T17:53:30.842374Z",
+    "updateTime": "2022-08-09T17:53:30.842374Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1bi1xeFF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ale “Chili” Ibañez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísimo la atención.\n\n(Translated by Google)\nThe service was excellent.",
+    "createTime": "2022-08-09T15:42:32.647234Z",
+    "updateTime": "2022-08-09T15:42:32.647234Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1N19YRFVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "patricia orellana"
+    },
+    "starRating": "THREE",
+    "comment": "Todo bien trankilo\n\n(Translated by Google)\nEverything is fine, calm down.",
+    "createTime": "2022-08-06T18:27:14.961586Z",
+    "updateTime": "2022-08-06T18:27:14.961586Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1Njk2S0RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Riso"
+    },
+    "starRating": "ONE",
+    "comment": "Soy cliente de YPF, doy 1 estrella como puntaje por que hace semanas que el calibrador no está funcionando, por lo cual el servicio no es integral.\nDe todas maneras la atención es excelente.\n\n(Translated by Google)\nI am a YPF customer, I give 1 star as a score because the calibrator has not been working for weeks, so the service is not comprehensive.\nIn any case, the attention is excellent.",
+    "createTime": "2022-08-03T23:43:53.340666Z",
+    "updateTime": "2022-08-03T23:43:53.340666Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1blliSWlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Palavecino"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-07-30T16:33:12.939761Z",
+    "updateTime": "2022-07-30T16:33:12.939761Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1a2JlRU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebas Luna"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-29T20:24:51.639299Z",
+    "updateTime": "2022-07-29T20:24:51.639299Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1Z1lPNnZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Navarro"
+    },
+    "starRating": "THREE",
+    "comment": "Rápido el servicio\n\n(Translated by Google)\nFast service",
+    "createTime": "2022-07-20T16:14:45.224350Z",
+    "updateTime": "2022-07-20T16:14:45.224350Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dUxiUkpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Gabriela Passo"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-14T08:01:53.627988Z",
+    "updateTime": "2022-07-14T08:01:53.627988Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSURPeTd1ZXlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston Nievas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-06T19:46:00.402698Z",
+    "updateTime": "2022-07-06T19:46:00.402698Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZ1lxRVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Aybar"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-06T10:22:30.232023Z",
+    "updateTime": "2022-07-06T10:22:30.232023Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSURPM3EzN1ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ale Ale"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención,empleadas amables.\n\n(Translated by Google)\nGood service, friendly employees.",
+    "createTime": "2022-07-02T18:13:22.112476Z",
+    "updateTime": "2022-07-02T18:13:22.112476Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSURPNnBqQWtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio Agustín Jimenez Paz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-27T14:59:11.774832Z",
+    "updateTime": "2022-06-27T14:59:11.774832Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSURPLVAtazlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Benjamin Alamo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-24T21:50:38.819284Z",
+    "updateTime": "2022-06-24T21:50:38.819284Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSURPNE9MUUZnEAE"
+  }]
+}

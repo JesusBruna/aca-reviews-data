@@ -1,0 +1,63 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juanjo Fernandez"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención pero muy colapsado de gente\n\n(Translated by Google)\nGood service but very crowded",
+    "createTime": "2016-05-06T12:01:40.884Z",
+    "updateTime": "2016-05-06T12:02:07.944Z",
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnMzluazFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aye Gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-04-30T14:53:25.538Z",
+    "updateTime": "2016-04-30T14:53:25.538Z",
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUNReHBpckR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "gerardo andres"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2016-04-26T01:08:44.893Z",
+    "updateTime": "2016-04-26T01:08:58.614Z",
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRaG91OFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Xime Padilla"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención y descuentos en general y sobre todo para los socios. Agradable confitería.\n\n(Translated by Google)\nExcellent service and discounts in general, especially for members. Nice bakery.",
+    "createTime": "2016-04-09T02:30:06.859Z",
+    "updateTime": "2016-04-09T02:31:17.954Z",
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3dlBpWHNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yair Salord"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-01-25T23:58:19.953Z",
+    "updateTime": "2016-01-25T23:58:19.953Z",
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSURneWJlOWN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gastón Martearena (Legend)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2015-12-05T18:18:50.886Z",
+    "updateTime": "2015-12-05T18:18:50.886Z",
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3bjVxcTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico German"
+    },
+    "starRating": "THREE",
+    "comment": "Tiene muchos surtidores, pero se junta mucha gente ya que los socios del ACA tienen descuento. Es recomendable ir por la noche\n\n(Translated by Google)\nIt has many pumps, but it gets very crowded since ACA members get a discount. It\u0027s best to go at night.",
+    "createTime": "2015-11-23T12:02:12.230Z",
+    "updateTime": "2015-11-23T12:02:12.230Z",
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3c3FQeFRBEAE"
+  }]
+}

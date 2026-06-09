@@ -1,0 +1,204 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jose Magnasco"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-10T00:42:26.385686Z",
+    "updateTime": "2022-05-10T00:42:26.385686Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyd3Vuc0N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana María Gimenez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2022-05-02T22:55:01.310632Z",
+    "updateTime": "2022-05-02T22:55:01.310632Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyXy0tNjhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Gramajo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-01T00:22:57.955512Z",
+    "updateTime": "2022-05-01T00:22:57.955512Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyOTk2eGhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Euge Escudero"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-04-30T21:13:45.111619Z",
+    "updateTime": "2022-04-30T21:13:45.111619Z",
+    "reviewReply": {
+      "comment": "¡Hola Euge! Nos encantaría saber el motivo por el que nos calificas con sólo 3 estrellas. Además, queremos que sepas que somos una nueva concesión, y nos encantaría que nos visites nuevamente, a fin de brindarte una mejor experiencia. Tu calificación es muy importante para nosotros. Te esperamos!",
+      "updateTime": "2025-03-10T18:01:15.970083Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyOTRDQmp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vick Yta"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-04-29T23:12:03.808745Z",
+    "updateTime": "2022-04-29T23:12:03.808745Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyNThqMmJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "sergio gimenez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-04-27T23:23:03.579189Z",
+    "updateTime": "2022-04-27T23:23:03.579189Z",
+    "reviewReply": {
+      "comment": "¡Hola Sergio! Nos encantaría saber el motivo por el que nos calificas con sólo 3 estrellas. Además, queremos que sepas que somos una nueva concesión, y nos encantaría que nos visites nuevamente, a fin de brindarte una mejor experiencia. Tu calificación es muy importante para nosotros. Te esperamos!",
+      "updateTime": "2025-03-10T18:01:24.920761Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyODhtczJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sabrina Soledad Aseijas"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\nLa ypf es full\n\n(Translated by Google)\nExcellent service. The YPF station is full.",
+    "createTime": "2022-04-23T01:08:24.063176Z",
+    "updateTime": "2022-04-23T01:08:24.063176Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyNGNhT3FBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Fallon"
+    },
+    "starRating": "FOUR",
+    "comment": "Solo utilice aire para calibrar las gomas.\nEl aceite hidráulico ATF mejor precio que en el ACA\n\n(Translated by Google)\nOnly use air to calibrate the rubber seals.\nATF hydraulic oil is better priced than at the ACA.",
+    "createTime": "2022-04-19T20:57:44.963859Z",
+    "updateTime": "2022-04-19T20:57:44.963859Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSUMybHNpbzBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Peralta"
+    },
+    "starRating": "THREE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2022-04-18T15:06:21.004446Z",
+    "updateTime": "2022-04-18T15:06:21.004446Z",
+    "reviewReply": {
+      "comment": "¡Hola Mariano! Muchas gracias por calificarnos. Esperamos que tu próxima visita sea merecedora de 5 estrellas. Gracias!",
+      "updateTime": "2025-03-10T17:56:16.190966Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyMnJPV1lREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Sanchez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención, lástima que los sanitarios no tengan la limpieza que uno espera\n\n(Translated by Google)\nExcellent service, it\u0027s a shame the restrooms weren\u0027t as clean as one would expect.",
+    "createTime": "2022-04-17T14:10:14.040299Z",
+    "updateTime": "2022-04-17T14:10:14.040299Z",
+    "reviewReply": {
+      "comment": "¡Hola Miguel! Queremos que sepas que somos una nueva concesión, y nos encantaría que nos visites nuevamente, a fin de brindarte una mejor experiencia. Tu calificación es muy importante para nosotros. Te esperamos!",
+      "updateTime": "2025-03-10T18:15:56.468311Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyeXNUX2FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Perez"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-04-12T11:16:30.904197Z",
+    "updateTime": "2022-04-12T11:16:30.904197Z",
+    "reviewReply": {
+      "comment": "¡Hola Alexandra! Nos encantaría saber el motivo por el que nos calificas con sólo 2 estrellas. Además, queremos que sepas que somos una nueva concesión, y nos encantaría que nos visites nuevamente, a fin de brindarte una mejor experiencia. Tu calificación es muy importante para nosotros. Te esperamos!",
+      "updateTime": "2025-03-10T17:48:49.557489Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyLU5uWVh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "manuel nunez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-04-02T21:42:49.956573Z",
+    "updateTime": "2022-04-02T21:42:49.956573Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSURXNDk2UThBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "German Coria"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-04-02T14:00:39.488718Z",
+    "updateTime": "2022-04-02T14:00:39.488718Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSURXdy0tM3hBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mónica González"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-04-01T23:51:56.077722Z",
+    "updateTime": "2022-04-01T23:51:56.077722Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSURXX1ptOVNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Alberto Reami"
+    },
+    "starRating": "FOUR",
+    "comment": "Si bien hay que ingresar a la ciudad, es cómodo el acceso\n\n(Translated by Google)\nAlthough you have to enter the city, access is convenient.",
+    "createTime": "2022-03-31T14:42:58.102112Z",
+    "updateTime": "2022-03-31T14:42:58.102112Z",
+    "reviewReply": {
+      "comment": "¡Hola Raúl! Muchas gracias por calificarnos. Esperamos, tu próxima visita, sea merecedora de 5 estrellas. Te contamos, además, que somos nuevos concesionarios y nos encantaría que vuelvas a valorar nuestros servicios. Te esperamos!",
+      "updateTime": "2025-03-11T15:52:13.230350Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSURXemE3cDVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cm Amoblamientos"
+    },
+    "starRating": "TWO",
+    "comment": "Una de las peores ypf, no tiene variedad de productos, pésima atención\n\n(Translated by Google)\nOne of the worst YPF stations, it has no variety of products and the service is terrible.",
+    "createTime": "2022-03-31T09:57:30.872921Z",
+    "updateTime": "2022-03-31T09:57:30.872921Z",
+    "reviewReply": {
+      "comment": "¡Hola! Somos nuevos concesionarios, y nos encantaría puedas visitarnos nuevamente, a fin de generar una mejor experiencia y que se refleje en tu calificación.\nTe esperamos! 😉",
+      "updateTime": "2025-03-10T16:37:16.554624Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSURXamZiaWxRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Ciliberti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-21T20:04:44.300939Z",
+    "updateTime": "2022-03-21T20:04:44.300939Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSURXMnVfR0NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Montero"
+    },
+    "starRating": "FOUR",
+    "comment": "Tiene un buen local con cafetería con promociones de desayuno. La atención del personal me pareció cordial\n\n(Translated by Google)\nIt has a nice place with a café offering breakfast specials. I found the staff to be friendly.",
+    "createTime": "2022-03-17T23:04:29.736508Z",
+    "updateTime": "2022-03-17T23:05:50.604265Z",
+    "reviewReply": {
+      "comment": "¡Hola Sebastián! Muchas gracias por tu comentario y calificación. Esperamos que tu próxima visita sea merecedora de 5 estrellas. Gracias!",
+      "updateTime": "2025-03-10T18:14:23.881045Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSURXM1BEUk53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Quintero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-17T02:00:01.358044Z",
+    "updateTime": "2022-03-17T02:00:01.358044Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChdDSUhNMG9nS0VJQ0FnSURXakpYZjRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariannys Moyetones"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-16T22:11:59.364457Z",
+    "updateTime": "2022-03-16T22:11:59.364457Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/ChZDSUhNMG9nS0VJQ0FnSURXalBTWFJBEAE"
+  }]
+}

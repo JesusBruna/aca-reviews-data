@@ -1,0 +1,55 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Nico Ursino"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente estacion de servicio para hacer una parada. Tiene lugar para estacionar y uma zona de descanso. Tiene bar y restaurant y todos los servicios que ofrece el ACA. Baños limpios.\n\n(Translated by Google)\nExcellent service station for a stop. It has parking and a rest area. It has a bar and restaurant and all the services offered by the ACA. Clean restrooms.",
+    "createTime": "2016-08-07T01:19:54.740Z",
+    "updateTime": "2016-08-07T01:21:39.448Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNReWJtdl9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro García"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy  buena atención, tanto en la playa como en el bar\n\n(Translated by Google)\nExcellent service, both on the beach and in the bar",
+    "createTime": "2016-07-30T00:35:23.721Z",
+    "updateTime": "2016-07-30T00:36:29.681Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURBdnVhdFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Narvaez"
+    },
+    "starRating": "THREE",
+    "comment": "Confiable\n\n(Translated by Google)\nReliable",
+    "createTime": "2016-06-14T01:54:59.868Z",
+    "updateTime": "2016-06-14T23:10:22.362Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRN05yNHRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patto Mascardi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-01-28T15:47:44.991Z",
+    "updateTime": "2016-01-28T15:47:44.991Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3N3RITVNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Flexas"
+    },
+    "starRating": "FIVE",
+    "comment": "Parada obligada\n\n(Translated by Google)\nA must-see",
+    "createTime": "2016-01-13T00:59:50.923Z",
+    "updateTime": "2016-01-13T00:59:50.923Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3cC1UZVdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2015-11-26T20:07:39.364Z",
+    "updateTime": "2015-11-26T20:07:39.364Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURBOXJMa0hnEAE"
+  }]
+}

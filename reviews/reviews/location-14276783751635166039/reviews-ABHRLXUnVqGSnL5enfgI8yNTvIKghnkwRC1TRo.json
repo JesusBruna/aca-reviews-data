@@ -1,0 +1,189 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Matias Martínez"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2019-01-28T22:12:13.156459Z",
+    "updateTime": "2019-01-28T22:12:13.156459Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURJMzVUdl9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos E. Reyes, Puchi"
+    },
+    "starRating": "TWO",
+    "comment": "Muy lenta la atención, voy porque es YPF.\n\n(Translated by Google)\nThe service is very slow, I\u0027m only going because it\u0027s YPF.",
+    "createTime": "2019-01-28T17:00:14.023279Z",
+    "updateTime": "2019-01-28T17:00:14.023279Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURJbjltTTFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pitton"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-01-28T14:59:27.073640Z",
+    "updateTime": "2019-01-28T14:59:27.073640Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJbjVxd1hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Soledad Vinci"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-01-28T08:52:45.401381Z",
+    "updateTime": "2019-01-28T08:52:45.401381Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJNy1tZE1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Rios"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-01-27T13:48:18.483245Z",
+    "updateTime": "2019-01-27T13:48:18.483245Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJejg2Rlh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Fabbri"
+    },
+    "starRating": "ONE",
+    "comment": "Malísimo!!!!!\nMala predisposición de la gente que atiende!!!\nTe cobran el combustible lo del bar y lo del hospedaje todo en el mismo lugar!!\nPara averiguar del hospedaje tuve que esperar 1/2 hora para quede mal modo me dijeran que no tenían lugar para cuatro y no me podían dar dos habitaciones de 3 aunque las pagara!!\nIncreíble!!!\nEl ACA cada ves peor!!\n\n(Translated by Google)\nTerrible!!!!!\nThe staff were incredibly unhelpful!!!\nThey charge you for fuel, the bar, and lodging all in the same place!!\nTo inquire about lodging, I had to wait half an hour only to be rudely told they didn\u0027t have room for four and couldn\u0027t give me two rooms for three even if I paid for them!!\nUnbelievable!!!\nThe ACA is getting worse and worse!!",
+    "createTime": "2019-01-27T13:28:33.322791Z",
+    "updateTime": "2019-01-27T13:31:12.241098Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia ",
+      "updateTime": "2025-07-19T22:03:38.121411Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJei1hMkZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Pelaez Inforest SRL"
+    },
+    "starRating": "TWO",
+    "comment": "Para cargar combustible y seguir, la atencion pesima, y ni hablar del Full, nunca anda el posnet, no tienen comida y no te preparan\n\n(Translated by Google)\nTo refuel and continue, the service is terrible, and don\u0027t even get me started on the Full station; the card reader never works, they don\u0027t have food, and they don\u0027t prepare anything for you.",
+    "createTime": "2019-01-27T05:22:44.085409Z",
+    "updateTime": "2019-01-27T05:22:44.085409Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJajlhTmRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Hait"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente!!!!\n\n(Translated by Google)\nExcellent!!!!",
+    "createTime": "2019-01-27T03:27:15.593981Z",
+    "updateTime": "2019-01-27T03:27:15.593981Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURJajV5WTBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Armando Poujol"
+    },
+    "starRating": "THREE",
+    "comment": "Combustibles ypf\n\n(Translated by Google)\nYPF fuels",
+    "createTime": "2018-01-10T17:17:59.302Z",
+    "updateTime": "2019-01-27T03:04:30.755372Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3M3RLaWhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Inofre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-01-24T14:19:46.789335Z",
+    "updateTime": "2019-01-24T14:19:46.789335Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURJeDVyWjN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dario “Das71”"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-01-21T20:47:50.392633Z",
+    "updateTime": "2019-01-21T20:47:50.392633Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJeTVmRVJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Mateo"
+    },
+    "starRating": "ONE",
+    "createTime": "2019-01-20T22:07:34.689766Z",
+    "updateTime": "2019-01-20T22:07:34.689766Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJODVyR09REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Adolfo Frustaci"
+    },
+    "starRating": "ONE",
+    "createTime": "2019-01-20T22:03:44.585805Z",
+    "updateTime": "2019-01-20T22:04:01.156189Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURJOC1xLS1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "angelica gallo"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encantaría estar nuevamente ahi\n\n(Translated by Google)\nI would love to be there again",
+    "createTime": "2019-01-20T18:29:53.875420Z",
+    "updateTime": "2019-01-20T18:30:24.531685Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias Angélica. Te esperamos siempre",
+      "updateTime": "2019-02-01T02:06:38.639131Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURJcy1mRWtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elias Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "excelente atencion y en el full sirven muy ricos desayunos\n\n(Translated by Google)\nExcellent service and they serve delicious breakfasts at the full-service restaurant.",
+    "createTime": "2019-01-19T19:18:07.478447Z",
+    "updateTime": "2019-01-19T19:19:11.099800Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu comentario Elias",
+      "updateTime": "2019-02-01T02:07:11.684197Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURJNC0tWTZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban butiuk"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-01-19T18:27:22.173351Z",
+    "updateTime": "2019-01-19T18:27:22.173351Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJNDV1V0l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maira Oses"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-01-18T02:56:54.453121Z",
+    "updateTime": "2019-01-18T02:56:54.453121Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJX2V5Q0VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Back Up"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-01-17T17:56:47.234539Z",
+    "updateTime": "2019-01-17T17:56:47.234539Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdmNyREp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Dicaro"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar. Baños limpios.\n\n(Translated by Google)\nGood place. Clean bathrooms.",
+    "createTime": "2019-01-17T01:08:51.634307Z",
+    "updateTime": "2019-01-17T01:09:06.921481Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T21:58:21.532610Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURJblk2SjJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jim X"
+    },
+    "starRating": "THREE",
+    "comment": "Buen lugar para pasar 1 noche camino al Sur y buen precio\n\n(Translated by Google)\nGood place to spend 1 night on the way South and good price",
+    "createTime": "2019-01-16T02:14:27.016996Z",
+    "updateTime": "2019-01-16T02:15:03.955232Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURJemVHdk9nEAE"
+  }]
+}

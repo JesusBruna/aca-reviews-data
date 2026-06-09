@@ -1,0 +1,250 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "victor cebeyra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-21T22:49:45.999763Z",
+    "updateTime": "2024-02-21T22:49:45.999763Z",
+    "reviewReply": {
+      "comment": "Gracias Victor.",
+      "updateTime": "2024-02-22T15:02:13.818643Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURkZ29MU2N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier de Aguirre"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-02-19T13:24:30.304313Z",
+    "updateTime": "2024-02-19T13:24:30.304313Z",
+    "reviewReply": {
+      "comment": "Gracias Javier.\n",
+      "updateTime": "2024-02-20T10:27:29.128715Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkejl2d0ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Fortino"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2024-02-19T11:48:10.156718Z",
+    "updateTime": "2024-02-19T11:48:10.156718Z",
+    "reviewReply": {
+      "comment": "Gracias Mariana.",
+      "updateTime": "2024-02-20T10:27:48.337233Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkal91LWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Valentin Rigamonti"
+    },
+    "starRating": "ONE",
+    "createTime": "2024-02-19T11:20:44.487057Z",
+    "updateTime": "2024-02-19T11:20:44.487057Z",
+    "reviewReply": {
+      "comment": "Hola Gustavo. Te dejo mi teléfono para que nos comuniquemos y ver de que forma revertimos tu experiencia. 2234068693.",
+      "updateTime": "2024-02-20T10:29:14.870673Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkajVtTTBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Escobar"
+    },
+    "starRating": "ONE",
+    "comment": "Mala atención\n\n(Translated by Google)\nPoor service",
+    "createTime": "2024-02-19T01:45:34.005380Z",
+    "updateTime": "2024-02-19T01:45:34.005380Z",
+    "reviewReply": {
+      "comment": "Hola Angel. En que sector? Te dejo mi teléfono para ver de solucionarte el inconveniente. 2234068693.",
+      "updateTime": "2024-02-19T10:11:59.937442Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkNS1yNzdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "patricia gerena ortega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-18T14:12:40.698842Z",
+    "updateTime": "2024-02-18T14:12:40.698842Z",
+    "reviewReply": {
+      "comment": "Gracias Patricia.",
+      "updateTime": "2024-02-19T10:12:20.082506Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbTdQTmxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernán percia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-18T03:03:11.603395Z",
+    "updateTime": "2024-02-18T03:03:11.603395Z",
+    "reviewReply": {
+      "comment": "Gracias Hernán",
+      "updateTime": "2024-02-19T10:12:34.371500Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkMDU3NGdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ale Dejesus"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-17T21:37:21.372246Z",
+    "updateTime": "2024-02-17T21:37:21.372246Z",
+    "reviewReply": {
+      "comment": "Gracias Ale.",
+      "updateTime": "2024-02-19T10:12:45.839277Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbzV2VXd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jorge dmitruk"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-02-17T19:17:04.084196Z",
+    "updateTime": "2024-02-17T19:17:04.084196Z",
+    "reviewReply": {
+      "comment": "Gracias Jorge.",
+      "updateTime": "2024-02-19T10:12:57.155093Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkdzhyMzZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Ángel Bascones"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, todo de primera 👍👍👍\n\n(Translated by Google)\nExcellent service, everything was top-notch 👍👍👍",
+    "createTime": "2024-02-17T03:36:48.397330Z",
+    "updateTime": "2024-02-17T03:36:48.397330Z",
+    "reviewReply": {
+      "comment": "Gracias Luis.",
+      "updateTime": "2024-02-19T10:13:09.698431Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkOVpLeVJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Guarracino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-17T02:38:05.306903Z",
+    "updateTime": "2024-02-17T02:38:05.306903Z",
+    "reviewReply": {
+      "comment": "Gracias Juan.",
+      "updateTime": "2024-02-19T10:13:23.334568Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkdFl1THFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Lupa"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion,seguridad en combustibles\n\n(Translated by Google)\nGood service, fuel safety",
+    "createTime": "2024-02-15T14:13:33.875646Z",
+    "updateTime": "2024-02-15T14:13:33.875646Z",
+    "reviewReply": {
+      "comment": "Gracias Jorge.",
+      "updateTime": "2024-02-16T10:03:46.581963Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkdnE3ZDF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "guillermo regnando"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-15T12:17:09.536762Z",
+    "updateTime": "2024-02-15T12:17:09.536762Z",
+    "reviewReply": {
+      "comment": "Gracias Guillermo",
+      "updateTime": "2024-02-16T10:04:06.923911Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbnZmZ3ZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Khaski"
+    },
+    "starRating": "FIVE",
+    "comment": "Hola, buenas noches! Quería agradecer la atención de Facundo, el chico que cada noche que voy, al ACÁ del lado de Brown, me atiende de maravilla, súper atento y respetuoso. Ojalá nos encontráramos en todos los lugares con personas tan dispuestas. Muchas gracias al ACA!\n\n(Translated by Google)\nHello, good evening! I wanted to thank Facundo for his service. He treats me wonderfully every night when I go to the ACÁ next to Brown. He\u0027s super attentive and respectful. I wish we could find such helpful people everywhere. Thank you so much to ACA!",
+    "createTime": "2024-02-15T04:58:10.868213Z",
+    "updateTime": "2024-02-15T04:58:10.868213Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias Natalia. Le haré llegar a Facundo tu comentario. ",
+      "updateTime": "2024-02-16T10:05:23.771421Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkOXVLMm9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Pacheco"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Barbarossa\n\n(Original)\nBarbaro",
+    "createTime": "2024-02-14T19:29:14.171748Z",
+    "updateTime": "2024-02-14T19:29:14.171748Z",
+    "reviewReply": {
+      "comment": "Gracias Juan.",
+      "updateTime": "2024-02-16T10:05:44.454621Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkLXIzeFl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Nolose"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-02-14T17:42:31.749379Z",
+    "updateTime": "2024-02-14T17:42:31.749379Z",
+    "reviewReply": {
+      "comment": "Gracias Javier.",
+      "updateTime": "2024-02-16T10:06:07.381692Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkdXJLOWtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Salvatori"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-02-14T12:16:53.029401Z",
+    "updateTime": "2024-02-14T12:16:53.029401Z",
+    "reviewReply": {
+      "comment": "Gracias Marisa.",
+      "updateTime": "2024-02-16T10:06:27.125454Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkcXBIemZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Ernesto Sola"
+    },
+    "starRating": "FIVE",
+    "comment": "El ACA siempre con el mejor servicio y atención\n\n(Translated by Google)\nACA always provides the best service and attention",
+    "createTime": "2024-02-13T16:25:34.513524Z",
+    "updateTime": "2024-02-13T16:25:34.513524Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Luis. Valoramos mucho su comentario.",
+      "updateTime": "2024-02-14T10:06:58.934638Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbk16TEd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Erik Perez Sposito"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-02-13T12:26:05.971314Z",
+    "updateTime": "2024-02-13T12:26:05.971314Z",
+    "reviewReply": {
+      "comment": "Gracias Erik.",
+      "updateTime": "2024-02-13T14:07:31.019060Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkckx2cVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "NORBERTO JEREZ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-12T18:16:49.012547Z",
+    "updateTime": "2024-02-12T18:16:49.012547Z",
+    "reviewReply": {
+      "comment": "Gracias Norberto",
+      "updateTime": "2024-02-13T11:00:00.426496Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkdFBTd0xnEAE"
+  }]
+}

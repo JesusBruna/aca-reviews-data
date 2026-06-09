@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Osvaldo Asorey"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-04T14:34:56.120032Z",
+    "updateTime": "2023-08-04T14:34:56.120032Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwdnVULWNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Montejo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de playeros\n\n(Translated by Google)\nExcellent service from beach attendants",
+    "createTime": "2023-08-04T13:15:12.956683Z",
+    "updateTime": "2023-08-04T13:15:12.956683Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwM3BYd1dREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Maceiras"
+    },
+    "starRating": "TWO",
+    "comment": "Me embola el procedimiento de hacer una fila larguísima para cargar combustible. Los playeros muy lentos.\n\n(Translated by Google)\nI hate having to wait in such a long line to get fuel. The gas station attendants are so slow.",
+    "createTime": "2023-08-03T21:09:19.937873Z",
+    "updateTime": "2023-08-03T21:09:19.937873Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwenNHcHpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Morales"
+    },
+    "starRating": "FIVE",
+    "comment": "Se podría mejorar las colas de espera que se hacen para ser atendido, con solo habilitar unos surtidores más.\n\n(Translated by Google)\nThe waiting lines for service could be improved simply by adding a few more pumps.",
+    "createTime": "2023-08-01T23:47:38.168036Z",
+    "updateTime": "2023-08-01T23:47:38.168036Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwbXNQTlZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia"
+    },
+    "starRating": "THREE",
+    "comment": "Aceptable solo cargue combustible\n\n(Translated by Google)\nAcceptable just load fuel",
+    "createTime": "2023-08-01T11:37:02.106769Z",
+    "updateTime": "2023-08-01T11:37:02.106769Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaXMzQjh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Daniel Llanos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-31T22:17:29.917976Z",
+    "updateTime": "2023-07-31T22:17:29.917976Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwMHE2WHpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Godoy Carlos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-31T00:28:05.936090Z",
+    "updateTime": "2023-07-31T00:28:05.936090Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwX05UY2NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "maria eugenia cuadra"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-05-23T17:30:21.622631Z",
+    "updateTime": "2023-07-27T02:36:25.147573Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxNExPak1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Romero"
+    },
+    "starRating": "THREE",
+    "comment": "Mucha fila siempre\n\n(Translated by Google)\nAlways long lines",
+    "createTime": "2023-07-27T00:55:00.975556Z",
+    "updateTime": "2023-07-27T00:55:00.975556Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwME96b2hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Felicitas Larragneguy"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención de los chicos\n\n(Translated by Google)\nExcellent service from the guys",
+    "createTime": "2023-07-26T02:59:58.065379Z",
+    "updateTime": "2023-07-26T02:59:58.065379Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURKX19DY2JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Romolo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-23T01:25:47.100168Z",
+    "updateTime": "2023-07-23T01:25:47.100168Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURKcTRtbmpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Alvarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, baños medianamente limpios(culpa de la gente mugrienta)\n\n(Translated by Google)\nGood service, bathrooms moderately clean (blame the dirty people)",
+    "createTime": "2023-07-21T19:49:42.123524Z",
+    "updateTime": "2023-07-21T19:49:42.123524Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURKamFPd0pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Floyd Sieber"
+    },
+    "starRating": "TWO",
+    "comment": "El arenero que me atendió fue muy poco amable para explicar que hay que hacer fila atrás en la cuadra.\n\n(Translated by Google)\nThe sandman who served me was very unfriendly in explaining that you have to queue up in the back of the block.",
+    "createTime": "2023-07-19T15:13:33.119152Z",
+    "updateTime": "2023-07-19T15:13:33.119152Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURKcWFpeE93EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana mdh"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-19T03:39:39.286790Z",
+    "updateTime": "2023-07-19T03:39:39.286790Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURKc2IzOEN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "amalia norma leveroni"
+    },
+    "starRating": "FIVE",
+    "comment": "Es un lugar muy familiar para mí, su atención es única.\n\n(Translated by Google)\nIt\u0027s a very familiar place for me, their attention is unique.",
+    "createTime": "2023-07-15T00:24:42.481728Z",
+    "updateTime": "2023-07-15T00:24:42.481728Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURKNnM3d2l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Labanca"
+    },
+    "starRating": "FIVE",
+    "comment": "Genial muy buena atención.\n\n(Translated by Google)\nGreat, very good service.",
+    "createTime": "2023-07-14T21:07:31.683344Z",
+    "updateTime": "2023-07-14T21:07:31.683344Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURKcXMzX0NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Att"
+    },
+    "starRating": "ONE",
+    "createTime": "2023-07-11T22:25:54.252667Z",
+    "updateTime": "2023-07-11T22:25:54.252667Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURKOUo3SzhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rosana Poli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-11T17:00:05.444515Z",
+    "updateTime": "2023-07-11T17:00:05.444515Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURKMU9lbkpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lorena Pennise"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-09T15:00:21.331049Z",
+    "updateTime": "2023-07-09T15:00:21.331049Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURKOEw3WkR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guille Guirao"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-03T18:57:25.462169Z",
+    "updateTime": "2023-07-03T18:57:25.462169Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKdzd6d0pnEAE"
+  }]
+}

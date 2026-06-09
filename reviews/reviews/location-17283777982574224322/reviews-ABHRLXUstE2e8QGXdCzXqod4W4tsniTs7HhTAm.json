@@ -1,0 +1,229 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ramon Gutierres"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-18T21:40:06.674592Z",
+    "updateTime": "2020-03-18T21:40:06.674592Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjdGRlckpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Motilka"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-03-18T01:03:47.215014Z",
+    "updateTime": "2020-03-18T01:03:47.215014Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChRDSUhNMG9nS0VJQ0FnSUNjbGJaSRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Ledesma"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención.. el personal excelente.. shop bien completo\n\n(Translated by Google)\nExcellent service... the staff is superb... the shop is very well-stocked",
+    "createTime": "2020-03-16T03:32:05.852954Z",
+    "updateTime": "2020-03-16T03:32:05.852954Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario y calificación",
+      "updateTime": "2020-03-16T09:28:42.542243Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjdWR5RGR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Busto"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísima atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-03-10T18:15:17.577363Z",
+    "updateTime": "2020-03-10T18:15:17.577363Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias por el comentario y la calificación",
+      "updateTime": "2020-03-10T19:54:54.481160Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjeUpYOGtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marga Veron"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion. Inigualables\n\n(Translated by Google)\nExcellent service. Unmatched.",
+    "createTime": "2020-03-10T15:57:43.182574Z",
+    "updateTime": "2020-03-10T15:57:43.182574Z",
+    "reviewReply": {
+      "comment": "muchísimas gracias por su comentario y calificación!",
+      "updateTime": "2020-03-10T19:40:03.466277Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjOEtlUE5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "fabian Navarro"
+    },
+    "starRating": "TWO",
+    "createTime": "2020-03-04T00:46:37.760120Z",
+    "updateTime": "2020-03-04T00:46:37.760120Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURzanVMOUR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ireneo Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "buena atencion.\n\n(Translated by Google)\ngood service.",
+    "createTime": "2020-02-26T19:47:51.889406Z",
+    "updateTime": "2020-02-26T19:47:51.889406Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURzM0xfcXh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Cabrera"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-02-25T19:12:30.158438Z",
+    "updateTime": "2020-02-25T19:12:30.158438Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el comentario y la calificación.",
+      "updateTime": "2020-02-25T20:24:39.758679Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURzek12clZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "SIC TRANSIT GLORIA MUNDI GLORIA MUNDI"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención, lugar con baños limpios . Se puede desayunar bien.\n\n(Translated by Google)\nExcellent service, clean restrooms. Good breakfast available.",
+    "createTime": "2020-02-25T01:59:41.353786Z",
+    "updateTime": "2020-02-25T01:59:41.353786Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el comentario y la calificación",
+      "updateTime": "2020-02-25T11:01:40.665107Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURzdE42WVlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Christian, Gaston Gonzalez"
+    },
+    "starRating": "TWO",
+    "createTime": "2020-02-23T20:48:57.583024Z",
+    "updateTime": "2020-02-23T20:48:57.583024Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURzeE03cXpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julieta Raquel Souza"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2020-02-23T15:42:11.049022Z",
+    "updateTime": "2020-02-23T15:42:11.049022Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el comentario y la calificación.",
+      "updateTime": "2020-02-23T18:51:06.007079Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURzaEx5MTFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "juan Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención y lugar muy moderno.\n\n(Translated by Google)\nExcellent service and a very modern place.",
+    "createTime": "2020-02-20T15:27:21.013784Z",
+    "updateTime": "2020-02-20T15:27:21.013784Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el comentario y la calificación!.",
+      "updateTime": "2020-02-21T02:55:02.781973Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURzb0pXUTVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diana R Abad"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-17T14:27:18.780923Z",
+    "updateTime": "2020-02-17T14:27:18.780923Z",
+    "reviewReply": {
+      "comment": "Gracias por la calificación!",
+      "updateTime": "2020-02-21T02:54:42.079773Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdDc3bmh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Belen Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-17T13:28:03.235829Z",
+    "updateTime": "2020-02-17T13:28:03.235829Z",
+    "reviewReply": {
+      "comment": "Gracias por la calificación!",
+      "updateTime": "2020-02-21T02:54:15.188489Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdDVMbVZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gisela Umbides"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-17T02:20:14.022140Z",
+    "updateTime": "2020-02-17T02:20:14.022140Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por la calificación!",
+      "updateTime": "2020-02-21T02:53:59.008070Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbDZuNFNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Pizarro"
+    },
+    "starRating": "FOUR",
+    "comment": "Ágil. Bien ubicada y de expendio rápido.\n\n(Translated by Google)\nAgile. Well located and with fast service.",
+    "createTime": "2020-02-11T16:18:18.335240Z",
+    "updateTime": "2020-02-11T16:18:18.335240Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el comentario y la calificación!.",
+      "updateTime": "2020-02-13T12:04:54.111618Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdlltR3h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Merka"
+    },
+    "starRating": "FIVE",
+    "comment": "Totalmente renovada\n\n(Translated by Google)\nCompletely renovated",
+    "createTime": "2020-02-09T15:19:16.423204Z",
+    "updateTime": "2020-02-09T15:19:16.423204Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el comentario y la calificación",
+      "updateTime": "2020-02-09T16:21:48.960421Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdGVtYXFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Erica Jara"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-09T11:13:09.048128Z",
+    "updateTime": "2020-02-09T11:13:09.048128Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMWFYdEN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Huare"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-08T22:48:33.348266Z",
+    "updateTime": "2020-02-08T22:48:33.348266Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por la calificación.",
+      "updateTime": "2020-02-09T01:56:19.420786Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNWFiTTZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gise Niche"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-08T16:24:20.235882Z",
+    "updateTime": "2020-02-08T16:24:20.235882Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por la calificación.",
+      "updateTime": "2020-02-08T17:01:53.517398Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzeGRXb3F3RRAB"
+  }]
+}

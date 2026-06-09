@@ -1,0 +1,236 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Florencia Maidana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-04T00:32:39.608740Z",
+    "updateTime": "2026-05-04T00:32:39.608740Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paR1JuSlRWMmRFVW5sclJYWTJXWEZ3ZUhOd1ZIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonio Gammuto"
+    },
+    "starRating": "THREE",
+    "comment": "Ok.",
+    "createTime": "2026-04-07T23:14:57.095133Z",
+    "updateTime": "2026-05-01T04:39:32.206354Z",
+    "reviewReply": {
+      "comment": "Buenas noches muchas Gracias por su calificación ",
+      "updateTime": "2026-04-08T01:16:42.258727Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOTmJVeDZZbWRPVnkxeGFEbHZaa2d6VDFOb05XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Felix Daniel Pereda"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención fue muy buena y rápida, todo 10 puntos\n\n(Translated by Google)\nThe service was excellent and fast, everything was perfect.",
+    "createTime": "2026-03-11T11:17:26.526256Z",
+    "updateTime": "2026-03-11T11:17:26.526256Z",
+    "reviewReply": {
+      "comment": "Buenas tardes muchas Gracias por su calificación ",
+      "updateTime": "2026-03-11T21:38:00.871658Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xscWJURmZNSGhJY2pkNmRVOUhkbTgwV1dNd1VXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo maulion"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente comida muy buen cervicio y leo el mozo un capo\n\n(Translated by Google)\nExcellent food, very good service, and Leo the waiter was fantastic.",
+    "createTime": "2026-03-08T02:42:09.260380Z",
+    "updateTime": "2026-03-08T02:42:09.260380Z",
+    "reviewReply": {
+      "comment": "Buenas noches muchas Gracias por su calificación ",
+      "updateTime": "2026-03-10T23:55:17.909415Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1MFJ6Z3paV3QzZG1kWFJVMW5TVU52VEU5MVJVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emanuel Toranzo"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención y comida excelente.  Cuenta con sala de juegos para niños\n\n(Translated by Google)\nThe service and food were excellent. It also has a children\u0027s playroom.",
+    "createTime": "2026-03-08T01:48:13.717001Z",
+    "updateTime": "2026-03-08T01:48:13.717001Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su calificación ",
+      "updateTime": "2026-03-10T23:57:30.678184Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWbFowWk5SbEJ0VDFGM00zSXlUMWR4TlVwZmRHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "stella maris rivera"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente comida y atención del mozo!! Un genio Leo, súper atento.\n\n(Translated by Google)\nExcellent food and great service from the waiter!! Leo is a gem, super attentive.",
+    "createTime": "2026-03-08T01:13:42.478775Z",
+    "updateTime": "2026-03-08T01:13:42.478775Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su calificación ",
+      "updateTime": "2026-03-10T23:56:16.878545Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ocFNtRktORkpaYVRNM2JqUnpSazFSUzBGeVJIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Alberto Fernández"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo bien.. una estrella más por la atención de Leo... gracias\n\n(Translated by Google)\nEverything\u0027s great...an extra star for Leo\u0027s attention...thanks",
+    "createTime": "2026-03-08T00:52:30.433214Z",
+    "updateTime": "2026-03-08T00:52:30.433214Z",
+    "reviewReply": {
+      "comment": "Buenas noches muchas Gracias por su calificación ",
+      "updateTime": "2026-03-10T23:55:46.051689Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toeVNqZElMVGg0UTJFeVlub3hVMHBhZUVveU4yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Noelia Bournissen"
+    },
+    "starRating": "FIVE",
+    "comment": "Servicio ágil y eficiente! Muy buenos servicios para parar durante el viaje!\n\n(Translated by Google)\nFast and efficient service! Great places to stop along the way!",
+    "createTime": "2026-03-04T15:49:48.930324Z",
+    "updateTime": "2026-03-04T15:49:48.930324Z",
+    "reviewReply": {
+      "comment": "Buenos días muchas Gracias por su calificación ",
+      "updateTime": "2026-03-06T11:26:31.468648Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4eGMyMHhkRXBvUzJOb1QwbHFhSFpDU1RrMWJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio Berra"
+    },
+    "starRating": "FOUR",
+    "comment": "La comida rica y abundante. La atención muy buena. Hay descuento del 20% siendo socio del ACA.\n\n(Translated by Google)\nThe food was delicious and plentiful. The service was excellent. There\u0027s a 20% discount for ACA members.",
+    "createTime": "2026-02-25T12:08:46.114636Z",
+    "updateTime": "2026-02-25T12:08:46.114636Z",
+    "reviewReply": {
+      "comment": "Buenas noches muchas Gracias por su calificación ",
+      "updateTime": "2026-02-26T23:39:23.573876Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT210dlpsbG1ORkJFY0d3elQxQnhWRmRmVkhaQ1RVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Guerra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-02-22T04:23:00.529441Z",
+    "updateTime": "2026-02-22T04:23:00.529441Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTldVNXhNRFpaTFdjd2FFSndNM2hMZG5SZlRFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pablo Trombini"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente comida y atención.\nMuy buena relación precio calidad .\nPlatos abundantes.\nExcelente atención\n\n(Translated by Google)\nExcellent food and service.\nVery good value for money.\nGenerous portions.\nExcellent service.",
+    "createTime": "2026-02-11T13:48:42.825911Z",
+    "updateTime": "2026-02-11T13:48:42.825911Z",
+    "reviewReply": {
+      "comment": "Buenos días muchas gracias por su calificación ",
+      "updateTime": "2026-02-12T11:40:16.366967Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWVZtbHpWVzFRYkdsTGMwcHlhMUJZTFRnMWQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Ibañez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena relación precio calidad. Excelente la atención de Leo.\n\n(Translated by Google)\nGood value for money. Leo\u0027s service was excellent.",
+    "createTime": "2026-02-11T00:13:36.886896Z",
+    "updateTime": "2026-02-11T00:13:36.886896Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su calificación ",
+      "updateTime": "2026-02-11T16:14:54.881877Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT210MlFtZGxNbEZzWldwbmVHeDJXbXBSWjFaa1FuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "fernando salgado"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-02-08T01:42:36.569583Z",
+    "updateTime": "2026-02-08T01:42:36.569583Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWclkxbHRUa2hYWWpCYU9GRXRRMlZMT0RSU1YyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Riva"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy variada la carta del menú, con sugerencias y platos para compartir. Variada bebidas y tragos, los postres frescos.\nEspacio amplio comedor. El servicio de los mozos excelente, siempre atentos y sugiriendo menú.\nEspacio para juegos de chicos, afuera mesas para fumadores.\n\n(Translated by Google)\nThe menu is very varied, with suggestions and dishes to share. A wide selection of drinks and cocktails, and fresh desserts. Spacious dining area. Excellent service from the waiters, always attentive and offering menu suggestions. Children\u0027s play area, and outdoor tables for smokers.",
+    "createTime": "2026-01-31T00:08:53.296870Z",
+    "updateTime": "2026-01-31T00:08:53.296870Z",
+    "reviewReply": {
+      "comment": "Buenas noches muchas Gracias por su calificación ",
+      "updateTime": "2026-01-31T02:09:53.735431Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KeVp6Rm1NVE4zT1RkVk5IbFFaVWxGZFRKS2MyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Erro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-24T14:18:00.462386Z",
+    "updateTime": "2026-01-24T14:18:00.462386Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su calificación ",
+      "updateTime": "2026-01-26T00:27:16.272113Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paVmJuRlFUMVJ3V1RCUVpVZEZMVEJNUkRWSFNXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Martin Gallvitz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-24T04:06:49.256550Z",
+    "updateTime": "2026-01-24T04:06:49.256550Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su calificación ",
+      "updateTime": "2026-01-26T00:27:44.218619Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xMVdsbG5XV0ZCV1UwNFJqUkZVbFYyUkhBNFgwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston Alacua"
+    },
+    "starRating": "FIVE",
+    "comment": "Me atendió un sr no recuerdo el nombre pero merece un 10 .\nMe recomendó un camino alternativo para ir a Bariloche.. exelente decisión un billar abrazo grande para el\n\n(Translated by Google)\nI was helped by a gentleman whose name I don\u0027t remember, but he deserves a 10/10.\n\nHe recommended an alternative route to Bariloche... excellent decision! A big hug to him!",
+    "createTime": "2026-01-22T22:15:04.752649Z",
+    "updateTime": "2026-01-22T22:15:04.752649Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su calificación ",
+      "updateTime": "2026-01-23T20:06:22.700432Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT21adGFUUnphVTlDWkVKQlFXNXlkVlZKYzNaU1RIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Solo andando por andar"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-01-20T22:09:38.933804Z",
+    "updateTime": "2026-01-20T22:09:38.933804Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZdGVYVXlVbk5KUkVsTFpYcE9jRkJ0ZVdSV1YzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "debora maldonado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-18T21:14:23.962397Z",
+    "updateTime": "2026-01-18T21:14:23.962397Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWTWRtbHlYMjF1YlhOM2RUbHBhWGhSWlhSQlVHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Viajando Juntos"
+    },
+    "starRating": "FIVE",
+    "comment": "Cargamos antes de seguir viaje. Rapido y a buen precio. Pueden ver el video completo en YouTube nos encuentran como Viajando Juntos Fede y Dai.  Suscribanse porfa Gracias!!\n\n(Translated by Google)\nWe filled up before continuing our trip. Quick and affordable. You can see the full video on YouTube; we\u0027re called Viajando Juntos Fede y Dai. Please subscribe! Thanks!!",
+    "createTime": "2026-01-17T20:50:57.579350Z",
+    "updateTime": "2026-01-17T20:50:57.579350Z",
+    "reviewReply": {
+      "comment": "Buenos días muchas gracias por su calificación ",
+      "updateTime": "2026-01-18T15:29:10.921798Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Oa1Jta3haemR2TkhGQk1ITkthbFpyTVdWS2IwRRAB"
+  }]
+}

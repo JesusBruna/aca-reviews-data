@@ -1,0 +1,255 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mariano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-09T22:37:00.244954Z",
+    "updateTime": "2024-01-09T22:37:00.244954Z",
+    "reviewReply": {
+      "comment": "Gracias Mariano",
+      "updateTime": "2024-01-10T21:59:19.166047Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxNDhlVkhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Pruyas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-09T20:13:10.828090Z",
+    "updateTime": "2024-01-09T20:13:10.828090Z",
+    "reviewReply": {
+      "comment": "Gracias Gabriela",
+      "updateTime": "2024-01-10T21:59:30.535923Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxbzliS2NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Abad"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención. Baños regular. FULL con varias opciones para comer.\n\n(Translated by Google)\nVery good service. Average bathrooms. Plenty of dining options.",
+    "createTime": "2024-01-09T17:41:55.237088Z",
+    "updateTime": "2024-01-09T17:42:02.500645Z",
+    "reviewReply": {
+      "comment": "Gracias Cesar. Son los baños del pueblo. Pero igual le metemos bastante",
+      "updateTime": "2024-01-10T21:59:59.092605Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxZzd2Q2FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2024-01-09T12:32:14.864793Z",
+    "updateTime": "2024-01-09T12:32:14.864793Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2024-01-10T22:00:07.271218Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxbmJfVXJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Brodt"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-01-09T12:04:50.164066Z",
+    "updateTime": "2024-01-09T12:04:50.164066Z",
+    "reviewReply": {
+      "comment": "Gracias Eomina",
+      "updateTime": "2024-01-10T22:00:15.181517Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxbllXalRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Cuevas Benitez"
+    },
+    "starRating": "ONE",
+    "comment": "Pésimo servicio, fila de 2 cuadras y 95 minutos de espera para cargar combustible.\n\n(Translated by Google)\nTerrible service, a line of 2 blocks and a 95-minute wait to refuel.",
+    "createTime": "2024-01-09T09:52:47.818520Z",
+    "updateTime": "2024-01-09T09:52:47.818520Z",
+    "reviewReply": {
+      "comment": "Hola Mauricio. A veces nos supera la demanda y no.podemos hacer mucho",
+      "updateTime": "2024-01-10T22:00:43.888466Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxN2FTRFZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Ricci"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en la playa de carga de combustible y en el shop\n\n(Translated by Google)\nExcellent service at the fuel pump and in the shop",
+    "createTime": "2024-01-08T23:41:14.557654Z",
+    "updateTime": "2024-01-08T23:41:14.557654Z",
+    "reviewReply": {
+      "comment": "Gracias Enrique",
+      "updateTime": "2024-01-10T22:00:54.058904Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxMWF5NFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos bazán"
+    },
+    "starRating": "TWO",
+    "createTime": "2024-01-08T18:13:24.794288Z",
+    "updateTime": "2024-01-08T18:13:24.794288Z",
+    "reviewReply": {
+      "comment": "Hola Carlos. Nos.podrías dejar un comentario???",
+      "updateTime": "2024-01-10T22:01:13.151361Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxeGRuRWZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucho River Plate"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-01-08T17:57:58.754306Z",
+    "updateTime": "2024-01-08T17:57:58.754306Z",
+    "reviewReply": {
+      "comment": "Gracias Lucho. Nos podrias dejar algún opinión para mejorar las 3 estrellas???",
+      "updateTime": "2024-01-10T22:01:44.550062Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxeGViTlRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian H. Brito"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-08T11:08:59.151101Z",
+    "updateTime": "2024-01-08T11:08:59.151101Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-01-10T22:01:49.767199Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxbWVPMHJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Mallo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención.  Casi siempre hay cola para cargar\n\n(Translated by Google)\nExcellent service. There\u0027s almost always a line to recharge.",
+    "createTime": "2024-01-08T01:22:36.604432Z",
+    "updateTime": "2024-01-08T01:22:36.604432Z",
+    "reviewReply": {
+      "comment": "Gracias Natalia. ",
+      "updateTime": "2024-01-10T22:02:00.476841Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxOFlLMnBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Morán"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, muy completa y los baños muy limpios.\n\n(Translated by Google)\nExcellent service, very comprehensive, and the bathrooms were very clean.",
+    "createTime": "2024-01-08T00:36:26.617824Z",
+    "updateTime": "2024-01-08T00:36:37.992330Z",
+    "reviewReply": {
+      "comment": "Gracias Luciano",
+      "updateTime": "2024-01-10T22:02:11.978750Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxc2R1VTRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Los Garri"
+    },
+    "starRating": "FIVE",
+    "comment": "Genial y muy buen trato de los empleados\n\n(Translated by Google)\nGreat and very good service from the employees",
+    "createTime": "2024-01-07T21:07:59.321569Z",
+    "updateTime": "2024-01-07T21:07:59.321569Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias",
+      "updateTime": "2024-01-10T22:02:23.160514Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxa2FuQmpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Braian Acosta"
+    },
+    "starRating": "FOUR",
+    "comment": "Es medio lerda la fila para cargar por qué cuando fui había un playero pero después es una YPF más, el full es muy bueno.\n\n(Translated by Google)\nThe line to load is a bit slow because when I went there was a beach bar, but then it\u0027s more of a YPF, the full bar is very good.",
+    "createTime": "2024-01-07T20:03:59.237862Z",
+    "updateTime": "2024-01-07T20:03:59.237862Z",
+    "reviewReply": {
+      "comment": "Gracias brian. Solamente después de las 12 de la noche queda un playero",
+      "updateTime": "2024-01-10T22:02:54.831067Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxNGF2bVl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Bloise"
+    },
+    "starRating": "THREE",
+    "comment": "Son muy lentos para atender tanto en la estación  como en el mini market.\n\n(Translated by Google)\nThey are very slow to serve both at the station and at the mini market.",
+    "createTime": "2024-01-07T15:40:38.717534Z",
+    "updateTime": "2024-01-07T15:40:38.717534Z",
+    "reviewReply": {
+      "comment": "Hola bruno. Lamentamos el tiempo de espera. Esperamos que haya sido de calidad",
+      "updateTime": "2024-01-10T22:03:27.321185Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxZ2FmMHF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rosa Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-07T11:40:42.984468Z",
+    "updateTime": "2024-01-07T11:40:42.984468Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-01-10T22:03:32.976097Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxdnZLQmN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emilia Alveal"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de los chicos del kiosco y de los playeros.\n\n(Translated by Google)\nExcellent service from the kiosk staff and the beach attendants.",
+    "createTime": "2024-01-06T13:24:39.614128Z",
+    "updateTime": "2024-01-06T13:24:39.614128Z",
+    "reviewReply": {
+      "comment": "Gracias Emilia",
+      "updateTime": "2024-01-10T22:03:42.008306Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxeXBLN05REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Casal"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-06T10:19:45.619899Z",
+    "updateTime": "2024-01-06T10:19:45.619899Z",
+    "reviewReply": {
+      "comment": "Gracias Mauro",
+      "updateTime": "2024-01-10T22:03:49.937408Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxOHFEQzZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Guiñazú"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-06T02:49:55.996425Z",
+    "updateTime": "2024-01-06T02:49:55.996425Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-01-10T22:03:55.629060Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxd3JLOUlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "georgi veliz"
+    },
+    "starRating": "FOUR",
+    "comment": "Está bien ubicada, buena atención por parte del playero menos del compañero me pareció poco amable y empático. Atienden rápido, los baños no se porque no fuí.\n\n(Translated by Google)\nIt\u0027s well located, and the service from the attendant was good, except for his colleague, who seemed unfriendly and unsympathetic. Service is quick, but I didn\u0027t use the restrooms.",
+    "createTime": "2024-01-05T18:33:27.938939Z",
+    "updateTime": "2024-01-05T18:33:27.938939Z",
+    "reviewReply": {
+      "comment": "Hola pedón por lo del compañero",
+      "updateTime": "2024-01-10T22:04:30.851307Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxelBPenRRRRAB"
+  }]
+}

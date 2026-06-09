@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Esteban Ibarra"
+    },
+    "starRating": "FIVE",
+    "comment": "excelente lugar y atención\n\n(Translated by Google)\nExcellent place and service",
+    "createTime": "2018-05-26T21:36:33.927Z",
+    "updateTime": "2018-05-26T21:36:39.103Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eC1YZUh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Redes Pringles"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen Servicio\n\n(Translated by Google)\nGood Service",
+    "createTime": "2018-05-26T18:38:57.297Z",
+    "updateTime": "2018-05-26T18:39:10.799Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURBenBYcXZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Edgardo Carlos Engelmann"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre excelente atención.\n\n(Translated by Google)\nAlways excellent service.",
+    "createTime": "2018-05-26T10:19:31.773Z",
+    "updateTime": "2018-05-26T10:19:51.455Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnejZ2VFdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Cuneo"
+    },
+    "starRating": "FOUR",
+    "comment": "Algo lentos\n\n(Translated by Google)\nSomewhat slow",
+    "createTime": "2018-05-25T22:38:42.160Z",
+    "updateTime": "2018-05-25T22:38:49.960Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURndk1mV0RnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Herley Acosta"
+    },
+    "starRating": "FOUR",
+    "comment": "Estación de servicio adherida al ACA\n\n(Translated by Google)\nService station adhering to the ACA",
+    "createTime": "2018-05-25T13:54:33.918Z",
+    "updateTime": "2018-05-25T13:55:23.362Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURnNHVYYU9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Regina Waehner"
+    },
+    "starRating": "ONE",
+    "comment": "En Atencion al.Cliente, por seguros ACA, hay una mujer muy muy antipatica. Su cara es el fiel reflejo que no tiene ganas de atender a los clientes y su actitud es peor. La proxima le tomo el nombre. Pero quedé estupecta, porque no solo no me solucionó el problema, sino que me trató muy muy mal.\n\n(Translated by Google)\nAt Customer Service for ACA insurance, there\u0027s a very, very unfriendly woman. Her face clearly shows she has no desire to help customers, and her attitude is even worse. Next time, I\u0027ll get her name. But I was stunned because not only did she not solve my problem, but she treated me very, very badly.",
+    "createTime": "2018-05-24T21:11:35.462Z",
+    "updateTime": "2018-05-24T21:14:11.725Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURnd2ZIRER3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tito Orozco"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-05-24T11:40:12.936Z",
+    "updateTime": "2018-05-24T11:40:12.936Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURnNDkyczVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "diego guerrero"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-05-24T11:34:16.624Z",
+    "updateTime": "2018-05-24T11:34:26.372Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURncHBPMmNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fiesta Kinetic"
+    },
+    "starRating": "THREE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2018-05-24T08:51:37.945Z",
+    "updateTime": "2018-05-24T08:51:41.591Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3cmZUMGJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Jolodovsky"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-05-23T22:54:27.145Z",
+    "updateTime": "2018-05-23T22:54:27.145Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRdXQ3LWtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien atendido\n\n(Translated by Google)\nWell taken care of",
+    "createTime": "2018-05-23T15:10:32.990Z",
+    "updateTime": "2018-05-23T15:10:43.845Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURBaHN2R3BBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Pacci"
+    },
+    "starRating": "FIVE",
+    "comment": "Co.o todo ACA muy buenoooo\n\n(Translated by Google)\nEverything here is great!",
+    "createTime": "2018-02-17T16:37:12.922Z",
+    "updateTime": "2018-05-22T16:28:01.558Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURnNEpLbWJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Longobuco"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo lugar y muy buena atencion, es una lastima que cierren muy temprano, tipo 20hs. Hay que comenzar a despedirse.\n\n(Translated by Google)\nNice place and very good service. It\u0027s a shame they close so early, around 8 p.m. It\u0027s time to say goodbye.",
+    "createTime": "2018-05-21T23:31:52.772Z",
+    "updateTime": "2018-05-21T23:33:33.999Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3aWJPSWlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "David Pablo Rossi"
+    },
+    "starRating": "FIVE",
+    "comment": "Un lugar exelente con el combustible mas barato que en resto de la gasolineras\n\n(Translated by Google)\nAn excellent place with cheaper fuel than at other gas stations",
+    "createTime": "2018-05-21T10:50:03.811Z",
+    "updateTime": "2018-05-21T10:51:07.692Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBaGVpUlJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Tonelli"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio y remodelada\n\n(Translated by Google)\nGood service and remodeled",
+    "createTime": "2018-05-20T11:20:35.208Z",
+    "updateTime": "2018-05-20T11:20:52.697Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3dV9MNk5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Norah Lanzoni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-05-19T22:46:09.410Z",
+    "updateTime": "2018-05-19T22:46:09.410Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3Z3VMZnBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MARCELO MARCONE"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor\n\n(Translated by Google)\nThe best",
+    "createTime": "2018-05-18T11:09:44.643Z",
+    "updateTime": "2018-05-18T11:09:56.116Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBcl9Hcnd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Palumbo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-05-17T19:36:16.510Z",
+    "updateTime": "2018-05-17T19:36:16.510Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURnc1BhYTh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Raposo"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-05-17T04:26:29.444Z",
+    "updateTime": "2018-05-17T04:26:29.444Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURnaXBYS3pRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Andrés Veiras - Bonzo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-05-16T22:03:10.038Z",
+    "updateTime": "2018-05-16T22:03:10.038Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMU5maElBEAE"
+  }]
+}

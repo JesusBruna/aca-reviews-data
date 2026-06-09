@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Fredy Fredy"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-09-27T16:15:53.884522Z",
+    "updateTime": "2021-09-27T16:15:53.884522Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2LXZuNnZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Vila"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-09-27T12:09:47.765019Z",
+    "updateTime": "2021-09-27T12:09:47.765019Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2dXBta19BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Alberto Bour"
+    },
+    "starRating": "FIVE",
+    "comment": "Mucha limpieza en la confitería y en los baños.\n\n(Translated by Google)\nVery clean in the confectionery and in the bathrooms.",
+    "createTime": "2021-09-26T22:41:23.723867Z",
+    "updateTime": "2021-09-26T22:41:23.723867Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2bXU2d3V3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Charlotte Gradenecker"
+    },
+    "starRating": "FIVE",
+    "comment": "Tienen opciones para celiacos 👏🏻👏🏻\n\n(Translated by Google)\nThey have options for celiacs 👏🏻👏🏻",
+    "createTime": "2021-09-25T18:59:17.793752Z",
+    "updateTime": "2021-09-25T18:59:17.793752Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2OHNPdVNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Fernando Gallego"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente motel para pasar la noche. La supervisión del ACA es excelente\n\n(Translated by Google)\nExcellent motel for an overnight stay. ACA supervision is excellent.",
+    "createTime": "2021-09-25T13:02:59.045683Z",
+    "updateTime": "2021-09-25T13:02:59.045683Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2c3A2TkxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel Serventi"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención. Hermoso lugar.\n\n(Translated by Google)\nGreat service. Beautiful place.",
+    "createTime": "2021-09-25T12:04:50.182839Z",
+    "updateTime": "2021-09-25T12:04:50.182839Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2c3VMd1FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "nanudru producciones"
+    },
+    "starRating": "FIVE",
+    "comment": "Se come de 10\n\n(Translated by Google)\nThe food is excellent.",
+    "createTime": "2021-09-25T10:51:03.421090Z",
+    "updateTime": "2021-09-25T10:51:03.421090Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2c3BDT3VnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lito"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-09-25T03:05:53.439953Z",
+    "updateTime": "2021-09-25T03:05:53.439953Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2a3V2V0Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Von Wernich"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-09-23T15:54:23.650833Z",
+    "updateTime": "2021-09-23T15:54:23.650833Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2dk1xUFBnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ian mazzaglia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-09-22T04:04:48.963806Z",
+    "updateTime": "2021-09-22T04:04:48.963806Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2OVBuYVd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Edgar Abdala"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-09-21T23:00:21.157197Z",
+    "updateTime": "2021-09-21T23:00:21.157197Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2dE5fVExnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "norma sandoval"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-09-21T01:06:46.065347Z",
+    "updateTime": "2021-09-21T01:06:46.065347Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2cE9yWERBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "martin lacarra"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2021-09-20T23:05:11.567371Z",
+    "updateTime": "2021-09-20T23:05:11.567371Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2cEpEbjlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Muffo"
+    },
+    "starRating": "FOUR",
+    "comment": "👏👏",
+    "createTime": "2021-09-20T22:55:30.275895Z",
+    "updateTime": "2021-09-20T22:55:30.275895Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2cElDaFhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "gonzalo alberto villar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-09-20T22:40:09.657797Z",
+    "updateTime": "2021-09-20T22:40:09.657797Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2eEpuSXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "silvana lazzeri"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-09-20T18:07:09.917856Z",
+    "updateTime": "2021-09-20T18:07:09.917856Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2aE1uZkJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo R Silva"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-09-20T04:43:18.768832Z",
+    "updateTime": "2021-09-20T04:43:18.768832Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2MktTWUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Castro"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2021-09-20T02:15:37.495652Z",
+    "updateTime": "2021-09-20T02:15:37.495652Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2bU9QNUh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Pesi"
+    },
+    "starRating": "TWO",
+    "comment": "No se porque pero en los ultimos meses cargue combustible varias veces y siguen teniendo un \"problema\" con el sistema que no les permite emitir factura tipo A si se paga con la APP YPF, podrian solucionarlo de una vez y poder hacerlo al igual que otras Ypf y Aca. La atencion e higiene muy buena, deberian ver la forma de poder agilizar la atencion del mercado Full ya que siempre se hace fila y demora mucho la parada.\n\n(Translated by Google)\nI don\u0027t know why, but I\u0027ve filled up with fuel several times in the last few months, and they\u0027re still having a \"problem\" with the system that prevents them from issuing a Type A invoice if paid with the YPF app. They could fix this once and for all and be able to do it like other YPF stores and ACA. The service and hygiene are very good. They should find a way to streamline service at the Full market, since there are always lines and it takes a long time to stop.",
+    "createTime": "2021-09-19T21:44:04.781831Z",
+    "updateTime": "2021-09-19T21:50:10.023593Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2bU5qZkRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano Carmona"
+    },
+    "starRating": "FIVE",
+    "comment": "Este ACA es la primera (viniendo del norte) o última (viniendo del sur) que tiene el régimen de nafta barata correspondiente a la zona patagónica. Téngase presente.\n\n(Translated by Google)\nThis ACA is the first (coming from the north) or last (coming from the south) that has the low-price gasoline program corresponding to the Patagonian region. Please keep this in mind.",
+    "createTime": "2021-09-19T17:21:05.148182Z",
+    "updateTime": "2021-09-19T17:21:05.148182Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2Nkt5ZWRBEAE"
+  }]
+}

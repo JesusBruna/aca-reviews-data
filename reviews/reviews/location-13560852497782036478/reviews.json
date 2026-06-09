@@ -1,0 +1,192 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "laura pedrini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-01T19:33:44.516307Z",
+    "updateTime": "2026-05-01T19:33:44.516307Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVeVJteGZTRTlYY1dSSFlWWkZWWHB4Ym1nNWMzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina ti Oya"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-04-24T20:19:37.911452Z",
+    "updateTime": "2026-04-24T20:19:37.911452Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT21nMGFYRjRZemM1U1RKclJVazRUazV5TkROR1ZXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Roldán"
+    },
+    "starRating": "TWO",
+    "comment": "Recibían solo efectivo, los baños con bastante olor\n\n(Translated by Google)\nThey only accepted cash, and the bathrooms smelled quite strong.",
+    "createTime": "2026-04-08T10:13:00.961943Z",
+    "updateTime": "2026-04-08T10:13:00.961943Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5bFMyMWtWaTExUmtkRldDMW1kSGRqYTNsdE9FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Abello"
+    },
+    "starRating": "ONE",
+    "comment": "Muy limpia y pintoresca la Estacion.\nPero cierran los baños de noche y ni siendo cliente te dan la llave..\nSolo permanece abierto el baño de Discapacitados..\n\n(Translated by Google)\nThe station is very clean and picturesque.\n\nBut they close the restrooms at night, and even as a customer, they don\u0027t give you the key. Only the accessible restroom remains open.",
+    "createTime": "2026-03-14T02:32:48.304080Z",
+    "updateTime": "2026-04-02T01:22:14.594930Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsNmJtZzFSVnBFZFhOdWNFSnhjVUZqZWpCUlZuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Centurion"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar ideal para descansar con óptimo entendimiento al público!!\n\n(Translated by Google)\nIdeal place to relax with excellent customer service!",
+    "createTime": "2026-03-31T21:26:36.143890Z",
+    "updateTime": "2026-03-31T21:26:36.143890Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psUWFXOW1PRW8yV1RaYWEyUTVZMEpyYUhSdk5GRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Fara"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno para parar cargar energía y seguir un largo viaje\n\n(Translated by Google)\nGreat for stopping to recharge and continue a long journey",
+    "createTime": "2026-03-31T12:03:27.588629Z",
+    "updateTime": "2026-03-31T12:03:27.588629Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trMloxUkhiR0psYTFreVFsQktTR016ZDI5MWFYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Penzo"
+    },
+    "starRating": "ONE",
+    "comment": "Muy amable y cordial la atención pero los 3 temas que hablamos resultaron mentiras.\n\n(Translated by Google)\nThe service was very kind and friendly, but the three topics we discussed turned out to be lies.",
+    "createTime": "2026-03-24T10:21:10.042077Z",
+    "updateTime": "2026-03-24T10:21:10.042077Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kTVFqbDNMVlZWUzJSTmRWbGlTMmx2VFRsR2NsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Augusto Rodrigo Bovio"
+    },
+    "starRating": "FIVE",
+    "comment": "Esther 10 puntos una genia\n\n(Translated by Google)\nEsther, 10 out of 10, a genius!",
+    "createTime": "2026-03-23T16:02:36.676490Z",
+    "updateTime": "2026-03-23T16:02:36.676490Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKa1ZVRm9iVGR3YWxFelVYQkhYMlJ2TWpSV2MwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Alejandra Malpassi"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!! Bar y playa!!\nEstabamos de pasada y el desayuno espectacular!!\n\n(Translated by Google)\nExcellent service!! Bar and beach!!\nWe were just passing through and the breakfast was spectacular!!",
+    "createTime": "2026-03-23T10:27:45.197198Z",
+    "updateTime": "2026-03-23T10:27:45.197198Z",
+    "reviewReply": {
+      "comment": "muchas gracias!!! \n",
+      "updateTime": "2026-03-23T12:32:36.409563Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5blRtcEpYM2RTZVZKc1lWWjNNRnA2VkdaT1ZGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carina Sisneros"
+    },
+    "starRating": "FIVE",
+    "comment": "Una genia Ester! Muchísimas gracias por la atención y predisposición  de abrir la cocina y preparar unos exquisitos Sándwich ! Muchísimas gracias 😊\n\n(Translated by Google)\nEster is amazing! Thank you so much for your kindness and willingness to open your kitchen and make some delicious sandwiches! Thank you so much 😊",
+    "createTime": "2026-02-25T20:11:25.210984Z",
+    "updateTime": "2026-02-25T20:11:25.210984Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT21nNU9WRkdVVk5HTVdwRWRFRkdjVmQzYjFZM1EzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Luna"
+    },
+    "starRating": "FOUR",
+    "comment": "Completo y buena at\n\n(Translated by Google)\nComplete and good at",
+    "createTime": "2026-02-24T08:36:22.158056Z",
+    "updateTime": "2026-02-24T08:36:22.158056Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SUWFXUXhSV0pJU1Y4MFRuZHJVRzg1U1VWeWVWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Tonarelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención de todo el personal!\n\n(Translated by Google)\nGreat service from all the staff!",
+    "createTime": "2026-02-22T00:58:17.363484Z",
+    "updateTime": "2026-02-22T00:58:17.363484Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWUVR6TkZjR3hsU0RSMGIwOHhRVGxEZUhJeGEzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "alejandro merele"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-02-17T15:47:08.593353Z",
+    "updateTime": "2026-02-17T15:47:08.593353Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ocGRGTktUMVJxYW01eU5GRkVNR3hhZW5oRFJVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julián Ferrer"
+    },
+    "starRating": "FIVE",
+    "comment": "Muchas gracias a ruben q nos asistió con el cambio de luces. Excelente servicio!\n\n(Translated by Google)\nMany thanks to Ruben who helped us with the light replacement. Excellent service!",
+    "createTime": "2026-02-15T11:22:07.311202Z",
+    "updateTime": "2026-02-15T11:22:07.311202Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swMGFWQmtVbUpJYUZVd1FWOVBSV0U0V1dOVmEyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos samitier"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atencion sr Moyano Martin muy amable y atento\n\n(Translated by Google)\nExcellent service, Mr. Moyano Martin, very kind and attentive",
+    "createTime": "2026-02-15T10:58:53.225855Z",
+    "updateTime": "2026-02-15T10:58:53.225855Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkSVUwaHhNWEpTYjJ0M2VtUmpaVmxUY1UxUmMyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sofia Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Gracias por la atención!!\n\n(Translated by Google)\nThank you for your attention!",
+    "createTime": "2026-02-14T13:42:21.699255Z",
+    "updateTime": "2026-02-14T13:42:21.699255Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVk1tbEdNazFmVFdWUWRIVnhNbVU0WVcxTkxWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nati Dim (Natimufa)"
+    },
+    "starRating": "ONE",
+    "comment": "1000 pesos llenar un termo de agua caliente y solo podés pagar de contado 🤷🏽‍♀️\n\n(Translated by Google)\n1000 pesos to fill a thermos with hot water and you can only pay in cash 🤷🏽‍♀️",
+    "createTime": "2026-02-13T12:00:16.782811Z",
+    "updateTime": "2026-02-13T12:00:16.782811Z",
+    "reviewReply": {
+      "comment": "Nati,  Gracias por tu comentario, lamentamos no poder darle el servicio con pix .\ntrabajaremos en el tema.\nsaludos ",
+      "updateTime": "2026-02-14T22:03:04.508130Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VFpUUnllbmRpY25aVFZtcFZlWEp1ZW1wdk1tYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Agustinoy"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-11T04:21:20.989074Z",
+    "updateTime": "2026-02-11T04:21:20.989074Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VVpYQkdiMU5RVW5GZmNWcHVSRmh1UVU1SWNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Sotomayor"
+    },
+    "starRating": "ONE",
+    "comment": "Si no hay combustible, en un lugar clave como este, deberían cerrar, cada vez más en decadencia los automóvil club\n\n(Translated by Google)\nIf there\u0027s no fuel, in a key location like this, the increasingly declining automobile clubs should close.",
+    "createTime": "2026-02-05T03:46:38.471929Z",
+    "updateTime": "2026-02-05T03:46:38.471929Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGdldrcEtXbGxpTTBaVmIyWnJhREpJZURKdlUwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mauricio paez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de la señora que me atendió\n\n(Translated by Google)\nThe lady who helped me was very attentive.",
+    "createTime": "2026-01-30T17:08:38.371759Z",
+    "updateTime": "2026-01-30T17:08:38.371759Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.!!\nValoramos su comentario\nSaludos",
+      "updateTime": "2026-02-14T22:04:20.112954Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT21weGQxWTFXV3M0TWpOemJsRlFUWFpDYTFadFVIYxAB"
+  }]
+}

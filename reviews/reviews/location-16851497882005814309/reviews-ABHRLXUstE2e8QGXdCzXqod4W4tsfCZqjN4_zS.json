@@ -1,0 +1,178 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jorge Miguelez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-07-16T19:36:35.879Z",
+    "updateTime": "2017-07-16T19:36:35.879Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRaExXM1l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Keunecke"
+    },
+    "starRating": "FOUR",
+    "comment": "La atención, y no es tan lenta como otros ACA.\n\n(Translated by Google)\nThe service is good, and not as slow as other ACAs.",
+    "createTime": "2017-07-16T05:20:06.468Z",
+    "updateTime": "2017-07-16T05:21:01.885Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURRMC1HY1dBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Francica"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y servicio\n\n(Translated by Google)\nVery good attention and service",
+    "createTime": "2017-07-15T16:27:21.719Z",
+    "updateTime": "2017-07-15T16:27:32.281Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURnenZDa3V3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Ricaldoni"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2017-07-15T13:01:57.463Z",
+    "updateTime": "2017-07-15T13:03:08.806Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3aXAzdFNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Hector Ruiz"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion siempre.\n\n(Translated by Google)\nVery good service always.",
+    "createTime": "2017-07-14T19:57:55.500Z",
+    "updateTime": "2017-07-14T19:58:07.739Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNmEtSzRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-07-14T15:48:18.937Z",
+    "updateTime": "2017-07-14T15:48:18.937Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURnOGNtUEhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Martene"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-07-13T19:57:13.263Z",
+    "updateTime": "2017-07-13T19:57:26.181Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNReG9UbkN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Martinez"
+    },
+    "starRating": "TWO",
+    "comment": "Atención lenta en los surtidores\n\n(Translated by Google)\nSlow service at the pumps",
+    "createTime": "2017-07-12T13:43:57.271Z",
+    "updateTime": "2017-07-12T13:44:39.166Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnaTQ2eV93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Di Blasio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-07-12T11:40:08.084Z",
+    "updateTime": "2017-07-12T11:40:08.084Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3N2NTV1ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cora Lagier"
+    },
+    "starRating": "FIVE",
+    "comment": "Es agradable para tomarse un cafecito\n\n(Translated by Google)\nIt\u0027s nice to have a coffee",
+    "createTime": "2017-07-12T11:28:57.543Z",
+    "updateTime": "2017-07-12T11:30:00.773Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURRN3ZuVFNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Bukstein"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-07-12T10:45:50.785Z",
+    "updateTime": "2017-07-12T10:46:02.712Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURBdjZhWW5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "iris lopez"
+    },
+    "starRating": "THREE",
+    "comment": "Dependiendo quien te atiende. ...\n\n(Translated by Google)\nDepending on who serves you.",
+    "createTime": "2017-07-12T00:06:07.319Z",
+    "updateTime": "2017-07-12T00:10:28.986Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3MElYTnd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Gastón Schulz"
+    },
+    "starRating": "FIVE",
+    "comment": "Es un bodrio la zona, pero muy buen servicio en la estación\n\n(Translated by Google)\nThe area is a dump, but the service at the station is very good.",
+    "createTime": "2017-07-11T13:44:48.931Z",
+    "updateTime": "2017-07-11T13:45:28.486Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURRNE5QR013EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel fk"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-07-11T12:51:50.933Z",
+    "updateTime": "2017-07-11T12:51:50.933Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURnNzllQzd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JUAN TABOADA"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2017-07-11T11:51:52.055Z",
+    "updateTime": "2017-07-11T11:52:01.183Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBck9IdTN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis_Ar"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-07-10T21:46:17.041Z",
+    "updateTime": "2017-07-10T21:46:17.041Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3bUtfM2JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2017-07-10T12:44:22.938Z",
+    "updateTime": "2017-07-10T12:44:39.586Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBcFppeHJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Del Rio"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención muy buena\n\n(Translated by Google)\nThe service was very good.",
+    "createTime": "2017-07-10T11:23:24.546Z",
+    "updateTime": "2017-07-10T11:23:42.752Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3OHBMd1BnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Varela"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2017-07-10T01:27:09.918Z",
+    "updateTime": "2017-07-10T01:27:37.646Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3NlpxOFlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Durante"
+    },
+    "starRating": "FOUR",
+    "comment": "Es la unica estación del Automóvil Club Argentino saliendo por Acceso Norte (sobre colectora). Por si ubicación permite tomar la autopista en la próxima subida en calle Paraná.\n\n(Translated by Google)\nIt\u0027s the only Automóvil Club Argentino (ACA) service station accessible via Acceso Norte (on the service road). Its location allows you to take the highway at the next exit onto Paraná Street.",
+    "createTime": "2017-07-09T23:48:31.777Z",
+    "updateTime": "2017-07-09T23:50:56.549Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChRDSUhNMG9nS0VJQ0FnSURBdzRrbxAB"
+  }]
+}

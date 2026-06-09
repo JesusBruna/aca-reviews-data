@@ -1,0 +1,252 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Leonel Carlucci"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-09-05T17:16:50.090572Z",
+    "updateTime": "2024-09-05T17:16:50.090572Z",
+    "reviewReply": {
+      "comment": "Gracias Leonel",
+      "updateTime": "2024-09-06T09:37:58.007675Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNId2RLNU1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea s Stegman"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-09-05T11:58:08.516488Z",
+    "updateTime": "2024-09-05T11:58:08.516488Z",
+    "reviewReply": {
+      "comment": "Gracias Andrea",
+      "updateTime": "2024-09-06T09:38:18.607064Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdnRpX0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Capozio"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención,  solo que los playeros deben aprender como limpiar los parabrisas\n\n(Translated by Google)\nVery good service, but beachgoers need to learn how to clean their windshields.",
+    "createTime": "2024-09-01T02:20:56.954523Z",
+    "updateTime": "2024-09-01T02:20:56.954523Z",
+    "reviewReply": {
+      "comment": "Gracias Gustavo, tomamos tu sugerencia. Saludos.",
+      "updateTime": "2024-09-01T18:52:03.361735Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNILU1qa1pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Armando Armentano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-09-01T00:43:21.616413Z",
+    "updateTime": "2024-09-01T00:43:21.616413Z",
+    "reviewReply": {
+      "comment": "Gracias Armando",
+      "updateTime": "2024-09-01T18:52:25.962874Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdU82QklREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Manuel Gil arroyo"
+    },
+    "starRating": "THREE",
+    "comment": "Es tiempo de reformas todo muy viejo\n\n(Translated by Google)\nIt\u0027s time for renovations, everything is very old",
+    "createTime": "2024-08-31T21:57:14.787177Z",
+    "updateTime": "2024-08-31T21:57:14.787177Z",
+    "reviewReply": {
+      "comment": "En eso estamos Jorge. Gracias.",
+      "updateTime": "2024-09-01T18:53:05.040173Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIMlBub3h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Constante"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-30T23:15:06.598064Z",
+    "updateTime": "2024-08-30T23:15:06.598064Z",
+    "reviewReply": {
+      "comment": "Gracias Mariana.",
+      "updateTime": "2024-09-01T01:50:14.851185Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNINEltVUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Alvarez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-08-26T14:33:41.964779Z",
+    "updateTime": "2024-08-26T14:33:41.964779Z",
+    "reviewReply": {
+      "comment": "Gracias Paula.",
+      "updateTime": "2024-08-27T10:55:53.031858Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3NVo3TmtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Velazco"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-26T02:56:47.417898Z",
+    "updateTime": "2024-08-26T02:56:47.417898Z",
+    "reviewReply": {
+      "comment": "Gracias Cecilia!!!",
+      "updateTime": "2024-08-27T11:03:27.286899Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3dVppMTJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Sirakey"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-25T20:46:52.864283Z",
+    "updateTime": "2024-08-25T20:46:52.864283Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Marcelo.",
+      "updateTime": "2024-08-27T11:03:43.267142Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3NmFHZ0tnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Marchetta"
+    },
+    "starRating": "ONE",
+    "comment": "Un desastre la atención, los playeros todos boludeando, dejan pasar a los amigos en la fila y no atienden a la gente como corresponde! Encima se quejan cuando les reclamas que están haciendo pasar a sus amigos! Recién salgo y no vuelvo nunca más\n\n(Translated by Google)\nThe service was a disaster! The staff were all just messing around, letting their friends cut in line instead of serving customers properly! And then they complained when you pointed out they were letting their friends go first! I just left and I\u0027m never coming back.",
+    "createTime": "2024-08-23T19:09:28.166206Z",
+    "updateTime": "2024-08-23T19:09:28.166206Z",
+    "reviewReply": {
+      "comment": "Hola Francisco, en que horario ocurrió esto y en que Playa? Te agradecería me escribas para darnos más datos. Te dejo mi teléfono 223 4068693 Daniel.",
+      "updateTime": "2024-08-24T11:42:44.184955Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3aHBqV3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "roxana gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Las chicas de full son lo más. Ni hablar de Martin que siempre está atento a tratar de ayudar en todos los trámites. Los chicos del Service son genios , siempre los vuelvo loco con el cambio de lamparitas gracias totales a todos!\n\n(Translated by Google)\nThe girls at Full are the best. And Martin, who\u0027s always ready to help with all the paperwork. The guys at Service are geniuses; I\u0027m always driving them crazy with the light bulb changes. Thanks a million to everyone!",
+    "createTime": "2024-08-22T17:36:14.820898Z",
+    "updateTime": "2024-08-22T17:36:14.820898Z",
+    "reviewReply": {
+      "comment": "Gracias Roxana.",
+      "updateTime": "2024-08-22T19:13:07.457404Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3b3BDRzF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Rodriguez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-08-19T13:53:28.647784Z",
+    "updateTime": "2024-08-19T13:53:28.647784Z",
+    "reviewReply": {
+      "comment": "Gracias Roberto",
+      "updateTime": "2024-08-19T14:44:16.081514Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3bjlUTVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose De Caro"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-08-15T00:43:58.804713Z",
+    "updateTime": "2024-08-15T00:43:58.804713Z",
+    "reviewReply": {
+      "comment": "Hola José, nos gustaría saber más de tu experiencia. ",
+      "updateTime": "2024-08-15T17:06:58.780964Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3NnJfT3RRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo demianczuk"
+    },
+    "starRating": "THREE",
+    "comment": "Todo ok\n\n(Translated by Google)\nEverything\u0027s OK",
+    "createTime": "2024-08-13T01:17:02.141731Z",
+    "updateTime": "2024-08-13T01:17:02.141731Z",
+    "reviewReply": {
+      "comment": "Gracias Marcelo",
+      "updateTime": "2024-08-13T17:29:33.631379Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3dE5xV3F3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "vanesa lorena gomez"
+    },
+    "starRating": "FOUR",
+    "comment": "El ACA tiene muy buena atención y los trámites son rápidos\n\n(Translated by Google)\nThe ACA has excellent service and the procedures are quick.",
+    "createTime": "2024-08-12T20:52:37.502875Z",
+    "updateTime": "2024-08-12T20:52:37.502875Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Vanesa",
+      "updateTime": "2024-08-13T17:29:51.523038Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3bFBYalpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Florencia Faretta"
+    },
+    "starRating": "ONE",
+    "comment": "Chantas. Al momento de pagar te generan un QR falopa, genérico, que no te toma ninguna de las promociones bancarias, y actúan sorprendidos cuando le decís que no te toma el descuento. Es un QR que solamente te permite pagar vía transferencia directa desde la caja de ahorro y no mediante tarjeta de DÉBITO, dónde las promociones bancarias aplican, y aplican en el momento. Patético. El playero mismo nos dijo que no es la primera vez que tienen estos problemas.\n\n(Translated by Google)\nScammers. When you pay, they generate a fake, generic QR code that doesn\u0027t apply any bank promotions, and they act surprised when you tell them it doesn\u0027t work. It\u0027s a QR code that only allows you to pay via direct transfer from your savings account, not with a debit card, where bank promotions apply, and are applied instantly. Pathetic. The gas station attendant himself told us it\u0027s not the first time they\u0027ve had these problems.",
+    "createTime": "2024-08-11T17:30:22.747008Z",
+    "updateTime": "2024-08-12T19:22:07.995970Z",
+    "reviewReply": {
+      "comment": "Hola Florecía, el qr no es genérico y corresponde a la manguera del surtidor donde cargaste, las promociones que toma son las asignadas por YPF y el descuento de Socio del ACA. Las promociones de los bancos son rupias de los bancos y vienen junto con el resumen.\nLamentamos te lleves esta experiencia.\nSaludos.",
+      "updateTime": "2024-08-12T10:10:28.114480Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3c0p2VVZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Calete"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-11T14:12:07.503995Z",
+    "updateTime": "2024-08-11T14:12:07.503995Z",
+    "reviewReply": {
+      "comment": "Gracias Gabriela.",
+      "updateTime": "2024-08-12T10:10:50.146073Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3a0tXU25nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Vande"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-10T17:23:23.970058Z",
+    "updateTime": "2024-08-10T17:23:23.970058Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Mónica por tu valoración. ",
+      "updateTime": "2024-08-11T11:19:13.190554Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURiai0tajV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Diaz"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-08-09T01:52:37.589620Z",
+    "updateTime": "2024-08-09T01:52:37.589620Z",
+    "reviewReply": {
+      "comment": "Gracias Pablo.",
+      "updateTime": "2024-08-09T18:22:04.363999Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURiazhpSGlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Bruno"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente!!!\n\n(Translated by Google)\nExcellent!!!",
+    "createTime": "2024-08-07T22:38:45.723859Z",
+    "updateTime": "2024-08-07T22:38:45.723859Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Roberto.",
+      "updateTime": "2024-08-08T15:31:21.042853Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURidFpPZUFREAE"
+  }]
+}

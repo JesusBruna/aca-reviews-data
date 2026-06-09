@@ -1,0 +1,178 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Antonio Martin"
+    },
+    "starRating": "FOUR",
+    "comment": "Ahora es Shell\n\n(Translated by Google)\nNow it\u0027s Shell",
+    "createTime": "2019-10-15T18:39:40.897274Z",
+    "updateTime": "2019-10-15T18:39:40.897274Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwNzdQSC1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Lara"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy atentos todos los empleados\n\n(Translated by Google)\nAll the employees were very attentive.",
+    "createTime": "2019-10-15T12:32:20.334304Z",
+    "updateTime": "2019-10-15T12:32:20.334304Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwcjllOWhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Scian"
+    },
+    "starRating": "FIVE",
+    "comment": "Como siempre el ACA, lo mejor...\n\n(Translated by Google)\nAs always, the ACA, the best...",
+    "createTime": "2019-10-14T14:21:46.035876Z",
+    "updateTime": "2019-10-14T14:22:59.996786Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwOS1PeXZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Alejandro Rufino Saravia"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención y disponibilidad de los playeros\n\n(Translated by Google)\nExcellent service and helpfulness from the beach attendants",
+    "createTime": "2019-10-11T17:32:25.105399Z",
+    "updateTime": "2019-10-11T17:32:25.105399Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwMjZtRVZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ay de mi, si no anuncio el Evangelio. P. Ariel Diaz (Anunciar el Evangelio)"
+    },
+    "starRating": "THREE",
+    "comment": "Excelente ubicación\n\n(Translated by Google)\nExcellent location",
+    "createTime": "2019-10-08T20:37:45.658855Z",
+    "updateTime": "2019-10-08T20:37:45.658855Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwbzltTkNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "GUSTAVO SILVA"
+    },
+    "starRating": "FOUR",
+    "comment": "Baños limpios, drugstore donde podes degustar un buen café. Servicios de expendio de nafta correctos\n\n(Translated by Google)\nClean bathrooms, a drugstore where you can enjoy good coffee. Decent gas service.",
+    "createTime": "2019-10-07T12:11:15.184098Z",
+    "updateTime": "2019-10-07T12:11:15.184098Z",
+    "reviewReply": {
+      "comment": "Muchas gracias!!!",
+      "updateTime": "2022-09-11T20:43:57.620752Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwM2NxQ3Z3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Ahumada"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2019-10-02T13:17:19.882284Z",
+    "updateTime": "2019-10-02T13:17:19.882284Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwbWI3MFB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "enrique strizic"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2019-09-29T21:17:14.199118Z",
+    "updateTime": "2019-09-29T21:17:14.199118Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwNGJ2cm53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Esteban Simonini"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-09-29T11:02:13.439738Z",
+    "updateTime": "2019-09-29T11:02:13.439738Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwd2ItZ2NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Masutti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-09-27T12:48:24.495043Z",
+    "updateTime": "2019-09-27T12:48:24.495043Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwN3VHcExnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Groba"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-09-27T03:21:48.295861Z",
+    "updateTime": "2019-09-27T03:21:48.295861Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwcnVMWkZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Stuppia"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-09-26T00:16:42.377812Z",
+    "updateTime": "2019-09-26T00:16:42.377812Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwdHF2cnJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvio Rojas"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy lindo\n\n(Translated by Google)\nVery pretty",
+    "createTime": "2019-09-25T02:57:07.793635Z",
+    "updateTime": "2019-09-25T02:57:07.793635Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwNXB1Uy1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "GUSTAVO SLVDRS"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena estación para abastecer combustible y buscar algo de comer o tomar en el bufet.\nEn frente hay una confitería que tienen productos excelentes a un precio muy razonable y dónde sirven desayunos muy completos.\nLa estación estaba muy ordenada y limpia y la atención del personal fue cordial y amable\n\n(Translated by Google)\nA good station to fill up with fuel and grab something to eat or drink at the buffet.\nAcross the street is a bakery with excellent products at very reasonable prices, and they serve very complete breakfasts.\nThe station was very tidy and clean, and the staff was friendly and helpful.",
+    "createTime": "2019-09-17T19:10:07.492478Z",
+    "updateTime": "2019-09-17T19:10:07.492478Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwN0xyOFB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Dalesandro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-17T01:21:33.831348Z",
+    "updateTime": "2019-09-17T01:21:33.831348Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwakplXzNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Cruz"
+    },
+    "starRating": "FIVE",
+    "comment": "Ok",
+    "createTime": "2019-09-16T11:28:09.789052Z",
+    "updateTime": "2019-09-16T11:28:09.789052Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwdE91Sl9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Ochoa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-14T01:58:28.994331Z",
+    "updateTime": "2019-09-14T01:58:28.994331Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwMk42X2RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Antonio Molina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-12T00:50:51.946050Z",
+    "updateTime": "2019-09-12T00:50:51.946050Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwc0xheTl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Salomé Acosta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-11T23:39:41.453889Z",
+    "updateTime": "2019-09-11T23:39:41.453889Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwc0lxRWh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "EMILIA LEON"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-09-10T20:05:53.110118Z",
+    "updateTime": "2019-09-10T20:05:53.110118Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwb042S0lBEAE"
+  }]
+}

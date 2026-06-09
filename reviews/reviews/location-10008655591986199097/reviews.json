@@ -1,0 +1,184 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Cintia Ortega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-07T22:15:51.650613Z",
+    "updateTime": "2026-05-07T22:15:51.650613Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsc1pVVkdVVFZWZURCd2VFMDRURkZGYlhkSFNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "GREGORIO GASPAR"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-04-22T15:15:10.258283Z",
+    "updateTime": "2026-04-22T15:15:10.258283Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kR1NGRjBTbWxmUTNkbllsRXpjbTFSZVU4MlYzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Balvorin"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor.atencion recibo\n\n(Translated by Google)\nThe best service I received",
+    "createTime": "2026-01-26T20:07:30.510839Z",
+    "updateTime": "2026-04-15T14:33:35.938296Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKaWIxWnFjQzFRWTB4RmRXWlNkMHhaYzB0SFMxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fran Valdez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención de Alfredo.\n\n(Translated by Google)\nAlfredo provided excellent service.",
+    "createTime": "2026-04-14T14:29:22.690978Z",
+    "updateTime": "2026-04-14T14:29:22.690978Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jd01HeDFja2RZYjNWVlMzQTRZbTVIYmpGVU5tYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernanda Martino"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion por parte de los playeros.\nLa full eata siempre ordenada y limpia.\nLos baños estan impecables....mucha dedicacion por parte de los empleados\n\n(Translated by Google)\nExcellent service from the beach attendants.\nThe beach is always tidy and clean.\nThe restrooms are spotless...very dedicated staff.",
+    "createTime": "2026-04-06T18:50:25.978772Z",
+    "updateTime": "2026-04-14T09:46:51.955751Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOWlYzaERXazQ1Tm5ObGRGWTNibFZuTkZOQmRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jaime Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en playa\n\n(Translated by Google)\nExcellent service on the beach",
+    "createTime": "2026-04-13T23:44:30.033432Z",
+    "updateTime": "2026-04-13T23:44:30.033432Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1Rlh6TkRTbXhyYjJ0alN6SldWMFExVERoUVRXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Miranda"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-04-13T22:39:17.508526Z",
+    "updateTime": "2026-04-13T22:39:17.508526Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT21veFptSkVjV0puV0c1eldIUnZVM1pOZG0xQlRGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Sáenz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!!!!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-04-13T22:35:05.054694Z",
+    "updateTime": "2026-04-13T22:35:05.054694Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCcFgzaFllbk5JWTNkSFdrZGljMlpzY2pKcldtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "silvina marquez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2026-04-13T22:12:09.668908Z",
+    "updateTime": "2026-04-13T22:12:09.668908Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSQ1drZHNUM2QzWVhWalZHdEdVbkF3ZFRnM1FuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Joaquin Lobo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, debería ser gerente!\n\n(Translated by Google)\nExcellent service, I should be the manager!",
+    "createTime": "2026-04-13T22:01:41.637219Z",
+    "updateTime": "2026-04-13T22:01:41.637219Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMGRqQndhR0ozYUVWaWVVc3RXakpEWkc5TlNIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabri Sajama"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio excelente atención y predisposición baños siempre limpios  en playa y full\n\n(Translated by Google)\nGreat service, excellent attention and helpfulness, always clean bathrooms on the beach and full",
+    "createTime": "2025-06-10T18:00:52.396364Z",
+    "updateTime": "2026-04-10T09:55:43.910744Z",
+    "reviewReply": {
+      "comment": "gracias fabri por tu reseña. nos alegr que hayas tenido una buena experiencia",
+      "updateTime": "2026-01-26T22:28:15.317016Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RM2FqZFljalZpVTNWSk4yOHhkMHREYmtaVFlVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Bazzi"
+    },
+    "starRating": "FIVE",
+    "comment": "Increíble\n\n(Translated by Google)\nIncredible",
+    "createTime": "2026-04-06T22:04:21.921683Z",
+    "updateTime": "2026-04-06T22:04:21.921683Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5MFowcFlNSFZVVm14R2NqRk1VekZGTWxObFMwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "María Monserrat Melé Brusotti"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!!\n\n(Translated by Google)\nExcellent service!!",
+    "createTime": "2026-04-06T21:44:53.190715Z",
+    "updateTime": "2026-04-06T21:44:53.190715Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JNE1HZE5NbU0wYVZwU1FrZDNaa3A2WkRJNU0xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Constanza Zubeldia"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención de Claudio 10 puntos\n\n(Translated by Google)\nClaudio\u0027s service gets 10 points",
+    "createTime": "2026-04-06T18:45:59.145966Z",
+    "updateTime": "2026-04-06T18:45:59.145966Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5V01XMVhjbFJsY0dwc2EwUmFWV2hTVEhseWNXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Camila Iriarte"
+    },
+    "starRating": "FIVE",
+    "comment": "excelente servicio!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-04-05T20:06:15.230044Z",
+    "updateTime": "2026-04-05T20:06:15.230044Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sbGFEVkhOVVZGTFdOVFNWSm1ibFpZYTFSMlRuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Cattaneo"
+    },
+    "starRating": "FIVE",
+    "comment": "Exec3lente atención de Claudio!\n\n(Translated by Google)\nExcellent service from Claudio!",
+    "createTime": "2026-04-05T19:44:01.896764Z",
+    "updateTime": "2026-04-05T19:44:01.896764Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOSVZFbzBXRTVuWTFOUlpIbEpPVzAzT1ZOSGRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Belu Vainilla"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-04-05T19:00:52.671929Z",
+    "updateTime": "2026-04-05T19:00:52.671929Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaNGJEQk1PVlJWYm01SVMwcDFSMkZMWW5sVGNsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "yesica Mora"
+    },
+    "starRating": "FIVE",
+    "comment": "Mu experiencia con Alfredo excelente atención\n\n(Translated by Google)\nMy experience with Alfredo was excellent.",
+    "createTime": "2026-04-05T17:15:25.401812Z",
+    "updateTime": "2026-04-05T17:15:25.401812Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCemFtZzBkSHBWYTBaWGJuSkJVbGM0Y0ZSSmJsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Tomas Castillo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de Alfredo\n\n(Translated by Google)\nAlfredo provided excellent service.",
+    "createTime": "2026-04-05T17:10:52.580356Z",
+    "updateTime": "2026-04-05T17:10:52.580356Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aVE0yTkdNRkp6WDNReFFsWjZTbEpPUldkQk9GRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Colucci"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy burna atencio de.alfrdo\n\n(Translated by Google)\nVery good attention from Alfredo",
+    "createTime": "2026-04-05T16:58:53.821310Z",
+    "updateTime": "2026-04-05T16:58:53.821310Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnellqUkJjVTlUUVVrMk5sZFFaWFpzZWxZMVkzYxAB"
+  }]
+}

@@ -1,0 +1,207 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jorge Dan Donnet"
+    },
+    "starRating": "ONE",
+    "comment": "La estación está bien. La atención de la señora y los precios del negocio del lugar son un desastre. Totalmente malhumorada y desagradable. Pedís agua para el mate y no te venden si no compras algo más. Frenen antes de salir de Bariloche o en El Bolsón\n\n(Translated by Google)\nThe station is fine. The service from the lady and the prices at the local store are a disaster. Absolutely grumpy and unpleasant. You ask for water for your mate, and they won\u0027t sell you anything unless you buy something else. Stop before leaving Bariloche or in El Bolsón.",
+    "createTime": "2025-03-31T22:51:22.133018Z",
+    "updateTime": "2025-03-31T22:51:22.133018Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJOHBId0NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luciana Lamothe Coulomme"
+    },
+    "starRating": "THREE",
+    "comment": "Lo justo y lo necesario para la parada. Hermosa vista Al frente.  Algo caro en sus precios\n\n(Translated by Google)\nJust what you need for the stop. Beautiful view ahead. A bit pricey.",
+    "createTime": "2025-03-27T02:51:43.736197Z",
+    "updateTime": "2025-03-27T02:51:43.736197Z",
+    "reviewReply": {
+      "comment": "Gracias Luciana. La distancia con los centros de abastecimento influye en algunos precios.",
+      "updateTime": "2025-03-27T19:42:32.417339Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3aGVuNzVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Camila Figueroa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-03-26T18:28:57.689831Z",
+    "updateTime": "2025-03-26T18:28:57.689831Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3eWV5UnhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Manessi"
+    },
+    "starRating": "FOUR",
+    "comment": "El mercadito es medio básico, y de noche la encontré cerrada\n\n(Translated by Google)\nThe little market is pretty basic, and I found it closed at night.",
+    "createTime": "2025-03-25T19:37:56.566800Z",
+    "updateTime": "2025-03-25T19:37:56.566800Z",
+    "reviewReply": {
+      "comment": "Gracias Gustavo, efectivamente la estación permanece cerrada por la noche, razones de seguridad lo ameritan",
+      "updateTime": "2025-03-25T22:41:45.376869Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3dHVTRGhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Noemi Castellani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-03-21T23:07:05.496230Z",
+    "updateTime": "2025-03-21T23:07:05.496230Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3OV9EdVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Franken"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños impecables.\n\n(Translated by Google)\nSpotless bathrooms.",
+    "createTime": "2025-03-18T22:03:03.832722Z",
+    "updateTime": "2025-03-18T22:03:03.832722Z",
+    "reviewReply": {
+      "comment": "Gracias Pablo.",
+      "updateTime": "2025-03-19T18:57:43.814257Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3anRmcDl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Iñaki Inda"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion. Lugar espectacular en cuanto a vista y ubicación\n\n(Translated by Google)\nExcellent service. Spectacular location in terms of both view and setting.",
+    "createTime": "2025-03-18T02:49:46.685636Z",
+    "updateTime": "2025-03-18T02:49:46.685636Z",
+    "reviewReply": {
+      "comment": "Gracias Iñaki.",
+      "updateTime": "2025-03-19T18:57:59.871667Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3cW9TTkRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luciana Rojas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-03-16T12:24:09.644920Z",
+    "updateTime": "2025-03-16T12:24:09.644920Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3Mkl6TmZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Ideal para la foto... Esas YPF del ACA siempre garpan para unas buenas tomas\n\n(Translated by Google)\nPerfect for photos... Those YPF stations at the ACA always make for great shots.",
+    "createTime": "2025-03-10T11:47:40.197988Z",
+    "updateTime": "2025-03-10T11:47:40.197988Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcXV6ajdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Vazquez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy lento el servicio\n\n(Translated by Google)\nThe service was very slow.",
+    "createTime": "2025-03-07T22:44:38.767200Z",
+    "updateTime": "2025-03-07T22:44:38.767200Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdDl1S1Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Rodriguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-03-05T01:02:37.559062Z",
+    "updateTime": "2025-03-05T01:02:37.559062Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRNGNhenpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Arcuri"
+    },
+    "starRating": "FIVE",
+    "comment": "Los sándwiches que prepara la señora que atiende son lo más. Parada obligada si vas para el Tronador o para el lago Guillelmo\n\n(Translated by Google)\nThe sandwiches prepared by the lady who serves are the best. A must-stop if you\u0027re heading to Tronador or Lake Guillermo.",
+    "createTime": "2025-03-04T18:08:42.453360Z",
+    "updateTime": "2025-03-04T18:08:42.453360Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdnJPRUtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Mendiburu"
+    },
+    "starRating": "FOUR",
+    "comment": "Precios promedio, baño limpio. Atención buena.\n\n(Translated by Google)\nAverage prices, clean bathroom. Good service.",
+    "createTime": "2025-03-04T11:32:54.689721Z",
+    "updateTime": "2025-03-04T11:32:54.689721Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRcnRMYWlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Fasciolo"
+    },
+    "starRating": "FIVE",
+    "comment": "Es lo único que encontramos desde Bariloche hasta Mascardi, de regreso nos salvó con un excelente café con leche y unas media lunas.\nTambién compramos unos sándwiches de ciabatta con cocido y queso para llevar (muy buenos).\n\n(Translated by Google)\nIt was the only place we found between Bariloche and Mascardi, and on the way back they saved us with an excellent café con leche and some croissants.\nWe also bought some ciabatta sandwiches with cocido and cheese to take away (very good).",
+    "createTime": "2025-03-03T14:58:55.493342Z",
+    "updateTime": "2025-03-03T14:58:55.493342Z",
+    "reviewReply": {
+      "comment": "Gracias Héctor !",
+      "updateTime": "2025-03-19T18:57:24.829826Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRaXNmUTJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Martí"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio. Baños limpios y mucha amabilidad.\n\n(Translated by Google)\nGood service. Clean restrooms and very friendly staff.",
+    "createTime": "2025-03-01T18:43:38.378994Z",
+    "updateTime": "2025-03-01T18:43:38.378994Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRMkxpaTFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Madeo"
+    },
+    "starRating": "ONE",
+    "comment": "Baños solo para socios. Linda vista\n\n(Translated by Google)\nRestrooms for members only. Nice view.",
+    "createTime": "2025-02-28T00:00:29.258471Z",
+    "updateTime": "2025-02-28T00:00:29.258471Z",
+    "reviewReply": {
+      "comment": "Es cierto que la vista es linda.\nNo es cierto que los baños sean solo para socios.\n",
+      "updateTime": "2025-03-03T18:35:52.344740Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTURnaDRmQjhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Serra"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy amable la atención de los playeros y del personal del mini shop. Baños bastante limpios\n\n(Translated by Google)\nThe beach attendants and the staff at the mini-shop were very friendly. The restrooms were quite clean.",
+    "createTime": "2025-02-26T23:10:55.447766Z",
+    "updateTime": "2025-02-26T23:10:55.447766Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTURnX2VleXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Benzal"
+    },
+    "starRating": "THREE",
+    "comment": "1 solo baño y no habia papel\n\n(Translated by Google)\nThere was only one bathroom and there was no toilet paper.",
+    "createTime": "2025-02-26T14:52:13.400797Z",
+    "updateTime": "2025-02-26T14:52:13.400797Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTURnemRleThBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Emilia Estevez"
+    },
+    "starRating": "ONE",
+    "comment": "Da para mucho más el lugar...\n\n(Translated by Google)\nThe place has so much more to offer...",
+    "createTime": "2025-02-26T13:40:39.333064Z",
+    "updateTime": "2025-02-26T13:40:39.333064Z",
+    "reviewReply": {
+      "comment": "Sra Maria, lo mismo han pensado los que usurparon las tierras linderas durante 5 años y las fuerzas de seguridad instaladas en la estación durante estos ultimos dos años. Esta estación ha sido el único vestigio de seguridad para quienes transitaban esta zona de alta conflictividad durante estos años y el ACA ha sostenido el servicio pese a lo que ocurría a pocos metros. Imagino que ud ignoraba estos hechos, lo que de algun modo justifica su comentario, de todos modos agradecemos que haya dedicado parte de su tiempo para brindarnos su aporte.",
+      "updateTime": "2025-02-26T22:24:28.476724Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTURnemJqVnRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "pedro telmo"
+    },
+    "starRating": "FOUR",
+    "comment": "Estuve qué esperar mucho para cargar combustible\n\n(Translated by Google)\nI had to wait a long time to refuel.",
+    "createTime": "2025-02-20T17:36:17.766123Z",
+    "updateTime": "2025-02-20T17:36:17.766123Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnOF82U2dBRRAB"
+  }]
+}

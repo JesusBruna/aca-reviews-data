@@ -1,0 +1,170 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Emmanuel Miño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-13T19:33:10.518653Z",
+    "updateTime": "2021-11-13T19:33:10.518653Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHbl9Yckp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Inchauspe"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-13T15:48:44.640228Z",
+    "updateTime": "2021-11-13T15:48:44.640228Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHNy11ZFpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Leiva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-10T18:24:22.105368Z",
+    "updateTime": "2021-11-10T18:24:22.105368Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHLTh5aVZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Ahumada"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2019-10-20T20:07:10.484616Z",
+    "updateTime": "2021-11-10T13:16:52.095847Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwcU92ZEZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "romina pucci"
+    },
+    "starRating": "FOUR",
+    "comment": "La ypf mas agil q conozco!\n\n(Translated by Google)\nThe most agile YPF I know!",
+    "createTime": "2021-11-10T09:01:49.212891Z",
+    "updateTime": "2021-11-10T09:01:49.805374Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHMjVUejVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "LAs chicas de inicial"
+    },
+    "starRating": "FIVE",
+    "comment": "Rico café\n\n(Translated by Google)\nDelicious coffee",
+    "createTime": "2021-11-09T22:10:38.473373Z",
+    "updateTime": "2021-11-09T22:10:38.473373Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHNjVHeHVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Pablo Cuello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-09T18:05:26.553946Z",
+    "updateTime": "2021-11-09T18:05:26.553946Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcS0yMExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-09T15:58:32.202669Z",
+    "updateTime": "2021-11-09T15:58:32.202669Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcTZ6c1JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan marcelo ayala"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-07T21:11:11.040282Z",
+    "updateTime": "2021-11-07T21:11:11.040282Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHdy16WEhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marce Schaf"
+    },
+    "starRating": "THREE",
+    "comment": "Ricos helados!\n\n(Translated by Google)\nDelicious ice cream!",
+    "createTime": "2021-11-06T22:07:48.264819Z",
+    "updateTime": "2021-11-06T22:07:48.264819Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHM2FLMldBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gladis Bordon"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2021-11-06T20:11:52.018759Z",
+    "updateTime": "2021-11-06T20:11:52.018759Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHbmZlR3p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Gonzalez"
+    },
+    "starRating": "THREE",
+    "comment": "Buen lugar\n\n(Translated by Google)\nGood place",
+    "createTime": "2021-11-06T16:42:13.114516Z",
+    "updateTime": "2021-11-06T16:42:13.114516Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHbmF5akVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "maxi irazabal"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-05T23:15:31.972532Z",
+    "updateTime": "2021-11-05T23:15:31.972532Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHemZ6b2VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nacho Lemma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-03T16:47:09.547712Z",
+    "updateTime": "2021-11-03T16:47:09.547712Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHLWE2MXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lorena Urquiza"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-02T14:24:43.794394Z",
+    "updateTime": "2021-11-02T14:24:43.794394Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcWFtd1dBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego galvez"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-01T11:14:41.672806Z",
+    "updateTime": "2021-11-01T11:14:41.672806Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHMFp5eGtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carmen Centurion"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-01T08:09:06.480348Z",
+    "updateTime": "2021-11-01T08:09:06.480348Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHa1pYWmd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Estifanio Navarro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-01T02:44:58.805703Z",
+    "updateTime": "2021-11-01T02:44:58.805703Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHNGRmUXBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Luques"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2021-10-29T19:39:34.485463Z",
+    "updateTime": "2021-10-29T19:39:35.767206Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcnFtTVdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge valdez Montiel"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-10-29T18:54:16.367805Z",
+    "updateTime": "2021-10-29T18:54:16.367805Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHcnJiUHNnRRAB"
+  }]
+}

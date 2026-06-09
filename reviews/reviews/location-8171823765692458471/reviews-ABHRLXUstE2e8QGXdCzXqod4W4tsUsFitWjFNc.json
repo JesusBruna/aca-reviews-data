@@ -1,0 +1,197 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Hebe Barber"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2019-05-18T21:42:16.338093Z",
+    "updateTime": "2025-12-17T18:26:49.042420Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación y comentario!!!!",
+      "updateTime": "2026-02-02T12:20:51.876294Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChZDSUhNMG9nS0VJQ0FnSURZbmJyUVFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Arrigoni"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente ubicación para quien va para el centro, entrar y cargar, no tienen gnc, como punto malo, pero buena atención\n\n(Translated by Google)\nExcellent location for those heading downtown; just pop in and fill up. They don\u0027t have CNG, which is a downside, but the service is good.",
+    "createTime": "2025-12-14T12:14:21.148356Z",
+    "updateTime": "2025-12-14T12:14:21.148356Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación y comentario!!!!",
+      "updateTime": "2026-02-02T12:21:19.238300Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOM1dGSlFjMnhtZEVOdVp5MTJSVGhsZUVoaFNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Las Marías Fit Bike store"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo lugar\n\n(Translated by Google)\nVery nice place",
+    "createTime": "2016-11-24T13:09:24.969Z",
+    "updateTime": "2025-12-10T12:41:33.145554Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación y comentario!!!!",
+      "updateTime": "2026-02-02T12:21:34.554426Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRbS1mV1RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Esteban Del Carmen"
+    },
+    "starRating": "THREE",
+    "comment": "Caro para lo que brindan!\n\n(Translated by Google)\nExpensive for what they offer!",
+    "createTime": "2025-12-04T11:29:36.512275Z",
+    "updateTime": "2025-12-04T11:29:36.512275Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT201RU1YWXRjMEpVWjNCcVdFUkNZbTlQWTFBNFRuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Andres Segura"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-11-23T07:38:42.586508Z",
+    "updateTime": "2025-11-23T07:38:42.586508Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación y comentario!!!",
+      "updateTime": "2026-02-02T12:22:06.943693Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJME5FMHhlRzkyWTA5cFdEbFdkMEV6V0hoaE0yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Ambrosino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-11-21T20:38:55.454781Z",
+    "updateTime": "2025-11-21T20:38:55.454781Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!!!!",
+      "updateTime": "2026-02-02T12:22:19.713240Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGeVZUWnZSVUpJTVVSMlZubFdWbE5uZDJKV2QxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Martinez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-11-11T22:08:04.504936Z",
+    "updateTime": "2025-11-11T22:08:04.504936Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!!!!",
+      "updateTime": "2026-02-02T12:22:32.468342Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZNVRGVlZOVXB2Y1RKaVN6Sk1SMDVuUzFOemVVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yeyo Jercar"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-11-03T19:41:05.959235Z",
+    "updateTime": "2025-11-03T19:41:05.959235Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kNWNqZ3RVVXBuVm5SeFNWUjZTRGw2TTBKQmQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Gallardo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-11-03T02:35:59.577181Z",
+    "updateTime": "2025-11-03T02:35:59.577181Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkRWJYUk1WRGRsWWtWYWJqVXRVQzB0ZVhKQlYxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Peinado Cortes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-05T12:38:30.537070Z",
+    "updateTime": "2025-10-21T14:26:07.150208Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChZDSUhNMG9nS0VJQ0FnSURHdGUtNlVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Olga Cristina Batalla"
+    },
+    "starRating": "FIVE",
+    "comment": "Mejor atencion\n\n(Translated by Google)\nBetter service",
+    "createTime": "2025-10-21T13:09:10.964668Z",
+    "updateTime": "2025-10-21T13:09:10.964668Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnNWVXZ3dNemRaWkhCQlMxbFJkVjlZVmt0TmJWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Welter"
+    },
+    "starRating": "THREE",
+    "comment": "Cada vez van mejorando la atención. Pero aun falta mejorar, me dijo uno de los empleados que apagan la maquina para inflar las ruedas por que la usan gente que no carga nafta, pero perjudica a los que si cargamos y queremos usar el servicio.\n\n(Translated by Google)\nThey\u0027re constantly improving their service. But there\u0027s still room for improvement. One of the employees told me they turn off the tire inflation pump because it\u0027s used by people who don\u0027t fill up with gas, but it\u0027s detrimental to those of us who fill up and want to use the service.",
+    "createTime": "2025-10-20T13:20:10.062727Z",
+    "updateTime": "2025-10-20T13:20:10.062727Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOMlRFWkNaelJ0UVVaa1kyRlhWRk41UmxvM1FsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Lo Re"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-19T20:13:10.222861Z",
+    "updateTime": "2025-10-19T20:13:10.222861Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnd1ZFRnVSalJpVjBSZmNEZE5ialUwVTFkTmFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Braian Enrique Soria"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-15T11:07:45.310091Z",
+    "updateTime": "2025-10-15T11:07:45.310091Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGMU5VeFBURmRoTFhKNFdtNWpaVGhpYlU5bGFFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Ariel"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2025-10-12T16:02:01.465124Z",
+    "updateTime": "2025-10-12T16:02:01.465124Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkVVRqUnFObFZKTURabVNUUlNNekpHY1ZSeFNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Bellani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-09T15:31:54.869867Z",
+    "updateTime": "2025-10-09T15:31:54.869867Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5VlVYYzBkVlpCUW5Kd1EwaGtUWFo0Y1d3MFowRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emilse Porbén Navarro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-17T20:35:36.656987Z",
+    "updateTime": "2025-09-17T20:35:36.656987Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xneU1YbFpObGs1VFdneFFXMHdlSHBIY1VjMlpVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JH Naturaleza"
+    },
+    "starRating": "FOUR",
+    "comment": "Atencion rápida, buena forma.\n\n(Translated by Google)\nQuick service, good form.",
+    "createTime": "2025-09-15T05:37:31.768160Z",
+    "updateTime": "2025-09-15T05:37:31.768160Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trNFNYWTJTRU5DZDB0d00yNDVMWGcyY3pSNE1HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Frederick Kaissner"
+    },
+    "starRating": "THREE",
+    "comment": "Atención aceptable.\nAceptan tarjetas de crédito, debito y efectivo.\nEl bar si es una bos ta, caro y horrible la comida o lo que tiene q ver con desayunos/meriendas.\n\n(Translated by Google)\nAcceptable service.\nThey accept credit cards, debit cards, and cash.\nThe bar is terrible, expensive, and the food, especially breakfast/snacks, is awful.",
+    "createTime": "2025-09-06T17:06:14.001640Z",
+    "updateTime": "2025-09-06T17:06:45.065590Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSeVRtZE1WakZxUlZOR1pFTjZNVGx1T0dGV1owRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fátima Del Rosario Medina"
+    },
+    "starRating": "FIVE",
+    "comment": "Amor el servicio de cafetería\n\n(Translated by Google)\nLove the cafeteria service",
+    "createTime": "2025-09-03T22:45:34.524021Z",
+    "updateTime": "2025-09-03T22:45:34.524021Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FNVRIYzVZbEprVkROTGJXMXVia2hFVTFKVlFtYxAB"
+  }]
+}

@@ -1,0 +1,20 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Julio Roberto Torres"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-03-02T22:10:53.872Z",
+    "updateTime": "2017-03-02T22:10:53.872Z",
+    "name": "accounts/109853746269412609224/locations/6345909063456423645/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBMmVxelJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Zunzunegui"
+    },
+    "starRating": "FIVE",
+    "comment": "Servicio muy bueno\n\n(Translated by Google)\nVery good service",
+    "createTime": "2016-09-08T00:07:15.515Z",
+    "updateTime": "2016-09-08T00:07:30.478Z",
+    "name": "accounts/109853746269412609224/locations/6345909063456423645/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBMzZEa1J3EAE"
+  }]
+}

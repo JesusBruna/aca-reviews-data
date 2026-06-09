@@ -1,0 +1,170 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Pablo Blanco"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-08-05T12:42:01.327706Z",
+    "updateTime": "2020-08-05T12:42:01.327706Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4djZ5R0hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "cintia ocampo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-08-04T10:04:54.234262Z",
+    "updateTime": "2020-08-04T10:04:54.234262Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4cjRlYUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Ernesto"
+    },
+    "starRating": "FIVE",
+    "comment": "Tienda 10 puntos. Muy amables.    Combustibles excelentes, con asesoramiento de aceites y limpia parabrisas\n\n(Translated by Google)\n10/10 shop. Very friendly. Excellent fuels, with advice on oils and windshield washer fluid.",
+    "createTime": "2020-08-04T01:28:37.085453Z",
+    "updateTime": "2020-08-04T01:30:10.442919Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4cjZpTkpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Palomo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención...\n\n(Translated by Google)\nGood service...",
+    "createTime": "2020-08-02T23:29:26.935269Z",
+    "updateTime": "2020-08-02T23:29:26.935269Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4dDlfTWd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Giachello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-08-01T01:04:37.682775Z",
+    "updateTime": "2020-08-01T01:04:37.682775Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4aDZ1ODhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Néstor Alberto Rocha"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2020-07-31T23:19:25.613059Z",
+    "updateTime": "2020-07-31T23:19:25.613059Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4aF9XQjN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "María Fernanda RG"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-07-31T19:29:19.085193Z",
+    "updateTime": "2020-07-31T19:29:19.085193Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4aDl5QUJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Almenara mayuri"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-07-31T18:33:50.613330Z",
+    "updateTime": "2020-07-31T18:33:50.613330Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4aDVpNG1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Blanca Barrios"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-31T18:28:04.187207Z",
+    "updateTime": "2020-07-31T18:28:04.187207Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4aDZpNnlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Guiñazú"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-30T00:03:40.575788Z",
+    "updateTime": "2020-07-30T00:03:40.575788Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4cTVha1l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Oliveri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-29T03:53:11.483816Z",
+    "updateTime": "2020-07-29T03:53:11.483816Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4ODczeHp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elizabeth Molinas"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-07-28T19:46:00.051971Z",
+    "updateTime": "2020-07-28T19:46:00.051971Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4czdfSi1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Cabaña"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-27T23:23:50.137253Z",
+    "updateTime": "2020-07-27T23:23:50.137253Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4azZHOFZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "nelson rufino"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-07-26T22:57:23.886540Z",
+    "updateTime": "2020-07-26T22:57:23.886540Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4dmZfclJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Debora Massa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-26T18:30:24.835058Z",
+    "updateTime": "2020-07-26T18:30:24.835058Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4dmU3UVFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "graciela Mineo"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-07-26T16:35:35.972013Z",
+    "updateTime": "2020-07-26T16:35:35.972013Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4dmJUNFJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "patricia lopez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención!!\n\n(Translated by Google)\nExcellent service!!",
+    "createTime": "2017-11-13T17:39:11.221Z",
+    "updateTime": "2020-07-26T16:29:30.544286Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURRcF95YzZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diana Quiroga"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-26T12:15:32.488761Z",
+    "updateTime": "2020-07-26T12:15:32.488761Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4M2I2UkJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nadia Enciso"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y rápida\n\n(Translated by Google)\nGood and fast service",
+    "createTime": "2020-07-25T13:48:04.014684Z",
+    "updateTime": "2020-07-25T13:48:04.014684Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4cmF1cjV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Couso"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena higiene. Buena atención. Surtidos en el shop. Buenos precios.\n\n(Translated by Google)\nGood hygiene. Good service. Well-stocked shop. Good prices.",
+    "createTime": "2020-07-22T21:03:34.170727Z",
+    "updateTime": "2020-07-22T21:03:43.243347Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4cGFmenl3RRAB"
+  }]
+}

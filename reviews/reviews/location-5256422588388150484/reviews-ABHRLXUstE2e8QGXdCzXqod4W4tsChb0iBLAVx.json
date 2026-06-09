@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Sofia De Salvo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-20T15:32:33.603558Z",
+    "updateTime": "2023-04-20T15:32:33.603558Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSX0txOE93EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julieta Gelvez"
+    },
+    "starRating": "THREE",
+    "comment": "CierraN el full temprano, y no tienen muy buen atención, es promedio\n\n(Translated by Google)\nThey close the store early, and the service isn\u0027t very good; it\u0027s average.",
+    "createTime": "2023-04-20T04:59:17.971285Z",
+    "updateTime": "2023-04-20T04:59:17.971285Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSbkp1WGZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Ruth Maxwell"
+    },
+    "starRating": "FOUR",
+    "comment": "Que bien que atienden. Y don rápidos.\n\n(Translated by Google)\nThey provide excellent service. And they\u0027re fast.",
+    "createTime": "2023-04-20T00:36:28.462969Z",
+    "updateTime": "2023-04-20T00:36:28.462969Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSblBTX0l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Visconti"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-04-19T19:41:51.641165Z",
+    "updateTime": "2023-04-19T19:41:51.641165Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSN09LeGJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucio Ibarra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-18T18:42:29.253408Z",
+    "updateTime": "2023-04-18T18:42:29.253408Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSMUs3Y0pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Silva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-16T04:18:09.777779Z",
+    "updateTime": "2023-04-16T04:18:09.777779Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSOEpUcFVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Piñeiro"
+    },
+    "starRating": "FIVE",
+    "comment": "Fuimos a realizar un tramite al ACA, recibimos una excelente atencion\n\n(Translated by Google)\nWe went to carry out a procedure at the ACA, and we received excellent service.",
+    "createTime": "2023-04-15T22:23:23.876597Z",
+    "updateTime": "2023-04-15T22:23:23.876597Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURSc0t5QW1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alicia maria santome"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-15T17:59:18.069189Z",
+    "updateTime": "2023-04-15T17:59:18.069189Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURSMExpSVdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "MARIA ISABEL CAPOVILA"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio todo muy limpio\n\n(Translated by Google)\nExcellent service, everything very clean.",
+    "createTime": "2023-04-15T15:09:13.473858Z",
+    "updateTime": "2023-04-15T15:09:13.473858Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURSa0xLN2pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernán Tojo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-15T01:34:39.999965Z",
+    "updateTime": "2023-04-15T01:34:39.999965Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURSd0k2ZDBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector daniel Ortega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-14T20:52:20.741634Z",
+    "updateTime": "2023-04-14T20:52:20.741634Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURSZ1BtWHNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Fabian Carella"
+    },
+    "starRating": "THREE",
+    "comment": "Deberían limpiar más seguido los baños\n\n(Translated by Google)\nThey should clean the bathrooms more often.",
+    "createTime": "2023-04-14T17:30:49.571506Z",
+    "updateTime": "2023-04-14T17:30:49.571506Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSXzhQQ2lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Osvaldo Panza"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-13T13:27:16.360544Z",
+    "updateTime": "2023-04-13T13:27:16.360544Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSejVLX0JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-04-12T20:12:02.174100Z",
+    "updateTime": "2023-04-12T20:12:15.110926Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMTh1YS1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pablo Perrone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-12T17:29:32.814169Z",
+    "updateTime": "2023-04-12T17:29:32.814169Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSMThqX1hBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Buenos Aires Mosaicos"
+    },
+    "starRating": "ONE",
+    "comment": "Mala atención. Demora. Y para cimoletar, si pagas con la Apple de YPF, no hacen factura A. Malisino\n\n(Translated by Google)\nPoor service. Slow service. And to top it all off, if you pay with your YPF Apple card, they don\u0027t issue an invoice. Terrible.",
+    "createTime": "2023-04-11T14:52:08.636763Z",
+    "updateTime": "2023-04-11T14:52:08.636763Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdTdUSEhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Martha Oricchio"
+    },
+    "starRating": "THREE",
+    "comment": "Casi nunca funciona la App de YPF. Una desilusión\n\n(Translated by Google)\nThe YPF app almost never works. A disappointment.",
+    "createTime": "2023-04-11T11:59:09.592253Z",
+    "updateTime": "2023-04-11T11:59:09.592253Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMjZ5cWh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Osvi Bonni"
+    },
+    "starRating": "FOUR",
+    "comment": "Exelente en limpieza, buena atención. Precios del Market, caros.\n\n(Translated by Google)\nExcellent cleanliness, good service. Market prices are expensive.",
+    "createTime": "2023-04-10T19:58:44.235912Z",
+    "updateTime": "2023-04-10T19:58:44.235912Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSeTZHcWlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Forberger"
+    },
+    "starRating": "ONE",
+    "comment": "Ponen poco personal y le deben pedir que cada día sean más lentos\n\n(Translated by Google)\nThey have too few staff and they have to ask them to be slower every day.",
+    "createTime": "2023-04-10T00:20:25.710294Z",
+    "updateTime": "2023-04-10T00:20:25.710294Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSa19uQXBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Guerrero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente ambientación y café\n\n(Translated by Google)\nExcellent atmosphere and coffee",
+    "createTime": "2023-04-09T04:42:13.417879Z",
+    "updateTime": "2023-04-09T04:42:13.417879Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSX2EtSlJnEAE"
+  }]
+}

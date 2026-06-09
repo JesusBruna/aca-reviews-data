@@ -1,0 +1,170 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Pablo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-26T17:59:13.474153Z",
+    "updateTime": "2022-05-26T17:59:13.474153Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyaDUzRGR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio Manchado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-22T20:18:09.333190Z",
+    "updateTime": "2022-05-22T20:18:09.333190Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChdDSUhNMG9nS0VJQ0FnSUQydmR6MDB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Corbellini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-20T19:46:03.234400Z",
+    "updateTime": "2022-05-20T19:46:03.234400Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyMVlLTmh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Alonso"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-20T14:05:04.285688Z",
+    "updateTime": "2022-05-20T14:05:04.285688Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNWVfZ3RnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Betina Guillot"
+    },
+    "starRating": "FIVE",
+    "comment": "Los baños impecables el secamanos , ese sí que funciona ! Siempre paro en esa ypf\n\n(Translated by Google)\nThe bathrooms are spotless, and the hand dryer actually works! I always stop at that YPF station.",
+    "createTime": "2022-05-18T02:07:13.469913Z",
+    "updateTime": "2022-05-18T02:07:13.469913Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyaWJ5MGZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Valenzuela"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-17T15:31:33.798886Z",
+    "updateTime": "2022-05-17T15:31:33.798886Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyc2VETEVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariadna Diaz"
+    },
+    "starRating": "ONE",
+    "createTime": "2022-05-10T14:06:37.908565Z",
+    "updateTime": "2022-05-10T14:06:37.908565Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQya29xV0NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Max Elle"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-05-10T11:01:30.707190Z",
+    "updateTime": "2022-05-10T11:01:30.707190Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNHBHNC1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Hugo Basile"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y precios razonables\n\n(Translated by Google)\nGood service and reasonable prices",
+    "createTime": "2022-05-10T01:49:51.238785Z",
+    "updateTime": "2022-05-10T01:49:51.238785Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyd3YycVpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Vera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-09T17:55:14.640834Z",
+    "updateTime": "2022-05-09T17:55:14.640834Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyZ3Z5S3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Hugo Basile"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y precios razonables\n\n(Translated by Google)\nGood service and reasonable prices",
+    "createTime": "2022-05-09T16:31:29.826519Z",
+    "updateTime": "2022-05-09T16:31:29.826519Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyX05lNHpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Vega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-09T15:13:39.841863Z",
+    "updateTime": "2022-05-09T15:13:39.841863Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyX0puaUp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marisol Cybulski"
+    },
+    "starRating": "FIVE",
+    "comment": "Un lugar muy calido para un rico cafe\n\n(Translated by Google)\nA very cozy place for a delicious coffee",
+    "createTime": "2022-05-07T04:59:11.001130Z",
+    "updateTime": "2022-05-07T04:59:11.001130Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybElpUU5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Miguel Gaiada"
+    },
+    "starRating": "FOUR",
+    "comment": "Lo mejorcito de Tandil.\n\n(Translated by Google)\nThe best of Tandil.",
+    "createTime": "2022-05-06T17:01:14.175714Z",
+    "updateTime": "2022-05-06T17:01:14.175714Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyeE5PaFVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "manuel simioni"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-05-04T11:16:47.775089Z",
+    "updateTime": "2022-05-04T11:16:47.775089Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyc01fVmFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Victoria Pereyra"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención pero suelen tener problemas con el sistema de pagos\n\n(Translated by Google)\nVery good service, but they often have problems with the payment system.",
+    "createTime": "2022-05-01T12:18:04.345251Z",
+    "updateTime": "2022-05-01T12:18:04.345251Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyejVMNkNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucila Sanchez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-04-29T21:36:38.076073Z",
+    "updateTime": "2022-04-29T21:36:38.076073Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChdDSUhNMG9nS0VJQ0FnSUMycF9PVDFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "David"
+    },
+    "starRating": "THREE",
+    "comment": "Clasica YPF en el centro de Tandil.\n\n(Translated by Google)\nClassic YPF in the center of Tandil.",
+    "createTime": "2022-04-27T10:02:59.373694Z",
+    "updateTime": "2022-04-27T10:02:59.373694Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChdDSUhNMG9nS0VJQ0FnSUMydzVIYXZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Monica"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-04-25T19:58:21.504375Z",
+    "updateTime": "2022-04-25T19:58:21.504375Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyeGNhdFdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Barreal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-04-24T02:25:24.643162Z",
+    "updateTime": "2022-04-24T02:25:24.643162Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyOGQtUEpREAE"
+  }]
+}

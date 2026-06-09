@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Nadita Gonzalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención! Siempre muy amables los/as playeros\n\n(Translated by Google)\nExcellent service! The beach attendants are always very friendly.",
+    "createTime": "2019-06-06T11:24:21.298988Z",
+    "updateTime": "2019-09-05T23:10:57.817986Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUM0cnREdkhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Carranza"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo\n\n(Translated by Google)\nVery pretty",
+    "createTime": "2019-09-04T02:08:14.962578Z",
+    "updateTime": "2019-09-04T02:08:22.491182Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVOF9fRjZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Daniel Santillan"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-09-03T17:44:05.245690Z",
+    "updateTime": "2019-09-03T17:44:05.245690Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVczgyRXdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Paez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-03T15:08:29.490012Z",
+    "updateTime": "2019-09-03T15:08:29.490012Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVczdUQ2xnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juliana Cassino"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-09-02T00:02:11.691096Z",
+    "updateTime": "2019-09-02T00:02:11.691096Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURVX1lYclZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Mateo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy rápido y eficiente atención por parte de los plateros\n\n(Translated by Google)\nVery fast and efficient service from the silversmiths",
+    "createTime": "2019-07-08T20:18:56.014849Z",
+    "updateTime": "2019-08-31T16:53:38.940422Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURrbS1uSXh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-31T03:13:25.977451Z",
+    "updateTime": "2019-08-31T03:13:25.977451Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVOWZMaDFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "franco audisio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-30T23:14:54.091996Z",
+    "updateTime": "2019-08-30T23:14:54.091996Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURVdFkyM0V3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Gutierrez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-30T19:03:09.918929Z",
+    "updateTime": "2019-08-30T19:03:09.918929Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVMWRfdnBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2019-08-30T02:48:46.281904Z",
+    "updateTime": "2019-08-30T02:48:46.281904Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURVcGRQLUZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Fernandez Acevedo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-28T18:15:08.687332Z",
+    "updateTime": "2019-08-28T18:15:08.687332Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChRDSUhNMG9nS0VJQ0FnSURVMmRjMhAB"
+  }, {
+    "reviewer": {
+      "displayName": "Baltazar Romero"
+    },
+    "starRating": "ONE",
+    "createTime": "2019-08-28T16:16:03.938007Z",
+    "updateTime": "2019-08-28T16:16:03.938007Z",
+    "reviewReply": {
+      "comment": "Sr.Romero, agradeceríamos nos pudiera comentar en qué deberíamos mejorar nuestros servicios para en lo posible cumplir con sus expectativas. Saludos cordiales.",
+      "updateTime": "2019-08-28T16:39:23.018322Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVMlpHN29nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "La Clave Bandaenvivo"
+    },
+    "starRating": "FIVE",
+    "comment": "👍👍👍👍",
+    "createTime": "2019-08-28T11:01:57.859221Z",
+    "updateTime": "2019-08-28T11:01:57.859221Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURVbWVId1F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Toloza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-28T01:02:25.577222Z",
+    "updateTime": "2019-08-28T01:02:25.577222Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURVNll6YlF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Enrique Aranda"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-27T10:37:23.230086Z",
+    "updateTime": "2019-08-27T10:37:23.230086Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURVaWEzV1J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Antonella Barrera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-26T13:34:49.818584Z",
+    "updateTime": "2019-08-26T13:34:49.818584Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURVMGI3QVFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elda Moreno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-26T09:32:32.686772Z",
+    "updateTime": "2019-08-26T09:32:32.686772Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVa2UyNDVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gustavo panzeri"
+    },
+    "starRating": "FOUR",
+    "comment": "Es el ACA, considero que junto a algunas estaciones de servicio de YPF, son las que mejor atienden y las que tienen los sanitarios más limpios e higiénicos\n\n(Translated by Google)\nIt\u0027s the ACA, I believe that along with some YPF service stations, they are the ones that provide the best service and have the cleanest and most hygienic restrooms.",
+    "createTime": "2019-08-25T22:53:12.314528Z",
+    "updateTime": "2019-08-25T22:53:12.314528Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVNFlLb2h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Miguel Borghi"
+    },
+    "starRating": "FIVE",
+    "comment": "Cálida atención y muy buena relación precio-calidad de productos.. Recomendable la visita!!\n\n(Translated by Google)\nWarm service and very good value for money. A visit is highly recommended!",
+    "createTime": "2019-08-25T13:37:08.179617Z",
+    "updateTime": "2019-08-25T13:37:08.179617Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURVd1pyWGR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "APOLO"
+    },
+    "starRating": "FIVE",
+    "comment": "Lo mejor de villa María en servicios\n\n(Translated by Google)\nThe best of Villa María in services",
+    "createTime": "2019-08-25T04:47:26.252025Z",
+    "updateTime": "2019-08-25T04:47:26.252025Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURVX3UzSmxRRRAB"
+  }]
+}

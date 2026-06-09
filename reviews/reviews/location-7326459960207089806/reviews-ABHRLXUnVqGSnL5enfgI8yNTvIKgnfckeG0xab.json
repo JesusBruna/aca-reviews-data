@@ -1,0 +1,188 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jose Luis DG"
+    },
+    "starRating": "FOUR",
+    "comment": "Limpios los baños\n\n(Translated by Google)\nClean bathrooms",
+    "createTime": "2024-03-11T00:26:29.147614Z",
+    "updateTime": "2024-03-11T00:29:03.487345Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2024-08-26T14:15:54.712335Z"
+    },
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5MTVIM1l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "ANDRES MONTERO"
+    },
+    "starRating": "THREE",
+    "comment": "El servicompras no está completo y no tienen cigarrillos de marcas\n\n(Translated by Google)\nThe convenience store is not fully stocked and they don\u0027t have brand-name cigarettes.",
+    "createTime": "2024-03-08T21:20:19.747228Z",
+    "updateTime": "2024-03-08T21:20:19.747228Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5X2NuajNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "David Vernieri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-08T01:08:13.765153Z",
+    "updateTime": "2024-03-08T01:08:13.765153Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2024-08-26T14:16:03.628014Z"
+    },
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5dGZMbzNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "martin lovaglio"
+    },
+    "starRating": "FIVE",
+    "comment": "El buen dato que voy a dar es que hay agua caliente gratis. Muy completo el market.\n\n(Translated by Google)\nThe good news is that there\u0027s free hot water. The market is very complete.",
+    "createTime": "2024-03-05T04:01:51.097529Z",
+    "updateTime": "2024-03-05T04:01:51.097529Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5eHZlOUN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Betiana Cruel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-04T13:47:24.559787Z",
+    "updateTime": "2024-03-04T13:47:24.559787Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2024-08-26T14:16:17.022276Z"
+    },
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5MnZPazhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jurair Dieminger"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-03-02T16:29:22.547293Z",
+    "updateTime": "2024-03-02T16:29:22.547293Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5bFB5U2NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Notar"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, sanitarios impecables, precios razonables en el shop.\n\n(Translated by Google)\nExcellent service, spotless restrooms, reasonable prices in the shop.",
+    "createTime": "2024-02-27T02:16:43.391030Z",
+    "updateTime": "2024-02-27T02:16:43.391030Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSURkMF9fU1F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lubyn Fuentes"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy limpio y ordenado\n\n(Translated by Google)\nVery clean and tidy",
+    "createTime": "2024-02-24T02:29:31.238738Z",
+    "updateTime": "2024-02-24T02:29:31.238738Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSURkM3RHWWZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel David Galiano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-21T10:32:25.324707Z",
+    "updateTime": "2024-02-21T10:32:25.324707Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSURkOU1uV2J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo De La Vega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-19T17:22:07.935842Z",
+    "updateTime": "2024-02-19T17:22:07.935842Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbjk2ZnpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "David Minni"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-02-18T21:27:21.447675Z",
+    "updateTime": "2024-02-18T21:27:21.447675Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkeDZyQUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Javier Ciancaglini"
+    },
+    "starRating": "FIVE",
+    "comment": "Cómo siempre el ACA exelente\n\n(Translated by Google)\nAs always, the ACA is excellent.",
+    "createTime": "2024-02-17T13:08:12.017960Z",
+    "updateTime": "2024-02-17T13:08:12.017960Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkblplb2pRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Paula Ocvirk"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy tranquila la estación\n\n(Translated by Google)\nThe station was very quiet.",
+    "createTime": "2024-02-16T23:14:06.935611Z",
+    "updateTime": "2024-02-16T23:14:06.935611Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbFlmYkNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel López"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente estación. Baños limpios, gran variedad de productos, agua caliente gratis, servicio de inflado de cubiertas gratuito, excelente atención y con un parque atrás con juegos para niños, disponible para descansar un poco.\n\n(Translated by Google)\nExcellent resort. Clean restrooms, a wide variety of products, free hot water, free tire inflation, excellent service, and a park in the back with children\u0027s play equipment, perfect for a relaxing break.",
+    "createTime": "2024-02-16T17:29:28.758759Z",
+    "updateTime": "2024-02-16T17:29:28.758759Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkaFpYUjVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Viviana Patricia Arroyuelo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, con todos los descuentos por aplicación YPF y ACA,UN GENIO EL PLAYERO\n\n(Translated by Google)\nExcellent service, with all the discounts through the YPF and ACA apps. The gas station attendant was a genius!",
+    "createTime": "2024-02-15T22:50:17.116822Z",
+    "updateTime": "2024-02-15T22:50:17.116822Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChdDSUhNMG9nS0VJQ0FnSUNka2J1TXV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carina Bonacorso"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-15T15:14:55.101765Z",
+    "updateTime": "2024-02-15T15:14:55.101765Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkX29xR1BBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Tartaglino"
+    },
+    "starRating": "FOUR",
+    "comment": "Ypf empleados amables, siempre....\n\n(Translated by Google)\nYPF employees are always friendly....",
+    "createTime": "2024-02-15T09:01:22.368356Z",
+    "updateTime": "2024-02-15T09:01:22.368356Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkcnNINUF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Rey"
+    },
+    "starRating": "FIVE",
+    "comment": "Hace aproximadamente cinco meses mi hijo se olvidó en una silla del bar una campera, ayer, paro en esa estación y preguntó por la campera, sorpresa !! La tenían guardada y me la devolvieron, un gesto enorme de Calidad de Servicio, nivel humano y profesionalismo demostrado, agradezco la predisposicion de los chicos que estaban ayer martes 13 a la tarde, Gaston, Maria y el encargado, que hasta noté que se alegraron  Gracias, son un ejemplo\n\n(Translated by Google)\nAbout five months ago, my son left his jacket on a chair at the bar. Yesterday, I stopped at that station and asked about it. Surprise! They had it stored away and returned it to me. It was a tremendous gesture of service quality, human kindness, and professionalism. I appreciate the helpfulness of the staff who were there yesterday afternoon, Tuesday the 13th: Gaston, Maria, and the manager. I even noticed they were happy for me. Thank you, you are an example to follow.",
+    "createTime": "2024-02-14T14:52:35.330785Z",
+    "updateTime": "2024-02-14T14:52:35.330785Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbXVYN2FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tony Galarza"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2024-02-13T01:24:12.317369Z",
+    "updateTime": "2024-02-13T01:24:12.317369Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkOU0tVWZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "ssorribas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-02-13T00:07:17.507571Z",
+    "updateTime": "2024-02-13T00:07:17.507571Z",
+    "name": "accounts/109853746269412609224/locations/7326459960207089806/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkOUszRFNnEAE"
+  }]
+}

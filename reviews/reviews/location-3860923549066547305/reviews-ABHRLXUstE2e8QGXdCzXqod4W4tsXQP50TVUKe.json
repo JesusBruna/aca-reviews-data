@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Pablo Sosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-07T01:00:56.180620Z",
+    "updateTime": "2023-03-07T01:00:56.180620Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURodXJtd0dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Gustavo Rodriguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-06T16:22:22.069090Z",
+    "updateTime": "2023-03-06T16:22:22.069090Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURobXA2dUp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-05T22:25:52.719479Z",
+    "updateTime": "2023-03-05T22:25:52.719479Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURoOHFfRlVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Ramos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-05T10:40:08.326886Z",
+    "updateTime": "2023-03-05T10:40:08.326886Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSURoa3NmRTNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Batista"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-03-05T03:31:12.834289Z",
+    "updateTime": "2023-03-05T03:31:12.834289Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSURoNHA3Z21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Militerno"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-03-04T21:55:48.022644Z",
+    "updateTime": "2023-03-04T21:55:48.022644Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSURob3Q2OHN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Hugo Prado"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños muy limpios\n\n(Translated by Google)\nVery clean bathrooms",
+    "createTime": "2023-03-04T19:12:48.131245Z",
+    "updateTime": "2023-03-04T19:12:48.131245Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURod3FmY1ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leila Morell"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso. Limpio. Ordenado. Organizado. Amables.\n\n(Translated by Google)\nBeautiful. Clean. Tidy. Organized. Friendly.",
+    "createTime": "2023-03-04T18:29:03.858181Z",
+    "updateTime": "2023-03-04T18:29:03.858181Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSURod3AyaXZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tomas Rojas"
+    },
+    "starRating": "FIVE",
+    "comment": "El servicio de mecánica es muy confiable, David es muy honesto, buena onda y sabe mucho. Me asesoró sobre una falla a pesar de que ya estaban por cerrar.\n\n(Translated by Google)\nThe mechanic service is very reliable, David is very honest, friendly, and knowledgeable. He advised me on a problem even though they were about to close.",
+    "createTime": "2023-03-04T15:07:33.970745Z",
+    "updateTime": "2023-03-04T15:08:14.687197Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSURoZ3V2cDJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia S."
+    },
+    "starRating": "FOUR",
+    "comment": "Todo muy bien\n\n(Translated by Google)\nEverything was great.",
+    "createTime": "2023-03-04T14:48:24.764293Z",
+    "updateTime": "2023-03-04T14:48:24.764293Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSURoZ3YzWjRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Nuñez"
+    },
+    "starRating": "FOUR",
+    "comment": "👍",
+    "createTime": "2023-03-03T01:48:38.284554Z",
+    "updateTime": "2023-03-03T01:48:38.284554Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSURoakszU3lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-03-02T18:35:10.669737Z",
+    "updateTime": "2023-03-02T18:35:10.669737Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURoOVBMd01REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano E. Pastor"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio, los playeros con la paciencia necesaria para con los turistas.\n\n(Translated by Google)\nGood service, the beach attendants were very patient with the tourists.",
+    "createTime": "2023-03-01T11:14:29.861162Z",
+    "updateTime": "2023-03-01T11:14:29.861162Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURoaFBTdWNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raúl g"
+    },
+    "starRating": "TWO",
+    "comment": "9 y media de la noche todo cerrado incluso los baños. El empleado le puso onda pero ni siquiera pude pagar con la aplicacion que queria. Perdi un monton de tiempo. Le pongo 2 de onda.\n\n(Translated by Google)\n9:30 PM, everything was closed, even the restrooms. The employee was helpful, but I couldn\u0027t even pay with the app I wanted. I wasted a lot of time. I\u0027d give it a 2 out of 10 for helpfulness.",
+    "createTime": "2023-02-28T21:41:16.087303Z",
+    "updateTime": "2023-02-28T21:41:16.087303Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMkxtemtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Gise"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-27T23:06:55.240620Z",
+    "updateTime": "2023-02-27T23:06:55.240620Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURoaVBUdUtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Gomez Sansone"
+    },
+    "starRating": "THREE",
+    "comment": "Muy lenta la atención, para el lugar donde se encuentra ubicada la estación de servicio\n\n(Translated by Google)\nVery slow service, considering the location of the service station.",
+    "createTime": "2023-02-27T03:23:15.731442Z",
+    "updateTime": "2023-02-27T03:23:15.731442Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNE9hY0pREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sofia Lopez"
+    },
+    "starRating": "FOUR",
+    "comment": "Estación chica, pero atienden bien . Los surtidores son lentos … ir con paciencia\n\n(Translated by Google)\nSmall station, but service is good. The pumps are slow… be patient.",
+    "createTime": "2023-02-26T14:51:19.848019Z",
+    "updateTime": "2023-02-26T14:51:19.848019Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSURoZ1BuNUFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "marta graciela miller"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-25T15:19:15.317989Z",
+    "updateTime": "2023-02-25T15:19:15.317989Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoNzZhZTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Barcena"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-25T15:16:21.461846Z",
+    "updateTime": "2023-02-25T15:16:21.461846Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoNzRhdE13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodo Mac"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena Atención , lo valoro\n\n(Translated by Google)\nExcellent service, I appreciate it",
+    "createTime": "2023-02-24T01:27:44.902097Z",
+    "updateTime": "2023-02-24T01:27:44.902097Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoNTZqVnlnRRAB"
+  }]
+}

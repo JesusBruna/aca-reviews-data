@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "David Marin"
+    },
+    "starRating": "THREE",
+    "comment": "Muy sucios los baños\n\n(Translated by Google)\nThe bathrooms were very dirty.",
+    "createTime": "2018-02-03T12:58:24.203Z",
+    "updateTime": "2018-02-03T12:58:52.649Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURBaXRQVGpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nico Medina"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-02-01T23:02:29.292Z",
+    "updateTime": "2018-02-01T23:02:39.405Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3NjhLSlRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ojeda Sonia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-30T19:16:51.623Z",
+    "updateTime": "2018-01-30T19:16:51.623Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURRX3ZPZWxnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Maximiliano Dieguez"
+    },
+    "starRating": "TWO",
+    "comment": "Generalmente no tienen debito o credito\n\n(Translated by Google)\nThey generally do not have debit or credit",
+    "createTime": "2018-01-30T15:03:43.168Z",
+    "updateTime": "2018-01-30T15:03:53.942Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnNnRIdnRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel Sotomayor"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-29T14:48:43.975Z",
+    "updateTime": "2018-01-29T14:48:43.975Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURBZ1k2aUNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "walter H. Peralta"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención, tiene medios de pagos electrónicos como ser debito\n\n(Translated by Google)\nExcellent service, they accept electronic payment methods such as debit cards.",
+    "createTime": "2018-01-28T03:32:25.722Z",
+    "updateTime": "2018-01-28T03:33:21.090Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNm9YMndRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Dominguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-01-26T17:31:58.888Z",
+    "updateTime": "2018-01-26T17:31:58.888Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRMGFpeDJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Clemente"
+    },
+    "starRating": "THREE",
+    "comment": "Esperaba algo más ya que es una \"ACA\"\n\n(Translated by Google)\nI expected something more since it\u0027s an \"ACA\"",
+    "createTime": "2018-01-26T13:14:24.322Z",
+    "updateTime": "2018-01-26T13:15:17.594Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNHJfaHJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Beto Betto"
+    },
+    "starRating": "TWO",
+    "comment": "No reciben tarjetas\n\n(Translated by Google)\nThey don\u0027t accept cards",
+    "createTime": "2018-01-25T23:50:04.648Z",
+    "updateTime": "2018-01-25T23:50:13.571Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURBdXRpYWlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Soledad Orte"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-01-25T17:31:42.816Z",
+    "updateTime": "2018-01-25T17:31:42.816Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBNWMySUZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Brandolin"
+    },
+    "starRating": "ONE",
+    "comment": "Malisimo!!! Baños sucios y no hay agua caliente, ni siquiera pueden calentar en el comedor. Correntinos!!!\n\n(Translated by Google)\nTerrible!!! Dirty bathrooms and no hot water, they can\u0027t even heat the dining room. People from Corrientes!!!",
+    "createTime": "2018-01-25T16:22:04.692Z",
+    "updateTime": "2018-01-25T16:23:13.711Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3aU1iMGlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Gonzalez"
+    },
+    "starRating": "FOUR",
+    "comment": "Un oasis en el desierto\n\n(Translated by Google)\nAn oasis in the desert",
+    "createTime": "2018-01-18T00:50:35.250Z",
+    "updateTime": "2018-01-25T01:14:00.057Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURBMi1MQ1l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leila Daniela Ibañez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención con espacio para estacionar y descansar en ruta para seguir viaje!\n\n(Translated by Google)\nGreat service with space to park and rest on the road before continuing your journey!",
+    "createTime": "2018-01-23T18:27:57.355Z",
+    "updateTime": "2018-01-23T18:28:52.420Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURRay1TeTJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Sanchez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar para parar en la ruta\n\n(Translated by Google)\nGood place to stop along the way",
+    "createTime": "2018-01-23T17:33:24.358Z",
+    "updateTime": "2018-01-23T17:33:36.058Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURneTVpQjh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2018-01-23T11:25:06.101Z",
+    "updateTime": "2018-01-23T11:25:18.154Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3dDVTSmt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Sara"
+    },
+    "starRating": "ONE",
+    "comment": "No tenían agua caliente siempre tienen problemas con el.posnet baños sucios.\n\n(Translated by Google)\nThey didn\u0027t have hot water, they always have problems with the posnet, dirty bathrooms.",
+    "createTime": "2018-01-22T14:13:41.142Z",
+    "updateTime": "2018-01-22T14:14:13.651Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURndk91ZzN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ismael cortinas"
+    },
+    "starRating": "ONE",
+    "createTime": "2018-01-22T00:23:35.627Z",
+    "updateTime": "2018-01-22T00:23:35.627Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURRX2NPNm5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pablo Suarez Rios"
+    },
+    "starRating": "ONE",
+    "createTime": "2018-01-21T14:46:01.507Z",
+    "updateTime": "2018-01-21T14:46:01.507Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURBZ2JuMlF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Fleitas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-01-20T20:50:48.949Z",
+    "updateTime": "2018-01-20T20:50:48.949Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRdm9MYXRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Gomez"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-20T12:33:29.435Z",
+    "updateTime": "2018-01-20T12:33:29.435Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURBLWNlZWh3RRAB"
+  }]
+}

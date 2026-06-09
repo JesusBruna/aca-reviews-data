@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Perro Pelado jaja"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-16T14:57:11.068854Z",
+    "updateTime": "2021-11-16T14:57:11.068854Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURHaU1fNUVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "margarita isabel contreras"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-15T17:58:56.307432Z",
+    "updateTime": "2021-11-15T17:58:56.307432Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURHMElDbGpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Mirta Padin"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-15T14:05:31.023600Z",
+    "updateTime": "2021-11-15T14:05:31.023600Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURHNE5ldTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio Arenas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-14T16:15:50.816987Z",
+    "updateTime": "2021-11-14T16:15:50.816987Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURHZ0l6VlVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos J Raggio"
+    },
+    "starRating": "FIVE",
+    "comment": "Higiene sanitarios muy buena\n\n(Translated by Google)\nVery good sanitary hygiene",
+    "createTime": "2021-11-13T16:32:10.720306Z",
+    "updateTime": "2021-11-13T16:32:10.720306Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHbi1EOFZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juana Richard"
+    },
+    "starRating": "FOUR",
+    "comment": "Es como el oasis después de muchos kilómetros\n\n(Translated by Google)\nIt\u0027s like an oasis after many miles.",
+    "createTime": "2021-11-13T14:58:46.686254Z",
+    "updateTime": "2021-11-13T14:58:48.030273Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHNzRXa2dRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Paula Higuero"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy completo\n\n(Translated by Google)\nVery complete",
+    "createTime": "2021-11-12T23:28:23.984658Z",
+    "updateTime": "2021-11-12T23:28:23.984658Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHai0zdTVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Richard Romero"
+    },
+    "starRating": "FOUR",
+    "comment": "BUEN LUGAR PARA DESCANSAR Y BUEN PRECIO EN COMBUSTIBLE!!\n\n(Translated by Google)\nGreat place to rest and great fuel prices!!",
+    "createTime": "2021-11-09T11:20:13.325868Z",
+    "updateTime": "2021-11-09T11:20:13.325868Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHeTdqZERBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Sperandini"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo bien, sólo que no andaba la aplicación de YPF. Puede ir buen servicio en general\n\n(Translated by Google)\nEverything was fine, except the YPF app wasn\u0027t working. Overall, the service seems good.",
+    "createTime": "2021-11-08T11:15:23.465370Z",
+    "updateTime": "2021-11-08T11:15:23.465370Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHNDRhU25BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela Aguilar"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-08T00:37:49.181792Z",
+    "updateTime": "2021-11-08T00:37:49.181792Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHdzkzLW9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Viviani"
+    },
+    "starRating": "ONE",
+    "comment": "Otra\n\n(Translated by Google)\nOther",
+    "createTime": "2021-11-07T18:38:49.320932Z",
+    "updateTime": "2021-11-07T18:38:49.991157Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHZzRPUGdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "guille_ac 195"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-07T01:26:13.961061Z",
+    "updateTime": "2021-11-07T01:26:23.049626Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHM1lPY0ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "mauricio hernandez"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-07T00:40:24.849961Z",
+    "updateTime": "2021-11-07T00:40:24.849961Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHM2FYUEJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio Guillermo Hartmann"
+    },
+    "starRating": "FIVE",
+    "comment": "Sin duda dé todas las estaciones de servicio del país las dé YPF son las mejores en todo sentido\n\n(Translated by Google)\nWithout a doubt, of all the service stations in the country, YPF\u0027s are the best in every way.",
+    "createTime": "2021-11-06T19:18:10.837725Z",
+    "updateTime": "2021-11-06T19:18:10.837725Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHbmNPUEpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raquel Gisser"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-06T12:44:19.121381Z",
+    "updateTime": "2021-11-06T12:44:19.121381Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHN2NxTmRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Eduardo Acosta"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-11-06T10:39:20.138097Z",
+    "updateTime": "2021-11-06T10:39:20.686205Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHcmVmbGlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "carlos jesus Ferroni"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-06T03:00:39.410905Z",
+    "updateTime": "2021-11-06T03:00:39.410905Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHellQV09REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Cubillas"
+    },
+    "starRating": "FIVE",
+    "comment": "Ahi venden la mas rica de las tortas fritas\n\n(Translated by Google)\nThey sell the most delicious fried cakes there.",
+    "createTime": "2021-11-06T02:17:20.470062Z",
+    "updateTime": "2021-11-06T02:17:20.470062Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHelpYaHl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Milone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-06T00:27:59.092987Z",
+    "updateTime": "2021-11-06T00:27:59.092987Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHemRia2lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Armando De Mauro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-05T22:55:53.462561Z",
+    "updateTime": "2021-11-05T22:55:53.462561Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHell5M2tnRRAB"
+  }]
+}

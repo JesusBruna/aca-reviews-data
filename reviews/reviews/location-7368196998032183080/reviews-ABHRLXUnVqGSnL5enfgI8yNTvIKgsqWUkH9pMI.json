@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ruben Dario Alonso"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2019-01-02T04:21:19.506043Z",
+    "updateTime": "2019-01-02T04:21:24.712118Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJLXBfRWdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eleazar Guillen"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar\n\n(Translated by Google)\nExcellent place",
+    "createTime": "2018-12-31T23:04:13.300200Z",
+    "updateTime": "2018-12-31T23:04:19.664315Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJMnZ5Tmh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Belén Albarellos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-12-31T07:46:08.294291Z",
+    "updateTime": "2018-12-31T07:46:08.294291Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSURJNnFIREVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lidia Barboza"
+    },
+    "starRating": "FOUR",
+    "comment": "Soy socia del Aca y es la única en la zona!\n\n(Translated by Google)\nI am a member of Aca and it is the only one in the area!",
+    "createTime": "2018-12-30T05:20:22.877755Z",
+    "updateTime": "2018-12-30T05:21:16.232979Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSURJaW9MZmV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Sergio Ferrero"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena la cafetería. !!!\n\n(Translated by Google)\nGood cafeteria. !!!",
+    "createTime": "2018-12-29T12:00:54.583602Z",
+    "updateTime": "2018-12-29T12:01:37.165532Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJc3RDTWtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Saller"
+    },
+    "starRating": "FOUR",
+    "comment": "Ypf don torcuato\n\n(Translated by Google)\nYPF Don Torcuato",
+    "createTime": "2018-12-28T08:35:52.041813Z",
+    "updateTime": "2018-12-28T08:36:15.353177Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJb3VYZ3d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "walter horacio mendez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-12-28T02:05:39.700270Z",
+    "updateTime": "2018-12-28T02:05:39.700270Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJd3ZldjJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julia Mezza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-12-27T16:31:39.202210Z",
+    "updateTime": "2018-12-27T16:31:39.202210Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJZ3UzczVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mariano luna"
+    },
+    "starRating": "FIVE",
+    "comment": "Carisimo",
+    "createTime": "2018-12-27T15:12:54.691894Z",
+    "updateTime": "2018-12-27T15:12:59.880898Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSURJZ3E3Z0t3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tamara Maidana"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-12-26T23:44:32.872651Z",
+    "updateTime": "2018-12-26T23:44:44.444792Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdks3eFpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Schenfeld"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2018-09-20T19:38:14.520186Z",
+    "updateTime": "2018-12-26T18:51:19.935064Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRa3Vhc1VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Mñz (Oso)"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-12-25T04:14:43.696019Z",
+    "updateTime": "2018-12-25T04:14:43.696019Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSURJckpEdVpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eleonora Seifritz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-12-22T11:03:24.381733Z",
+    "updateTime": "2018-12-22T11:03:24.381733Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJcElmaW5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vero C"
+    },
+    "starRating": "TWO",
+    "createTime": "2018-12-21T14:33:08.483115Z",
+    "updateTime": "2018-12-21T14:33:08.483115Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJaE5Xa3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carla"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo lugar en don torcuato para tomar un cafecito mientras esperas el tren\n\n(Translated by Google)\nNice place in Don Torcuato to have a coffee while you wait for the train",
+    "createTime": "2018-12-21T10:41:28.930857Z",
+    "updateTime": "2018-12-21T10:41:53.867510Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJaE96dzFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Iglesias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-12-20T23:08:18.077258Z",
+    "updateTime": "2018-12-20T23:08:18.077258Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSURJLUlTOVdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "FAVIO ACUÑA"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-12-20T17:15:49.832227Z",
+    "updateTime": "2018-12-20T17:15:49.832227Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJdVA3TTZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Lopez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-12-17T12:01:12.104458Z",
+    "updateTime": "2018-12-17T12:01:12.104458Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSURJMEp5ellnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Melchiori"
+    },
+    "starRating": "FOUR",
+    "comment": "Super la atencion de los playeros\n\n(Translated by Google)\nThe beach attendants were great.",
+    "createTime": "2017-10-15T14:24:55.867Z",
+    "updateTime": "2018-12-17T03:21:34.013644Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRNHBtYWx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nancy Ines Galbarino"
+    },
+    "starRating": "THREE",
+    "comment": "Muy lindo lugar muy amables los chicos\n\n(Translated by Google)\nVery nice place, very friendly guys",
+    "createTime": "2018-12-16T12:03:35.418021Z",
+    "updateTime": "2018-12-16T12:04:46.502971Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSURJb0k2dTJ3RRAB"
+  }]
+}

@@ -1,0 +1,125 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Gabriel Azzimonti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-02-05T22:08:33.501Z",
+    "updateTime": "2017-02-05T22:08:33.501Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSURRc0pHcGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Rene Mateos"
+    },
+    "starRating": "THREE",
+    "comment": "Lugar centrico . Buema atencion.\n\n(Translated by Google)\nCentral location. Good service.",
+    "createTime": "2017-02-04T18:32:59.040Z",
+    "updateTime": "2017-02-04T18:33:28.109Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSURRMS1ybVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Serra Flavio"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2017-02-04T17:54:39.705Z",
+    "updateTime": "2017-02-04T17:54:53.333Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBazRDeGF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leo Galeano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-02-03T13:25:06.875Z",
+    "updateTime": "2017-02-03T13:25:12.759Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBaHE2eUVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "braian sanchez"
+    },
+    "starRating": "FIVE",
+    "comment": "Pregunta Aceptan mastercard\n\n(Translated by Google)\nQuestion: Do they accept Mastercard?",
+    "createTime": "2017-01-31T12:44:40.177Z",
+    "updateTime": "2017-01-31T12:44:40.177Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSURRaFlMRGlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "rosana Lescano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-01-30T16:03:53.093Z",
+    "updateTime": "2017-01-30T16:04:01.248Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBelktMWpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Daniel Contreras"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente!, El Service lo Mejor !!\n\n(Translated by Google)\nExcellent! The service is the best!!",
+    "createTime": "2017-01-27T02:07:09.902Z",
+    "updateTime": "2017-01-27T02:07:09.902Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3elp2TFRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "gladys saltzer"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-01-23T16:51:15.684Z",
+    "updateTime": "2017-01-23T16:51:15.684Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBeW9LMEJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Schipul"
+    },
+    "starRating": "FOUR",
+    "comment": "Cómodo acceso.\n\n(Translated by Google)\nEasy access.",
+    "createTime": "2017-01-20T16:17:27.534Z",
+    "updateTime": "2017-01-20T16:17:49.723Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnbmNyaGtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Quiroga"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2017-01-16T03:25:53.453Z",
+    "updateTime": "2017-01-16T03:26:01.081Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdGZtb053EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Octavio Ingaramo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy Buena Gente la que atiende. Los Playeros exelentes\n\n(Translated by Google)\nThe staff are very nice. The beach attendants are excellent.",
+    "createTime": "2017-01-07T18:33:53.949Z",
+    "updateTime": "2017-01-07T18:34:24.165Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3eUkzaHd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Mangini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-01-04T15:17:33.867Z",
+    "updateTime": "2017-01-04T15:17:33.867Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRczVIOTVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "VICTOR ROLANDO ARENHARDT"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-12-07T15:59:16.812Z",
+    "updateTime": "2016-12-07T15:59:16.812Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSURRcEs3QVlREAE"
+  }, {
+    "reviewer": {
+      "displayName": "HOTEL Travel Encarnación"
+    },
+    "starRating": "FOUR",
+    "comment": "Ubicada en pleno Centro. Buena Atención.\n\n(Translated by Google)\nLocated in the heart of the city. Excellent service.",
+    "createTime": "2016-04-18T00:38:10.834Z",
+    "updateTime": "2016-04-18T00:38:34.932Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSURBNHI2RFJ3EAE"
+  }]
+}

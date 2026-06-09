@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Claudia Torres"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-03T17:03:44.578123Z",
+    "updateTime": "2022-02-03T17:03:44.578123Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURteFl2YVJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Vuoto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-02T15:48:07.863179Z",
+    "updateTime": "2022-02-02T15:48:07.863179Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMlo2VWR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "susana de bernardo"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien atendidos. Gracias !\n\n(Translated by Google)\nExcellent service. Thank you!",
+    "createTime": "2022-01-30T13:08:52.082552Z",
+    "updateTime": "2022-02-01T21:08:36.139814Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtZ2NPR05nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "leonardo tomasello"
+    },
+    "starRating": "TWO",
+    "comment": "No anda la maquina para controlar el aire de las cubiertas\n\n(Translated by Google)\nThe tire pressure monitoring machine is not working.",
+    "createTime": "2022-02-01T12:17:19.854551Z",
+    "updateTime": "2022-02-01T12:17:19.854551Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtaWYzTUp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Virgili"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-01T01:44:27.408595Z",
+    "updateTime": "2022-02-01T01:44:27.408595Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtc1pfMlN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Malu López"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-01T00:22:57.733428Z",
+    "updateTime": "2022-02-01T00:22:57.733428Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSURtc2VQX3lRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "diego Banchi"
+    },
+    "starRating": "FIVE",
+    "comment": "De10 los baños estaban muy limpios\n\n(Translated by Google)\nThe bathrooms were very clean, 10 out of 10.",
+    "createTime": "2022-01-31T13:49:37.417246Z",
+    "updateTime": "2022-01-31T13:49:37.417246Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURta2ZQYlRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Martinez"
+    },
+    "starRating": "THREE",
+    "comment": "Una vergüenza que mientan diciendo que no hay agua para no abrir los baños. Una falta de respeto para los que somos clientes de YPF.\n\n(Translated by Google)\nIt\u0027s a disgrace that they lie about not having water to avoid opening the restrooms. It\u0027s disrespectful to those of us who are YPF customers.",
+    "createTime": "2022-01-31T12:08:05.289338Z",
+    "updateTime": "2022-01-31T12:08:05.289338Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURta1o3a0lREAE"
+  }, {
+    "reviewer": {
+      "displayName": "karina susana mercado"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy limpio\n\n(Translated by Google)\nVery clean",
+    "createTime": "2022-01-24T18:53:18.823980Z",
+    "updateTime": "2022-01-31T04:25:06.257114Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSURteXFDeXBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "rossana senoseain"
+    },
+    "starRating": "ONE",
+    "comment": "Terrible este lugar NUNCA HAY AGUA no hsy sanitarios!!!! Una verguenza en zona turística\n\n(Translated by Google)\nThis place is terrible! There\u0027s NEVER any water and there are no toilets! A disgrace in a tourist area.",
+    "createTime": "2022-01-30T01:35:32.817882Z",
+    "updateTime": "2022-01-30T01:35:32.817882Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtX3BTbU5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "pablo gustavo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-29T23:54:01.286933Z",
+    "updateTime": "2022-01-29T23:54:01.286933Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSURtdm9fd3l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter San Martin"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-29T03:03:30.916972Z",
+    "updateTime": "2022-01-29T03:03:30.916972Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtN3ZyRUx3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Coti Cantisani"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-28T19:38:27.459976Z",
+    "updateTime": "2022-01-28T19:38:27.459976Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtcnVLTlh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Camarasa"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre lleno pero conviene\n\n(Translated by Google)\nAlways full but it\u0027s convenient",
+    "createTime": "2022-01-27T18:20:11.940083Z",
+    "updateTime": "2022-01-27T18:20:11.940083Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMXR2MkdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-27T17:43:52.557460Z",
+    "updateTime": "2022-01-27T17:43:52.557460Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMXQzTFdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paz Freire"
+    },
+    "starRating": "TWO",
+    "comment": "Baño de damas sucio, sólo uno\n\n(Translated by Google)\nDirty ladies\u0027 restroom, only one",
+    "createTime": "2022-01-27T02:58:33.257068Z",
+    "updateTime": "2022-01-27T02:58:33.257068Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtNXNTVklnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Escoda"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención. Podés pagar con la aplicación\n\n(Translated by Google)\nGreat service. You can pay with the app.",
+    "createTime": "2022-01-26T14:38:34.913616Z",
+    "updateTime": "2022-01-26T14:38:34.913616Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtaHZQTGFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lonas del Sur"
+    },
+    "starRating": "FIVE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2022-01-26T03:33:35.164507Z",
+    "updateTime": "2022-01-26T03:33:35.164507Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSURtdXRlazd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Genaro Muszio"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo muy bien. Me gusto. Igual estuve poco tiempo.\n\n(Translated by Google)\nEverything was great. I liked it. I was only there for a short time, though.",
+    "createTime": "2022-01-25T20:42:20.275494Z",
+    "updateTime": "2022-01-25T20:42:20.275494Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSURtMnJlbzhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ruben kalmbach"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y ubicación. En época de turismo se recomienda asistir temprano para evitar colas y demoras.\n\n(Translated by Google)\nGood service and location. During peak tourist season, it\u0027s recommended to arrive early to avoid queues and delays.",
+    "createTime": "2022-01-25T13:09:44.373526Z",
+    "updateTime": "2022-01-25T13:09:44.373526Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURtbXN6ME5nEAE"
+  }]
+}

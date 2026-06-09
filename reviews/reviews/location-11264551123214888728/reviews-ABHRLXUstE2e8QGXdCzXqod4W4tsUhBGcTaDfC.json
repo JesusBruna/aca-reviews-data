@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mauricio Romero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-13T13:33:19.371702Z",
+    "updateTime": "2020-02-13T13:33:19.371702Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMDhIS2RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Tenaglia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-13T12:15:16.241616Z",
+    "updateTime": "2020-02-13T12:15:16.241616Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMDhLN01REAE"
+  }, {
+    "reviewer": {
+      "displayName": "PAOLA PIANAROLI (Polaca Pianaroli)"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-13T10:52:41.924116Z",
+    "updateTime": "2020-02-13T10:52:41.924116Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzMC1DLTFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Persa"
+    },
+    "starRating": "THREE",
+    "comment": "Poco personal, pero muy amable\n\n(Translated by Google)\nFew staff, but very friendly",
+    "createTime": "2020-02-13T01:16:05.629501Z",
+    "updateTime": "2020-02-13T01:16:05.629501Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNDhPb3NBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Toto Poblet"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-12T22:52:14.367671Z",
+    "updateTime": "2020-02-12T22:52:14.367671Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNDY2a3R3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Rivas"
+    },
+    "starRating": "FIVE",
+    "comment": "Rápida atención, sanitarios muy limpios y apto para personas de movilidad reducida, el café también es muy rico\n\n(Translated by Google)\nFast service, very clean restrooms and suitable for people with reduced mobility, the coffee is also very good",
+    "createTime": "2020-02-12T11:26:49.958166Z",
+    "updateTime": "2020-02-12T11:26:49.958166Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdy1xY2hBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Alm"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2020-02-11T00:43:16.057500Z",
+    "updateTime": "2020-02-11T00:43:16.057500Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzblp5aGZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Edgardo Varela"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-02-11T00:26:53.820425Z",
+    "updateTime": "2020-02-11T00:26:53.820425Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbll6cURREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Riera Felipe"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-02-10T17:50:08.250870Z",
+    "updateTime": "2020-02-10T17:50:08.250870Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzN1lTNzF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Maldonado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-10T04:56:55.142321Z",
+    "updateTime": "2020-02-10T04:56:55.142321Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzamZlMFh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Diaz"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-10T01:30:06.614645Z",
+    "updateTime": "2020-02-10T01:30:06.614645Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzalo2LUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "gabriel sosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y amabilidad con el cliente  socio como no socio . Muy bien.\n\n(Translated by Google)\nExcellent service and friendliness to both members and non-members. Very good.",
+    "createTime": "2020-02-08T04:45:00.014338Z",
+    "updateTime": "2020-02-08T04:45:00.014338Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzLWFHeG13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MarianKa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-05T21:10:05.660677Z",
+    "updateTime": "2020-02-05T21:10:05.660677Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOFluSWJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Zarate"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-02-05T20:12:27.543244Z",
+    "updateTime": "2020-02-05T20:12:27.543244Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOFphRkN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel Miranda"
+    },
+    "starRating": "THREE",
+    "comment": "Es una patada necesaria\n\n(Translated by Google)\nIt\u0027s a necessary kick",
+    "createTime": "2020-02-04T16:37:26.026894Z",
+    "updateTime": "2020-02-04T16:37:26.026894Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNFlxR3p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Cesar Chiaraviglio"
+    },
+    "starRating": "THREE",
+    "comment": "Suele haber mucha cola en épocas de temporada.Si vienes de embalse, complicado el acceso.\n\n(Translated by Google)\nThere\u0027s usually a long queue during peak season. If you\u0027re coming from the reservoir, access is difficult.",
+    "createTime": "2020-02-04T11:11:59.387610Z",
+    "updateTime": "2020-02-04T11:11:59.387610Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzb2Z6QWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nancy Gigena"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-04T10:58:06.977348Z",
+    "updateTime": "2020-02-04T10:58:06.977348Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzb2N6WXpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Constanza Kennel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-04T10:38:42.063804Z",
+    "updateTime": "2020-02-04T10:38:42.063804Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzb2NUbzJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Sigliano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-02T02:06:16.781646Z",
+    "updateTime": "2020-02-02T02:06:16.781646Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzenM3VzlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Cachi"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-01T13:27:56.960755Z",
+    "updateTime": "2020-02-01T13:27:56.960755Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOXRUNUFnEAE"
+  }]
+}

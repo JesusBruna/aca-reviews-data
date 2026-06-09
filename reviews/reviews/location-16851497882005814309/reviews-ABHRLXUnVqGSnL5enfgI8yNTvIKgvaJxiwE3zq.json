@@ -1,0 +1,195 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Martin Petersen"
+    },
+    "starRating": "FIVE",
+    "comment": "Julio atiende de prinera\n\n(Translated by Google)\nJulio attends first",
+    "createTime": "2026-02-06T16:55:37.498599Z",
+    "updateTime": "2026-02-06T16:55:37.498599Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT214YVVtUXdiV1pNT1VGdVJsQkZaRkJxY1RCblkyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Zappacosta"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio, Héctor un genio!\n\n(Translated by Google)\nExcellent service, Hector is a genius!",
+    "createTime": "2026-02-06T16:53:37.998986Z",
+    "updateTime": "2026-02-06T16:53:37.998986Z",
+    "reviewReply": {
+      "comment": "Gracias Natalia por tu comentario. Nos encanta leer que Héctor te brindó un excelente servicio. ¡Un genio total!",
+      "updateTime": "2026-02-10T12:57:14.390526Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT21keFJsUXRUVXRWWTBaR1ZsbFZSelZxVEhCc1drRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "maria marta mórsica"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de Juan que sumó la la limpieza del parabrisas.\n\n(Translated by Google)\nJuan provided excellent service, including cleaning the windshield.",
+    "createTime": "2026-02-06T16:46:50.285086Z",
+    "updateTime": "2026-02-06T16:46:50.285086Z",
+    "reviewReply": {
+      "comment": "Hola María Marta, muchas gracias por tu reseña. Nos alegra que Juan haya sumado ese detalle de limpieza del parabrisas. ¡Te esperamos nuevamente!",
+      "updateTime": "2026-02-10T12:57:35.971915Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoNVdtUjVPVVZHVkZCd1ZETkhRa1JNVlU1dWFIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Jackson - Jackson Props -"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente Juan\n\n(Translated by Google)\nExcellent Juan",
+    "createTime": "2026-02-06T16:45:51.256197Z",
+    "updateTime": "2026-02-06T16:45:51.256197Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5TVNYUkZjbUYwYXpWRWRHVnlRbTFHWkRFMlprRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Ricupero"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención excelente el playero julio muy buen trabajo y muy atento\n\n(Translated by Google)\nExcellent service, Julio the beach attendant did a great job and was very attentive.",
+    "createTime": "2026-02-06T16:44:41.032991Z",
+    "updateTime": "2026-02-06T16:44:41.032991Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GU05EQlRaRGhxUVdaSE1uaEpiMU5hVEhGQldsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio Etchebehere"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Juan y muy amable Maria en la playa.\n\n(Translated by Google)\nExcellent service from Juan and very kind Maria on the beach.",
+    "createTime": "2026-02-06T16:37:59.335159Z",
+    "updateTime": "2026-02-06T16:37:59.335159Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pobWNVUjRkSGczZDFsWmNscGlaMWt4VUhoeVVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Guajardo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Julio y maria\n\n(Translated by Google)\nExcellent service from Julio and Maria",
+    "createTime": "2026-02-06T16:36:43.963700Z",
+    "updateTime": "2026-02-06T16:36:43.963700Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aelptOXVhRGhKTTNscVdrSmxUalE0WlZaNmIyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Natalucci"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-02-06T15:31:15.196494Z",
+    "updateTime": "2026-02-06T15:31:15.196494Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT21abE5HZGlSMlpsWTFST1UzWk9Relk1ZUVoSFpuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tomas montes de oca"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente servicio Rodo y maría!!\n\n(Translated by Google)\nExcellent service Rodo and Maria!!",
+    "createTime": "2026-02-06T15:28:34.895082Z",
+    "updateTime": "2026-02-06T15:28:34.895082Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkalpGcERkblkxVm5CNVJWWlNjM0JJYm5WeVIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Ángel Arévalo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio, todo está genial.\n\n(Translated by Google)\nExcellent service, everything is great.",
+    "createTime": "2026-02-06T15:14:10.934303Z",
+    "updateTime": "2026-02-06T15:14:10.934303Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SYVJITm1SWGszY2xaRmRHTjVhSGRwWkV4TFduYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Beni Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Noelia excelente.\n\n(Translated by Google)\nNoelia, excellent.",
+    "createTime": "2026-02-06T15:07:16.407017Z",
+    "updateTime": "2026-02-06T15:07:16.407017Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OamNIQkxPSGRuT0Y5T1ZIRldNell4U1Zad00xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ceferino Malnero"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y te comucan de forma muy clara las promos y descuentos con los beneficios de ACA Y YPF, un placer\n\n(Translated by Google)\nExcellent service and they clearly communicate the promotions and discounts with the benefits of ACA and YPF, a pleasure.",
+    "createTime": "2026-02-06T14:47:06.717150Z",
+    "updateTime": "2026-02-06T14:47:06.717150Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsdmJXMVVaVEZrV25sQmRqa3hiM2g0WVdkUFlsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan jose Rossi"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Noelua\n\n(Translated by Google)\nExcellent service from Noelua",
+    "createTime": "2026-02-06T14:16:21.388528Z",
+    "updateTime": "2026-02-06T14:16:21.388528Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGT00zZHViVTlPY1UxbVVVWXdRWE0zVnpKNFZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Caceres"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en el lugar,  Mayra muy atenta.\n\n(Translated by Google)\nExcellent service at the location, Mayra was very attentive.",
+    "createTime": "2026-02-04T17:43:40.208736Z",
+    "updateTime": "2026-02-06T12:46:37.167341Z",
+    "reviewReply": {
+      "comment": "Hola Juan, muchas gracias por tu reseña 😊 Nos alegra saber que Mayra te brindó una excelente atención. ¡Te esperamos pronto!",
+      "updateTime": "2026-02-05T12:29:15.576957Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT25obGFVVjFVVlJqVVdaMmRsOXlPVzkyTTJoQlJVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Scotton"
+    },
+    "starRating": "FIVE",
+    "comment": "Excrlente lugar, la comexión, el cafe, la atencion, excelente para comenzar el dia. Gracias por la buenisima onda.\n\n(Translated by Google)\nExcellent place, the connection, the coffee, the service, excellent to start the day. Thanks for the great vibe.",
+    "createTime": "2026-02-06T12:37:33.758008Z",
+    "updateTime": "2026-02-06T12:37:33.758008Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KNVozcEdlVzB4VERWRVF5MUlkMGh1T0Y5Tk5uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "juana luisa campaniello"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención de.Julio.genial\n\n(Translated by Google)\nJulio\u0027s attention. Great!",
+    "createTime": "2026-02-06T12:11:09.521471Z",
+    "updateTime": "2026-02-06T12:11:09.521471Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwUlV6SlhXbWR0VGxGYUxVRTNVbkE0ZUZKUWNYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ale S"
+    },
+    "starRating": "FIVE",
+    "comment": "Noelia una Genia con su amable atencion\n\n(Translated by Google)\nNoelia is a genius with her kind attention.",
+    "createTime": "2026-02-06T12:08:32.220506Z",
+    "updateTime": "2026-02-06T12:08:32.220506Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paU01VWm9VV1F4Ym0xb1RXcDJUa2hEUkZOSldrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Rosalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Noelia,muy recomendable está estación!\n\n(Translated by Google)\nNoelia provided excellent service; this station is highly recommended!",
+    "createTime": "2026-02-06T12:07:14.271310Z",
+    "updateTime": "2026-02-06T12:07:14.271310Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxMGVVTkVSM2hGTkdrMVZubzRTRGxUUWpsVVExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Germán Ravarotto"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de Juan\n\n(Translated by Google)\nJuan provided excellent service.",
+    "createTime": "2026-02-06T12:03:16.001781Z",
+    "updateTime": "2026-02-06T12:03:16.001781Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKbWIxQXRkMkpTYjB0UVpGZzVVRkptUmtKT2RVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Troncoso"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Agus, me sirvió el café rápido y con amabilidad\n\n(Translated by Google)\nExcellent service from Agus, she served my coffee quickly and kindly",
+    "createTime": "2026-02-06T11:46:29.097639Z",
+    "updateTime": "2026-02-06T11:46:29.097639Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toSldYbGZURmxNTUc1SlRHVmZlV3BOUjJGalEwRRAB"
+  }]
+}

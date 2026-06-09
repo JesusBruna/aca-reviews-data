@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Rosa Sosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-12-08T19:32:19.932642Z",
+    "updateTime": "2024-12-08T19:32:19.932642Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2N0pxWmZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabricio Pelzer"
+    },
+    "starRating": "ONE",
+    "comment": "Pésimo servicio, cortó la luz y no tenían grupo electrógeno. Estuvimos esperando 2 horas para cargar combustible.\n\n(Translated by Google)\nTerrible service, the power went out and they didn\u0027t have a generator. We waited two hours to refuel.",
+    "createTime": "2024-12-07T07:18:25.015704Z",
+    "updateTime": "2024-12-07T07:18:25.015704Z",
+    "reviewReply": {
+      "comment": "Buenas tardes le informo que se trabajó en el.punto marcado y se adquirió un grupo electrógeno para aliviar el malestar de los clientes en los reiterados cortes de energía le invito a visitarnos nuevamente para  mejorar su experiencia con nosotros así lograr mejorar la puntuación y llegar a las 5 estrellas saludos ",
+      "updateTime": "2026-01-10T23:31:39.762027Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2MEtqajdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ezequieel alegre"
+    },
+    "starRating": "FIVE",
+    "comment": "Los baños estan muy limpios, buena atención de los personales\n\n(Translated by Google)\nThe bathrooms are very clean, and the staff are very helpful.",
+    "createTime": "2024-12-05T23:59:29.764308Z",
+    "updateTime": "2024-12-05T23:59:29.764308Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURQLTkzdnV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Gonzalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la estación , los baños muy limpios , atención excelente...\n\n(Translated by Google)\nThe station was very good, the bathrooms were very clean, and the service was excellent.",
+    "createTime": "2024-12-05T23:58:00.849522Z",
+    "updateTime": "2024-12-05T23:58:00.849522Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURQLTUzczFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emilio nuñez"
+    },
+    "starRating": "TWO",
+    "createTime": "2024-12-05T03:20:30.669943Z",
+    "updateTime": "2024-12-05T03:20:42.854852Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURQX2FmTjVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Delivasich"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-12-03T12:20:14.497573Z",
+    "updateTime": "2024-12-03T12:20:14.497573Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURQOGEtZlZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "mirta bellido"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-11-29T03:22:54.809641Z",
+    "updateTime": "2024-11-29T03:22:54.809641Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURQLUota1hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Sosa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-11-26T02:40:05.425692Z",
+    "updateTime": "2024-11-26T02:40:05.425692Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNQMmZXc01REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Sadde"
+    },
+    "starRating": "FIVE",
+    "comment": "Nos salvo de quedarnos sin nafta, única estación en varios km\n\n(Translated by Google)\nIt saved us from running out of gas, the only station for several kilometers",
+    "createTime": "2024-11-23T02:37:00.110737Z",
+    "updateTime": "2024-11-23T02:37:00.110737Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQOHNPWmpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Camilo Benitez Chapo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-11-21T10:58:03.602183Z",
+    "updateTime": "2024-11-21T10:58:03.602183Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQdUptMjN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "EOB EOB"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-11-08T01:26:37.723194Z",
+    "updateTime": "2024-11-08T01:26:37.723194Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzemNXQ1JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Acuña"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-11-03T17:56:00.904322Z",
+    "updateTime": "2024-11-03T17:56:00.904322Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzbk82dmFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Celio Guedes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-26T22:21:42.103220Z",
+    "updateTime": "2024-10-26T22:21:42.103220Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURYNXB1RTlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "KICO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-09T23:13:56.121301Z",
+    "updateTime": "2024-10-22T10:37:27.462827Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Kico, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Ita Ibaté",
+      "updateTime": "2022-08-23T15:18:13.523123Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1My1tYlp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Monzani"
+    },
+    "starRating": "THREE",
+    "comment": "Le Falta una buena actualización\n\n(Translated by Google)\nIt needs a good update",
+    "createTime": "2024-10-19T12:18:43.283611Z",
+    "updateTime": "2024-10-19T12:18:43.283611Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYN2RTVVJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "MrGero5"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-12T14:32:02.098597Z",
+    "updateTime": "2024-10-12T14:32:02.098597Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYOEpMY3R3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liany Rosa Brandão"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-08T16:10:36.938603Z",
+    "updateTime": "2024-10-08T16:10:36.938603Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURuemZPcTVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "claudia lopezcorte"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-04T02:49:14.953976Z",
+    "updateTime": "2024-10-04T02:49:14.953976Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURubk9iY3V3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norma Camelino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-09-28T20:31:11.859702Z",
+    "updateTime": "2024-09-28T20:31:11.859702Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNubll1WFN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto FARIÑA NUÑEZ"
+    },
+    "starRating": "THREE",
+    "comment": "Atención lenta de los playeros y precios elevadísimos en el shop.  Baños siempre limpios y lindo lugar para un alto en la ruta\n\n(Translated by Google)\nSlow service from the beach attendants and exorbitant prices in the shop. Restrooms are always clean and it\u0027s a nice place for a stop along the way.",
+    "createTime": "2019-05-15T10:38:07.274323Z",
+    "updateTime": "2024-09-22T04:24:18.527305Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURZc2RiYXVBRRAB"
+  }]
+}

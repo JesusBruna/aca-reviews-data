@@ -1,0 +1,45 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Bernard Breniac"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención más allá de que es muy chica la estación y no tiene gnc.los baños con ducha y muy limpios\n\n(Translated by Google)\nThe service was very good, even though the station is very small and doesn\u0027t have CNG. The bathrooms have showers and are very clean.",
+    "createTime": "2016-03-26T22:01:18.166Z",
+    "updateTime": "2016-03-26T22:01:18.166Z",
+    "name": "accounts/109853746269412609224/locations/14085656854126721512/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3Z05uY2VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lautaro Castillo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-01-11T13:29:38.213Z",
+    "updateTime": "2016-01-11T13:29:38.213Z",
+    "name": "accounts/109853746269412609224/locations/14085656854126721512/reviews/ChdDSUhNMG9nS0VJQ0FnSUNndi1qUnlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Coppa"
+    },
+    "starRating": "FIVE",
+    "comment": "Estación chica pero tiene todos los servicios. Se puede pagar con tarjeta\n\n(Translated by Google)\nSmall station but has all services. You can pay by card.",
+    "createTime": "2016-01-05T23:09:38.407Z",
+    "updateTime": "2016-01-05T23:10:23.637Z",
+    "name": "accounts/109853746269412609224/locations/14085656854126721512/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnNmRQOC1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Morales"
+    },
+    "starRating": "FIVE",
+    "createTime": "2015-11-14T15:18:31.849Z",
+    "updateTime": "2015-11-14T15:18:31.849Z",
+    "name": "accounts/109853746269412609224/locations/14085656854126721512/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBOUpuS01nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Artero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2014-02-25T13:08:06.243451Z",
+    "updateTime": "2014-02-25T13:08:06.243451Z",
+    "name": "accounts/109853746269412609224/locations/14085656854126721512/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3cTd2TllnEAE"
+  }]
+}

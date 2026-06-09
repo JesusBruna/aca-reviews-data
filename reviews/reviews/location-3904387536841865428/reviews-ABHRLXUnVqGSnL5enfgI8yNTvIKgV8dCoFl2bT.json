@@ -1,0 +1,213 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mariel Beltran"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-03-19T11:21:36.369858Z",
+    "updateTime": "2023-03-19T11:21:41.544922Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeDlXazN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Andrés Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-18T03:23:00.162422Z",
+    "updateTime": "2023-03-18T03:23:00.162422Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChdDSUhNMG9nS0VJQ0FnSURocTlXNC1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Olmos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-17T13:58:40.380256Z",
+    "updateTime": "2023-03-17T13:58:40.380256Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su valoración! Los esperamos pronto!!!",
+      "updateTime": "2023-04-21T19:23:25.466274Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChdDSUhNMG9nS0VJQ0FnSURoODQybmpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela “Gra” Velazquez"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención en todos los aspectos, un lugar para estirarse y descansar un ratito\n\n(Translated by Google)\nExcellent service in every aspect, a place to stretch out and relax for a while",
+    "createTime": "2023-03-17T04:04:06.702263Z",
+    "updateTime": "2023-03-17T04:04:06.702263Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tomarse el momento de destacar la atención. Los esperamos pronto!!!",
+      "updateTime": "2023-04-20T15:38:02.977930Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSURoMDZxUEFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maribel Benitez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-09T17:05:32.364093Z",
+    "updateTime": "2023-03-09T17:05:32.364093Z",
+    "reviewReply": {
+      "comment": "Gracias por su aporte. Los esperamos pronto",
+      "updateTime": "2023-04-20T15:38:29.972986Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSURoM29xNUJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Nari"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-03-06T18:11:36.636715Z",
+    "updateTime": "2023-03-06T18:11:36.636715Z",
+    "reviewReply": {
+      "comment": "Gracias por su aporte. Lo esperamos pronto!",
+      "updateTime": "2023-04-20T15:36:49.497614Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSURoMm9DWVZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Bordón"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-02T13:53:57.445561Z",
+    "updateTime": "2023-03-02T13:53:57.445561Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su valoración! Los esperamos",
+      "updateTime": "2023-04-21T19:23:41.704708Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSURodE9ES1JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lu C"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-02T04:16:33.105105Z",
+    "updateTime": "2023-03-02T04:16:33.105105Z",
+    "reviewReply": {
+      "comment": "Gracias por su valoración!!!",
+      "updateTime": "2023-04-21T19:34:27.606653Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNUxfVFpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lautaro vazquez"
+    },
+    "starRating": "TWO",
+    "comment": "Cortan la nafta con agua...\n\n(Translated by Google)\nThey cut the gasoline with water...",
+    "createTime": "2023-03-02T01:39:59.726774Z",
+    "updateTime": "2023-03-02T01:39:59.726774Z",
+    "reviewReply": {
+      "comment": "Buenos días, nos vemos perjudicados con tu mensaje porque es una difamación, estás invitado en cualquier momento que ud quiera a realizar enfrente suyo los controles diarios de detección de agua en tanques que se realizan. A fin de que tengas una respuesta verídica de lo que afirmaste. Coordinamos cuando UD lo desee",
+      "updateTime": "2023-03-02T15:30:37.741071Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNVBHT1lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Garcia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-02T00:28:56.203910Z",
+    "updateTime": "2023-03-02T00:28:56.203910Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChdDSUhNMG9nS0VJQ0FnSURoNUxxN25nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Soledad Sotelo"
+    },
+    "starRating": "FIVE",
+    "comment": "El desayuno accesible y buenas instalaciones\n\n(Translated by Google)\nAffordable breakfast and good facilities",
+    "createTime": "2023-02-28T15:54:41.480345Z",
+    "updateTime": "2023-02-28T15:54:41.480345Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSURobVBqRkJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Horacio Centeno"
+    },
+    "starRating": "THREE",
+    "comment": "No tienen para controlar la presión de neumáticos!! No siempre disponen de la App de Y P F  ( internet)\n\n(Translated by Google)\nThey don\u0027t have a way to check tire pressure! They don\u0027t always have the YPF app (internet).",
+    "createTime": "2023-02-21T23:08:36.576037Z",
+    "updateTime": "2023-02-21T23:08:36.576037Z",
+    "reviewReply": {
+      "comment": "Buenos días, tenemos el control de presión de aire en la estación y en funcionamiento. En los último días no hemos reportado problemas con la app de YPF. Cualquier consulta a disposición.\nSaludos,\nAutomóvil Club Argentino. San Francisco ",
+      "updateTime": "2023-02-22T15:23:50.072141Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoODRmRm13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jp Matafuegos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-21T14:54:18.142436Z",
+    "updateTime": "2023-02-21T14:54:18.142436Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoMC1tV2dRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Strumia"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención!\n\n(Translated by Google)\nGreat service!",
+    "createTime": "2023-02-19T03:05:38.330077Z",
+    "updateTime": "2023-02-19T03:05:38.330077Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoamI3X2FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "EVA BS 2015"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-18T12:14:11.570041Z",
+    "updateTime": "2023-02-18T12:14:11.570041Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoMVpUbWVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Luisa Rojas"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-02-14T23:50:23.832478Z",
+    "updateTime": "2023-02-14T23:50:23.832478Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSUNob1otWGNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Eduardo Campos Yuan"
+    },
+    "starRating": "FOUR",
+    "comment": "Se pierde tiempo al momento de pagar con la app YPF. Muy buena atención y rapidez de los playeros.\n\n(Translated by Google)\nPaying with the YPF app takes time. The service at the gas station is very good and fast.",
+    "createTime": "2023-02-14T18:42:10.773771Z",
+    "updateTime": "2023-02-14T18:42:10.773771Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSUNod2VlOVdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Prof. Marcos Coutinho Ladislau"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-13T17:11:21.900739Z",
+    "updateTime": "2023-02-13T17:11:21.900739Z",
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChdDSUhNMG9nS0VJQ0FnSUNobnJTc2t3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marilyn Liebrecht"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención..  espacios para autos techado. Servicios buenos y baños cuidada la limpieza\n\n(Translated by Google)\nGood service. Covered parking. Good facilities and clean restrooms.",
+    "createTime": "2023-02-12T21:20:26.570250Z",
+    "updateTime": "2023-02-12T21:20:26.570250Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por comentar y destacar el trabajo, saludos!",
+      "updateTime": "2023-04-21T19:35:35.836917Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoam9pbU1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Darío Javier Soria"
+    },
+    "starRating": "FOUR",
+    "comment": "Es bueno tener en la ciudad una estacion con todos los servicios del ACA, pero ademas posee amplio estacionamiento para la.ciudad y los visitantes, una  excelente tienda de compras con servicio basico de gastronomia, sanitarios en condiciones, venta de garrafas y combustibles con rápida y cálida atención.\n\n(Translated by Google)\nIt\u0027s great to have a station in town with all the ACA services, but it also has ample parking for residents and visitors, an excellent convenience store with basic food service, clean restrooms, and sells gas cylinders and fuel with fast and friendly service.",
+    "createTime": "2023-02-12T17:41:34.745770Z",
+    "updateTime": "2023-02-12T17:41:34.745770Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su valoración se agradece tomarse un ratito en dejar un cálido mensaje. L@s esperamos pronto!!!",
+      "updateTime": "2023-04-20T15:39:54.945980Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3904387536841865428/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoOXZ5cVh3EAE"
+  }]
+}

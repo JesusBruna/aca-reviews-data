@@ -1,0 +1,179 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Fernando Concina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-15T23:27:35.296312Z",
+    "updateTime": "2021-11-15T23:27:35.296312Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURHMExfc1pREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Seleme"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-15T09:23:43.224956Z",
+    "updateTime": "2021-11-15T09:23:43.224956Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURHb0lfaXdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paola Maria"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-15T03:04:02.570753Z",
+    "updateTime": "2021-11-15T03:04:02.570753Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURHd0wtVEhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar donde parar por un café camino a Rosario\n\n(Translated by Google)\nA great place to stop for a coffee on the way to Rosario",
+    "createTime": "2021-11-14T23:17:33.301315Z",
+    "updateTime": "2021-11-14T23:17:33.301315Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURHd082WlF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Salgueiro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-13T20:37:48.229245Z",
+    "updateTime": "2021-11-13T20:37:48.229245Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHbjhmbzhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "DANIEL FERNANDEZ PINTOR (Pepe)"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-13T14:08:07.828748Z",
+    "updateTime": "2021-11-13T14:08:07.828748Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHNzViR0ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Onil Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "✌",
+    "createTime": "2021-11-12T13:11:39.551120Z",
+    "updateTime": "2021-11-12T13:11:47.463678Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHdC1uX2h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonio Pascual Ganino"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2021-11-11T15:49:01.739109Z",
+    "updateTime": "2021-11-11T15:49:02.521223Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcF92b0pREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Franchina"
+    },
+    "starRating": "FIVE",
+    "comment": "Tienen GNC???\n\n(Translated by Google)\nDo they have CNG?",
+    "createTime": "2021-11-10T00:49:42.670296Z",
+    "updateTime": "2021-11-10T00:49:42.670296Z",
+    "reviewReply": {
+      "comment": "Buenas  noches..No contamos con GNC",
+      "updateTime": "2021-11-10T01:35:00.282170Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHNjhfNWl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Burgos"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y muy servicial, limpieza de parabrisas muy buena.\n\n(Translated by Google)\nExcellent service and very helpful, windshield cleaning was very good.",
+    "createTime": "2021-11-07T02:08:43.896752Z",
+    "updateTime": "2021-11-07T02:08:43.896752Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHM1p2ZHdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Straffurini"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar para parar\n\n(Translated by Google)\nGood place to stop",
+    "createTime": "2021-11-07T01:36:22.021716Z",
+    "updateTime": "2021-11-07T01:36:22.021716Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHM2VQY05nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Rossi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-05T23:52:12.079731Z",
+    "updateTime": "2021-11-06T03:29:43.667370Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHemFyQWJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-05T15:20:25.531943Z",
+    "updateTime": "2021-11-05T15:20:25.531943Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHOWZtd1h3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Koller"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-11-05T05:11:17.978033Z",
+    "updateTime": "2021-11-05T05:11:17.978033Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHMWVYV2Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Nori"
+    },
+    "starRating": "ONE",
+    "comment": "Solia ser una parada obligada en mis viajes a Rosario, del comienzo de la pandemia a esta parte rara vez les \"funciona\" la YPF en ruta. Solia haber cola para ingresar. últimamente esta siempre vacia. Por algo sera.....\n\n(Translated by Google)\nIt used to be a must-stop on my trips to Rosario, but since the start of the pandemic, the YPF gas station on the highway rarely seems to be working. There used to be a line to get in; lately, it\u0027s always empty. There must be a reason...",
+    "createTime": "2021-11-04T12:32:30.368234Z",
+    "updateTime": "2021-11-04T12:32:30.368234Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcFlXQkFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Valéro Julio Cesar"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y predisposición del personal.\n\n(Translated by Google)\nExcellent service and helpful staff.",
+    "createTime": "2021-11-04T00:57:40.390674Z",
+    "updateTime": "2021-11-04T00:57:41.011731Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHaGRmMVdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sil Maffei"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atencion y servicios\n\n(Translated by Google)\nGood service and attention",
+    "createTime": "2021-11-03T04:02:19.322352Z",
+    "updateTime": "2021-11-03T04:02:19.322352Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHMlpDSmlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Manuel Vega"
+    },
+    "starRating": "THREE",
+    "comment": "El servicio de playa ok, atención de personal del MiniMarket ok. El café para llevar es chico, una miseria por lo que cobran, las medialunas horribles. Lástima porque la comida casera del lugar es rica, sabrosa y abundante.\n\n(Translated by Google)\nThe beach service was okay, and the staff at the MiniMarket were fine. The takeaway coffee is small and ridiculously cheap for what they charge, and the croissants were awful. It\u0027s a shame because the homemade food there is delicious, tasty, and plentiful.",
+    "createTime": "2021-11-03T01:05:00.221916Z",
+    "updateTime": "2021-11-03T01:05:00.221916Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHbWVXUzN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Bernardino Burdisso"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísimo\n\n(Translated by Google)\nGreat!",
+    "createTime": "2021-11-02T09:44:31.595985Z",
+    "updateTime": "2021-11-02T09:44:32.331981Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHeVpHTTVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Abeco"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-02T04:29:56.397716Z",
+    "updateTime": "2021-11-02T04:29:56.397716Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHaWRuQmNnEAE"
+  }]
+}

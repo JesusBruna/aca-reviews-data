@@ -1,0 +1,170 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "carlos daniel godoy"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-08-27T12:24:00.397864Z",
+    "updateTime": "2022-08-27T12:24:00.397864Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1M2MySDV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Debora Baez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-20T03:33:26.320157Z",
+    "updateTime": "2022-08-20T03:33:26.320157Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1bHZYOEF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Zarate"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-08-15T00:19:49.563082Z",
+    "updateTime": "2022-08-15T00:19:49.563082Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1OVBfOW1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Waly Prada"
+    },
+    "starRating": "FOUR",
+    "comment": "Cómo siempre excelente lugar\n\n(Translated by Google)\nAs always, an excellent place.",
+    "createTime": "2022-08-14T21:19:28.551734Z",
+    "updateTime": "2022-08-14T21:19:28.551734Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1OUw2MjNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fredy Giuliano"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo lugar, con buena atención.\n\n(Translated by Google)\nNice place, with good service.",
+    "createTime": "2022-08-13T11:58:22.678423Z",
+    "updateTime": "2022-08-13T11:58:22.678423Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1aExEOGZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "DIEGO VARAYOUD"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente ambiente y atención. Baños impecables\n\n(Translated by Google)\nExcellent atmosphere and service. Spotless bathrooms.",
+    "createTime": "2022-08-11T12:32:53.249825Z",
+    "updateTime": "2022-08-11T12:32:53.249825Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1MFBud2NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Martín Serrano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, todo muy limpio.\n\n(Translated by Google)\nGood service, everything very clean.",
+    "createTime": "2022-08-10T12:32:16.970878Z",
+    "updateTime": "2022-08-10T12:32:16.970878Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1Z05MbmxnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Piatti"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buens\n\n(Translated by Google)\nVery good",
+    "createTime": "2022-08-07T02:48:14.703882Z",
+    "updateTime": "2022-08-07T02:48:14.703882Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1MjRqd1J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Cantu"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-01T23:16:13.738256Z",
+    "updateTime": "2022-08-01T23:16:13.738256Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1eFpyTkJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Palia"
+    },
+    "starRating": "FOUR",
+    "comment": "Los baños excelentes. Lindo lugar p tomar un café\n\n(Translated by Google)\nThe restrooms are excellent. Nice place to have a coffee.",
+    "createTime": "2022-07-29T20:57:40.912236Z",
+    "updateTime": "2022-07-29T20:57:40.912236Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1Z1lmaVNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "carolina benitez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-28T22:56:11.212870Z",
+    "updateTime": "2022-07-28T22:56:11.212870Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1N3BmZzFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martina Pantaleone"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-28T04:57:19.963443Z",
+    "updateTime": "2022-07-28T04:57:19.963443Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1OW9xZEF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Demian M"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-27T18:08:57.084882Z",
+    "updateTime": "2022-07-27T18:08:57.084882Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1MXJLUjhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Edus Soto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-27T02:04:11.870686Z",
+    "updateTime": "2022-07-27T02:04:11.870686Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1eHJUZkRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juanma Gorosito"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-22T17:48:30.032008Z",
+    "updateTime": "2022-07-22T17:48:30.032008Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1ekxPTlRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Dario Quintana"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-20T21:46:41.948737Z",
+    "updateTime": "2022-07-20T21:46:41.948737Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1LU11dlhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "cristian junco"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-16T18:35:43.438057Z",
+    "updateTime": "2022-07-16T18:35:43.438057Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURPOThybGZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Lencina"
+    },
+    "starRating": "FIVE",
+    "comment": "El mejor café. El lugar de encuentro de amigos.\n\n(Translated by Google)\nThe best coffee. The meeting place for friends.",
+    "createTime": "2022-07-14T22:07:14.540916Z",
+    "updateTime": "2022-07-14T22:07:14.540916Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMjVhc3VnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alan Carrizo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-12T14:33:09.643166Z",
+    "updateTime": "2022-07-12T14:33:09.643166Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZzZLSmFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jimmy Mc Loughlin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-10T23:52:24.683459Z",
+    "updateTime": "2022-07-10T23:52:24.683459Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURPdGYzV0pBEAE"
+  }]
+}

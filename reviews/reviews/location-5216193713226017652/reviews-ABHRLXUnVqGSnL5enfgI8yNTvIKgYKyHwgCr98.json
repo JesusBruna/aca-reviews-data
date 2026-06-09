@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "walter pairone"
+    },
+    "starRating": "ONE",
+    "createTime": "2024-02-23T02:01:32.086330Z",
+    "updateTime": "2024-02-23T02:01:40.243468Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURkaHFLSHpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Paladino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-22T23:35:10.117879Z",
+    "updateTime": "2024-02-22T23:35:10.117879Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSURkLXNqNmVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "mariana villalba"
+    },
+    "starRating": "FIVE",
+    "comment": "Expendio combustible.  Kiosco.  Agua caliente.  Parking para descansar.\n\n(Translated by Google)\nFuel station. Kiosk. Hot water. Parking for rest.",
+    "createTime": "2024-02-22T21:04:23.598971Z",
+    "updateTime": "2024-02-22T21:04:23.598971Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSURkMnJ1TExBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "luis balbuena"
+    },
+    "starRating": "FIVE",
+    "comment": "De todas las estaciones de servicio, ésta sin dudas tiene un excelente lugar donde aparcar con el auto en las arboledas, y descansar estirando las piernas o comer algo o solo disfrutar del airecito\n\n(Translated by Google)\nOf all the gas stations, this one undoubtedly has an excellent place to park your car in the groves, and rest stretching your legs, have something to eat, or simply enjoy the fresh air.",
+    "createTime": "2024-02-22T16:01:17.357440Z",
+    "updateTime": "2024-02-22T16:01:17.357440Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURkcXVXci13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dante"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-02-22T11:05:17.259685Z",
+    "updateTime": "2024-02-22T11:05:17.259685Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSURkOHRxYkV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Rial"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-21T18:48:28.612128Z",
+    "updateTime": "2024-02-21T18:48:28.612128Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURkM0pPRGpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Richard Lepore"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-02-21T15:00:19.079643Z",
+    "updateTime": "2024-02-21T15:00:19.079643Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURkclBlOHB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Sosa"
+    },
+    "starRating": "FOUR",
+    "comment": "Fue todo muy bueno y rápido\n\n(Translated by Google)\nIt was all very good and fast",
+    "createTime": "2024-02-21T03:01:51.619742Z",
+    "updateTime": "2024-02-21T03:01:51.619742Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSURkcEliMVpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Alejandro Castillo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-02-20T02:11:57.043421Z",
+    "updateTime": "2024-02-20T02:11:57.043421Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURkd09TSDlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gladys Endrizzi"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-02-19T10:58:26.204812Z",
+    "updateTime": "2024-02-19T10:58:26.204812Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkajdyRjF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "karina kari"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-02-18T14:01:09.499748Z",
+    "updateTime": "2024-02-18T14:01:09.499748Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkbV9XdkpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ana gryska"
+    },
+    "starRating": "THREE",
+    "comment": "Bastante abandonado el predio. Los precios en el local un poco Caritos\n\n(Translated by Google)\nThe property is quite abandoned. The prices at the store are a bit expensive.",
+    "createTime": "2024-02-18T04:53:33.712984Z",
+    "updateTime": "2024-02-18T04:53:33.712984Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkcy1iY3dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "eduardo ramos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-02-18T01:42:51.329562Z",
+    "updateTime": "2024-02-18T01:42:51.329562Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkazV2ejhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marta Perez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenas atención y tienen los suministros necesarios para los viajeros👍🏻\n\n(Translated by Google)\nGreat service and they have the necessary supplies for travelers 👍🏻",
+    "createTime": "2024-02-18T01:40:50.536603Z",
+    "updateTime": "2024-02-18T01:40:50.536603Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkazZ1TkRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Antonio Postillone"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buenas instalaciones, servicios y atención\n\n(Translated by Google)\nVery good facilities, services and attention",
+    "createTime": "2024-02-17T13:50:34.775028Z",
+    "updateTime": "2024-02-17T13:50:34.775028Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkM2NheDdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Santana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-17T02:02:20.852621Z",
+    "updateTime": "2024-02-17T02:02:20.852621Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkdGNHTmtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ernesto E. Améndola"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy Buen Servicio.\n\n(Translated by Google)\nVery Good Service.",
+    "createTime": "2024-02-16T22:59:06.074680Z",
+    "updateTime": "2024-02-16T22:59:06.074680Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbGQzZHV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo De Trápaga"
+    },
+    "starRating": "TWO",
+    "comment": "Desastre como siempre\n\n(Translated by Google)\nDisaster as always",
+    "createTime": "2024-02-16T10:16:06.795558Z",
+    "updateTime": "2024-02-16T10:16:06.795558Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkNmVtR3B3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alexis Báez"
+    },
+    "starRating": "FIVE",
+    "comment": "Good",
+    "createTime": "2024-02-16T06:05:19.897121Z",
+    "updateTime": "2024-02-16T06:09:47.059204Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkaVpYaVB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sonia Facal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-02-16T03:38:02.406328Z",
+    "updateTime": "2024-02-16T03:38:02.406328Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkOGFLZGpRRRAB"
+  }]
+}

@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Silvana Blanco"
+    },
+    "starRating": "ONE",
+    "comment": "Es la primer estación de servicio en el límite de San Juan -San Luis y los baños son un verdadero asco\n\n(Translated by Google)\nIt\u0027s the first gas station on the San Juan-San Luis border and the bathrooms are a real mess.",
+    "createTime": "2020-02-10T20:06:30.655043Z",
+    "updateTime": "2020-02-10T20:06:30.655043Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzN2ZHQXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "sandra arcajo"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención. Organizada\n\n(Translated by Google)\nExcellent service. Organized.",
+    "createTime": "2020-02-10T12:55:20.717383Z",
+    "updateTime": "2020-02-10T12:55:20.717383Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzcmZpb2NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "El Pul"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-09T22:06:05.785787Z",
+    "updateTime": "2020-02-09T22:06:05.785787Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOWJfQkJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Yolanda florencia Moya"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-09T14:48:55.736714Z",
+    "updateTime": "2020-02-09T14:48:55.736714Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdGU3elpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Rihl"
+    },
+    "starRating": "FOUR",
+    "comment": "Su atención muy buenas\n\n(Translated by Google)\nTheir service was very good.",
+    "createTime": "2020-02-08T20:09:10.699285Z",
+    "updateTime": "2020-02-08T20:09:10.699285Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzcGRQQnNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Milla"
+    },
+    "starRating": "FIVE",
+    "comment": "Rápido\n\n(Translated by Google)\nFast",
+    "createTime": "2020-02-08T18:33:04.828921Z",
+    "updateTime": "2020-02-08T18:33:04.828921Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzcFlxelh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto J. Quesada"
+    },
+    "starRating": "FOUR",
+    "comment": "Por la buena y amable atención. Requiere de un espacio físico para más mesas.\n\n(Translated by Google)\nFor the attentive and friendly service. Needs more space for more tables.",
+    "createTime": "2020-02-08T16:19:23.810352Z",
+    "updateTime": "2020-02-08T16:19:23.810352Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzeGNXelFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sabrina Rivas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-08T12:51:00.895925Z",
+    "updateTime": "2020-02-08T12:51:00.895925Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzaGV2bDVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Ramirez"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-07T22:59:43.385451Z",
+    "updateTime": "2020-02-07T22:59:43.385451Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdVpPTzJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Villalba"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-06T23:54:56.013901Z",
+    "updateTime": "2020-02-06T23:54:56.013901Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzNmFxQmZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Pizarro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-05T18:24:14.946490Z",
+    "updateTime": "2020-02-05T18:24:14.946490Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOGJqQVBREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Isabel Ricci"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-04T20:24:59.810580Z",
+    "updateTime": "2020-02-04T20:24:59.810580Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNGQtUmp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Perez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo lugar\n\n(Translated by Google)\nVery nice place",
+    "createTime": "2020-02-03T17:05:17.439524Z",
+    "updateTime": "2020-02-03T17:05:17.439524Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzX3BXTlhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Andrello andrello"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar para descansar .uy seguro la gente de el lugar enormeeee\n\n(Translated by Google)\nA great place to relax. Very safe, the locals are amazing!",
+    "createTime": "2020-02-03T12:37:55.496270Z",
+    "updateTime": "2020-02-03T12:37:55.496270Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdnJ1aFRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonela Flores"
+    },
+    "starRating": "FOUR",
+    "comment": "Paso obligado está en el lugar justo\n\n(Translated by Google)\nPaso Obliga is in the right place",
+    "createTime": "2020-02-03T09:22:23.629844Z",
+    "updateTime": "2020-02-03T09:22:23.629844Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdnBxOEVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorja Vaslei"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-02T14:25:58.756360Z",
+    "updateTime": "2020-02-02T14:25:58.756360Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzN3Y2TWRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miriam Fernanda Ramirez"
+    },
+    "starRating": "TWO",
+    "comment": "No tienen postner una vergüenza\n\n(Translated by Google)\nThey have no shame in posting",
+    "createTime": "2020-02-02T13:59:17.421628Z",
+    "updateTime": "2020-02-02T13:59:17.421628Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzN3FidkpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Laura Guillen"
+    },
+    "starRating": "THREE",
+    "comment": "Los baños no muy limpios\n\n(Translated by Google)\nThe bathrooms are not very clean",
+    "createTime": "2020-01-30T14:26:16.011392Z",
+    "updateTime": "2020-01-30T14:26:16.011392Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzaHZTd3BBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Vallecillo"
+    },
+    "starRating": "FIVE",
+    "comment": "Este lugar lo conozco desde hace mucho tiempo, hace varios años fue remodelado y le hicieron cambios notables que mejoraron la experiencia tanto en combustibles como en el servicompras, tambien en la infraestructura de servicios como baños, estacionamiento, etc. muy recomendable para hacer una parada, tienen un kiosco con una enorme variedad de productos, buena atencion, sugerencia: tomar un cortado con sandwich de jamón crudo, hagan una parada en el camino, merece la pena.\nObservacion para mejorar: quedo un poco chico el lugar de las mesas para sentarse a disfrutar.\n\n(Translated by Google)\nI\u0027ve known this place for a long time. It was remodeled several years ago, and they made significant changes that improved the experience, both in terms of fuel and convenience stores. The infrastructure, such as restrooms and parking, was also upgraded. It\u0027s highly recommended as a stop. They have a kiosk with a huge variety of products, and the service is good. My suggestion: try a cortado with a prosciutto sandwich. Stop by on your way; it\u0027s worth it.\n\nOne suggestion for improvement: the seating area is a bit small for comfortably sitting and enjoying your meal.",
+    "createTime": "2020-01-29T14:05:01.314274Z",
+    "updateTime": "2020-01-29T14:05:01.314274Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbXJtWmFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Gustavo Almada"
+    },
+    "starRating": "FOUR",
+    "comment": "Bastante completo\n\n(Translated by Google)\nQuite comprehensive",
+    "createTime": "2020-01-29T11:08:58.091465Z",
+    "updateTime": "2020-01-29T11:08:58.091465Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzbW9pSHF3RRAB"
+  }]
+}

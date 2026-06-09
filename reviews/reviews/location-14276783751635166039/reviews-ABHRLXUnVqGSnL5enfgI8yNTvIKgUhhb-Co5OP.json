@@ -1,0 +1,184 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Walter Olocco"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno.. Tiene un parque frente al rio\n\n(Translated by Google)\nVery good. It has a park facing the river.",
+    "createTime": "2020-03-12T09:42:37.036598Z",
+    "updateTime": "2020-03-12T09:42:37.036598Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjZ2ZHRFZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ángel Díaz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-12T00:01:52.197840Z",
+    "updateTime": "2020-03-12T00:01:52.197840Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjbHRUMGdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Jose Cravacuore"
+    },
+    "starRating": "FOUR",
+    "comment": "El motel es ideal para pasar la noche ,nos alojamos ida y vuelta de Bs.As al sur ,se desayuna y se cena bien enfrente en el restaurant perteciente también al ACA.\n\n(Translated by Google)\nThe motel is ideal for spending the night; we stayed there on our way to and from Buenos Aires to the south. Breakfast and dinner are good across the street at the restaurant, which also belongs to the ACA (Automobile Club of Argentina).",
+    "createTime": "2020-03-11T23:21:20.045515Z",
+    "updateTime": "2020-03-11T23:21:20.045515Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjcHV2UUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Lencinas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-11T15:05:45.127692Z",
+    "updateTime": "2020-03-11T15:05:45.127692Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjc29lNEpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Malvassora"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-03-11T13:33:01.695259Z",
+    "updateTime": "2020-03-11T13:33:01.695259Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNja3Bfd0dBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Lopez"
+    },
+    "starRating": "FIVE",
+    "comment": "De diez\n\n(Translated by Google)\nOut of ten",
+    "createTime": "2020-03-11T01:58:37.510702Z",
+    "updateTime": "2020-03-11T01:58:37.510702Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjNUlmQXhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Vicente"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-10T15:49:24.136195Z",
+    "updateTime": "2020-03-10T15:49:24.136195Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNjOEx2ZG13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Sosa"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-03-09T21:15:11.172595Z",
+    "updateTime": "2020-03-09T21:15:11.172595Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURzOWJxWXRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Carmona"
+    },
+    "starRating": "FIVE",
+    "comment": "Men encantó\n\n(Translated by Google)\nI loved it.",
+    "createTime": "2020-03-09T02:50:45.393506Z",
+    "updateTime": "2020-03-09T02:50:45.393506Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURzdVpqRTZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariana Guadalupe Gómez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-09T00:25:08.784733Z",
+    "updateTime": "2020-03-09T00:25:08.784733Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzMlozN0RnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Calderon"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo muy limpio. Muy bien atendido\n\n(Translated by Google)\nEverything was very clean. Excellent service.",
+    "createTime": "2020-03-07T21:53:47.782307Z",
+    "updateTime": "2020-03-07T21:53:47.782307Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T21:54:48.070541Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzaVlhRkNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Liana Ambroggio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-07T19:57:58.729305Z",
+    "updateTime": "2020-03-07T19:57:58.729305Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzOFp1SENBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Archivos InGen"
+    },
+    "starRating": "FOUR",
+    "comment": "Está ubicada sobre la ruta, lo cual en un viaje largo ayuda a no perder tiempo buscando una estación de servicio. La atención es muy buena, teniendo en cuenta que ACA tiene muy poco personal para ello. He observado, especialmente en este verano 2020, que en todas las estaciones ACA que visité en el sur contaban con un solo empleado. Pese a la gran cantidad de clientes en plena temporada de turismo, los empleados con la mejor buena voluntad se esmeraban por atender rápido y cordialmente. Las 4 estrellas son un reconocimiento para ellos.\n\n(Translated by Google)\nIt\u0027s located right on the highway, which is a big help on long trips, saving you time looking for a gas station. The service is very good, especially considering ACA has very limited staff. I noticed, particularly this past summer of 2020, that all the ACA stations I visited in the south had only one employee. Despite the large number of customers during peak tourist season, the employees, with the best of intentions, went out of their way to provide fast and courteous service. The 4 stars are a testament to their dedication.",
+    "createTime": "2020-03-07T17:50:08.026116Z",
+    "updateTime": "2020-03-07T17:50:08.026116Z",
+    "reviewReply": {
+      "comment": "Gracias por su opinión ",
+      "updateTime": "2025-07-19T20:30:17.247517Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzOFl5VmV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Christian Ponte"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-03-07T16:32:56.121636Z",
+    "updateTime": "2020-03-07T16:32:56.121636Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURzc2Z1UjJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cláudio D\u0027Almeida"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) a true oasis in the desert\n\n(Original)\nverdadeiro oásis no deserto",
+    "createTime": "2020-03-07T15:54:19.134210Z",
+    "updateTime": "2020-03-07T15:54:19.134210Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T22:00:20.354475Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzc1kzWFZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "nancy Quilogran"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-03-06T22:43:51.590725Z",
+    "updateTime": "2020-03-06T22:43:51.590725Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzNGJlc1N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa Weber"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-03-06T19:42:25.511387Z",
+    "updateTime": "2020-03-06T19:42:25.511387Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzNGRhMFFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Seba W"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-03-06T18:33:11.407748Z",
+    "updateTime": "2020-03-06T18:33:11.407748Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzNFl5ZFZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Alarcón"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-03-06T16:56:23.049750Z",
+    "updateTime": "2020-03-06T16:56:23.049750Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURzb2J2N1pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Suarez"
+    },
+    "starRating": "FOUR",
+    "comment": "Precios en Full muy caros!!\n\n(Translated by Google)\nPrices at Full are very expensive!!",
+    "createTime": "2020-03-06T03:31:01.005894Z",
+    "updateTime": "2020-03-06T03:31:01.005894Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURzZ1pHQ3Z3RRAB"
+  }]
+}

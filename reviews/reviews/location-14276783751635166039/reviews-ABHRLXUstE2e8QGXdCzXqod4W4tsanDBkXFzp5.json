@@ -1,0 +1,180 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Sofi Rizzo"
+    },
+    "starRating": "TWO",
+    "createTime": "2020-01-30T10:14:30.166677Z",
+    "updateTime": "2020-01-30T10:14:30.166677Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzLXU2SER3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "O_"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy. Buena atencion\n\n(Translated by Google)\nVery good service.",
+    "createTime": "2020-01-30T04:53:23.656062Z",
+    "updateTime": "2020-01-30T04:53:23.656062Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdXVQOTNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Fabra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-30T00:26:11.235Z",
+    "updateTime": "2020-01-30T00:26:11.235Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdXNLT2ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos F C"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-01-29T17:09:36.196928Z",
+    "updateTime": "2020-01-29T17:09:36.196928Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzMnN6UzB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Gabriel Serrano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-29T13:09:13.875505Z",
+    "updateTime": "2020-01-29T13:09:13.875505Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzbW83d25nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "lucas paz"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-01-29T02:48:24.965011Z",
+    "updateTime": "2020-01-29T02:48:24.965011Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzcXJlTE9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Pinna"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-28T17:08:51.925409Z",
+    "updateTime": "2020-01-28T17:08:51.925409Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzeXNIRFRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ulmip u"
+    },
+    "starRating": "FIVE",
+    "comment": "lindo pueblo\n\n(Translated by Google)\nbeautiful town",
+    "createTime": "2020-01-28T03:56:04.215842Z",
+    "updateTime": "2020-01-28T03:56:04.215842Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOHR6aklREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gimenez Bruno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-27T21:30:19.203994Z",
+    "updateTime": "2020-01-27T21:30:19.203994Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzc3U2TmN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucio Scalzo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-27T18:15:29.618569Z",
+    "updateTime": "2020-01-27T18:15:29.618569Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMHRfcU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos BERMUDEZ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-27T18:05:19.641286Z",
+    "updateTime": "2020-01-27T18:05:19.641286Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzMHMtam1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "juanpablo sepulveda"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buenos empleados, atentos y serviciales, solo falta presencia de un responsable en horas no pico, tipo 21 hrs o 06 de la mañana, que pueda tomar decisiones.\n\n(Translated by Google)\nVery good employees, attentive and helpful. The only thing missing is a manager during off-peak hours, such as 9 p.m. or 6 a.m., who can make decisions.",
+    "createTime": "2020-01-27T17:07:33.733892Z",
+    "updateTime": "2020-01-27T17:07:33.733892Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T01:13:00.233271Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMHVPSE9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Blanco"
+    },
+    "starRating": "TWO",
+    "createTime": "2020-01-27T15:52:16.592837Z",
+    "updateTime": "2020-01-27T15:52:16.592837Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMHJINU5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Nakae"
+    },
+    "starRating": "FIVE",
+    "comment": "exelente lugar y servicio\n\n(Translated by Google)\nexcellent place and service",
+    "createTime": "2020-01-27T05:32:54.313070Z",
+    "updateTime": "2020-01-27T05:32:54.313070Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNHJ2Vjl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susamabel"
+    },
+    "starRating": "FIVE",
+    "comment": "Tiene los servicios necesarios\n\n(Translated by Google)\nIt has the necessary services",
+    "createTime": "2020-01-27T01:21:51.022010Z",
+    "updateTime": "2020-01-27T01:21:51.022010Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzNHNLTldBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Meister"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-26T22:58:29.130498Z",
+    "updateTime": "2020-01-26T22:58:29.130498Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzb3VfdGJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Patricia Castro"
+    },
+    "starRating": "FOUR",
+    "comment": "El limite entre 4 provincias, lindo lugar,  aunque podría mejorar\n\n(Translated by Google)\nThe border between 4 provinces, a nice place, although it could be improved",
+    "createTime": "2020-01-26T15:02:28.465106Z",
+    "updateTime": "2020-01-26T15:02:28.465106Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzd3Y3aXlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Christian Tarelli"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención mejoraría los baños\n\n(Translated by Google)\nGood service would improve the bathrooms",
+    "createTime": "2020-01-26T12:27:25.142229Z",
+    "updateTime": "2020-01-26T12:27:25.142229Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzZ3EtaVhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Pz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención,  entorno natural con el rio al lado y conocimiento del camino por parte de los que atienden los surtidores. _Agradezco  que asesorado convenientemente pude tomar la ruta correcta.\n\n(Translated by Google)\nExcellent service, a beautiful natural setting with the river nearby, and the staff at the gas stations were very knowledgeable about the route. I appreciate that I was able to take the correct route thanks to their helpful advice.",
+    "createTime": "2020-01-21T03:39:54.927958Z",
+    "updateTime": "2020-01-26T02:02:27.832297Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-20T14:21:06.641795Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbU0zVWR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-26T01:38:40.849590Z",
+    "updateTime": "2020-01-26T01:38:40.849590Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzX1B6UTdnRRAB"
+  }]
+}

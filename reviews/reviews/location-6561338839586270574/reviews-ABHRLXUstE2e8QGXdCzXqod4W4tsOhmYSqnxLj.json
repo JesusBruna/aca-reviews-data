@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Gaston Reyes"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-08-07T16:30:17.467568Z",
+    "updateTime": "2020-08-07T16:30:17.467568Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDa0ltVU1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "JOSE Vazquez"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien ubicado\n\n(Translated by Google)\nWell located",
+    "createTime": "2020-08-06T13:03:48.763186Z",
+    "updateTime": "2020-08-06T13:03:48.763186Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDd0pEUFNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Garugatti"
+    },
+    "starRating": "FIVE",
+    "comment": "Paso muy frecuentemente. Pero en este caso fue para inflar una rueda\n\n(Translated by Google)\nI do it very often. But in this case, it was to inflate a tire.",
+    "createTime": "2020-08-03T13:51:41.458104Z",
+    "updateTime": "2020-08-03T13:51:41.458104Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChRDSUhNMG9nS0VJQ0FnSUQ4ajZGSxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Leiva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-26T23:05:30.429513Z",
+    "updateTime": "2020-07-26T23:05:30.429513Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4X2NEOGFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter rojas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-26T01:17:15.624017Z",
+    "updateTime": "2020-07-26T01:17:15.624017Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4bmJyTml3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Leonardo Sayago"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención gracias por todo Saludos Oscar\n\n(Translated by Google)\nExcellent service, thank you for everything. Regards, Oscar",
+    "createTime": "2020-07-23T01:15:20.762725Z",
+    "updateTime": "2020-07-23T01:15:20.762725Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4NWY2d0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Escobar"
+    },
+    "starRating": "FIVE",
+    "comment": "Como toda estación YPF.\nTodo muy ordenado, los empleados siempre cordiales y eficientes\n\n(Translated by Google)\nLike any YPF station.\nEverything is very organized, and the employees are always friendly and efficient.",
+    "createTime": "2020-07-22T16:21:22.638355Z",
+    "updateTime": "2020-07-22T16:22:15.831668Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ4cGJUVTR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando “Pinguino” Ferraro"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion y servicios\n\n(Translated by Google)\nGood service and attention",
+    "createTime": "2020-07-17T20:19:59.099075Z",
+    "updateTime": "2020-07-17T20:19:59.099075Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4LVBXcFVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximo Romero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-07-17T20:00:53.388435Z",
+    "updateTime": "2020-07-17T20:00:53.388435Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4dU12dmZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucia Sivori"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-07-15T01:44:58.357888Z",
+    "updateTime": "2020-07-15T01:44:58.357888Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4cS1UVkNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "CRISTIAN LOPEZ"
+    },
+    "starRating": "TWO",
+    "createTime": "2020-07-07T21:56:42.333907Z",
+    "updateTime": "2020-07-07T21:56:42.333907Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4dnJybkV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Cacerez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-06-29T22:42:17.720123Z",
+    "updateTime": "2020-06-29T22:42:17.720123Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4MHVxNDVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrés"
+    },
+    "starRating": "FIVE",
+    "comment": "En no el mejor lugar pero siempre la mejor atención.\n\n(Translated by Google)\nNot the best location, but always the best service.",
+    "createTime": "2020-06-22T12:36:56.725970Z",
+    "updateTime": "2020-06-22T12:36:56.725970Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4OExIR05REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Morello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-06-16T16:04:57.910241Z",
+    "updateTime": "2020-06-16T16:04:57.910241Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSURjdGJmakZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Aleejes"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien atendido por los playeros\n\n(Translated by Google)\nExcellent service from the beach attendants",
+    "createTime": "2020-06-05T01:19:11.346818Z",
+    "updateTime": "2020-06-05T01:19:25.122086Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURjeW9Tdnd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Mizrahi"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo\n\n(Translated by Google)\nNice",
+    "createTime": "2020-06-03T21:54:08.703448Z",
+    "updateTime": "2020-06-03T21:54:08.703448Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURjc3R2YmdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "cristian torres"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-06-01T21:54:26.165118Z",
+    "updateTime": "2020-06-01T21:54:26.165118Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURjb3JmY2x3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Morana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-05-31T04:13:02.829644Z",
+    "updateTime": "2020-05-31T04:13:02.829644Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURjX05YenJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Palavecino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-05-27T16:29:02.455413Z",
+    "updateTime": "2020-05-27T16:29:02.455413Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSURjaktfWGRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Litwinow"
+    },
+    "starRating": "TWO",
+    "comment": "Un solo playero, se hace muuuy lento\n\n(Translated by Google)\nJust one beachgoer, it gets really slow",
+    "createTime": "2020-05-23T19:59:22.300747Z",
+    "updateTime": "2020-05-23T19:59:22.300747Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURjeEtlYTVRRRAB"
+  }]
+}

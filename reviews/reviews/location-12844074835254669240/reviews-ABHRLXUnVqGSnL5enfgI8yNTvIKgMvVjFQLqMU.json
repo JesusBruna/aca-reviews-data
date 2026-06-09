@@ -1,0 +1,183 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Alicia Esquercia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-02T03:34:02.990483Z",
+    "updateTime": "2022-12-02T03:34:02.990483Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQta1lUcFZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Troncoso"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio.\nBuena atención.\n\n(Translated by Google)\nGood service.\nGood customer service.",
+    "createTime": "2022-12-01T20:47:17.626443Z",
+    "updateTime": "2022-12-01T20:47:17.626443Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNGNDR1F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Aquino Britos"
+    },
+    "starRating": "THREE",
+    "comment": "Mucha demora en la atención al público. En la carga de combustible.\n\n(Translated by Google)\nLong delays in customer service. Fueling up.",
+    "createTime": "2022-11-27T16:15:52.723624Z",
+    "updateTime": "2022-11-27T16:15:52.723624Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtMnNmcGJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Martino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-25T12:15:56.033147Z",
+    "updateTime": "2022-11-25T12:15:56.033147Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNHUtQkF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "jose fernando solis"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-20T10:11:00.133009Z",
+    "updateTime": "2022-11-20T10:11:00.133009Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtNlBuTDJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "los abuelos andariegos2 (losabuelosandariegos2)"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar para descansar, desayunar, excelente baños muy limpio podes almorzar o cenar como también desayunar o merendar\n\n(Translated by Google)\nExcellent place to rest, have breakfast, excellent bathrooms, very clean, you can have lunch or dinner as well as breakfast or a snack",
+    "createTime": "2022-11-11T19:58:57.584524Z",
+    "updateTime": "2022-11-11T19:58:58.056995Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtZzltcjl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Brian Souza Rey"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-10T02:17:57.660033Z",
+    "updateTime": "2022-11-10T02:17:57.660033Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtOWJ1d293RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pancho Pujol"
+    },
+    "starRating": "FIVE",
+    "comment": "Atendido por personas muy cordiales.\n\n(Translated by Google)\nServed by very friendly people.",
+    "createTime": "2022-11-09T21:56:22.002472Z",
+    "updateTime": "2022-11-09T21:56:22.002472Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Pancho, gracias por la calificación. Se lo hacemos extensivo a todo el personal.\nGracias por visitarnos. ",
+      "updateTime": "2022-11-09T22:31:31.507569Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtOVpURnFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Aguirrez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-09T03:45:46.632724Z",
+    "updateTime": "2022-11-09T03:45:46.632724Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtNWJTSlhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonel vazquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-07T05:57:54.617624Z",
+    "updateTime": "2022-11-07T05:57:54.617624Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtaVlQUzJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica dick"
+    },
+    "starRating": "THREE",
+    "comment": "era sabado y la recarga de combustible se demoro mas de la cuenta, quizas deberian tener dos empleados mas\n\n(Translated by Google)\nIt was Saturday and the refueling took longer than usual; perhaps they should have two more employees.",
+    "createTime": "2022-11-06T02:57:01.636546Z",
+    "updateTime": "2022-11-06T02:57:01.636546Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtb2VlSDV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Sanchez"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre la mejor atención..\n\n(Translated by Google)\nAlways the best service..",
+    "createTime": "2022-11-05T16:35:07.759049Z",
+    "updateTime": "2022-11-05T16:35:07.759049Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtZ1kzTDFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norma beatriz Cuaranta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-25T13:21:09.532990Z",
+    "updateTime": "2022-10-25T13:21:09.532990Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtOE42d0ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "-. .santos Abel Torres"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-20T10:17:12.240599Z",
+    "updateTime": "2022-10-20T10:17:12.240599Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURlMjc3aXRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "pehuen fernandez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-10-15T15:28:08.513916Z",
+    "updateTime": "2022-10-15T15:28:08.513916Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChRDSUhNMG9nS0VJQ0FnSURlbGVKcBAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Alberto López"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de todo su personal,de tanto cargar en esa estación de servicio ya parecemos familiares 👍👍👍🇦🇷🇦🇷🇦🇷\n\n(Translated by Google)\nVery good service from all the staff, after filling up at that gas station so much we already seem like family 👍👍👍🇦🇷🇦🇷🇦🇷",
+    "createTime": "2022-10-12T22:10:48.573020Z",
+    "updateTime": "2022-10-12T22:10:48.573020Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURlc2FISHh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rocio Medina"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encantó\nrecomendable\nHasta el Hotel\n\n(Translated by Google)\nI loved it. Highly recommended. Even the hotel.",
+    "createTime": "2022-10-12T19:01:35.374018Z",
+    "updateTime": "2022-10-12T19:01:35.374018Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURlMGV2MjBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolás Suárez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-10-11T05:15:07.085450Z",
+    "updateTime": "2022-10-11T05:15:07.085450Z",
+    "reviewReply": {
+      "comment": "Buen día Nicolas. Gracias por tu valoración. Esperamos que la próxima visita sea mejor. Muchas gracias",
+      "updateTime": "2022-10-11T11:35:32.620043Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURlbm9PNFdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Dezzutto"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-10T14:09:04.764947Z",
+    "updateTime": "2022-10-10T14:09:04.764947Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURlenVIdG13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marta Silvera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-01T19:43:25.510499Z",
+    "updateTime": "2022-10-01T19:43:25.510499Z",
+    "reviewReply": {
+      "comment": "Buenos días Marta. Gracias por tu valoración.\nTe esperamos nuevamente.",
+      "updateTime": "2022-10-02T12:49:24.088198Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURlLUlUQ0l3EAE"
+  }]
+}

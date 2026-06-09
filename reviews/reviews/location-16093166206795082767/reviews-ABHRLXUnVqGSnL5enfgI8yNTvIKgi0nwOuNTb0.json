@@ -1,0 +1,195 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Guillermina Bosch"
+    },
+    "starRating": "FIVE",
+    "comment": "EXCENTE ATENCION\n\n(Translated by Google)\nEXCELLENT SERVICE",
+    "createTime": "2026-01-05T19:01:53.898117Z",
+    "updateTime": "2026-04-15T11:51:36.548146Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario y lo esperamos nuevamente ",
+      "updateTime": "2026-02-14T18:12:54.919154Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNMlFtSTJRWEpMUkhWZllrZGFMVzFLZVZORmVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Melina Amparo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio,buena cafetería, ensaimadas riquísimas\nSolo falta modernizarla un poco pero está bien\n\n(Translated by Google)\nGood service, nice café, delicious ensaimadas. It just needs a little modernization, but it\u0027s good.",
+    "createTime": "2026-04-15T10:22:21.325871Z",
+    "updateTime": "2026-04-15T10:22:21.325871Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOR1JuWmtibGxWZEVObFR6ZG9TMUZpTUMxTmVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "gustavojunkers@gmail.com AB454HG"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-04-14T04:46:56.637149Z",
+    "updateTime": "2026-04-14T04:46:56.637149Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFM05XUjNTMnd6WVdoS1MzTXRhRWg0WkRCWVFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "daniel ge"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-04-13T13:01:42.562630Z",
+    "updateTime": "2026-04-13T13:01:42.562630Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bmFVcG5Yekp4TFhaR1NWVTNhbmc1V0hSVVpHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorgelina Labarta"
+    },
+    "starRating": "FIVE",
+    "comment": "Bien atendido, muy organizado\n\n(Translated by Google)\nExcellent service, very organized",
+    "createTime": "2026-04-11T11:33:25.577272Z",
+    "updateTime": "2026-04-11T11:33:25.577272Z",
+    "reviewReply": {
+      "comment": "Gracias porntu comentario ",
+      "updateTime": "2026-04-12T14:10:54.902997Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wbmRuZEVVelZ0WkVaRlUwUkhkMWd4VFRCRmExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Ottati"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-04-10T13:09:37.024278Z",
+    "updateTime": "2026-04-10T13:09:37.024278Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xVUxVcGhhWFpRVFZsdFRGZHdjalpzUjFoYWQzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Rodríguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-04-08T07:31:38.242224Z",
+    "updateTime": "2026-04-08T07:31:38.242224Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaQlYyUkxkelpKV1VkNFptNW1lV1pJWDNWdmNGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Fernández"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-04-02T23:32:17.934027Z",
+    "updateTime": "2026-04-02T23:32:17.934027Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNeFpqVTFOa3h6Ym1KS1VXRlpNbEZHWW5KSFpHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Zapata"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar, lo. Mejor la comida y precios. Mi parada obligada\n\n(Translated by Google)\nGreat place. The food and prices are the best. A must-visit for me.",
+    "createTime": "2026-04-02T22:08:20.139094Z",
+    "updateTime": "2026-04-02T22:08:20.139094Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5aVEzQnJhSE50WW5kRWMyVmpPRzQxYkdZNFQyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Canaparo"
+    },
+    "starRating": "FIVE",
+    "comment": "Parada obligada cuando voy a Rosario o vuelvo. Siempre limpio y con muy buen servicio\n\n(Translated by Google)\nA must-stop when I go to or from Rosario. Always clean and with excellent service.",
+    "createTime": "2026-04-01T00:17:14.069862Z",
+    "updateTime": "2026-04-01T00:17:14.069862Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCQ00zUTNWSGMxTldoSmFtMXpiRFF5YW5aU1MzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "carlos Fernandez"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-03-31T00:40:35.281761Z",
+    "updateTime": "2026-03-31T00:40:35.281761Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTlgwMXNiRzlqVW1FeFYyVm5XVlV0U205SmJsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Almada"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-30T21:25:49.576168Z",
+    "updateTime": "2026-03-30T21:25:49.576168Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paSlFWaHZRVXRTZGxkeFRFbEZhVTV2ZEUxVFJFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "PEDRO L. PANTUSO"
+    },
+    "starRating": "FOUR",
+    "comment": "Típica estación de servicio en ruta.\nBuenos servicios. ACA.\n\n(Translated by Google)\nTypical roadside service station.\nGood service. ACA.",
+    "createTime": "2022-03-15T13:34:18.147651Z",
+    "updateTime": "2026-03-30T18:41:22.124180Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURXeEtqWlJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Montiel"
+    },
+    "starRating": "FIVE",
+    "comment": "Un clásico. Rico café, baños limpios, excelente atención tanto en el Playón como en el bar\n\n(Translated by Google)\nA classic. Great coffee, clean restrooms, excellent service both in the restaurant and the bar.",
+    "createTime": "2020-12-10T00:59:12.039920Z",
+    "updateTime": "2026-03-29T19:19:35.817310Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURpcGRqbm5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea B"
+    },
+    "starRating": "FIVE",
+    "comment": "Nunca defrauda\n\n(Translated by Google)\nIt never disappoints",
+    "createTime": "2026-03-29T13:08:09.137773Z",
+    "updateTime": "2026-03-29T13:08:09.137773Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsTUxWbGlWbkZ5UVdGaVpXZE1kWFEzZDB0a1ZYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Benitez"
+    },
+    "starRating": "FIVE",
+    "comment": "Hola buenas noches, estoy proyectando un viaje y quiero saber si cuenta con Gas, para cargar?\n\n(Translated by Google)\nHello, good evening. I\u0027m planning a trip and would like to know if you have gas available for refueling?",
+    "createTime": "2026-03-29T01:06:20.413943Z",
+    "updateTime": "2026-03-29T01:06:20.413943Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xaWNUSjFRVTlsYTBWdVpFRjFZbXhFWkZwM1RGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria zuñiga"
+    },
+    "starRating": "FIVE",
+    "comment": "Personal muy amable, y muy correcto todo. La comida está muy bien, todo muy limpio (especialmente destacable los baños!) y luminoso. Da gusto así. Recomendable !\n\n(Translated by Google)\nVery friendly staff, and everything was perfect. The food is very good, everything is very clean (especially the bathrooms!) and bright. It\u0027s a pleasure to be here. Highly recommended!",
+    "createTime": "2026-03-27T17:08:00.887782Z",
+    "updateTime": "2026-03-27T17:17:37.785477Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taYWRXWkxNVEZPUWw5VVIxQXpSMUl3Ym5GRGRrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Allegrone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-03-25T15:50:38.236045Z",
+    "updateTime": "2026-03-25T15:50:38.236045Z",
+    "reviewReply": {
+      "comment": ".",
+      "updateTime": "2026-03-25T17:51:07.960356Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OTGEyZGZaVzR5VUhOWWJVWmxZVWhmVmtWNGJHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Sobré"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-03-25T11:56:52.022810Z",
+    "updateTime": "2026-03-25T11:56:52.022810Z",
+    "reviewReply": {
+      "comment": ".",
+      "updateTime": "2026-03-25T17:51:16.965557Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxa2FHd3RhREJTU213NE1HWnNkMVJuU3pKME1XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Rubicondi"
+    },
+    "starRating": "FIVE",
+    "comment": "Parada obligada!\n\n(Translated by Google)\nA must-see!",
+    "createTime": "2026-03-24T00:45:20.836634Z",
+    "updateTime": "2026-03-24T00:45:20.836634Z",
+    "reviewReply": {
+      "comment": ".",
+      "updateTime": "2026-03-25T17:51:21.429240Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOa1NGVndUM2xPU2pOWlFXNXdNa2xoZWkxbWJIYxAB"
+  }]
+}

@@ -1,0 +1,200 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "FABIAN BLAS"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\nMuy bien equipada\nMuy bien ubicada\n\n(Translated by Google)\nExcellent service\nVery well equipped\nVery well located",
+    "createTime": "2023-01-23T14:22:12.157857Z",
+    "updateTime": "2023-01-23T14:22:12.157857Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbWF1X3V3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Nicolás Pont"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo muy bien, es una muy buena estación.  Lo que sí, si están en camino para La Pampa, cargar lo necesario porque la nafta allá es mucho más barata. Aprox, 30 o 35 pesos de diferencia menos la Infinia... Mejor cargar en La Pampa por Santa Rosa o Gral. Acha.\n\n(Translated by Google)\nEverything\u0027s great, it\u0027s a really good station. However, if you\u0027re heading to La Pampa, fill up as needed because gas is much cheaper there. About 30 or 35 pesos less for Infinia... It\u0027s better to fill up in La Pampa near Santa Rosa or General Acha.",
+    "createTime": "2023-01-22T02:33:30.339803Z",
+    "updateTime": "2023-01-22T02:33:30.339803Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMGVtUTlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Melisa Alberti"
+    },
+    "starRating": "TWO",
+    "comment": "Fui ayer en el cambio de turno del mediodia y una de las empleadas atendió muy mal. Se nota que les molesta que le pidan opciones veggies (y ya es la segunda vez que sucede) El muchacho muy amable.\n\n(Translated by Google)\nI went yesterday during the lunch shift change and one of the employees was very rude. It\u0027s clear they get annoyed when people ask for vegetarian options (and this is the second time it\u0027s happened). The young man was very friendly.",
+    "createTime": "2023-01-20T00:21:32.342395Z",
+    "updateTime": "2023-01-20T00:21:32.342395Z",
+    "reviewReply": {
+      "comment": "Hola Melisa, lamentamos mucho lo sucedido y te agradecemos por comentarlo. vamos a tenerlo en cuenta para darte una mejor atención. saludos y te esperamos de nuevo. ",
+      "updateTime": "2023-01-22T06:09:25.137132Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSURCN3NxMW93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Eduardo Alvarez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bien cuidada con servicios\n\n(Translated by Google)\nVery well maintained with amenities",
+    "createTime": "2023-01-18T15:11:47.679451Z",
+    "updateTime": "2023-01-18T15:11:47.679451Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSURCNXRfX1Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "silvina galetto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-18T12:12:15.068999Z",
+    "updateTime": "2023-01-18T12:12:15.068999Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSURCNW96V3dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Clara Diaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-15T22:59:37.735294Z",
+    "updateTime": "2023-01-15T22:59:37.735294Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSURCc3FxNnJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fernanda analia polizzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-14T19:01:05.139014Z",
+    "updateTime": "2023-01-14T19:01:05.139014Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSURCZ3FYZzZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gabriel galina"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-01-14T16:41:18.377211Z",
+    "updateTime": "2023-01-14T16:41:18.377211Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSURCZ3VpbkhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Zarate"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, sanitarios funcionando y en buen estado. Tiene un parque con mesas y bancos para descansar.\n\n(Translated by Google)\nExcellent service, restrooms are functional and in good condition. There\u0027s a park with tables and benches for relaxing.",
+    "createTime": "2023-01-13T14:08:44.690761Z",
+    "updateTime": "2023-01-13T14:10:51.645837Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSURCckpic0NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lautaro Fernandez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-11T11:00:27.497779Z",
+    "updateTime": "2023-01-11T11:00:27.497779Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSURCLU15Y2VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eleonora Peters"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención, buenas hamburguesas y desayunos con promociones, buenos baños y muy buena atención también de los playeros, hay lugar para descanso del camino.\n\n(Translated by Google)\nExcellent service, great burgers and breakfast specials, good restrooms and great service from the beach attendants, there\u0027s a place to rest after your journey.",
+    "createTime": "2023-01-09T20:13:21.614509Z",
+    "updateTime": "2023-01-09T20:14:27.100530Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMExQdG5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pata"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de todas las chicas, super limpio todo.\n\n(Translated by Google)\nExcellent service from all the girls, everything super clean.",
+    "createTime": "2023-01-04T12:06:41.236397Z",
+    "updateTime": "2023-01-04T12:06:41.236397Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCeTZpSmNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela rosana Zalazar"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-01-03T11:13:52.610843Z",
+    "updateTime": "2023-01-03T11:13:52.610843Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCNDRxenNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Herman Sperani"
+    },
+    "starRating": "FIVE",
+    "comment": "Anoche cenamos ya hoy 00:30 muy limpio muy buena predisposición de la persona que atendía...felicitaciones ...las estaciones ypf se caracterizan por tener empleados tipo k\n\n(Translated by Google)\nWe had dinner there last night and today at 00:30. Very clean, the person serving was very helpful...congratulations...YPF stations are known for having great employees.",
+    "createTime": "2022-12-22T17:19:54.101268Z",
+    "updateTime": "2022-12-22T17:19:54.101268Z",
+    "reviewReply": {
+      "comment": "Hola Herman. te agradecemos el comentario, y te esperamos nuevamente. abrazos",
+      "updateTime": "2023-01-03T06:23:33.186421Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCbXN6UVVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-12T22:32:07.774384Z",
+    "updateTime": "2022-12-12T22:32:07.774384Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcjZuM3hRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Magdalena Forti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-11T01:39:44.465220Z",
+    "updateTime": "2022-12-11T01:39:44.465220Z",
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaDRiQ0x3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "hector gerardo Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención. En tu viaje para y descansa mientras disfrutas de la muy buena atención.\n\n(Translated by Google)\nExcellent service. Stop and relax during your trip while enjoying the very good service.",
+    "createTime": "2022-12-09T12:36:45.515137Z",
+    "updateTime": "2022-12-09T12:36:45.515137Z",
+    "reviewReply": {
+      "comment": "Hola Hector, te agradecemos el comentario y te esperamos nuevamente. abrazos",
+      "updateTime": "2022-12-10T13:29:55.071864Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaThtbkdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Rolando"
+    },
+    "starRating": "FOUR",
+    "comment": "Moderna como todas las de la franquicia. Poco lugar para estacionar, dada lagran cantidad de vehículos en el lugar, a la hora en que pasé.\n\n(Translated by Google)\nModern like all the franchises. There was little parking, given the large number of vehicles there at the time I passed by.",
+    "createTime": "2022-12-07T17:44:32.474213Z",
+    "updateTime": "2022-12-07T17:44:32.474213Z",
+    "reviewReply": {
+      "comment": "Hola Sergio como estas? muchas gracias por tu comentario, vamos a tener en cuenta lo que decís, te esperamos nuevamente. abrazos",
+      "updateTime": "2022-12-10T13:32:31.047538Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtX2R2aDBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "R T"
+    },
+    "starRating": "ONE",
+    "comment": "Muy disconforme tanto como con el producto como con la atencion.\nLa atencion es lenta y desinteresada.\nLas hamburguesas son diminutas.\n\n(Translated by Google)\nVery dissatisfied with both the product and the service.\nThe service is slow and uninterested.\nThe hamburgers are tiny.",
+    "createTime": "2022-12-07T16:20:38.216425Z",
+    "updateTime": "2022-12-07T16:22:25.747481Z",
+    "reviewReply": {
+      "comment": "Hola R T, lamentamos mucho que hayas tenido una experiencia desagradable, te esperamos nuevamente para que te sientas mas a gusto. saludos",
+      "updateTime": "2022-12-10T13:33:42.459506Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtX2E2c1pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Martin Sanchez Stagnaro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-04T13:59:08.192722Z",
+    "updateTime": "2022-12-04T13:59:08.192722Z",
+    "reviewReply": {
+      "comment": "Hola Guillermo, agradecemos tu calificación, y te esperamos nuevamente",
+      "updateTime": "2022-12-10T13:35:00.396262Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtLWVQVDZnRRAB"
+  }]
+}

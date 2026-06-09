@@ -1,0 +1,181 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ana Maria Mediavilla"
+    },
+    "starRating": "FIVE",
+    "comment": "buena Atención\n\n(Translated by Google)\ngood service",
+    "createTime": "2023-02-02T16:20:03.347626Z",
+    "updateTime": "2023-02-02T16:20:03.347626Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoNElDeU5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Guelfo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-02-02T00:28:21.839788Z",
+    "updateTime": "2023-02-02T00:28:21.839788Z",
+    "reviewReply": {
+      "comment": "Gracias Daniel, estamos para lo que necesite.",
+      "updateTime": "2023-08-16T12:19:26.206100Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCXzZuY3h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Diaz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-01T23:22:06.040714Z",
+    "updateTime": "2023-02-01T23:22:06.040714Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCXzVhNXJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nacho Deejay"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre de 10\n\n(Translated by Google)\nAlways 10",
+    "createTime": "2023-02-01T20:40:41.252496Z",
+    "updateTime": "2023-02-01T20:40:41.252496Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdjVmMUpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "German Quiroga"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-02-01T16:00:01.255964Z",
+    "updateTime": "2023-02-01T16:00:01.255964Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMzRQV2JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "gustavo miguel jaureguy"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-01T04:04:40.160904Z",
+    "updateTime": "2023-02-01T04:04:40.160904Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCNzdDMlVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rogelio Carfagno"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien organizado para cargar en las dársenas no se pierde mucho tiempo\n\n(Translated by Google)\nWell organized for loading at the docks, not much time is lost.",
+    "createTime": "2023-02-01T01:01:48.632308Z",
+    "updateTime": "2023-02-01T01:01:48.632308Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCci1HY2VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea De Angelis"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio. Baños limpios\n\n(Translated by Google)\nGood service. Clean bathrooms.",
+    "createTime": "2023-01-31T23:35:48.659794Z",
+    "updateTime": "2023-01-31T23:35:48.659794Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCcjVMYnVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Gustavo Perez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención , baños limpios\n\n(Translated by Google)\nGood service, clean bathrooms",
+    "createTime": "2023-01-31T18:26:29.029908Z",
+    "updateTime": "2023-01-31T18:26:29.029908Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCejZTeUVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Ramos"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-01-31T03:50:17.042729Z",
+    "updateTime": "2023-01-31T03:50:17.042729Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMS1TYkVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ezequiel veneziano"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor\n\n(Translated by Google)\nThe best",
+    "createTime": "2023-01-31T02:35:54.131212Z",
+    "updateTime": "2023-01-31T02:35:54.131212Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbDhfdjJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miriam Caudullo"
+    },
+    "starRating": "FIVE",
+    "comment": "Me atendieron muy bien.  Solucionaron mi problema y rápidamente. Siempre estuvieron en contacto conmigo para informar novedades.\n\n(Translated by Google)\nThey treated me very well. They solved my problem quickly. They were always in contact with me to keep me updated.",
+    "createTime": "2023-01-31T02:12:30.870646Z",
+    "updateTime": "2023-01-31T02:13:02.983464Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbDZlNDlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maurizio Giusto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-30T23:09:21.875720Z",
+    "updateTime": "2023-01-30T23:09:21.875720Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCbDliNFRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian G Recalde"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2023-01-30T22:24:44.918225Z",
+    "updateTime": "2023-01-30T22:24:44.918225Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbDVMOWx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "walter avila"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-01-30T01:40:48.266780Z",
+    "updateTime": "2023-01-30T01:40:48.266780Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCLThISnl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Pérez Rey"
+    },
+    "starRating": "THREE",
+    "comment": "no sé actualiza\n\n(Translated by Google)\nI don\u0027t know how to update",
+    "createTime": "2023-01-29T21:09:49.587949Z",
+    "updateTime": "2023-01-29T21:09:49.587949Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdTZtR1VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Cirmi"
+    },
+    "starRating": "TWO",
+    "comment": "Quedada en el tiempo, cada vez que he pasado no tienen sistema para cargar serviclub y el agua para el mate pese a llenar tanque te la cobran\n\n(Translated by Google)\nStuck in the past, every time I\u0027ve gone there\u0027s no system to recharge my Serviclub card and they still charge me for the water for mate even after filling the tank",
+    "createTime": "2023-01-29T04:06:18.242467Z",
+    "updateTime": "2023-01-29T04:06:18.242467Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcTR1cEFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fede Varta"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-28T21:54:14.155241Z",
+    "updateTime": "2023-01-28T21:54:14.155241Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCeTRPVDRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Gutierrez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-28T21:09:12.825352Z",
+    "updateTime": "2023-01-28T21:09:12.825352Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURCeTdtby1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliana Vargas"
+    },
+    "starRating": "FOUR",
+    "comment": "Super !!",
+    "createTime": "2023-01-27T21:50:09.652229Z",
+    "updateTime": "2023-01-27T21:50:09.652229Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURCazczbldREAE"
+  }]
+}

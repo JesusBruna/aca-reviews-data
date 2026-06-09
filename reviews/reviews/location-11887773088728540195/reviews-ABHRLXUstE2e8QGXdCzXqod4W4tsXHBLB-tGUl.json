@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "esteban rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-24T14:13:21.823064Z",
+    "updateTime": "2022-06-24T14:13:21.823064Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSURPd1BhZ1ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Daniel Alonso"
+    },
+    "starRating": "THREE",
+    "comment": "Falla siempre la aplicación\n\n(Translated by Google)\nThe application always crashes.",
+    "createTime": "2022-06-22T15:40:57.860884Z",
+    "updateTime": "2022-06-22T15:40:57.860884Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPOTc3SjlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MARIA GABRIELA PAREDES"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-22T14:53:27.960228Z",
+    "updateTime": "2022-06-22T14:53:27.960228Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPOTR6WjhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabio Ruslari"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-22T13:30:29.884378Z",
+    "updateTime": "2022-06-22T13:30:29.884378Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdDdPeC1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Bernardotti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-22T02:47:09.384385Z",
+    "updateTime": "2022-06-22T02:47:09.384385Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPbDZYdUVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Celeste Fama"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre la mejor atención de todos los empleados. Lo super recomiendo!\n\n(Translated by Google)\nAlways the best service from all the employees. I highly recommend it!",
+    "createTime": "2022-06-20T23:01:43.195639Z",
+    "updateTime": "2022-06-20T23:01:43.195639Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPdTRPYlJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Maranzano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención en el Full\nPrecios por encima de la media.\n\n(Translated by Google)\nGood service at Full\nPrices above average.",
+    "createTime": "2022-06-20T20:24:20.775505Z",
+    "updateTime": "2022-06-20T20:24:20.775505Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPdTVMUkV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ardusso Cristian"
+    },
+    "starRating": "FOUR",
+    "comment": "Clásica estación de servicio de la empresa nacional YPF, con soporte ,asistencia o asociada al A.C.A. ( AUTOMÓVIL CLUB ARGENTINO) con beneficios especiales y adicionales para los socios del mismo. Se pueden combinar con las promociones que tienen los socios YPF serviclub ( programa de puntos y beneficios de YPF) . Buena atención y limpieza de las instalaciones\n\n(Translated by Google)\nA classic YPF service station, affiliated with the Argentine Automobile Club (ACA), offering special benefits and additional perks to its members. These can be combined with YPF Serviclub member promotions (YPF\u0027s points and benefits program). Good service and clean facilities.",
+    "createTime": "2022-06-20T19:33:14.413431Z",
+    "updateTime": "2022-06-20T19:33:14.413431Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPdTVpbFdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio De Nastchokine"
+    },
+    "starRating": "TWO",
+    "comment": "El full no está abierto las 24 hs\n\n(Translated by Google)\nThe full is not open 24 hours",
+    "createTime": "2022-06-20T13:18:21.803676Z",
+    "updateTime": "2022-06-20T13:18:21.803676Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPbTU3cWpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Silva"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-06-18T22:32:20.406198Z",
+    "updateTime": "2022-06-18T22:32:20.406198Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPay11RUdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio López Bautis"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-17T21:53:53.538024Z",
+    "updateTime": "2022-06-17T21:53:53.538024Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPZzlqc29BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Ferreyra"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2022-06-16T01:45:13.296288Z",
+    "updateTime": "2022-06-16T01:45:13.296288Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdGZPSXFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Cirrillodelvo"
+    },
+    "starRating": "FIVE",
+    "comment": "Fenomenal\n\n(Translated by Google)\nPhenomenal",
+    "createTime": "2022-06-15T01:08:46.911333Z",
+    "updateTime": "2022-06-15T01:08:46.911333Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPeGNmQW93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Piccione"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente, como siempre\n\n(Translated by Google)\nExcellent, as always.",
+    "createTime": "2022-06-14T22:44:44.824436Z",
+    "updateTime": "2022-06-14T22:44:44.824436Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPeFpIT21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Garcia"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-11T18:38:47.897066Z",
+    "updateTime": "2022-06-11T18:38:47.897066Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPd1lEeUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Puccia"
+    },
+    "starRating": "ONE",
+    "comment": "Mala atención !! Lentos para atender y no dan ningún servicios  extras mirar aceite limpieza de vidrios .........\n\n(Translated by Google)\nTerrible service! Slow to respond and they don\u0027t offer any extra services like oil changes or window cleaning...",
+    "createTime": "2022-06-11T17:24:19.822286Z",
+    "updateTime": "2022-06-11T17:24:19.822286Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPZ1oycndBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Regi Peñalva"
+    },
+    "starRating": "FIVE",
+    "comment": "Amplia estacion de servicio. Buen servicio\n\n(Translated by Google)\nSpacious service station. Good service.",
+    "createTime": "2022-06-10T14:47:20.627044Z",
+    "updateTime": "2022-06-10T14:47:20.627044Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPN3NxWm9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daiana Iraola"
+    },
+    "starRating": "FIVE",
+    "comment": "Gestión rápida y sin complicaciones.\nSi pagas la asociación ahí o en otra oficina del ACA te dan la credencial física en el momento. Es algo que no te aclaran (deberían proque está buenísimo) cuando te asocias por teléfono, si elegís pagar online (que tiene más demora en impactar) o en pago fácil, solo tendrás la credencial digital.\n\n(Translated by Google)\nQuick and hassle-free processing.\nIf you pay your membership fee there or at another ACA office, they\u0027ll give you the physical ID card immediately. This isn\u0027t explained (they should because it\u0027s great) when you join by phone: if you choose to pay online (which takes longer to process) or with EasyPay, you\u0027ll only receive the digital ID card.",
+    "createTime": "2022-06-10T13:47:54.848958Z",
+    "updateTime": "2022-06-10T13:47:54.848958Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPcnFmN1FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Villalba"
+    },
+    "starRating": "FOUR",
+    "comment": "Rapidez y profesionalidad\n\n(Translated by Google)\nSpeed ​​and professionalism",
+    "createTime": "2022-06-09T02:19:14.053721Z",
+    "updateTime": "2022-06-09T02:19:14.053721Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPbHNEZkxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Pizzoni"
+    },
+    "starRating": "FIVE",
+    "comment": "En general\n\n(Translated by Google)\nIn general",
+    "createTime": "2022-06-07T15:28:00.562679Z",
+    "updateTime": "2022-06-07T15:28:00.562679Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPMnFTM0d3EAE"
+  }]
+}

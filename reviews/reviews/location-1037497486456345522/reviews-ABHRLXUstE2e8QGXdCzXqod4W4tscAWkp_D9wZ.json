@@ -1,0 +1,250 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mariana Anaya"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-14T10:41:41.699207Z",
+    "updateTime": "2022-11-14T10:41:41.699207Z",
+    "reviewReply": {
+      "comment": "Hola Mariana! gracias por calificarnos, Saludos!",
+      "updateTime": "2022-11-18T14:01:46.117387Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtbTdQWHdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Araziel Quintana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-14T03:56:11.924752Z",
+    "updateTime": "2022-11-14T03:56:11.924752Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtNjdHSzBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonel Bustamante"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-13T19:09:54.831459Z",
+    "updateTime": "2022-11-13T19:09:54.831459Z",
+    "reviewReply": {
+      "comment": "Grande Leonel! saludos!",
+      "updateTime": "2022-11-18T14:02:03.585978Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtcTdpRFB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "German Otamendi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-13T11:31:06.730153Z",
+    "updateTime": "2022-11-13T11:31:06.730153Z",
+    "reviewReply": {
+      "comment": "Hola German, gracias por elegirnos. Saludos!",
+      "updateTime": "2022-11-18T14:02:35.126712Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtaV9LMmF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gato Luna"
+    },
+    "starRating": "TWO",
+    "comment": "La comida no estaba bien hecha.\nSupongo que estaba aprendiendo...\nLas papas estaban congeladas en plato\n\n(Translated by Google)\nThe food wasn\u0027t cooked properly.\n\nI guess I was still learning... The potatoes were frozen on the plate.",
+    "createTime": "2022-11-12T23:33:19.134057Z",
+    "updateTime": "2022-11-12T23:33:19.134057Z",
+    "reviewReply": {
+      "comment": "Hola Gato! Le comento que todos las comidas al plato que ofrecemos en las tiendas full vienen congeladas y a veces con el tiempo de microondas establecido por nuestro proveedor Grandwich las comidas no quedan del todo descongeladas ya que a veces el producto pesa un poco más de lo indicado en la bandeja. Lamentamos el inconveniente y esperamos que haya podido hacer uso del microondas del que disponen los clientes para, de ser necesario, calentar la comida. Saludos",
+      "updateTime": "2022-11-18T21:23:01.994226Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtczhMcXpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria cristina Rivas"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y siempre buena onda\n\n(Translated by Google)\nExcellent service and always friendly.",
+    "createTime": "2022-11-12T13:34:41.419126Z",
+    "updateTime": "2022-11-12T13:34:41.419126Z",
+    "reviewReply": {
+      "comment": "Gracias Maria Cristina! saludos",
+      "updateTime": "2022-11-18T21:23:18.025863Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtay1DakNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gissela Venegas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-10T23:44:02.358573Z",
+    "updateTime": "2022-11-10T23:44:02.358573Z",
+    "reviewReply": {
+      "comment": "Hola Gissela! gracias por calificarnos ;)",
+      "updateTime": "2022-11-18T21:23:44.123413Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtbmRya1dREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Vilas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-10T23:13:03.404942Z",
+    "updateTime": "2022-11-10T23:13:03.404942Z",
+    "reviewReply": {
+      "comment": "Santiago querido! Saludos ",
+      "updateTime": "2022-11-18T21:24:02.634969Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtbmFMdDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nadina Aramayo"
+    },
+    "starRating": "FOUR",
+    "comment": "Cola para combustible baños con poca limpieza no vende cigarrillos  con targeta no tiene un lugar para viajeros como zapala\n\n(Translated by Google)\nFuel queue, poorly cleaned restrooms, doesn\u0027t accept cigarettes by card, doesn\u0027t have a place for travelers like Zapala",
+    "createTime": "2022-11-10T17:01:25.798113Z",
+    "updateTime": "2022-11-10T17:01:25.798113Z",
+    "reviewReply": {
+      "comment": "Hola Nadina! Trabajamos para agilizar las esperas en la cola para la carga de combustible. No sé bien a que te refieres con un lugar para viajeros... saludos",
+      "updateTime": "2022-11-18T21:26:00.591236Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtcmVfZHhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Villegas"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-11-10T15:42:00.759591Z",
+    "updateTime": "2022-11-10T15:42:00.759591Z",
+    "reviewReply": {
+      "comment": "Hola Ale! Tus compañeros de la estación te mandan saludos!",
+      "updateTime": "2022-11-18T21:26:43.384075Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtcmJtOWNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Narciso Salazar Vergara"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente.\nLos puchos de Lucky, Camel y Rothmans a precio oficial...\nInmejorable!!\n\n(Translated by Google)\nExcellent.\nLucky\u0027s, Camel, and Rothmans cigarettes at the official price... Unbeatable!!",
+    "createTime": "2022-11-10T12:51:34.931687Z",
+    "updateTime": "2022-11-10T12:51:34.931687Z",
+    "reviewReply": {
+      "comment": "Hola Narciso! También tenemos más de 100 promociones en el Full Sale. Seguí aprovechando nuestras ofertas",
+      "updateTime": "2022-11-18T21:28:28.198723Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtemJ1WUFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Eduardo Guerrero"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena limpieza y atención\n\n(Translated by Google)\nGood cleanliness and service",
+    "createTime": "2022-11-10T01:13:34.274189Z",
+    "updateTime": "2022-11-10T01:13:34.274189Z",
+    "reviewReply": {
+      "comment": "Marcelo! Gracias por elegirnos,  hasta la proxima!",
+      "updateTime": "2022-11-18T22:12:39.705243Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtOVkzeXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ariel alejandro Alvarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-11-09T17:39:58.140896Z",
+    "updateTime": "2022-11-09T17:39:58.140896Z",
+    "reviewReply": {
+      "comment": "Estamos para servirte Ariel ",
+      "updateTime": "2022-11-18T22:13:08.295991Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtdGZ6MnB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Scolari"
+    },
+    "starRating": "FOUR",
+    "comment": "Mucha cola para cargar combustible\n\n(Translated by Google)\nLong queues to refuel",
+    "createTime": "2022-11-07T00:05:47.704241Z",
+    "updateTime": "2022-11-07T00:05:47.704241Z",
+    "reviewReply": {
+      "comment": "Hola Gustavo! Los vendedores de playa hacen lo mejor que pueden pero la demanda en esta época es altísima. Disculpanos la demora",
+      "updateTime": "2022-11-18T22:14:12.351786Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtOGRQSEd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Osella"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy amable el personal\n\n(Translated by Google)\nThe staff were very friendly.",
+    "createTime": "2022-11-06T17:51:16.074391Z",
+    "updateTime": "2022-11-06T17:51:16.074391Z",
+    "reviewReply": {
+      "comment": "Hola Monica! muchas gracias, nos vemos la proxima :)",
+      "updateTime": "2022-11-18T22:15:58.419642Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtc2JxcklREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Ferrón"
+    },
+    "starRating": "FIVE",
+    "comment": "Personal atento y rapido en la atención\n\n(Translated by Google)\nAttentive and quick service staff",
+    "createTime": "2022-11-05T15:41:27.656107Z",
+    "updateTime": "2022-11-05T15:41:27.656107Z",
+    "reviewReply": {
+      "comment": "Hola Claudio! Gracias",
+      "updateTime": "2022-11-18T22:16:38.603196Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtZ2E3TU53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paola Garcia"
+    },
+    "starRating": "FOUR",
+    "comment": "Única en el sector!! Completa pero imposible ir sin hacer cola.\n\n(Translated by Google)\nUnique in the sector!! Complete but impossible to go without queuing.",
+    "createTime": "2022-11-02T12:06:33.498290Z",
+    "updateTime": "2022-11-02T12:06:33.498290Z",
+    "reviewReply": {
+      "comment": "Hola Paola, gracias por tus comentarios. Lamentamos lo de la Cola!!! Pero hay horarios en los que son complicados para cargar combustible!!!! Te invitamos a ir de noche, después de las 21 por lo general la cola es menor",
+      "updateTime": "2022-11-20T23:07:06.621614Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtaHJYTzR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "rafael angel Catuogno"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-10-27T14:48:10.477082Z",
+    "updateTime": "2022-10-27T14:48:10.477082Z",
+    "reviewReply": {
+      "comment": "Gracias Rafael",
+      "updateTime": "2022-11-20T23:07:20.495498Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtcFBmU09BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Castro"
+    },
+    "starRating": "FOUR",
+    "comment": "El mejor lugar para pasar\n\n(Translated by Google)\nThe best place to spend",
+    "createTime": "2022-10-25T00:33:30.998009Z",
+    "updateTime": "2022-10-25T00:33:30.998009Z",
+    "reviewReply": {
+      "comment": "Nos alegramos que te hayas sentido comodo en nuestra estación. Nos esforzamos todos los días para que se el lugar como vos londescribistes",
+      "updateTime": "2022-11-20T23:08:27.640632Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUMta012a19RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge A Passada"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-20T02:30:27.539991Z",
+    "updateTime": "2022-10-20T02:30:27.539991Z",
+    "reviewReply": {
+      "comment": "Gracias Jorge",
+      "updateTime": "2022-11-20T23:08:36.495571Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURlNjQtT3lnRRAB"
+  }]
+}

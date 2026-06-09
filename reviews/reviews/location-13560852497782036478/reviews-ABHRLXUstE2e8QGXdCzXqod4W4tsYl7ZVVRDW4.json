@@ -1,0 +1,200 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "matias guevara"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-18T15:59:18.847886Z",
+    "updateTime": "2022-08-18T16:25:20.717718Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1bXF1WWR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "anaa Cardozo"
+    },
+    "starRating": "FIVE",
+    "comment": "los desayunos son muy ricos y en especial los cafes que preparan (janet) excelente atención y organización\n\n(Translated by Google)\nThe breakfasts are delicious, especially the coffee they prepare (Janet). Excellent service and organization.",
+    "createTime": "2022-07-29T11:33:29.925425Z",
+    "updateTime": "2022-07-29T11:35:44.929422Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dnZMSUZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Grasselli"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de ( Micaela ) muy buen sándwich de milanesa de pollo.. Excelente limpieza.. 👌 👌\n\n(Translated by Google)\nExcellent service from (Micaela), very good chicken milanesa sandwich. Excellent cleanliness. 👌 👌",
+    "createTime": "2022-07-25T15:36:48.399382Z",
+    "updateTime": "2022-07-25T15:36:48.399382Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1aXQyZ0xnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Isabel Cabaña"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-25T01:05:58.464774Z",
+    "updateTime": "2022-07-25T01:05:58.464774Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1MHRuVVFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "luis alberto Ruiz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-07-18T09:52:53.588528Z",
+    "updateTime": "2022-07-18T09:52:53.588528Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1Z0l6cmJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gervasio Almeida quiroga"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-07-10T23:54:12.361593Z",
+    "updateTime": "2022-07-10T23:54:12.361593Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSURPdFlPMEVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejo Paiz"
+    },
+    "starRating": "FIVE",
+    "comment": "Ok",
+    "createTime": "2022-07-10T15:08:16.874963Z",
+    "updateTime": "2022-07-10T15:08:16.874963Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSURPbGJXY0xREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo"
+    },
+    "starRating": "TWO",
+    "comment": "Antiende mejor ah los brasileños mejor q un argentino\n\n(Translated by Google)\nHe understands Brazilians better than an Argentinian",
+    "createTime": "2022-07-10T01:25:16.891819Z",
+    "updateTime": "2022-07-10T01:25:16.891819Z",
+    "reviewReply": {
+      "comment": "Marcelo, te pedimos disculpas si no recibiste la atención correcta.\nGracias por tu comentario nos ayuda a mejorar.",
+      "updateTime": "2022-07-10T11:56:45.002200Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURPeGN5VzZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Micaela Ledesma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-06T18:18:57.739500Z",
+    "updateTime": "2022-07-06T18:18:57.739500Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURPX3ZlbHJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matías Sánchez"
+    },
+    "starRating": "ONE",
+    "comment": "No te dejan tomar mate adentro ni jugar a las cartas. Agradezco que me dejaron conectarme al wifi...\n\n(Translated by Google)\nThey don\u0027t let you drink mate inside or play cards. I\u0027m grateful they let me connect to the Wi-Fi...",
+    "createTime": "2022-07-06T14:40:55.907287Z",
+    "updateTime": "2022-07-06T14:40:55.907287Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURPdnFlRWtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Roca"
+    },
+    "starRating": "FIVE",
+    "comment": "Unas genias las dos chicas de la mañana.\nRecomiendo los sandwinch de milanesa.\n\n(Translated by Google)\nThe two girls in the morning were fantastic.\nI recommend the breaded cutlet sandwiches.",
+    "createTime": "2022-06-27T14:47:36.646122Z",
+    "updateTime": "2022-06-27T14:47:36.646122Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURPLUlfeXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Pérego"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-24T13:03:43.883700Z",
+    "updateTime": "2022-06-24T13:03:43.883700Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSURPd1BpR1hBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "anderson fagundes"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-24T11:52:22.358072Z",
+    "updateTime": "2022-06-24T11:52:22.358072Z",
+    "reviewReply": {
+      "comment": "Anderson, agradecemos su visita.!!!\nLo esperamos pronto..",
+      "updateTime": "2022-06-24T17:32:19.846916Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURPZ0xQX2hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "lucas roman"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-06-13T13:52:45.966858Z",
+    "updateTime": "2022-06-13T13:52:45.966858Z",
+    "reviewReply": {
+      "comment": "Lucas, agradecemos su visita!!!\nLo esperamos pronto ...",
+      "updateTime": "2022-06-24T17:34:00.394050Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPcWFqbU53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Osmar Da Silva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-08T21:27:30.866370Z",
+    "updateTime": "2022-06-08T21:27:30.866370Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNXRLMmJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "JAVIER GODOY"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena\n\n(Translated by Google)\nGood",
+    "createTime": "2022-06-05T20:30:00.165550Z",
+    "updateTime": "2022-06-05T20:30:00.165550Z",
+    "reviewReply": {
+      "comment": "Javier, agradecemos su visita!!\nLo esperamos pronto..\nSu calificación nos ayuda a mejorar , muchas gracias",
+      "updateTime": "2022-06-24T17:36:59.564035Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPa3RTbElBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Alejandro Gamboa"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar agradable buena atencion\n\n(Translated by Google)\nNice place, good service",
+    "createTime": "2022-05-29T15:12:57.432628Z",
+    "updateTime": "2022-05-29T15:12:57.432628Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su visita...\nLo esperamos pronto",
+      "updateTime": "2022-06-24T17:38:06.672963Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSUQydjdDc2tRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco ceresa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-27T20:06:24.588270Z",
+    "updateTime": "2022-05-27T20:06:24.588270Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyMTQtOWF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Gimenez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención, excelente la atención de todos, muy buena las personas trabajando 👏\n\n(Translated by Google)\nVery good service, excellent attention from everyone, very good people working there 👏",
+    "createTime": "2022-05-19T13:19:03.780865Z",
+    "updateTime": "2022-05-19T13:19:03.780865Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyLWNpQ0F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Heffel"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-05-08T23:46:30.641070Z",
+    "updateTime": "2022-05-08T23:46:30.641070Z",
+    "reviewReply": {
+      "comment": "Sandra, Muchas Gracias por su visita!!",
+      "updateTime": "2022-06-24T17:39:24.689379Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSUQybkxYeHJBRRAB"
+  }]
+}

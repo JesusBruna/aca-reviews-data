@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Guillermo J. Lanata"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atencion, la pulcritud caracteristica del ACA\n\n(Translated by Google)\nExcellent service, the cleanliness characteristic of the ACA",
+    "createTime": "2018-02-28T20:46:28.607Z",
+    "updateTime": "2018-03-14T11:36:31.408Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBazg2bW53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alejandro daniel Tabera"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-03-14T02:48:44.860Z",
+    "updateTime": "2018-03-14T02:48:44.860Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3OExEeS1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Damian Marqués"
+    },
+    "starRating": "FOUR",
+    "comment": "Para socios. Buena atención.\n\n(Translated by Google)\nFor members only. Excellent service.",
+    "createTime": "2018-03-13T22:41:34.879Z",
+    "updateTime": "2018-03-13T22:42:09.974Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURBcmZycGl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nuria Anabella Chumbita"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-03-13T15:30:07.250Z",
+    "updateTime": "2018-03-13T15:30:07.250Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3MVp1b2FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Sotelo"
+    },
+    "starRating": "TWO",
+    "createTime": "2018-03-13T09:16:25.920Z",
+    "updateTime": "2018-03-13T09:16:25.920Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURBX19HdG9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Nesci"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-03-12T23:52:58.463Z",
+    "updateTime": "2018-03-12T23:52:58.463Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURnN3RYYTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raúl Alejandro Molina Rosetti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-03-12T16:51:00.590Z",
+    "updateTime": "2018-03-12T16:51:00.590Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURBN01xdjBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "David del blanco"
+    },
+    "starRating": "FIVE",
+    "comment": "Como siempre excelente atención,baños limpios\n\n(Translated by Google)\nAs always, excellent service, clean bathrooms",
+    "createTime": "2018-03-12T11:47:52.004Z",
+    "updateTime": "2018-03-12T11:48:26.704Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3ME8yUDdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Formaro"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente !!\n\n(Translated by Google)\nExcellent!!",
+    "createTime": "2018-03-11T16:03:29.611Z",
+    "updateTime": "2018-03-11T16:03:39.694Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnZ3JyR0N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Hernan Ortega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-03-11T11:20:03.244Z",
+    "updateTime": "2018-03-11T11:20:03.244Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBeWQyb2Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Enzo Masini"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención en vtas de combustibles.\n\n(Translated by Google)\nGood service on fuel sales.",
+    "createTime": "2018-03-10T16:29:17.084Z",
+    "updateTime": "2018-03-10T16:29:39.103Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3bjRtRVZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "RODRIGO CESAR MUÑIZ MRC Competición"
+    },
+    "starRating": "FIVE",
+    "comment": "ideal para tomarse unos mates e ir al baño\n\n(Translated by Google)\nideal for having some mate and going to the bathroom",
+    "createTime": "2018-03-10T02:57:47.404Z",
+    "updateTime": "2018-03-10T02:58:14.234Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSURnaDR2TUZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge luis"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-03-09T16:23:28.890Z",
+    "updateTime": "2018-03-09T16:23:28.890Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3dWRfSlh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "sergio fernandez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buenísima atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2018-03-09T11:40:44.959Z",
+    "updateTime": "2018-03-09T11:40:56.115Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURna01hTnZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Suarez"
+    },
+    "starRating": "FOUR",
+    "comment": "Solo cargue nafta, pero la gente muy amable!! 😊\n\n(Translated by Google)\nI only filled up with gas, but the people were very friendly!! 😊",
+    "createTime": "2018-03-09T10:30:18.227Z",
+    "updateTime": "2018-03-09T10:30:47.713Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eVpmWVVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Omar Sala"
+    },
+    "starRating": "FOUR",
+    "comment": "Precio caros. Lindo lugar\n\n(Translated by Google)\nExpensive prices. Nice place.",
+    "createTime": "2018-03-08T01:43:42.836Z",
+    "updateTime": "2018-03-08T01:44:03.949Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSURnOU9PUnN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Casella"
+    },
+    "starRating": "FOUR",
+    "comment": "muy lindo el lugar de esparcimiento. lleno de arboles para descansar un rato\n\n(Translated by Google)\nA very nice recreation area. Full of trees to relax in for a while.",
+    "createTime": "2018-02-23T02:23:26.581Z",
+    "updateTime": "2018-03-08T00:39:20.327Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnb2JxWVBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Cosentino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-03-07T21:44:13.498Z",
+    "updateTime": "2018-03-07T21:44:13.498Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnLTZYX25RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Salandro"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-03-07T13:13:08.094Z",
+    "updateTime": "2018-03-07T13:13:15.877Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSURBODdITk9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lourdes Techera"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención. ..baños limpios muy agradable lugar\n\n(Translated by Google)\nGood service. Clean bathrooms. Very nice place.",
+    "createTime": "2018-03-07T01:32:29.721Z",
+    "updateTime": "2018-03-07T01:33:11.873Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSURRdk95NU1BEAE"
+  }]
+}

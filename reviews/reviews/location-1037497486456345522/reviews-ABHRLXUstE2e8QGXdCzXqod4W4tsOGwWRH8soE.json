@@ -1,0 +1,245 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "CASA ORDOÑEZ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-05T06:50:55.547710Z",
+    "updateTime": "2023-01-05T06:50:55.547710Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por tu visita",
+      "updateTime": "2023-01-05T10:47:31.472505Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCMjhUR0xBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lourdes Badellino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-05T01:58:20.040705Z",
+    "updateTime": "2023-01-05T01:58:20.040705Z",
+    "reviewReply": {
+      "comment": "Hola Lourdes. Te espera esperamos la próxima.",
+      "updateTime": "2023-01-05T10:48:22.587214Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCbTdMVWRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Muñoz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-04T20:10:02.496454Z",
+    "updateTime": "2023-01-04T20:10:02.496454Z",
+    "reviewReply": {
+      "comment": "Laura michas gracias por visitarnos.",
+      "updateTime": "2023-01-05T10:49:21.347702Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCNl95MGZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Samuel Nicolás Alvarez"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-01-04T19:53:22.295220Z",
+    "updateTime": "2023-01-04T19:53:22.295220Z",
+    "reviewReply": {
+      "comment": "Hola Samuel. Que lástima que no dejaste un comentario para saber que pasó con tu experiencia en nuestra empresa",
+      "updateTime": "2023-01-05T10:50:41.705286Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCNl9TZ0l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Ariel Rivera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-04T11:58:01.751723Z",
+    "updateTime": "2023-01-04T11:58:01.751723Z",
+    "reviewReply": {
+      "comment": "Gracias Gustavo",
+      "updateTime": "2023-01-04T12:54:57.104084Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCeTlEM2ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Zarate"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy rápidos en la atención.\n\n(Translated by Google)\nVery quick service.",
+    "createTime": "2023-01-03T23:20:19.112580Z",
+    "updateTime": "2023-01-03T23:20:19.112580Z",
+    "reviewReply": {
+      "comment": "Hola Gerardo. Buen viaje. Gracias por tu visita",
+      "updateTime": "2023-01-04T03:12:56.750087Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCczdXZDhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jeremias brunstein"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy atento el personal de la estación, no solo que nos atendió muy bien , sino que nos supo indicar un camping para pasar la noche, y evitarnos 170 km más de recorrido.\n\n(Translated by Google)\nThe station staff were very attentive; not only did they treat us very well, but they also recommended a campsite for us to spend the night, saving us an extra 170 km of travel.",
+    "createTime": "2023-01-03T22:03:58.976925Z",
+    "updateTime": "2023-01-03T22:03:58.976925Z",
+    "reviewReply": {
+      "comment": "Jeremias, es un gusto para nosotros atenderte. Gracias por darnos esta devolución",
+      "updateTime": "2023-01-04T03:13:43.345315Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCczdhZS13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nanci Viana"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-03T21:19:36.935360Z",
+    "updateTime": "2023-01-03T21:19:36.935360Z",
+    "reviewReply": {
+      "comment": "Gracias Nanci",
+      "updateTime": "2023-01-04T03:13:53.214195Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCczZLTXVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Orue"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, rápida y con todo lo suficiente para un lugar que está enclavado estratégicamente en la ruta 40.\n\n(Translated by Google)\nExcellent service, fast, and with everything you need for a place that is strategically located on Route 40.",
+    "createTime": "2023-01-03T12:59:40.018144Z",
+    "updateTime": "2023-01-03T12:59:40.018144Z",
+    "reviewReply": {
+      "comment": "Miguel, muchas gracias por tu visita y por dejarnos este comentario",
+      "updateTime": "2023-01-03T18:59:35.162690Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCNDR1MDlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Mazzocchi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-03T05:16:05.315609Z",
+    "updateTime": "2023-01-03T05:16:05.315609Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCd192dURREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Francisco Muñoz"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención todos los medios de pago .\n\n(Translated by Google)\nGood service, all payment methods accepted.",
+    "createTime": "2023-01-03T00:44:44.382305Z",
+    "updateTime": "2023-01-03T00:44:44.382305Z",
+    "reviewReply": {
+      "comment": "Hola Daniel. Muchss gracias",
+      "updateTime": "2023-01-03T18:59:58.379174Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCdy1panV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nuris Morales"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente!!! Muy cordiales.\n\n(Translated by Google)\nExcellent!!! Very friendly.",
+    "createTime": "2023-01-02T16:02:44.752985Z",
+    "updateTime": "2023-01-02T16:02:44.752985Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCX1lTMTFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Sergio Falcón"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-01-02T03:26:43.848704Z",
+    "updateTime": "2023-01-02T03:26:43.848704Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2023-01-03T19:00:11.461028Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCblk2aGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ce"
+    },
+    "starRating": "FOUR",
+    "comment": "La ypf está dentro del pueblo, frente a la plaza. Tiene todo lo que necesites!\n\n(Translated by Google)\nThe YPF gas station is in town, across from the main square. It has everything you need!",
+    "createTime": "2023-01-01T20:06:59.671628Z",
+    "updateTime": "2023-01-01T20:06:59.671628Z",
+    "reviewReply": {
+      "comment": "Hola Ce. Gracias por tu vsiita",
+      "updateTime": "2023-01-01T22:33:16.576391Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCN2Fiai1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Basko Patagón"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-01T19:10:29.631204Z",
+    "updateTime": "2023-01-01T19:10:29.631204Z",
+    "reviewReply": {
+      "comment": "Daniel. Muchas gracias",
+      "updateTime": "2023-01-01T22:33:37.560321Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCN2V6WGdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "luis ahumada Ahumada"
+    },
+    "starRating": "THREE",
+    "comment": "Atención media\n\n(Translated by Google)\nAverage attention",
+    "createTime": "2022-12-31T22:22:35.384659Z",
+    "updateTime": "2022-12-31T22:22:35.384659Z",
+    "reviewReply": {
+      "comment": "Hola Luis. Contanos cuál fue tu expiencia en nuestra estación, así podemos remediar lo que hicimos mal",
+      "updateTime": "2023-01-01T12:56:48.084910Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCOWRtampnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Andrés Herrera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-31T14:11:30.957181Z",
+    "updateTime": "2022-12-31T14:11:30.957181Z",
+    "reviewReply": {
+      "comment": "Hola Juan. Muchas Gracias por tu visita",
+      "updateTime": "2023-01-01T12:57:11.259793Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCMWVmX1JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "jorge vergara"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-12-31T13:02:19.422551Z",
+    "updateTime": "2022-12-31T13:02:19.422551Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Jorge",
+      "updateTime": "2022-12-31T13:54:26.598840Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCMWFXclFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Aguerre"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-12-30T22:24:25.726807Z",
+    "updateTime": "2022-12-30T22:24:25.726807Z",
+    "reviewReply": {
+      "comment": "Hola Marcos. Gracias por tu visita\n",
+      "updateTime": "2022-12-31T10:51:16.945638Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCNWFDenRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ESMERALDA"
+    },
+    "starRating": "FIVE",
+    "comment": "SIEMPRE UNA EXCELENTE ATENCION!! SU FULL CADA VEZ MAS LINDO Y CON MAS VARIEDAD\n\n(Translated by Google)\nALWAYS EXCELLENT SERVICE! YOUR FULL SERVICE IS GETTING MORE AND MORE BEAUTIFUL AND WITH MORE VARIETY.",
+    "createTime": "2022-12-30T20:30:16.866402Z",
+    "updateTime": "2022-12-30T20:30:16.866402Z",
+    "reviewReply": {
+      "comment": "Gracias Esmeralda es nuestro objetivo que nuestros clientes se sientan a gusto",
+      "updateTime": "2022-12-31T10:52:47.868406Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCcGFYZy1RRRAB"
+  }]
+}

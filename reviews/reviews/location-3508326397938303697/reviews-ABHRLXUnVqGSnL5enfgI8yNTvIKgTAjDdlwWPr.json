@@ -1,0 +1,183 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Eduardo Ben"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-21T01:33:46.617144Z",
+    "updateTime": "2022-12-21T01:33:46.617144Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCNHBuR1JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Germán Lancheros Amórtegui"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, cortesía, amabilidad.\n\n(Translated by Google)\nGood service, courtesy, kindness.",
+    "createTime": "2022-12-12T20:15:28.889550Z",
+    "updateTime": "2022-12-12T20:15:28.889550Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcjZUM3VnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Fernando Segovia"
+    },
+    "starRating": "FOUR",
+    "comment": "Atención muy calificada y agradable. Instalaciones en muy buen estado de conservación y limpieza.\n\n(Translated by Google)\nExcellent and friendly service. Facilities in very good condition and clean.",
+    "createTime": "2022-12-10T16:24:53.141019Z",
+    "updateTime": "2022-12-10T16:24:53.141019Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtdTlhX3R3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "matias guerrero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-03T11:31:25.957778Z",
+    "updateTime": "2022-12-03T11:31:25.957778Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcVpha2l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Noelia Pérez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-01T15:48:38.694414Z",
+    "updateTime": "2022-12-01T15:48:38.694414Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtd2V2OUJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lorena De los Santos"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre cargo combustible aquí tienen una excelente atención.\n\n(Translated by Google)\nI always fill up here; they have excellent service.",
+    "createTime": "2018-10-06T02:51:53.538613Z",
+    "updateTime": "2022-11-30T12:52:52.866951Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3N2NQcEdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Ifran"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-23T00:27:08.761781Z",
+    "updateTime": "2022-11-23T00:27:08.761781Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtak9QanJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Bustos"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena playa para estacionar y tomar un café\n\n(Translated by Google)\nGood beach for parking and having a coffee",
+    "createTime": "2022-11-14T03:03:55.797131Z",
+    "updateTime": "2022-11-14T03:03:55.797131Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtNjlieEhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Besonias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-04T21:20:18.110177Z",
+    "updateTime": "2022-11-04T21:20:18.110177Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtbnVmN1BnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Gonz"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy lindo lugar , buena atencion del personal\n\n(Translated by Google)\nVery nice place, good attention from the staff",
+    "createTime": "2022-10-28T11:24:01.239653Z",
+    "updateTime": "2022-10-28T11:24:01.239653Z",
+    "reviewReply": {
+      "comment": "César muchas gracias por tu valoración ",
+      "updateTime": "2023-05-22T10:09:37.230141Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtOU5xTmNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Clara Alfonso"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy Bueno ,excelente atención!\n\n(Translated by Google)\nVery good, excellent service!",
+    "createTime": "2022-10-27T19:51:40.263705Z",
+    "updateTime": "2022-10-27T19:51:40.263705Z",
+    "reviewReply": {
+      "comment": "Clara muchas gracias por tu valoración. ",
+      "updateTime": "2025-03-03T11:33:45.789907Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtbEw2c0RnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Aracelis Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen  servicio  (realice cambio de aceite) y amabilidad. La cafetería muy buena atención y rico café.\n\n(Translated by Google)\nExcellent service (I had my oil changed) and friendly staff. The coffee shop also had great service and delicious coffee.",
+    "createTime": "2022-10-25T15:50:42.272259Z",
+    "updateTime": "2022-10-25T15:54:46.350909Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtaUl5NjVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Orosco"
+    },
+    "starRating": "THREE",
+    "comment": "Tienen surtidores con precios más caros para turistas, me parece una barbaridad hacer esa diferencia con otras personas\n\n(Translated by Google)\nThey have pumps with higher prices for tourists; I think it\u0027s outrageous to make that distinction compared to other people.",
+    "createTime": "2022-10-25T00:41:03.471098Z",
+    "updateTime": "2022-10-25T00:41:03.471098Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUMta092UmxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MARIA DEL CARMEN VILLEGAS"
+    },
+    "starRating": "FIVE",
+    "comment": "Quiero las preguntas en CASTELLANO GRACIASSSSS\n\n(Translated by Google)\nI want the questions in SPANISH THANKS",
+    "createTime": "2022-10-15T04:52:51.312665Z",
+    "updateTime": "2022-10-24T05:16:23.782300Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSURleGZ1ZGlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafa Goye"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!¡\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2022-10-21T14:49:34.158725Z",
+    "updateTime": "2022-10-21T14:49:34.158725Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSURlbDVESDJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago David Suárez"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar preferido en donde cargo combustible hace muchos años.\n\n(Translated by Google)\nFavorite place where I have refueled for many years.",
+    "createTime": "2022-10-17T03:10:32.764418Z",
+    "updateTime": "2022-10-17T03:10:32.764418Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURlN2VuS2NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "mariano saboredo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-16T22:46:09.056828Z",
+    "updateTime": "2022-10-16T22:46:09.056828Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURlcmNmdGVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "M.Felicitas M.Leanes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-13T11:52:25.389724Z",
+    "updateTime": "2022-10-13T11:52:25.389724Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURleVpUUVFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Pizarro"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención del playero\n\n(Translated by Google)\nExcellent service from the beach attendant",
+    "createTime": "2022-10-12T13:53:39.389353Z",
+    "updateTime": "2022-10-12T13:53:39.389353Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURla1liTldREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Adrian Monteagudo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-10-12T10:38:58.033465Z",
+    "updateTime": "2022-10-12T10:38:58.033465Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSURlNGNIWWlRRRAB"
+  }]
+}

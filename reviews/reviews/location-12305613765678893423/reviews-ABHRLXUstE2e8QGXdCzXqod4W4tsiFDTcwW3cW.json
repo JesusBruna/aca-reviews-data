@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Pablo Marote"
+    },
+    "starRating": "THREE",
+    "comment": "Una estación bien atendida\n\n(Translated by Google)\nA well-staffed station",
+    "createTime": "2019-03-08T15:33:37.421246Z",
+    "updateTime": "2019-03-25T00:04:13.310489Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMV9mWkZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Rodriguez Aizpeolea"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención de los empleados\n\n(Translated by Google)\nGood customer service",
+    "createTime": "2018-02-20T09:16:46.359Z",
+    "updateTime": "2019-03-25T00:01:13.249568Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMTdlNml3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston C."
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-02-21T13:06:14.640432Z",
+    "updateTime": "2019-03-25T00:01:12.172238Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMTdmc3R3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano Laco"
+    },
+    "starRating": "FOUR",
+    "comment": "La mejor para desayunar y comenzar un sabado de trabajo, tiene estacionamiento y por suerte no es muy concurrida ya que la gente va a el ACA del otro lado de la panamericana. Para mi es un punto a favor!\n\n(Translated by Google)\nThe best place for breakfast to start a Saturday workday. It has parking and luckily it\u0027s not too crowded since most people go to the ACA (Automobile Club of Argentina) on the other side of the Pan-American Highway. For me, that\u0027s a big plus!",
+    "createTime": "2018-06-12T09:52:59.271Z",
+    "updateTime": "2019-03-25T00:01:08.083426Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMTdlY2dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "María Julia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-03-22T12:54:16.941381Z",
+    "updateTime": "2019-03-25T00:00:04.328588Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMTllM3BBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Bautista Mc Gill"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-06-24T16:36:22.351Z",
+    "updateTime": "2019-03-25T00:00:01.575670Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMTlmTER3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Schneider"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-05-21T13:58:50.543Z",
+    "updateTime": "2019-03-24T23:57:05.479925Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMTVlZHpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lito Gene"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2018-03-22T17:17:00.393Z",
+    "updateTime": "2019-03-24T23:52:38.041418Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMS1lVXJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Porta"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-12-15T19:08:24.371206Z",
+    "updateTime": "2019-03-24T23:51:37.285191Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMTZmVl9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa R"
+    },
+    "starRating": "THREE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2019-02-02T12:40:28.991309Z",
+    "updateTime": "2019-03-24T23:51:25.883989Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMTZlbDR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "German Delfino"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre cargo ahi, el personal de primera\n\n(Translated by Google)\nI always load up there, the staff is top-notch",
+    "createTime": "2019-01-11T14:25:26.057101Z",
+    "updateTime": "2019-03-24T23:50:36.844253Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMTZmMGNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Lupi"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, excelente!\n\n(Translated by Google)\nGood service, excellent!",
+    "createTime": "2017-12-16T22:11:09.106Z",
+    "updateTime": "2019-03-24T23:47:14.749607Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMThmc0h3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Lamboglia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-03-26T12:42:48.367Z",
+    "updateTime": "2019-03-24T23:47:10.178925Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMThlVVBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rolando Illa"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre que voy a capital bajo y cargo, la atención de las playeras es exepcional.\nLos playeros de camiones debe ser igual.\nEn el shop se come bien a un precio razonable\n\n(Translated by Google)\nWhenever I go to the lower capital and fill up, the service from the gas station attendants is exceptional. The truck attendants must be the same. The food at the shop is good and reasonably priced.",
+    "createTime": "2018-12-24T16:07:08.561971Z",
+    "updateTime": "2019-03-24T23:47:05.193673Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMThmVTNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rosana Blasco"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-12-24T12:08:57.198691Z",
+    "updateTime": "2019-03-24T23:46:40.724215Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMThlQTh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariana Dominguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-02-27T23:21:29.158599Z",
+    "updateTime": "2019-03-24T23:44:10.240278Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMV92SDR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jorge Cisneros"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. El acceso y la llegada no son fáciles.\n\n(Translated by Google)\nGood service. Access and arrival are not easy.",
+    "createTime": "2018-07-20T21:54:48.366Z",
+    "updateTime": "2019-03-24T23:42:45.544588Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMV91SzFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Demian Soriano (DemianGod)"
+    },
+    "starRating": "THREE",
+    "comment": "No tiene lugar donde dejar el auto para entrar al serviclub porque evidentemente la gente de la zona deja el auto ahí o los que van al shopping de enfrente. La atencion mas o menos...\n\n(Translated by Google)\nThere\u0027s no parking space to enter the service club because people from the area leave their cars there, or those who go to the shopping center across the street. The service is so-so...",
+    "createTime": "2017-09-18T02:27:15.340Z",
+    "updateTime": "2019-03-24T23:40:31.765967Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvMTd1Mmt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Colla"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bien atendido. Rapidez y servicio.\n\n(Translated by Google)\nVery well attended. Speed ​​and service.",
+    "createTime": "2019-02-01T04:02:20.686991Z",
+    "updateTime": "2019-03-24T23:38:36.699464Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMTl1MUpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "German Pagliaroli"
+    },
+    "starRating": "THREE",
+    "comment": "Sólo para cargar combustible, no hay otro servicio.\n\n(Translated by Google)\nFueling only, no other services available.",
+    "createTime": "2017-07-29T13:47:16.227Z",
+    "updateTime": "2019-03-24T23:36:36.430911Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMTV1X0lBEAE"
+  }]
+}

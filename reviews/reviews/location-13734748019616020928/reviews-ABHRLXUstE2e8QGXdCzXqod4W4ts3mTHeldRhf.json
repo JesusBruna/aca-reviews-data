@@ -1,0 +1,256 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Luis Cortés"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2024-04-10T00:02:59.177368Z",
+    "updateTime": "2024-04-10T00:02:59.177368Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Luis",
+      "updateTime": "2024-04-10T00:21:11.139868Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUREM29xNFlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Los Gladiolos alojamiento"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-09T14:04:34.972185Z",
+    "updateTime": "2024-04-09T14:04:34.972185Z",
+    "reviewReply": {
+      "comment": "Muchas gracias ",
+      "updateTime": "2024-04-09T14:39:01.412331Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUREenY3eFBnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martín"
+    },
+    "starRating": "ONE",
+    "comment": "Hoy 8 de abril, estamos esperando para cargar combustible hace 40 minutos. El mismo playero atendiendo al camión de prosegur. Es para ver, imposible que en una estación YPF solo tengan un empleado.\n\n(Translated by Google)\nToday, April 8th, we\u0027ve been waiting to refuel for 40 minutes. The same attendant is serving the Prosegur truck. It\u0027s unbelievable that a YPF station only has one employee.",
+    "createTime": "2024-04-08T12:54:48.888689Z",
+    "updateTime": "2024-04-08T12:54:48.888689Z",
+    "reviewReply": {
+      "comment": "Martin lamentamos su experiencia ",
+      "updateTime": "2024-04-08T13:27:28.749324Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURELXVMSmh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marilyn Desiree Mendoza"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención...\n\n(Translated by Google)\nExcellent service...",
+    "createTime": "2024-04-04T16:14:56.397646Z",
+    "updateTime": "2024-04-04T16:14:56.397646Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Marrilyn",
+      "updateTime": "2024-04-04T17:22:16.201365Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUREc05TaVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emilse Suarez Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-03T17:16:16.053924Z",
+    "updateTime": "2024-04-03T17:16:16.053924Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Emilse",
+      "updateTime": "2024-04-03T17:29:16.721927Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEbjR5cHNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "vanesa viviani"
+    },
+    "starRating": "ONE",
+    "comment": "La atención del ÚNICO playero excelente... pero, es una vergüenza que haya SOLO UN PLAYERO para hacer todo!!! Por favor mejorar  eso!\n\n(Translated by Google)\nThe service from the ONLY beach attendant was excellent... but it\u0027s a shame there\u0027s ONLY ONE ATTENDANT to do everything!!! Please improve that!",
+    "createTime": "2024-03-31T19:02:48.514154Z",
+    "updateTime": "2024-03-31T19:02:48.514154Z",
+    "reviewReply": {
+      "comment": "Lo tendremos en cuenta Vanesa, tenemos 2 playero en los días como hoy, ",
+      "updateTime": "2024-03-31T20:28:40.603383Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEX2V6TDV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaspar Jalit"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-31T00:54:58.229764Z",
+    "updateTime": "2024-03-31T00:54:58.229764Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Gaspar",
+      "updateTime": "2024-03-31T01:09:07.304781Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEdGVmRXBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Torres"
+    },
+    "starRating": "ONE",
+    "comment": "Es una VERGÜENZA que haya sólo un playero!\nEsto generalmente es así en la mayoría de los ACA de todo el país\nLa atención del mismo fue excelente!\nPor más respuestas estúpidas sigue habiendo UN SOLO PLAYERO  para todo!\nVER GON ZO ZO!!!\n\n(Translated by Google)\nIt\u0027s a SHAME that there\u0027s only one attendant!\n\nThis is generally the case at most ACAs across the country.\n\nHis service was excellent!\n\nDespite the stupid answers, there\u0027s still ONLY ONE ATTENDANT for everything!\nWHAT A SHAME!!!",
+    "createTime": "2024-03-23T19:12:16.514519Z",
+    "updateTime": "2024-03-27T13:42:20.796205Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia Serguio",
+      "updateTime": "2024-03-23T19:24:50.795852Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEaU91S0p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Padilla"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-20T01:24:23.083901Z",
+    "updateTime": "2024-03-20T01:24:23.083901Z",
+    "reviewReply": {
+      "comment": "Gracias Miguel",
+      "updateTime": "2024-03-20T01:37:57.937262Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5N2VhT193RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Naty E"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención! Los playeros muy amables.\nEsta a 5 minutos del acceso a Humahuaca por Ruta Nacional 9.\n\n(Translated by Google)\nExcellent service! The staff were very friendly.\nIt\u0027s 5 minutes from the entrance to Humahuaca on National Route 9.",
+    "createTime": "2024-03-19T10:36:38.558379Z",
+    "updateTime": "2024-03-19T10:40:10.986887Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por las recetas y puntuacion Naty",
+      "updateTime": "2024-03-19T11:13:59.884312Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5bGJfV1VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ANDRES ZERBINO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-12T12:11:15.459687Z",
+    "updateTime": "2024-03-12T12:11:15.459687Z",
+    "reviewReply": {
+      "comment": "Hola Andrés muchas gracias por su puntuación ",
+      "updateTime": "2024-03-12T12:30:14.193271Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5MExQS0NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Ariel Plaza"
+    },
+    "starRating": "THREE",
+    "comment": "No había nafta, quizás x la época q era carnaval\n\n(Translated by Google)\nThere was no gasoline, perhaps because it was carnival time.",
+    "createTime": "2024-03-02T05:42:17.924870Z",
+    "updateTime": "2024-03-02T05:42:17.924870Z",
+    "reviewReply": {
+      "comment": "Eduardo no disculpamos se debió a la alta demanda y la congestión en la ruta para que lleguen los camiones",
+      "updateTime": "2024-03-02T11:29:50.492704Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5eEthMjFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabián Giansone"
+    },
+    "starRating": "ONE",
+    "comment": "Una vergüenza la atención. Te dicen que no hay combustible, que tenés que esperar una hora. Pasado un tiempo aparece otro playero, gira una canilla y aparece el combustible para vender. Juegan con los tiempos de la gente y te desorganizan un viaje\n\n(Translated by Google)\nThe service is a disgrace. They tell you there\u0027s no fuel, that you have to wait an hour. After a while, another attendant appears, turns on a tap, and fuel appears for sale. They play with people\u0027s time and ruin your trip.",
+    "createTime": "2024-02-21T21:19:49.066227Z",
+    "updateTime": "2024-02-21T21:19:49.066227Z",
+    "reviewReply": {
+      "comment": "Fabio lamentamos su experiencia estamos trabajando para solucionar los inconveniente.\nLe pedimos disculpas",
+      "updateTime": "2024-02-22T00:59:36.604757Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURkX0lhS05REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Eduardo Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Una estación de servicio ubicada en av. Belgrano que resulta ser una arteria pri cipal de la ciudad. Ya que se.encuentra próxima a la.terminal de ómnibus. Atención las.24 hs.\n\n(Translated by Google)\nA gas station located on Belgrano Avenue, a main thoroughfare in the city, as it is near the bus terminal. Open 24 hours.",
+    "createTime": "2024-02-20T14:11:53.303041Z",
+    "updateTime": "2024-02-20T14:11:53.303041Z",
+    "reviewReply": {
+      "comment": "Juan gracias por su calificación y receña",
+      "updateTime": "2024-02-20T14:45:45.072375Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURkaUxhMUtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Gratti"
+    },
+    "starRating": "FIVE",
+    "comment": "Nice and useful",
+    "createTime": "2017-10-02T04:45:41.729Z",
+    "updateTime": "2024-02-19T09:49:37.498816Z",
+    "reviewReply": {
+      "comment": "Gracias Federico por su publicación ",
+      "updateTime": "2024-02-19T03:23:35.702266Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnd05PVWN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Miriam Mamani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-18T10:49:12.553992Z",
+    "updateTime": "2024-02-18T10:49:12.553992Z",
+    "reviewReply": {
+      "comment": "Gracias Sandra por su calificación ",
+      "updateTime": "2024-02-18T11:51:01.971774Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkcTczT1d3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Fontela"
+    },
+    "starRating": "THREE",
+    "comment": "Es lo que hay. Venden combustible y no mucho más. Buena atención del personal.\n\n(Translated by Google)\nThat\u0027s how it is. They sell fuel and not much else. The staff is helpful.",
+    "createTime": "2024-02-17T16:44:59.156709Z",
+    "updateTime": "2024-02-17T16:44:59.156709Z",
+    "reviewReply": {
+      "comment": "Carlos gracias por su comentario ",
+      "updateTime": "2024-02-18T11:51:48.360849Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkX1piR053EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Rivera"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-02-16T23:04:43.555131Z",
+    "updateTime": "2024-02-16T23:04:43.555131Z",
+    "reviewReply": {
+      "comment": "Gracias Diego por su puntuacin",
+      "updateTime": "2024-02-16T23:20:19.856585Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbFpPSjV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Medina"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, para el tiempo de carnaval hay que hacer un poco de cola para cargar pero la espera se compensa con la excelente atención de sus empleados.\n\n(Translated by Google)\nVery good service; during carnival time you have to queue a bit to load but the wait is compensated by the excellent service of their employees.",
+    "createTime": "2024-02-15T00:42:07.202997Z",
+    "updateTime": "2024-02-15T00:42:07.202997Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Dario por su calificación y comentario",
+      "updateTime": "2024-02-15T01:43:06.144521Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbHFDYjBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Sestak"
+    },
+    "starRating": "THREE",
+    "comment": "Los baños no se podian utilizar por falta de agua\n\n(Translated by Google)\nThe bathrooms could not be used due to lack of water.",
+    "createTime": "2024-02-14T01:17:03.396987Z",
+    "updateTime": "2024-02-14T01:17:03.396987Z",
+    "reviewReply": {
+      "comment": "Lamentamos que no pudo usar los baño, debido a la gran cantidad de visitantes estubimos con falta de agua disculpas por la situacin",
+      "updateTime": "2024-02-14T03:33:14.057875Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkb3FMVENREAE"
+  }]
+}

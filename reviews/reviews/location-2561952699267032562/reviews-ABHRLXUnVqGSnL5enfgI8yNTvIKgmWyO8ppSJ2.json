@@ -1,0 +1,169 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Gabriela Luers"
+    },
+    "starRating": "THREE",
+    "comment": "Viernes cierran el shop no.podes tomar un café.\n\n(Translated by Google)\nThe shop closes on Fridays, you can\u0027t get a coffee.",
+    "createTime": "2020-02-25T04:24:53.326492Z",
+    "updateTime": "2020-02-25T04:24:53.326492Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSURzdEpQWjRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Javier Brunotto"
+    },
+    "starRating": "FOUR",
+    "comment": "Este sitio me gusta esta en un lindo lugar\n\n(Translated by Google)\nI like this place; it\u0027s in a nice location.",
+    "createTime": "2020-02-23T22:28:30.785101Z",
+    "updateTime": "2020-02-23T22:28:30.785101Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSURzeEtQMkd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-23T19:58:43.676184Z",
+    "updateTime": "2020-02-23T19:58:43.676184Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSURzeEtMZUN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mica Arias"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-23T18:48:06.156429Z",
+    "updateTime": "2020-02-23T18:48:06.156429Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSURzeElEQmtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Torres"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-02-22T18:03:58.884995Z",
+    "updateTime": "2020-02-22T18:03:58.884995Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSURzbU56NGNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Ovejero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente la atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-02-21T19:05:37.556199Z",
+    "updateTime": "2020-02-21T19:05:37.556199Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSURzaUlDbmF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "alberto angel mas"
+    },
+    "starRating": "FIVE",
+    "comment": "Rapidez y operatividad\n\n(Translated by Google)\nSpeed ​​and operational",
+    "createTime": "2020-02-21T10:03:36.016157Z",
+    "updateTime": "2020-02-21T10:03:36.016157Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSURzc0lqQWh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nora Marina Aguirre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-18T21:00:23.935235Z",
+    "updateTime": "2020-02-18T21:00:23.935235Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzbjlUZWpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Cersosimo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno todo impecable\n\n(Translated by Google)\nEverything was great, impeccable.",
+    "createTime": "2020-02-16T23:36:46.078866Z",
+    "updateTime": "2020-02-16T23:36:46.078866Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbDlUdkdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Mobellan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-16T19:00:37.194819Z",
+    "updateTime": "2020-02-16T19:00:37.194819Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNTdLMHR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Felipe Gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-14T01:39:47.114294Z",
+    "updateTime": "2020-02-14T01:39:47.114294Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzOF9tQ2xnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Adolfo Cordoba"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-13T21:28:40.285246Z",
+    "updateTime": "2020-02-13T21:28:40.285246Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzODdEZTdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Emilio Scagnolari"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-12T04:12:20.031457Z",
+    "updateTime": "2020-02-12T04:12:20.031457Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzZzdyQnVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fausto Fajardo"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-08T19:44:16.322401Z",
+    "updateTime": "2020-02-08T19:44:16.322401Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzcGJXRnlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elizabeth Avila"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-07T23:51:22.633870Z",
+    "updateTime": "2020-02-07T23:51:22.633870Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdWFlWnFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciana Braida"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-07T19:45:15.884520Z",
+    "updateTime": "2020-02-07T19:45:15.884520Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdWRMckNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tomas Perez Petruzzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-07T15:06:02.436686Z",
+    "updateTime": "2020-02-07T15:06:02.436686Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMlk2dWJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "M Natalia Torres Cossio (Natalia)"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-06T20:29:21.717977Z",
+    "updateTime": "2020-02-06T20:29:21.717977Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzcVlmVzFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Di Colantonio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-05T01:59:09.880292Z",
+    "updateTime": "2020-02-05T01:59:09.880292Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUNza2RYTW1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Benedetti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-05T00:59:13.389260Z",
+    "updateTime": "2020-02-05T00:59:13.389260Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUNza2ZIUmFnEAE"
+  }]
+}

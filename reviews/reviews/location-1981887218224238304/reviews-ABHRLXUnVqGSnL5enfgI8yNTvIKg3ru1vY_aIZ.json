@@ -1,0 +1,256 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Hugo Daniel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-06T22:28:44.416948Z",
+    "updateTime": "2024-04-06T22:28:44.416948Z",
+    "reviewReply": {
+      "comment": "Gracias Hugo.",
+      "updateTime": "2024-04-07T21:24:57.076513Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUREdk1UWE5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Nitram"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2024-03-31T22:36:02.189772Z",
+    "updateTime": "2024-03-31T22:36:02.189772Z",
+    "reviewReply": {
+      "comment": "Gracias Norberto.",
+      "updateTime": "2024-04-01T20:09:51.692804Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEZzh2SXlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Conti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-30T00:13:07.640402Z",
+    "updateTime": "2024-03-30T00:13:07.640402Z",
+    "reviewReply": {
+      "comment": "Gracias José.",
+      "updateTime": "2024-03-30T02:43:00.763075Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEcWMzNUtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Pedraza"
+    },
+    "starRating": "FIVE",
+    "comment": "Fabulosa atención\n\n(Translated by Google)\nFabulous service",
+    "createTime": "2024-03-25T00:24:49.943389Z",
+    "updateTime": "2024-03-25T00:24:49.943389Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Liliana.",
+      "updateTime": "2024-03-25T02:28:53.447683Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEdE1hRmNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "VANESA BENITEZ"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención es excelente.\n\n(Translated by Google)\nThe service is excellent.",
+    "createTime": "2024-03-20T14:57:07.846544Z",
+    "updateTime": "2024-03-20T14:57:07.846544Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Vanesa !",
+      "updateTime": "2024-03-21T12:45:06.600324Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5azZDcllREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Ibañez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención 👏\n\n(Translated by Google)\nExcellent service 👏",
+    "createTime": "2024-03-19T10:23:21.100778Z",
+    "updateTime": "2024-03-19T10:23:21.100778Z",
+    "reviewReply": {
+      "comment": "Gracias Patricia.",
+      "updateTime": "2024-04-01T20:10:13.721583Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5bFllWmNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio BUE AR"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-15T01:15:11.067227Z",
+    "updateTime": "2024-03-15T01:15:11.067227Z",
+    "reviewReply": {
+      "comment": "Gracias Claudio.",
+      "updateTime": "2024-04-01T20:10:28.982910Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5MHFpZU9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "hebert gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-12T13:38:58.817211Z",
+    "updateTime": "2024-03-12T13:38:58.817211Z",
+    "reviewReply": {
+      "comment": "Gracias Hebert.",
+      "updateTime": "2024-03-13T14:12:25.572906Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5c0puVVVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Manessi"
+    },
+    "starRating": "FIVE",
+    "comment": "Atienden rápido y bien\n\n(Translated by Google)\nThey serve quickly and well",
+    "createTime": "2024-03-12T12:52:36.580530Z",
+    "updateTime": "2024-03-12T12:52:36.580530Z",
+    "reviewReply": {
+      "comment": "Gracias Gustavo.",
+      "updateTime": "2024-03-13T14:12:02.947976Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5c0xUVWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ayelen montesinos"
+    },
+    "starRating": "FIVE",
+    "comment": "Los playeros son una maravilla!\n\n(Translated by Google)\nThe beach shoes are wonderful!",
+    "createTime": "2024-03-11T13:35:06.167554Z",
+    "updateTime": "2024-03-11T13:35:06.167554Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Ayelén.",
+      "updateTime": "2024-03-12T11:59:33.320113Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5cjRfTHZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Russo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-03-10T13:09:42.260645Z",
+    "updateTime": "2024-03-10T13:09:42.260645Z",
+    "reviewReply": {
+      "comment": "Gracias Nicolás.",
+      "updateTime": "2024-03-13T14:12:42.724448Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5aF9idkV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fede Rodríguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-09T20:54:56.247032Z",
+    "updateTime": "2024-03-09T20:54:56.247032Z",
+    "reviewReply": {
+      "comment": "Gracias Fede.",
+      "updateTime": "2024-03-10T00:57:50.343338Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5eTllSVl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nadia Suzal"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy atentos los vendedores en los dos sectores.\n\n(Translated by Google)\nThe vendors in both sectors were very attentive.",
+    "createTime": "2024-03-09T18:47:31.537410Z",
+    "updateTime": "2024-03-09T18:47:31.537410Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Nadia.",
+      "updateTime": "2024-03-10T00:57:28.990249Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5aTlfbkdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nora Adriana Ricchetti"
+    },
+    "starRating": "TWO",
+    "comment": "Baños muy sucios\n\n(Translated by Google)\nVery dirty bathrooms",
+    "createTime": "2024-03-07T22:56:23.312705Z",
+    "updateTime": "2024-03-07T22:56:23.312705Z",
+    "reviewReply": {
+      "comment": "Sra Nora, hay momentos en que la empresa de limpieza no da abasto, por ej. si finalizada su tarea, llega un micro y más de treinta personas van al baño, no hay forma que inmediatamente después vuelva a quedar impecable. Disculpas por la mala impresión, pero de todos modos siempre están los baños exclusivos para socios y clientes del Servicompras.",
+      "updateTime": "2024-03-08T19:54:05.910791Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5MWZhczRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Elizabeth Catino"
+    },
+    "starRating": "FIVE",
+    "comment": "Lo mejor los playeros,buena onda,buena atención\n\n(Translated by Google)\nThe best part is the staff, great vibe, great service",
+    "createTime": "2024-03-07T21:52:33.186294Z",
+    "updateTime": "2024-03-07T21:52:33.186294Z",
+    "reviewReply": {
+      "comment": "Gracias Alejandra.",
+      "updateTime": "2024-03-08T19:49:55.801211Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5MVpqemF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nancy Viviana Santander"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy limpio todo\n\n(Translated by Google)\nEverything was very clean.",
+    "createTime": "2024-03-05T23:15:51.280070Z",
+    "updateTime": "2024-03-05T23:15:51.280070Z",
+    "reviewReply": {
+      "comment": "Gracias Nancy.",
+      "updateTime": "2024-03-06T03:46:37.057911Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5bnJEdnFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonio Ureta"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2024-03-03T23:59:26.941539Z",
+    "updateTime": "2024-03-03T23:59:26.941539Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Antonio.",
+      "updateTime": "2024-03-04T03:00:40.683158Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5N002eUF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina Gonzalez Val"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-02T21:54:44.242825Z",
+    "updateTime": "2024-03-02T21:54:44.242825Z",
+    "reviewReply": {
+      "comment": "Gracias Silvina.",
+      "updateTime": "2024-03-03T14:45:22.839225Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5MVBIXzl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro aucar poudes"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena sinstalaciones y dan agua caliente gratuita para socios de ACA\n\n(Translated by Google)\nGood facilities and they provide free hot water for ACA members",
+    "createTime": "2024-03-02T11:32:22.575408Z",
+    "updateTime": "2024-03-02T11:32:22.575408Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Alejandro.",
+      "updateTime": "2024-03-02T20:04:08.294470Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5cE5PVlNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pesado"
+    },
+    "starRating": "THREE",
+    "comment": "Es una estación de servicio... Cargué nafta y seguí.\n\n(Translated by Google)\nIt\u0027s a gas station... I filled up with gas and continued.",
+    "createTime": "2024-02-29T15:13:53.125662Z",
+    "updateTime": "2024-02-29T15:13:53.125662Z",
+    "reviewReply": {
+      "comment": "Gracias Juan. Es la idea.",
+      "updateTime": "2024-02-29T15:50:56.013601Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5c01POURnEAE"
+  }]
+}

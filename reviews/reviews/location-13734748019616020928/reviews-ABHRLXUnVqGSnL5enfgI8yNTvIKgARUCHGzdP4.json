@@ -1,0 +1,186 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Sergio Dominguez"
+    },
+    "starRating": "THREE",
+    "comment": "Bien atendido\n\n(Translated by Google)\nWell taken care of",
+    "createTime": "2022-11-13T20:06:43.652553Z",
+    "updateTime": "2022-11-13T20:06:43.652553Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtcV9MS1pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Cruz Bergero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-11T23:39:31.170987Z",
+    "updateTime": "2022-11-11T23:39:31.170987Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtd19MbjNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Sluga"
+    },
+    "starRating": "TWO",
+    "comment": "YPF y ACA,no aceptan débito Previaje!!!!\nEs una tarjeta de débito como cualquiera\nPoco serio.\n\n(Translated by Google)\nYPF and ACA don\u0027t accept Previaje debit cards!\nIt\u0027s just a regular debit card.\nUnprofessional.",
+    "createTime": "2022-11-10T01:57:17.805441Z",
+    "updateTime": "2022-11-10T01:57:17.805441Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtOWJQbGtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina G."
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-06T20:22:01.353854Z",
+    "updateTime": "2022-11-06T20:22:01.353854Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtOGJqemhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leo Jaconis"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables en la atención.\n\n(Translated by Google)\nVery friendly service.",
+    "createTime": "2022-11-02T02:08:26.285003Z",
+    "updateTime": "2022-11-02T02:08:26.285003Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtdXF2SkNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruy Diego Roa"
+    },
+    "starRating": "TWO",
+    "comment": "Una sola persona para todas los surtidores.\n\n(Translated by Google)\nOne person for all the pumps.",
+    "createTime": "2022-10-30T20:16:39.984667Z",
+    "updateTime": "2022-10-30T20:16:39.984667Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtNHVheFZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "gaby ballart"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños limpios\n\n(Translated by Google)\nClean bathrooms",
+    "createTime": "2022-10-30T15:40:19.600691Z",
+    "updateTime": "2022-10-30T15:40:19.600691Z",
+    "reviewReply": {
+      "comment": "Gracias por su tiempo Gaby",
+      "updateTime": "2024-01-18T23:18:23.195027Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtb3BMWlZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roque Escobar"
+    },
+    "starRating": "FIVE",
+    "comment": "Maravilloso,sin palabras.\n\n(Translated by Google)\nWonderful, speechless.",
+    "createTime": "2022-10-30T02:51:34.469117Z",
+    "updateTime": "2022-10-30T02:51:34.469117Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtX09XOVpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Clara Mendoza"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-10-25T01:17:55.205267Z",
+    "updateTime": "2022-10-25T01:17:55.205267Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUMta1BlNkRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norma Caballero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-10-24T04:05:11.668188Z",
+    "updateTime": "2022-10-24T04:05:24.916960Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtZ0o2bUZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Iulianus Auriga"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen combustible y atención\n\n(Translated by Google)\nGood fuel and service",
+    "createTime": "2022-10-22T03:27:10.976987Z",
+    "updateTime": "2022-10-22T03:27:10.976987Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su vicita y por su caliificacon",
+      "updateTime": "2022-10-23T12:51:10.323458Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURldDVHTnVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gd"
+    },
+    "starRating": "THREE",
+    "comment": "Muy buena atención del personal.\n\n(Translated by Google)\nExcellent service from the staff.",
+    "createTime": "2022-10-04T12:08:45.434866Z",
+    "updateTime": "2022-10-21T02:20:05.313362Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURlN016REh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-20T22:51:17.547543Z",
+    "updateTime": "2022-10-20T22:51:17.547543Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURlaDh2LV9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Quiroga"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-10-18T20:08:35.112164Z",
+    "updateTime": "2022-10-18T20:08:35.112164Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURlMDVMRkR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "gustavo roberto eduardo soto nedir"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-10-15T22:16:13.266219Z",
+    "updateTime": "2022-10-15T22:16:13.266219Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURlMWR1VTRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elida Torres"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2022-10-12T23:15:37.346492Z",
+    "updateTime": "2022-10-12T23:15:37.346492Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURlc2EyMHlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mario casas"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2022-10-05T01:15:34.595405Z",
+    "updateTime": "2022-10-05T01:15:34.595405Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURldktDM0JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Etcheverry"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-09-27T20:56:28.410253Z",
+    "updateTime": "2022-09-27T20:56:28.410253Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlbjd2a0xREAE"
+  }, {
+    "reviewer": {
+      "displayName": "ROGELIO TRAPOTE"
+    },
+    "starRating": "FIVE",
+    "comment": "Cómodo, limpio y buena atención\n\n(Translated by Google)\nComfortable, clean and good service",
+    "createTime": "2022-09-27T15:23:18.376174Z",
+    "updateTime": "2022-09-27T15:23:18.376174Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlNzVISnJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Vianello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-19T21:56:28.123506Z",
+    "updateTime": "2022-09-19T21:56:28.123506Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlMWFiMWJnEAE"
+  }]
+}

@@ -1,0 +1,223 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Adrian"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-10-20T20:41:41.523907Z",
+    "updateTime": "2025-01-09T13:30:01.732219Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHcE52WUdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "javier pietrobelli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-05T23:28:36.530386Z",
+    "updateTime": "2025-01-05T23:28:36.530386Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSURmaHYzUzlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Blanca Marchante"
+    },
+    "starRating": "ONE",
+    "createTime": "2025-01-02T15:00:50.659757Z",
+    "updateTime": "2025-01-02T15:00:50.659757Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmOTV6bk1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Angulo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-12-31T13:19:10.477283Z",
+    "updateTime": "2024-12-31T13:19:10.477283Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmalpQVlpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Melisa Mansilla"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-12-27T19:27:54.795027Z",
+    "updateTime": "2024-12-27T19:27:54.795027Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmOHY2a3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Graci"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-12-25T19:55:24.149379Z",
+    "updateTime": "2024-12-25T19:55:24.149379Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos nuevamente en nuestra estación.\n",
+      "updateTime": "2024-12-27T19:13:13.467416Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2djctOUhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Rondini"
+    },
+    "starRating": "THREE",
+    "comment": "Deberían ser más ágiles en el Full, 30 minutos para comprar 2 sándwiches\n\n(Translated by Google)\nThey should be faster at Full, it took 30 minutes to buy 2 sandwiches",
+    "createTime": "2024-12-09T22:20:08.982276Z",
+    "updateTime": "2024-12-09T22:21:20.529256Z",
+    "reviewReply": {
+      "comment": "Hola! Muchas gracias por dejar tu comentario, tendremos en cuenta tu opinión y reseña para mejorar nuestro servicio!",
+      "updateTime": "2024-12-27T19:12:41.372516Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2eXZDMVR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Del giudice"
+    },
+    "starRating": "FOUR",
+    "comment": "Tome un café cortado cargue combustible y me limpiaron el parabrusas\n\n(Translated by Google)\nI had a coffee, filled up with fuel, and they cleaned my windshield.",
+    "createTime": "2024-11-23T00:51:09.654625Z",
+    "updateTime": "2024-11-23T00:51:09.654625Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos nuevamente en nuestra estación.",
+      "updateTime": "2024-12-02T15:16:42.214518Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQc3VXeW9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Albertario"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-11-18T14:11:57.074680Z",
+    "updateTime": "2024-11-18T14:11:57.074680Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos pronto en nuestra estación.",
+      "updateTime": "2024-11-18T15:44:13.272430Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzazhhNHVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Gonzalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2024-11-13T17:47:02.167278Z",
+    "updateTime": "2024-11-13T17:47:02.167278Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos pronto en nuestra estación.\n",
+      "updateTime": "2024-11-18T15:44:06.192487Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUQza3NPNFRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "alfredo javier ruiz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2024-11-12T17:22:27.807628Z",
+    "updateTime": "2024-11-12T17:22:27.807628Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos pronto en nuestra estación.",
+      "updateTime": "2024-11-18T15:43:56.869373Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzOUp5M19nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Jose Cassano"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-11-10T05:19:34.248331Z",
+    "updateTime": "2024-11-10T05:19:34.248331Z",
+    "reviewReply": {
+      "comment": "Hola Roberto! Gracias por dejar tu calificación, coméntanos que podemos hacer para mejor tu experiencia!  ",
+      "updateTime": "2024-11-18T15:45:06.659253Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzMTdmdGl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Martinez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-20T14:50:50.826477Z",
+    "updateTime": "2024-11-09T00:11:19.310536Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos pronto en nuestra estación.\n",
+      "updateTime": "2024-11-18T15:43:47.188936Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1N0l1TFBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Mariano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención siempre serviciales..Muy limpio todo .Lo recomiendo\n\n(Translated by Google)\nExcellent service, always helpful. Everything was very clean. I recommend it.",
+    "createTime": "2024-11-02T10:44:50.694746Z",
+    "updateTime": "2024-11-02T10:44:50.694746Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos pronto en nuestra estación.",
+      "updateTime": "2024-11-04T18:28:04.712221Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzcU9uVTBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lean Gomez Knoll."
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor parada para tomar aire durante un viaje y tambien un lugar lindo, comodo y acogedor para concurrir a pasar un rato durante el dia y comer algo rico.\n\n(Translated by Google)\nThe best place to take a breath during a trip and also a nice, comfortable, and cozy place to spend some time during the day and eat something delicious.",
+    "createTime": "2024-10-26T00:25:53.035084Z",
+    "updateTime": "2024-10-26T00:25:53.035084Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos pronto.\n",
+      "updateTime": "2024-10-28T17:54:21.683336Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSURYaXZQaTFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Olguin"
+    },
+    "starRating": "FOUR",
+    "comment": "Los baños limpios, eso ya es mucho.\nRecomendable\n\n(Translated by Google)\nThe bathrooms are clean, that\u0027s already a lot.\nRecommended",
+    "createTime": "2024-10-25T13:55:11.990594Z",
+    "updateTime": "2024-10-25T13:55:11.990594Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos pronto.\n",
+      "updateTime": "2024-10-28T17:54:04.700425Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSURYNHBqSUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Guido"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-21T01:35:06.257152Z",
+    "updateTime": "2024-10-21T01:35:06.257152Z",
+    "reviewReply": {
+      "comment": "¡Gracias por su puntuación! Te esperamos nuevamente.",
+      "updateTime": "2024-10-23T22:00:57.507038Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYdTZlX0V3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Naho Me (Pipí)"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención....\n\n(Translated by Google)\nExcellent service....",
+    "createTime": "2024-10-15T18:05:30.096503Z",
+    "updateTime": "2024-10-15T18:05:30.096503Z",
+    "reviewReply": {
+      "comment": "¡Muchas Gracias! Te esperamos pronto.",
+      "updateTime": "2024-10-17T20:50:22.959400Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYLXFYQVZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Karina Alejandra Ibañez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-15T03:25:30.314217Z",
+    "updateTime": "2024-10-15T03:25:30.314217Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYaXBDdFhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Agustin Miguens"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-15T03:20:31.989814Z",
+    "updateTime": "2024-10-15T03:20:31.989814Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYaW9DUmxnRRAB"
+  }]
+}

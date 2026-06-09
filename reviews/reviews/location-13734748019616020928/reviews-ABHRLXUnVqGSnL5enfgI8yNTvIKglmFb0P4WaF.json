@@ -1,0 +1,193 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "PACHA CUTY HOSTEL"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-04-08T15:55:26.474032Z",
+    "updateTime": "2022-04-08T15:55:26.474032Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMzlfWm9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jose luis perez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-04-04T01:15:33.154881Z",
+    "updateTime": "2022-04-04T01:15:33.154881Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXODd1WjVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gimena Lombo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención! Tienen todo para el automóvil. Aceptan pago en efvo, tarjetas y con la app\n\n(Translated by Google)\nGreat service! They have everything you need for your car. They accept cash, credit cards, and app payments.",
+    "createTime": "2022-04-04T00:30:20.724666Z",
+    "updateTime": "2022-04-04T00:30:20.724666Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXODhPTzhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Zarate"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-04-03T10:27:36.512067Z",
+    "updateTime": "2022-04-03T10:27:36.512067Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMDRMaDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ingrid fuentes"
+    },
+    "starRating": "FIVE",
+    "comment": "Hay baño\n\n(Translated by Google)\nThere is a bathroom",
+    "createTime": "2022-03-31T23:18:11.336810Z",
+    "updateTime": "2022-03-31T23:18:11.336810Z",
+    "reviewReply": {
+      "comment": "Gracias ",
+      "updateTime": "2024-01-18T23:18:39.097868Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURXN2JTRmZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "carlos ferreiro"
+    },
+    "starRating": "FOUR",
+    "comment": "Baños muy limpios y muy buena atención\n\n(Translated by Google)\nVery clean bathrooms and very good service",
+    "createTime": "2022-03-30T21:40:11.334427Z",
+    "updateTime": "2022-03-30T21:40:11.334427Z",
+    "reviewReply": {
+      "comment": "Muy agradecido Carlos",
+      "updateTime": "2024-01-18T23:20:32.550896Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdGVtNWZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Cianciu"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo ok solo que al querer abonar con previaje la tarjeta dio denegada cuando en otro local a los 5 minutos paso sin problema.\n\n(Translated by Google)\nEverything was fine, except that when I tried to pay in advance, the card was denied, but at another location, it went through without any problem 5 minutes later.",
+    "createTime": "2022-03-30T20:51:39.955465Z",
+    "updateTime": "2022-03-30T20:51:39.955465Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXdGM3NnhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Santucho"
+    },
+    "starRating": "THREE",
+    "comment": "Estuvimos cargando combustible y comprando agua. Había cola de vehículos. Había un solo empleado para atender a todos, y atendia también la venta de agua y gaseosas, pobre, no daba abasto. Hasta se disculpó conmigo que estaba comprando agua por su demora, y no se demoró prácticamente nada. Aplaudo a ese empleado. Y los que manejan esa estación de servicio tendrían que poner personas que lo ayuden\n\n(Translated by Google)\nWe were filling up with gas and buying water. There was a line of vehicles. There was only one employee to serve everyone, and he also sold water and soda. Poor thing, he couldn\u0027t keep up. He even apologized to me, who was buying water, for being late, and he was practically in no time at all. I applaud that employee. And those who run that gas station should hire people to help him.",
+    "createTime": "2022-03-28T23:01:26.362742Z",
+    "updateTime": "2022-03-28T23:01:59.107405Z",
+    "reviewReply": {
+      "comment": "Gracias Marcela por su tiempo y sugerencia",
+      "updateTime": "2023-10-05T19:22:06.595859Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMlpIejl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Pera"
+    },
+    "starRating": "FIVE",
+    "comment": "Una estación de servicio pura y dura. No tiene cafetería. Excelente atención y limpios los baños.\n\n(Translated by Google)\nA pure gas station. It doesn\u0027t have a cafeteria. Excellent service and clean restrooms.",
+    "createTime": "2022-03-26T10:49:06.071469Z",
+    "updateTime": "2022-03-26T10:49:06.071469Z",
+    "reviewReply": {
+      "comment": "Martin gracias por su comentario y puntuación ",
+      "updateTime": "2024-01-18T23:12:58.058108Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURXb2F6Q0tBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Giribaldi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-26T04:23:00.018504Z",
+    "updateTime": "2022-03-26T04:23:00.018504Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd2V5UWdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rogelio Fuertes"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-03-25T14:57:12.510231Z",
+    "updateTime": "2022-03-25T14:57:12.510231Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdnJ2Q1FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Keila Jaquelina Laila Carlos Campos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-19T03:08:52.864471Z",
+    "updateTime": "2022-03-19T03:08:52.864471Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd3BlbjNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucia Plastine"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-18T23:38:59.617Z",
+    "updateTime": "2022-03-18T23:38:59.617Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd3ZhdXJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de los playeros.\n\n(Translated by Google)\nExcellent service from the beach attendants.",
+    "createTime": "2022-03-15T18:45:27.832209Z",
+    "updateTime": "2022-03-15T18:45:27.832209Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXcE83cndnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Pedreira"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-14T16:19:19.435015Z",
+    "updateTime": "2022-03-14T16:19:19.435015Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURXMk5EbkFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Poggio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-13T11:00:38.902662Z",
+    "updateTime": "2022-03-13T11:00:38.902662Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSURXOEoyN0hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "SILVIA LUCHINI"
+    },
+    "starRating": "THREE",
+    "comment": "Felicitaciones al A.C.A. por brindar un muy buen servicio en sus instalaciones. Baños siempre limpios. Cordial atención de sus playeros.\n\n(Translated by Google)\nCongratulations to A.C.A. for providing excellent service at their facilities. The restrooms are always clean. The beach attendants are attentive.",
+    "createTime": "2022-03-12T00:42:02.372988Z",
+    "updateTime": "2022-03-12T00:42:02.372988Z",
+    "reviewReply": {
+      "comment": "Gracias por su publicación y comentario ",
+      "updateTime": "2024-01-18T23:12:10.918171Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd0x1NDRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Oyarzun"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-10T19:37:55.529875Z",
+    "updateTime": "2022-03-10T19:37:55.529875Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXbjh1alNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Trebol rojo matafuegos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-07T17:05:35.742302Z",
+    "updateTime": "2022-03-07T17:05:35.742302Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXdTdDNmF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Galateo"
+    },
+    "starRating": "ONE",
+    "createTime": "2022-03-06T11:24:17.253430Z",
+    "updateTime": "2022-03-06T11:24:17.253430Z",
+    "name": "accounts/109853746269412609224/locations/13734748019616020928/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXODVycE53EAE"
+  }]
+}

@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Damian Guzman"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-27T19:42:14.488620Z",
+    "updateTime": "2023-10-27T19:42:14.488620Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGZ29UWEJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Overshred"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-27T14:41:08.015389Z",
+    "updateTime": "2023-10-27T14:41:08.015389Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGcUx6amNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Espindola"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-26T17:56:15.129570Z",
+    "updateTime": "2023-10-26T17:56:15.129570Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1bWVUU2NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Volonnino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-25T20:00:18.994932Z",
+    "updateTime": "2023-10-25T20:00:18.994932Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1MGVqOFpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Exequiel Dieterich"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-25T12:36:08.877642Z",
+    "updateTime": "2023-10-25T12:36:08.877642Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1b2R5TEJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Barbara Tamara Rodriguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-25T11:51:54.689526Z",
+    "updateTime": "2023-10-25T11:51:54.689526Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1d2EtQl93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Bartolomeo"
+    },
+    "starRating": "ONE",
+    "comment": "Cada vez peor.  Hace 30 años que ws igual . Y menos accesible.\n\n(Translated by Google)\nIt\u0027s getting worse all the time. It\u0027s been the same for 30 years. And it\u0027s less accessible.",
+    "createTime": "2023-10-25T03:40:49.636324Z",
+    "updateTime": "2023-10-25T03:40:49.636324Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1X3ZLNml3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ubaldo Didone"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindos baños\n\n(Translated by Google)\nVery nice bathrooms",
+    "createTime": "2023-10-25T01:02:01.314865Z",
+    "updateTime": "2023-10-25T01:02:47.754627Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1dnFXeUl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "claudio forte"
+    },
+    "starRating": "FIVE",
+    "comment": "Espectacular atención!\n\n(Translated by Google)\nSpectacular service!",
+    "createTime": "2023-10-24T21:06:22.073751Z",
+    "updateTime": "2023-10-24T21:06:40.025619Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1M3BiSklREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Molina"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-24T19:43:45.625091Z",
+    "updateTime": "2023-10-24T19:43:45.625091Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1bnJQU0tnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Ferrara"
+    },
+    "starRating": "THREE",
+    "comment": "Buena limpieza.\n\n(Translated by Google)\nGood cleaning.",
+    "createTime": "2023-10-24T13:52:07.017477Z",
+    "updateTime": "2023-10-24T13:52:07.017477Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1anY2OS1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Pannella"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-24T10:31:03.248004Z",
+    "updateTime": "2023-10-24T10:31:03.248004Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1MXRXb2p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Budiño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-24T04:52:39.783461Z",
+    "updateTime": "2023-10-24T04:52:39.783461Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1cHNPUFlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Currenti"
+    },
+    "starRating": "FIVE",
+    "comment": "100 puntos pibe\n\n(Translated by Google)\n100 points, kid",
+    "createTime": "2023-10-23T19:50:05.158803Z",
+    "updateTime": "2023-10-23T19:50:05.158803Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1eHVpOVhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "karina"
+    },
+    "starRating": "ONE",
+    "comment": "Baños y lugar p comer muy sucio\n\n(Translated by Google)\nBathrooms and eating area very dirty",
+    "createTime": "2023-10-23T17:27:17.458131Z",
+    "updateTime": "2023-10-23T17:27:17.458131Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1aHRiT1lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jaz Peronja"
+    },
+    "starRating": "THREE",
+    "comment": "Los baños aceptables, no utilice otras instalaciones\n\n(Translated by Google)\nThe restrooms are acceptable; do not use other facilities.",
+    "createTime": "2023-10-23T00:52:26.417126Z",
+    "updateTime": "2023-10-23T00:52:26.417126Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1NnZmRkl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Bernardo Arranz"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-10-22T14:37:58.008253Z",
+    "updateTime": "2023-10-22T14:37:58.008253Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1eXY2V1NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rubén Darío Steszek"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atencion un lugar  con un paisaje hermoso\n\n(Translated by Google)\nExcellent service, a place with a beautiful landscape",
+    "createTime": "2023-10-21T20:11:08.038147Z",
+    "updateTime": "2023-10-21T20:11:08.038147Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1MHBEbVB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia JaRi"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente la limpieza de los baños. Apto discapacidad\n\n(Translated by Google)\nThe bathrooms were excellently clean. Accessible for people with disabilities.",
+    "createTime": "2023-10-20T14:37:04.281191Z",
+    "updateTime": "2023-10-20T14:37:04.281191Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1N0kydDZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rala Rodriguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-20T01:12:34.317008Z",
+    "updateTime": "2023-10-20T01:12:34.317008Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1LUxtaFNREAE"
+  }]
+}

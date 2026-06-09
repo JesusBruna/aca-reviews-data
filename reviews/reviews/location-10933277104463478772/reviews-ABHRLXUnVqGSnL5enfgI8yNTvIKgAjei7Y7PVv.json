@@ -1,0 +1,180 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Edgardo Blangetti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-11-10T15:02:12.325901Z",
+    "updateTime": "2019-11-10T15:02:12.325901Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwNmFEN2dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Luis Zbinden"
+    },
+    "starRating": "FOUR",
+    "comment": "Un recomendado para cargar combustible de calidad, la atención muy buena, instalaciones son mantenidas en cuanto a limpieza respecta. Los precios a la par de otros lugares del rubro.\n\n(Translated by Google)\nHighly recommended for quality fuel, excellent service, and well-maintained facilities. Prices are competitive with other gas stations.",
+    "createTime": "2019-11-09T20:24:56.248505Z",
+    "updateTime": "2019-11-09T20:24:56.248505Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwOFl2WFhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "jorge alberto ledesma"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-11-07T16:57:13.765556Z",
+    "updateTime": "2019-11-07T16:57:13.765556Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwZ2ZhUk5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Nicolas Cifaldi Ruano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, rápida y cuidada.\n\n(Translated by Google)\nGood service, fast and careful.",
+    "createTime": "2019-11-06T16:52:08.897730Z",
+    "updateTime": "2019-11-06T16:52:08.897730Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwM3JPeUhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Joaquin Olivero"
+    },
+    "starRating": "ONE",
+    "createTime": "2019-11-05T15:55:37.395884Z",
+    "updateTime": "2019-11-05T15:55:37.395884Z",
+    "reviewReply": {
+      "comment": "Sr Olivero agradeceríamos nos pudiera comentar en qué podriamos mejorar nuestros servicios para en lo posible cumplir con sus expectativas. Saludos cordiales.",
+      "updateTime": "2019-11-05T17:05:12.500837Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwcnFxU1hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Auto Check"
+    },
+    "starRating": "FIVE",
+    "comment": "Realmente una atención de excelencia, limpio y ordenado, cafe muy bueno, tiene todos los productos ...\n\n(Translated by Google)\nTruly excellent service, clean and tidy, very good coffee, they have all the products...",
+    "createTime": "2019-11-05T13:45:36.774814Z",
+    "updateTime": "2019-11-05T13:45:36.774814Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwenN1cEdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marita Vico"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-11-05T10:38:22.202132Z",
+    "updateTime": "2019-11-05T10:38:22.202132Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwenBhQmZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Isuani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-11-04T15:16:27.441870Z",
+    "updateTime": "2019-11-04T15:16:27.441870Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwdHNlanlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Zanon"
+    },
+    "starRating": "ONE",
+    "comment": "Muy cordobés.. despues de probar pagar con TRES TARJETAS DE CREDITO las chicas se enteraron que no tenian sistema.. MUY RARO.. SOLO EFECTIVO..\nCUANDO PAGUE EN EFECTIVO.. SABEN QUE PASÓ?..\nLA NIÑA SE EQUIVOCÓ EM EL VUELTO....  ME DABA \"DE MENOS\" CASUALMENTE..NO DE MAS... SI PASAN POR AHI... TENGAN CUIDADO..\n\n(Translated by Google)\nVery typical of Córdoba... after trying to pay with THREE CREDIT CARDS, the girls realized their system was down... VERY STRANGE... CASH ONLY... WHEN I PAID IN CASH... GUESS WHAT HAPPENED?... THE GIRL MADE A MISTAKE WITH THE CHANGE... SHE JUST GIVEN ME THE MOST, NOT THE MOST... IF YOU GO BY THERE... BE CAREFUL...",
+    "createTime": "2019-11-03T15:38:07.606986Z",
+    "updateTime": "2019-11-03T15:38:07.606986Z",
+    "reviewReply": {
+      "comment": "Efectivamente y tal como le informaron y Ud pudo observar (ya que como dice intentaron 3 veces con tarjetas distintas) hay un problema con la empresa de terminales posnet y por ello no pudieron cobrarle con tarjeta de crédito.\nHicimos un reclamo y en breve restablecerán el servicio ya que es algo ajeno a nuestra empresa pero que perjudica a nuestros clientes. Sinceramente lamentamos la situación y que la cajera casi se equivocara en entregarle su vuelto.",
+      "updateTime": "2019-11-03T16:25:21.018214Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwNXA3dFlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "gonzalo moreno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-11-03T15:12:42.426905Z",
+    "updateTime": "2019-11-03T15:12:42.426905Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwNXBhOS1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Erramouspe"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-11-03T04:32:41.546642Z",
+    "updateTime": "2019-11-03T04:32:41.546642Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQweHZlOFF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Manzo"
+    },
+    "starRating": "FIVE",
+    "comment": "💥",
+    "createTime": "2019-11-01T12:20:22.791683Z",
+    "updateTime": "2019-11-01T12:20:22.791683Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwbXFxTHJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Centeno"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-11-01T11:28:41.029716Z",
+    "updateTime": "2019-11-01T11:28:41.029716Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwbXV6SnZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Bruno"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-11-01T10:45:43.140314Z",
+    "updateTime": "2019-11-01T10:45:43.140314Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwbXZpOXp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Di Febo"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-10-31T22:45:57.476089Z",
+    "updateTime": "2019-10-31T22:45:57.476089Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwcXVxbVhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Verónica Di Matteo"
+    },
+    "starRating": "THREE",
+    "comment": "Esta muy bien atendido y reciben todas las tarjetas de crédito y débito. A determinadas horas hay que hacer fila larga de autos\n\n(Translated by Google)\nThe service is very good, and they accept all credit and debit cards. At certain times, there\u0027s a long line of cars.",
+    "createTime": "2019-10-30T13:20:16.042245Z",
+    "updateTime": "2019-10-30T13:20:16.042245Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwc3FUUmRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Esteban Nigrelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2019-10-28T20:19:33.025072Z",
+    "updateTime": "2019-10-28T20:19:33.025072Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwd3ZQTkZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Jose Torres"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2019-10-28T19:27:37.093485Z",
+    "updateTime": "2019-10-28T19:27:37.093485Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwd3EyQ1dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Atilio Salvay"
+    },
+    "starRating": "TWO",
+    "comment": "Buena Atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2019-10-16T15:45:49.143671Z",
+    "updateTime": "2019-10-26T01:07:29.279117Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwdjdyMFp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Murua"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-10-25T22:47:22.598548Z",
+    "updateTime": "2019-10-25T22:47:22.598548Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwekliZmhnRRAB"
+  }]
+}

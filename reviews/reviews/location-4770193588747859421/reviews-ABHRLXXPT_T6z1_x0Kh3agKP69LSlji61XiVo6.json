@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ricardo Zabalegui"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-17T10:06:33.387900Z",
+    "updateTime": "2021-03-17T10:06:33.387900Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5aTQ3S1pnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victoria Vargas Casafus"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-15T21:15:27.040026Z",
+    "updateTime": "2021-03-15T21:15:27.040026Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5emYzRnlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucho Colon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-13T21:26:05.338296Z",
+    "updateTime": "2021-03-13T21:26:05.338296Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5eGJIUmlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "NICOLÁS Izaguirre"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-03-10T09:27:00.686534Z",
+    "updateTime": "2021-03-10T09:27:00.686534Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5NFl5VEx3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Vargas (clauuu)"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-08T20:46:27.894705Z",
+    "updateTime": "2021-03-08T20:46:27.894705Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5M3JhNEF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Emilio"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y muy amables los playeros.\n\n(Translated by Google)\nGood service and very friendly beach attendants.",
+    "createTime": "2021-03-08T12:07:44.012488Z",
+    "updateTime": "2021-03-08T12:08:11.683905Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5N3R1YkFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sirio “Sirio” Abraham"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy gentiles en la atención!! Se puede pagar con la aplicación de YPF y con descuentos, con QR. recomiendo 100%\n\n(Translated by Google)\nVery friendly service! You can pay with the YPF app and get discounts using the QR code. I highly recommend it.",
+    "createTime": "2021-03-08T02:49:20.770384Z",
+    "updateTime": "2021-03-08T02:50:32.894032Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5cnJtRzB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Nanus"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-07T14:56:08.301569Z",
+    "updateTime": "2021-03-07T14:56:08.301569Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5anFmWER3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "ALEXIS BALTRAMAITIS"
+    },
+    "starRating": "FIVE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2021-03-05T17:39:14.072101Z",
+    "updateTime": "2021-03-06T17:41:33.880696Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5cHZibmhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "carlos manuel Occhi"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente servicio de cafeteria\n\n(Translated by Google)\nExcellent cafeteria service",
+    "createTime": "2021-03-02T22:43:18.793879Z",
+    "updateTime": "2021-03-02T22:43:18.793879Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5aXFIbVdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Keko"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-02T20:40:42.118472Z",
+    "updateTime": "2021-03-02T20:40:42.118472Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5aXR5M1VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Ruben Litterio"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio de atencion a los clientes y a toda persona que va abasteserce\n\n(Translated by Google)\nGood customer service and assistance to everyone who comes to stock up.",
+    "createTime": "2021-02-26T17:27:22.880890Z",
+    "updateTime": "2021-03-02T13:07:10.508466Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5ekpxclRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia"
+    },
+    "starRating": "FOUR",
+    "comment": "Dentro de todo, atienden bastante bien\n\n(Translated by Google)\nAll things considered, they provide pretty good service.",
+    "createTime": "2021-02-28T23:49:20.523972Z",
+    "updateTime": "2021-02-28T23:49:20.523972Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5d3JUaDJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lorena Lescano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-27T03:51:48.083918Z",
+    "updateTime": "2021-02-27T03:51:48.083918Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5ck9QN21BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Avalos"
+    },
+    "starRating": "FOUR",
+    "comment": "Buenas ofertas\n\n(Translated by Google)\nGreat deals",
+    "createTime": "2021-02-22T02:09:50.009112Z",
+    "updateTime": "2021-02-22T02:09:50.009112Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5aUlHb05nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Buteler"
+    },
+    "starRating": "THREE",
+    "comment": "😄",
+    "createTime": "2021-02-20T23:01:41.622269Z",
+    "updateTime": "2021-02-20T23:01:41.622269Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5a0lmc01nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Fer Casas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-16T23:00:30.807120Z",
+    "updateTime": "2021-02-16T23:00:30.807120Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5dDRxRnF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Isidro Mazzucca"
+    },
+    "starRating": "FIVE",
+    "comment": "Me gusta pagar con QR rapido\n\n(Translated by Google)\nI like paying quickly with QR codes",
+    "createTime": "2021-02-16T18:50:12.613346Z",
+    "updateTime": "2021-02-16T18:50:18.381866Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5MTRQc3N3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roxana Cibischino"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-02-16T08:19:34.277488Z",
+    "updateTime": "2021-02-16T08:19:34.277488Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5NS1fT3V3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Cruz Escobar"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-02-15T04:41:05.679534Z",
+    "updateTime": "2021-02-15T04:41:05.679534Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5aDhqOWxRRRAB"
+  }]
+}

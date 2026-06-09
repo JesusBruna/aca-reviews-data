@@ -1,0 +1,47 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Hernan Lopez Conde"
+    },
+    "starRating": "THREE",
+    "comment": "Siempre hay mucha espera y hay que esperar sobre la calle\n\n(Translated by Google)\nThere\u0027s always a long wait, and you have to wait outside on the street.",
+    "createTime": "2015-12-19T21:41:51.369Z",
+    "updateTime": "2015-12-19T21:42:10.392Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3dU4zQ2RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Goldenstein"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente estacion de servicio YPF\n\n(Translated by Google)\nExcellent YPF service station",
+    "createTime": "2015-12-05T22:11:25.634Z",
+    "updateTime": "2015-12-05T22:11:25.634Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURBbEl5ci1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio Ferrero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente CLUB !!!!\nMuy recomendable\n\n(Translated by Google)\nExcellent club!\nHighly recommended.",
+    "createTime": "2015-08-12T11:12:16.643Z",
+    "updateTime": "2015-08-12T11:12:16.643Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURBOGJYQmhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jero El Negro Alfaro"
+    },
+    "starRating": "FOUR",
+    "comment": "Tallee aca",
+    "createTime": "2015-08-10T04:40:08.828Z",
+    "updateTime": "2015-08-10T04:40:08.828Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBbEtycmN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Betty Franco"
+    },
+    "starRating": "THREE",
+    "createTime": "2015-03-20T13:18:18.948Z",
+    "updateTime": "2015-03-20T13:18:18.948Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMmRyb0tREAE"
+  }]
+}

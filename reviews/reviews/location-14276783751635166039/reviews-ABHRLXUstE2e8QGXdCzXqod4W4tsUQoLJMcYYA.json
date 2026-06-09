@@ -1,0 +1,185 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Leonardo Rodriguez"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-01-20T21:22:03.090Z",
+    "updateTime": "2017-01-20T21:23:35.551Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBeXNYREdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Fortuna"
+    },
+    "starRating": "FIVE",
+    "comment": "muy limpio y atencion amable\n\n(Translated by Google)\nVery clean and friendly service",
+    "createTime": "2017-01-20T18:38:49.232Z",
+    "updateTime": "2017-01-20T18:38:49.232Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURRZ3NHbENBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Bernabide"
+    },
+    "starRating": "FOUR",
+    "comment": "Para descansar y seguir el viaje\n\n(Translated by Google)\nTo rest and continue the journey",
+    "createTime": "2017-01-20T16:46:59.765Z",
+    "updateTime": "2017-01-20T17:47:49.475Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3cXY3a1NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Pucci"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-01-16T20:48:30.862Z",
+    "updateTime": "2017-01-16T20:48:30.862Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURnMGItY0lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Iozzia"
+    },
+    "starRating": "THREE",
+    "comment": "Lindo lugar para hacer un descanso y tomar unos mates\n\n(Translated by Google)\nNice place to take a break and have some mate.",
+    "createTime": "2017-01-16T13:54:02.667Z",
+    "updateTime": "2017-01-16T13:55:57.379Z",
+    "reviewReply": {
+      "comment": "Gracias Esteban ",
+      "updateTime": "2025-07-19T21:36:30.696203Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURnb3Fhakd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Castro"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo correcto y siempre un buen servicio\n\n(Translated by Google)\nEverything was fine and the service was always good.",
+    "createTime": "2017-01-16T12:19:13.146Z",
+    "updateTime": "2017-01-16T12:19:39.575Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNncExEc1p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nataliya Vlasyk"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-01-15T21:36:11.623Z",
+    "updateTime": "2017-01-15T21:36:11.623Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURneVl5eDRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Moreno"
+    },
+    "starRating": "THREE",
+    "comment": "Mucha cola estación ypf aca\n\n(Translated by Google)\nLong queue at YPF station here",
+    "createTime": "2017-01-15T02:41:10.687Z",
+    "updateTime": "2017-01-15T02:41:30.472Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBOGRhZkNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "andrea san martin"
+    },
+    "starRating": "FOUR",
+    "comment": "Baños bien limpios, pero solo hasta las 00:00hs reciben efectivo,luego se paga con tarjeta.\n\n(Translated by Google)\nThe bathrooms are very clean, but they only accept cash until midnight, after that you have to pay by card.",
+    "createTime": "2017-01-15T01:40:52.895Z",
+    "updateTime": "2017-01-15T01:42:58.178Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBX3ZQUGtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Robledo"
+    },
+    "starRating": "THREE",
+    "comment": "Baños en buen estado, buena atención,\n\n(Translated by Google)\nBathrooms in good condition, good service,",
+    "createTime": "2017-01-14T11:52:13.971Z",
+    "updateTime": "2017-01-14T11:53:00.362Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3OGVxZ01nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Masi"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-01-13T23:41:20.596Z",
+    "updateTime": "2017-01-13T23:41:20.596Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBc3Q2NHZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina Prassel"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-01-13T21:38:37.927Z",
+    "updateTime": "2017-01-13T21:38:37.927Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3cXIyeTBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonino Taboada"
+    },
+    "starRating": "ONE",
+    "comment": "Una porquería. Es YPF Full y a las 13hs no tenían ningún tipo de comida caliente. Sólo medialunas. Y sándwiches pedorros en una heladera. Desastre.\nSolo se las recomiendo para cargar nafta porque en la Petrobras no tienen.\n\n(Translated by Google)\nIt\u0027s a dump. It\u0027s a YPF Full station, and at 1 PM they didn\u0027t have any hot food. Just croissants and some lousy sandwiches in a refrigerator. A disaster. I only recommend it for gas because Petrobras doesn\u0027t have any.",
+    "createTime": "2017-01-13T20:20:23.814Z",
+    "updateTime": "2017-01-13T20:21:36.912Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURnX2FXbUJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Castillo"
+    },
+    "starRating": "ONE",
+    "comment": "Lentos para atender, para cargar combustible y para atender en YPF full\nNo tienen YPF en ruta\n\n(Translated by Google)\nSlow to serve you, slow to refuel, and slow to get a full service at YPF. They don\u0027t have YPF stations along the route.",
+    "createTime": "2017-01-12T16:13:32.147Z",
+    "updateTime": "2017-01-12T16:14:06.772Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURnbk5tb1BnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Buscaglia"
+    },
+    "starRating": "THREE",
+    "comment": "Muy buen lugar\n\n(Translated by Google)\nVery good place",
+    "createTime": "2017-01-12T05:56:00.010Z",
+    "updateTime": "2017-01-12T05:56:11.065Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnX3NXejRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "pablo andrés Sanchez"
+    },
+    "starRating": "THREE",
+    "comment": "No es ypf\n\n(Translated by Google)\nIt\u0027s not YPF.",
+    "createTime": "2017-01-11T21:07:51.206Z",
+    "updateTime": "2017-01-11T21:07:59.169Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eEpMV1B3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Yamile Berardi"
+    },
+    "starRating": "ONE",
+    "comment": "Largas colas para cargar nafta con poco personal para la atención al publico, en el Shop se quedan sin mercadería no reponen y no tiene las  de serviclubpromos\n\n(Translated by Google)\nLong lines to fill up with gas, with insufficient staff to serve the public; the convenience store runs out of merchandise, doesn\u0027t restock, and doesn\u0027t have the Serviclub promo items.",
+    "createTime": "2017-01-10T15:32:50.694Z",
+    "updateTime": "2017-01-10T15:32:50.694Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURnMFpTRVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Zumbay"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-01-09T23:24:24.127Z",
+    "updateTime": "2017-01-09T23:24:24.127Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBeWJpR21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Cruz"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) Everything\u0027s okay, normal.\n\n(Original)\nTodo ok, normal",
+    "createTime": "2017-01-09T01:54:11.015Z",
+    "updateTime": "2017-01-09T01:54:19.127Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T21:59:52.803854Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURRcW9uS2lBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustín Matías Rodríguez"
+    },
+    "starRating": "TWO",
+    "comment": "Lentos y no te quieren cargan la serviclub. Mala atención en el full.\n\n(Translated by Google)\nSlow and they don\u0027t want to load your card. Bad service at the full service center.",
+    "createTime": "2017-01-08T12:56:04.920Z",
+    "updateTime": "2017-01-08T12:57:52.955Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNThfVnV3RRAB"
+  }]
+}

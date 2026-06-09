@@ -1,0 +1,201 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Cesar Alcala"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-09-21T11:49:52.269731Z",
+    "updateTime": "2023-09-21T11:49:52.269731Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaM18tY2hRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jorge molina"
+    },
+    "starRating": "FOUR",
+    "comment": "Almorzamos en el restaurante. La atención muy lenta y la parrillada súper escasa.\n\n(Translated by Google)\nWe had lunch at the restaurant. The service was very slow and the grilled meat was tiny.",
+    "createTime": "2023-09-20T17:50:19.338988Z",
+    "updateTime": "2023-09-20T17:50:19.338988Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaejlMc1hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cindy Miranda"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-09-20T15:03:49.647201Z",
+    "updateTime": "2023-09-20T15:03:49.647201Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaajhxc1FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adiel Sanchez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-09-20T14:58:40.927363Z",
+    "updateTime": "2023-09-20T14:58:40.927363Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaajVLT2J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Analuz Abele"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-09-18T22:59:57.555078Z",
+    "updateTime": "2023-09-18T22:59:57.555078Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNadTRpLVV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eugenia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-09-17T17:15:50.279493Z",
+    "updateTime": "2023-09-17T17:15:50.279493Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaczliR3BRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Promedios Agencia de publicidad"
+    },
+    "starRating": "FOUR",
+    "comment": "Suele faltar diesel..buena atencion\n\n(Translated by Google)\nDiesel is often unavailable...good service",
+    "createTime": "2023-09-17T03:01:42.901283Z",
+    "updateTime": "2023-09-17T03:01:42.901283Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabzRHWlNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Caballieri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-16T19:54:11.098368Z",
+    "updateTime": "2023-09-16T19:54:11.098368Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNadzlpTHVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "EED"
+    },
+    "starRating": "THREE",
+    "comment": "Sin infinito un domingo al mediodía!!!\n\n(Translated by Google)\nNo infinity on a Sunday at noon!!!",
+    "createTime": "2023-09-16T04:48:43.147431Z",
+    "updateTime": "2023-09-16T04:48:43.147431Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabmUyV2FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "marite carullo"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy amables! Bien provista!\n\n(Translated by Google)\nVery friendly! Well stocked!",
+    "createTime": "2023-09-16T01:52:26.997096Z",
+    "updateTime": "2023-09-16T01:52:26.997096Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNabmZUejNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Blanca Catriel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-15T02:21:06.214776Z",
+    "updateTime": "2023-09-15T02:21:13.838894Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNadGRqTHVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Arcando"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-15T00:02:52.087169Z",
+    "updateTime": "2023-09-15T00:02:52.087169Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaMWJYbUxBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Johansen"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-14T20:26:32.399696Z",
+    "updateTime": "2023-09-14T20:26:32.399696Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabGNfYlZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Gette"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy completa. Buen servicio\n\n(Translated by Google)\nVery comprehensive. Good service.",
+    "createTime": "2023-09-13T20:37:52.734157Z",
+    "updateTime": "2023-09-13T20:37:52.734157Z",
+    "reviewReply": {
+      "comment": "Sr Néstor \nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades y seguir mejorando.",
+      "updateTime": "2023-09-13T23:42:29.957847Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNadWVIcmx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "patas sueltas"
+    },
+    "starRating": "FOUR",
+    "comment": "buen lugar para para y descansar un rato\n\n(Translated by Google)\nGood place to stop and rest for a while",
+    "createTime": "2023-09-13T20:06:54.910812Z",
+    "updateTime": "2023-09-13T20:06:54.910812Z",
+    "reviewReply": {
+      "comment": "Agradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades y seguir mejorando.",
+      "updateTime": "2023-09-13T23:43:16.723995Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNadWZyY3BBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mónica Cristina Gonzalez"
+    },
+    "starRating": "ONE",
+    "comment": "carísimo, solo parar para cargar agua e irse!\n\n(Translated by Google)\nExtremely expensive, just stop to fill up with water and leave!",
+    "createTime": "2023-02-27T13:37:37.864103Z",
+    "updateTime": "2023-09-13T13:58:47.636616Z",
+    "reviewReply": {
+      "comment": "Sra Monica\nLamentamos haya tenido una mala experiencia en nuestro establecimiento. Su opinión será tenida en cuenta, y trabajaremos sobre eso.",
+      "updateTime": "2023-09-13T23:44:50.049777Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURoME5XMHR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Amilcar Ibarra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-09-12T22:44:34.430803Z",
+    "updateTime": "2023-09-12T22:44:34.430803Z",
+    "reviewReply": {
+      "comment": "Sr Amilcar\nAgradecemos mucho su calificación.\nContinuaremos trabajando para satisfacer sus necesidades Esperamos su visita nuevamente.",
+      "updateTime": "2023-09-13T23:45:57.305079Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaaWNMbWhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "H. T."
+    },
+    "starRating": "THREE",
+    "createTime": "2023-09-12T16:44:47.480583Z",
+    "updateTime": "2023-09-12T16:44:47.480583Z",
+    "reviewReply": {
+      "comment": "Nos interesaría conocer cuáles fueron los detalles que hicieron que no obtuviésemos la mayor puntuación, ya que manera nos ayuda a mejorar.",
+      "updateTime": "2023-09-13T23:47:13.247305Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNac2FYZUhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-09-12T12:52:31.777764Z",
+    "updateTime": "2023-09-12T12:52:31.777764Z",
+    "reviewReply": {
+      "comment": "Sr Pablo\nAgradecemos mucho su calificación. Esperamos su visita nuevamente. Continuaremos trabajando para satisfacer sus necesidades.",
+      "updateTime": "2023-09-13T23:48:08.311260Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMGVMRzV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Antoniazzi"
+    },
+    "starRating": "THREE",
+    "comment": "Los baños muy sucios! El resto aceptable y rápido. Solo eso, mejoren la limpieza de los baños!\n\n(Translated by Google)\nThe bathrooms were filthy! The rest was acceptable and quick. That\u0027s all, please improve the cleanliness of the bathrooms!",
+    "createTime": "2023-09-10T22:05:37.315404Z",
+    "updateTime": "2023-09-10T22:05:37.315404Z",
+    "reviewReply": {
+      "comment": "Sr. Cristian\nLamentamos haya tenido una mala experiencia, los baños se mantienen en forma permanente, las 24 hs, aunque posiblemente debe haber concurrido un grupo, o colectivo  antes de su paso, de igual manera será tenido en cuenta su reclamo. Trabajaremos para seguir \nmejorando.",
+      "updateTime": "2023-09-13T23:41:28.448536Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaN3N6cEpnEAE"
+  }]
+}

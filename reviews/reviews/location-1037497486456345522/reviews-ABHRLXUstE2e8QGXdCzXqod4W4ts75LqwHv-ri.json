@@ -1,0 +1,255 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carlos Alberto C"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2026-01-06T23:18:58.667427Z",
+    "updateTime": "2026-01-06T23:18:58.667427Z",
+    "reviewReply": {
+      "comment": "Gracias Carlos por tu calificación",
+      "updateTime": "2026-01-07T20:46:37.389013Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kSlNIWllkbEJLTWxseWNHeHZYekF0V2toRU1uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "silvana melin"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-01-06T14:06:48.500079Z",
+    "updateTime": "2026-01-06T14:06:48.500079Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2026-01-06T18:07:57.154959Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WR1ozRm1OakZ4TkU1a2FWaHdibnB1VVRWS2NIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Laura Avit"
+    },
+    "starRating": "TWO",
+    "comment": "Malisimo el tiempo de espera. Y después si hay móviles policiales ellos pasan sin hacer la fila y los lugareños también se te meten adelante sin ningún  problema\n\n(Translated by Google)\nThe wait time is terrible. And then, if there are police cars, they cut in line, and the locals also cut in front without any problem.",
+    "createTime": "2026-01-05T17:30:57.086242Z",
+    "updateTime": "2026-01-05T17:30:57.086242Z",
+    "reviewReply": {
+      "comment": "Hola Maria Laura. Como estamos saturados por la demanda si hacemos lugar a los vehiculos de emergencia, pero bajo ningún concepto hacemos lugar a vehiculos comunes",
+      "updateTime": "2026-01-06T18:09:32.590738Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WcVVVazRNRUprTUY5c1pURTVSRlV5Yms5VVIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Iris Singh"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-05T15:54:32.874609Z",
+    "updateTime": "2026-01-05T15:54:32.874609Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-01-06T18:07:33.260329Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OaVNGazNTRU4yVVc1TFNWaE9VbXR0TjNWRkxYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "DAIANA NICOLE DINAMARCA"
+    },
+    "starRating": "FOUR",
+    "comment": "Servicio bien. Baños limpios. El ingreso con el vehículo no es de lo más cómodo pero está bien.\n\n(Translated by Google)\nGood service. Clean restrooms. Driving in isn\u0027t the most convenient, but it\u0027s okay.",
+    "createTime": "2026-01-05T04:00:24.422979Z",
+    "updateTime": "2026-01-05T04:11:35.102497Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2026-01-06T18:09:46.762555Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OUmRrNHdiRnB0TW14RVYyWnRjV0ZTVDFGUVIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Ariel Parada Bascuñan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-04T06:54:46.118015Z",
+    "updateTime": "2026-01-04T06:54:46.118015Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-01-06T18:09:56.187670Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT21acFRYQjZka3RaTXpWRFpXa3lMVGN4Wlhwb2FWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Thales Collet"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-03T23:04:45.569277Z",
+    "updateTime": "2026-01-03T23:04:45.569277Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2026-01-06T18:10:02.640830Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT210RlNtaFdXa0owVWxGQ2VtZDFSSFowZDJkSlZGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Laxague"
+    },
+    "starRating": "FOUR",
+    "comment": "Los baños impecables, la atención de los chicos en el Shop y en la playa excelente.  La espera mucha, pero parece que así es siempre!\n\n(Translated by Google)\nThe bathrooms were spotless, and the staff at the shop and on the beach were excellent. The wait was long, but it seems that\u0027s always the case!",
+    "createTime": "2026-01-03T19:25:28.135197Z",
+    "updateTime": "2026-01-03T19:25:28.135197Z",
+    "reviewReply": {
+      "comment": "Gracias Liliana",
+      "updateTime": "2026-01-06T18:10:20.080095Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pka1FWVnJVMlZFU1ROSGVIY3pSVTV6V0dOWGIxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jorge"
+    },
+    "starRating": "THREE",
+    "comment": "Una barbaridad, en la provincia del petróleo esperando 1 hora y media para cargar al rayo del sol con 32 grados. Después en el norte neuquino solo 1 estación qué no es ypf y un modulo que estaba roto. Como van a promocionar el destino si no hay nafta para transitar!!, los funcionarios... un poquito de idea\n\n(Translated by Google)\nIt\u0027s outrageous! In the oil-rich province, we had to wait an hour and a half to fill up in the blazing sun at 32 degrees Celsius. Then, in northern Neuquén, there was only one station that wasn\u0027t a YPF, and that station was broken. How are they going to promote the destination if there\u0027s no gas to even drive around?! Officials... they need to have a little common sense.",
+    "createTime": "2026-01-03T01:26:46.269555Z",
+    "updateTime": "2026-01-03T01:26:46.269555Z",
+    "reviewReply": {
+      "comment": "Hola Jorge. Haces una calificación al norte Neuquino y sus servicios en nuestro lugar. Te invito a que nos califiques conti experiencia en miestra estación",
+      "updateTime": "2026-01-06T18:11:49.580899Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aQlZ6UXRla3MxU0Voek1reERTVWhzYlRjd2NGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Alvarez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-02T21:25:42.429178Z",
+    "updateTime": "2026-01-02T21:25:42.429178Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2026-01-06T18:11:55.501204Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaTlpHaFRhbWg0TFZoSlpGbFBObXBrYTNCcU5VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guada"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-02T14:59:33.235703Z",
+    "updateTime": "2026-01-02T14:59:33.235703Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-01-06T18:12:10.701504Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaaU4xQm1OWG94Vkd0dWVuSnJZamRKZEdOWFZuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "martin armando navarro"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención lo único cada vez que cargas combustible tenés una buena cola adelante\n\n(Translated by Google)\nExcellent service, the only downside is that every time you fill up there\u0027s a long queue in front.",
+    "createTime": "2025-12-30T09:07:38.094645Z",
+    "updateTime": "2025-12-30T09:07:38.094645Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2026-01-06T18:12:21.268152Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KRmIyVmhOR3hUTFdsRFJsTm5iRzR0Y3pCUldGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Gil"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-29T12:45:03.371733Z",
+    "updateTime": "2025-12-29T12:45:03.371733Z",
+    "reviewReply": {
+      "comment": "Gracias Horacio",
+      "updateTime": "2026-01-06T18:14:29.198577Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rM1QxRldlVmxPYzNJeVlqQkdiamg1V0hWdmFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dani Comisso"
+    },
+    "starRating": "ONE",
+    "comment": "Te atienden muy LENTAMENTE. A los amigos de los playeros, los atienden rápido; al resto te hacen esperar mucho.\n\n(Translated by Google)\nThe service is incredibly slow. Friends of the beachgoers get served quickly; everyone else has to wait a long time.",
+    "createTime": "2025-12-28T19:43:08.890764Z",
+    "updateTime": "2025-12-28T19:43:08.890764Z",
+    "reviewReply": {
+      "comment": "Hola Danny. Atendemos a todos por igual ",
+      "updateTime": "2026-01-06T18:16:00.129242Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKdWNUbHpjSFJOYjBGc2QzQjBOR0pWYlhGS2RtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Alberto Grossi"
+    },
+    "starRating": "ONE",
+    "comment": "Demasiada espera, el ritmo de los empleados es muy lento tambien.\n\n(Translated by Google)\nToo much waiting, the pace of the employees is also very slow.",
+    "createTime": "2025-12-28T02:28:52.010259Z",
+    "updateTime": "2025-12-28T02:28:52.010259Z",
+    "reviewReply": {
+      "comment": "Hola Jorge. Muchas gracias por tu caloficación. Es el ritmo que se puede. Nuestros playeros venden mucho mas que el promedio que vende cada operario",
+      "updateTime": "2026-01-06T18:16:59.537782Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWFRXdGpkM0V6V1d4b1VWOU5UVXhSZFdoSmNIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Valeria Feldman Suarez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio, siempre hay fila para cargar.\n\n(Translated by Google)\nGood service, there\u0027s always a line to load.",
+    "createTime": "2025-12-26T00:56:55.235353Z",
+    "updateTime": "2025-12-26T00:56:55.235353Z",
+    "reviewReply": {
+      "comment": "Gracias Valeria",
+      "updateTime": "2026-01-06T18:17:11.016918Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5RlJXUXhiRmhZVFdGaE5FbFVPV0ZMTFc1WmRuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela e Calmejane"
+    },
+    "starRating": "FIVE",
+    "comment": "Es el.unico q hay pero me atendieron muy bien\n\n(Translated by Google)\nIt\u0027s the only one there, but they treated me very well.",
+    "createTime": "2025-12-26T00:30:03.373163Z",
+    "updateTime": "2025-12-26T00:30:03.373163Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2026-01-06T18:17:21.037422Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkV1dWaFBSWHA0UW5seWVWY3RUWEJHYkdrek1FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Apis"
+    },
+    "starRating": "TWO",
+    "comment": "La atención de los playeros deja mucho que desear. Se explica por las colas interminales para poder cargar combustible.\n\n(Translated by Google)\nThe service from the gas station attendants leaves much to be desired. This is explained by the endless queues to get fuel.",
+    "createTime": "2025-12-25T23:52:21.125795Z",
+    "updateTime": "2025-12-25T23:52:21.125795Z",
+    "reviewReply": {
+      "comment": "Hola Bruno.",
+      "updateTime": "2026-01-06T18:17:37.097375Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWQlMweDBVRWgyVDFGcGJFSjNWbVJFVWpGYVluYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lara Bustos"
+    },
+    "starRating": "THREE",
+    "createTime": "2025-12-24T16:28:37.934589Z",
+    "updateTime": "2025-12-24T16:28:37.934589Z",
+    "reviewReply": {
+      "comment": "Algún comentario",
+      "updateTime": "2026-01-06T18:17:47.929445Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aUVVtVlVTbVJoT1ZaRFprNUdkMjVGVEhOeVpFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Labin"
+    },
+    "starRating": "ONE",
+    "comment": "Lentoss para atender\n\n(Translated by Google)\nSlow to serve",
+    "createTime": "2025-12-24T10:59:52.975577Z",
+    "updateTime": "2025-12-24T10:59:52.975577Z",
+    "reviewReply": {
+      "comment": "Hola Alejandro. Muchas gracias",
+      "updateTime": "2026-01-06T18:18:07.558248Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKSmNEZDJUMUp2VTB4YU9UVkhlVlJzWm05NWJYYxAB"
+  }]
+}

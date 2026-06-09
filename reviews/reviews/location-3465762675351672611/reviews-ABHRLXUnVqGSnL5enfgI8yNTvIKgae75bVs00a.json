@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Liliana Lafuente"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-06-11T12:07:52.614Z",
+    "updateTime": "2017-06-11T12:07:52.614Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURBdGZES0l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Skua Master"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-06-10T11:10:38.544Z",
+    "updateTime": "2017-06-10T11:10:38.544Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURROElIbXp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Ignacio Ilarregui"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2017-06-10T01:27:37.558Z",
+    "updateTime": "2017-06-10T01:27:48.906Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURnNExucmhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Miguel Ravasi"
+    },
+    "starRating": "FOUR",
+    "comment": "Siempre la mejor atención\n\n(Translated by Google)\nAlways the best service",
+    "createTime": "2017-06-09T13:02:12.175Z",
+    "updateTime": "2017-06-09T13:02:56.227Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3N09DQ1JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Greco"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-06-07T14:25:01.259Z",
+    "updateTime": "2017-06-07T14:25:01.259Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdnNHX1lnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Velay"
+    },
+    "starRating": "FOUR",
+    "comment": "Atienden bien\n\n(Translated by Google)\nThey provide good service",
+    "createTime": "2017-06-06T18:25:14.364Z",
+    "updateTime": "2017-06-06T18:25:30.621Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRaDdlWlhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Escandell (CHISAIRINGO)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-06-06T16:06:37.774Z",
+    "updateTime": "2017-06-06T16:06:37.774Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBcE1YZVhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tania Acuña"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísima atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2017-06-06T16:05:19.423Z",
+    "updateTime": "2017-06-06T16:05:25.649Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnLXQ3NEZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Oscar Costa"
+    },
+    "starRating": "TWO",
+    "createTime": "2017-06-06T12:22:30.269Z",
+    "updateTime": "2017-06-06T12:22:30.269Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnaG9PdndBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Castorina"
+    },
+    "starRating": "FOUR",
+    "comment": "Los empleados son muy  amables y serviciales\n\n(Translated by Google)\nThe employees are very friendly and helpful.",
+    "createTime": "2017-06-05T09:21:26.323Z",
+    "updateTime": "2017-06-05T09:22:08.741Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURRMElibXF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gustavo Fortis"
+    },
+    "starRating": "FOUR",
+    "comment": "El servicio de asistencia al socio es de excelencia\n\n(Translated by Google)\nThe member support service is excellent.",
+    "createTime": "2017-06-01T12:25:20.507Z",
+    "updateTime": "2017-06-01T12:25:58.060Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnN3ZHbDh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Moreno"
+    },
+    "starRating": "FIVE",
+    "comment": "Todos los servicios. Excelente trato. La mejor de la costa.\n\n(Translated by Google)\nAll services. Excellent service. The best on the coast.",
+    "createTime": "2017-05-30T17:23:44.152Z",
+    "updateTime": "2017-05-30T17:24:26.227Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURBemVIaFJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Andrés Erralde"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-05-29T18:36:53.835Z",
+    "updateTime": "2017-05-29T18:36:53.835Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURncVlfdjJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Comparatore"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención. Muy completo para comprar diferentes cosas\n\n(Translated by Google)\nExcellent service. A very complete shopping center for a variety of items.",
+    "createTime": "2017-05-29T13:37:05.586Z",
+    "updateTime": "2017-05-29T13:37:05.586Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRdnZPSDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hugo ortigosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención excelente . Rapides en los tramites . Servicio y promociones variada...\n\n(Translated by Google)\nExcellent service. Fast processing. Varied services and promotions...",
+    "createTime": "2017-05-27T16:17:52.377Z",
+    "updateTime": "2017-05-27T16:19:45.515Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURnaXJXY213RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-05-26T11:24:38.851Z",
+    "updateTime": "2017-05-26T11:24:38.851Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3OU11MWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Raposo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2017-05-25T16:26:33.547Z",
+    "updateTime": "2017-05-25T16:26:42.198Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSURRc3IzRXRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "matias rufino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-05-25T14:37:41.361Z",
+    "updateTime": "2017-05-25T14:37:41.361Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRaDR6eS1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Roberto Romero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-05-25T13:51:14.242Z",
+    "updateTime": "2017-05-25T13:51:14.242Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSURnX3EycFlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Edith Labarda"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, calidad y muchos beneficios al socio.\n\n(Translated by Google)\nExcellent service, quality, and many benefits for members.",
+    "createTime": "2017-05-25T13:47:49.662Z",
+    "updateTime": "2017-05-25T13:48:20.444Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRNnNEYU53EAE"
+  }]
+}

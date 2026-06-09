@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Maria Gabriela Micolaucich"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-11T19:49:28.281243Z",
+    "updateTime": "2023-12-11T19:49:28.281243Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSURWd3BhRExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Fassi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-10T21:17:23.373762Z",
+    "updateTime": "2023-12-10T21:17:23.373762Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSURWMlBHY0NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "pablo wandersleben"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-09T12:39:04.431258Z",
+    "updateTime": "2023-12-09T12:39:04.431258Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWbTV2T2RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ale Cañete"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-09T05:01:49.273816Z",
+    "updateTime": "2023-12-09T05:01:49.273816Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWNDhLdjJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Godoy"
+    },
+    "starRating": "FOUR",
+    "comment": "Relindos baños\n\n(Translated by Google)\nBeautiful bathrooms",
+    "createTime": "2023-12-06T20:23:00.689315Z",
+    "updateTime": "2023-12-06T20:23:00.689315Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWLW9HZ2dRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cross"
+    },
+    "starRating": "FOUR",
+    "comment": "Perfecto lugar donde parar un rato para comer algo, baños limpios, lugar tranquilo al lado de la ruta.\nPatio amplio con mesas para comer en el lugar.\n\n(Translated by Google)\nPerfect place to stop for a bite to eat, clean restrooms, quiet location right off the road. Large patio with tables for dining in.",
+    "createTime": "2023-12-05T11:36:51.838612Z",
+    "updateTime": "2023-12-05T11:36:51.838612Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWaExpVE9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio César Bernal"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2023-11-28T02:50:26.350459Z",
+    "updateTime": "2023-11-28T02:50:26.350459Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsLThhU2ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Joaquin Reyna"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-27T22:03:42.612270Z",
+    "updateTime": "2023-11-27T22:03:42.612270Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsdTVEaTdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Don Gatuno (Dogokan)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-27T20:11:38.693076Z",
+    "updateTime": "2023-11-27T20:11:38.693076Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMl83MmJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Dominguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion de los playeros y tiene YPF Full ae puede abonar con la aplicacion\n\n(Translated by Google)\nExcellent service from the attendants and it has a YPF Full station; you can pay with the app.",
+    "createTime": "2023-11-27T19:33:28.839434Z",
+    "updateTime": "2023-11-27T19:33:28.839434Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMjVyX2ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jörg Herrmann"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-11-26T00:03:00.759639Z",
+    "updateTime": "2023-11-26T00:03:00.759639Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsby0tSkhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Schanzenbach"
+    },
+    "starRating": "FIVE",
+    "comment": "Un oasis en la ruta 26. Muy completa y muy buena atención.\n\n(Translated by Google)\nAn oasis on Route 26. Very complete and very good service.",
+    "createTime": "2023-11-22T18:50:35.516386Z",
+    "updateTime": "2023-11-22T18:50:35.516386Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNseGJyWExnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Judiciales Chubut"
+    },
+    "starRating": "FIVE",
+    "comment": "Completo el servicio de Full\n\n(Translated by Google)\nI completed the Full service",
+    "createTime": "2023-11-21T18:42:50.087909Z",
+    "updateTime": "2023-11-21T18:42:50.087909Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsNlpHTEh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo varela"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y muy limpio.\n\n(Translated by Google)\nExcellent service and very clean.",
+    "createTime": "2023-11-20T23:28:07.967268Z",
+    "updateTime": "2023-11-20T23:28:07.967268Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsc2ZIVWRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Trukus Calabrese"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2023-11-20T00:54:38.011Z",
+    "updateTime": "2023-11-20T00:54:38.011Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsZ2UtMzRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Benavides"
+    },
+    "starRating": "FOUR",
+    "comment": "Mucho viento un lugar solitario\n\n(Translated by Google)\nVery windy, a lonely place",
+    "createTime": "2023-11-12T01:59:32.780515Z",
+    "updateTime": "2023-11-12T01:59:32.780515Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSURGbjlISVJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Palleres"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención de los playeros del ACA\n\n(Translated by Google)\nExcellent service from the ACA beach attendants",
+    "createTime": "2023-11-11T20:41:08.882551Z",
+    "updateTime": "2023-11-11T20:41:08.882551Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSURGcjRQaUV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "jose miguel soto salas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-11-04T16:14:07.977634Z",
+    "updateTime": "2023-11-04T16:14:07.977634Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSURGbUxyNEh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "vale vagb"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-04T15:58:41.635993Z",
+    "updateTime": "2023-11-04T15:58:41.635993Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChZDSUhNMG9nS0VJQ0FnSURGbU56N0JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mantenimiento en general"
+    },
+    "starRating": "FIVE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2023-11-04T14:39:33.562539Z",
+    "updateTime": "2023-11-04T14:39:33.562539Z",
+    "name": "accounts/109853746269412609224/locations/4406352797559943045/reviews/ChdDSUhNMG9nS0VJQ0FnSURGNlBHRXlnRRAB"
+  }]
+}

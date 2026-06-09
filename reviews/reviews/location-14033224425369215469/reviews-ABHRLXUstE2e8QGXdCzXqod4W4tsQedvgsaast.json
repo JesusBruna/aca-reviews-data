@@ -1,0 +1,194 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carlos Turcotti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-29T10:35:51.284701Z",
+    "updateTime": "2020-02-29T10:35:51.284701Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSURzaXRqVE5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Alvarez"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-28T11:50:48.520690Z",
+    "updateTime": "2020-02-28T11:50:48.520690Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSURza3FMZHVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andre Agramont Landa"
+    },
+    "starRating": "TWO",
+    "createTime": "2020-02-28T01:01:30.047269Z",
+    "updateTime": "2020-02-28T01:01:30.047269Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSURzb3ZQZThnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-27T01:54:09.860873Z",
+    "updateTime": "2020-02-27T01:54:09.860873Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSURzX0pDeXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Herminio Santa Cruz"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y los sanitarios en excelente estado de limpieza\n\n(Translated by Google)\nGood service and the restrooms were in excellent condition and clean.",
+    "createTime": "2020-02-26T00:15:22.613785Z",
+    "updateTime": "2020-02-26T00:15:22.613785Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChRDSUhNMG9nS0VJQ0FnSURzcksxUxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto celía"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-02-24T10:56:05.236291Z",
+    "updateTime": "2020-02-24T10:56:05.236291Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSURzNUkyUXN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Rivadero"
+    },
+    "starRating": "FOUR",
+    "comment": "Buenos precios y calidad\n\n(Translated by Google)\nGood prices and quality",
+    "createTime": "2020-02-24T03:47:38.170341Z",
+    "updateTime": "2020-02-24T03:47:38.170341Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSURzcFBuRGVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Alberto Gabrione Gigli"
+    },
+    "starRating": "TWO",
+    "createTime": "2020-02-23T22:22:55.964041Z",
+    "updateTime": "2020-02-23T22:22:55.964041Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSURzeElPMjJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Reina"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2020-02-23T14:50:40.386684Z",
+    "updateTime": "2020-02-23T14:50:40.386684Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Clorinda",
+      "updateTime": "2021-10-14T18:56:32.403910Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSURzaEtEQnBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Lanza Quinteros"
+    },
+    "starRating": "FOUR",
+    "comment": "Es el lugar exacto donde me da para cargar, lo que demora es que hay un solo empleado atendiendo.\n\n(Translated by Google)\nIt\u0027s the exact place where I can charge it, what takes time is that there\u0027s only one employee serving.",
+    "createTime": "2020-02-22T23:14:17.072337Z",
+    "updateTime": "2020-02-22T23:14:17.072337Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSURzMkpMOEJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Almiron"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-22T12:21:29.595613Z",
+    "updateTime": "2020-02-22T12:21:29.595613Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Clorinda",
+      "updateTime": "2021-10-14T18:56:35.371214Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSURzcUx1LUZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Azula"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-22T02:31:55.645600Z",
+    "updateTime": "2020-02-22T02:31:55.645600Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSURzeU1MMU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Her Salinas"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-21T11:29:22.057316Z",
+    "updateTime": "2020-02-21T11:29:22.057316Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSURzc01yQ0ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "federico gustavo alcaraz"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención de los playeros\n\n(Translated by Google)\nGood service from the beach attendants",
+    "createTime": "2020-02-18T20:45:37.235173Z",
+    "updateTime": "2020-02-18T20:45:58.006061Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Clorinda",
+      "updateTime": "2021-10-14T18:56:41.660257Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzbl9pamtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Domínguez"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-17T23:09:41.807142Z",
+    "updateTime": "2020-02-17T23:09:41.807142Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzajVUMU5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Soto (Luisito)"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-17T19:47:54.288535Z",
+    "updateTime": "2020-02-17T19:47:54.288535Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzOTluYjBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mabel Correa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-17T12:00:13.287050Z",
+    "updateTime": "2020-02-17T12:00:13.287050Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Clorinda",
+      "updateTime": "2021-10-14T18:56:45.586716Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdDRDd3lRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-17T00:33:43.234834Z",
+    "updateTime": "2020-02-17T00:33:43.234834Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Clorinda",
+      "updateTime": "2021-10-14T18:56:53.611880Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzbDRydXRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-02-17T00:23:00.424137Z",
+    "updateTime": "2020-02-17T00:23:00.424137Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbDlLQUV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luisina Klaus"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-16T14:07:35.136830Z",
+    "updateTime": "2020-02-16T14:07:35.136830Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Clorinda",
+      "updateTime": "2021-10-14T18:56:57.140455Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzcDRUMXJBRRAB"
+  }]
+}

@@ -1,0 +1,234 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ruben Tesoriero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-06T12:23:52.283458Z",
+    "updateTime": "2022-02-06T12:23:52.283458Z",
+    "reviewReply": {
+      "comment": "¡Hola Ruben! Muchas gracias por calificarnos.",
+      "updateTime": "2025-03-09T16:54:04.913196Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURtbmIyam5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana Salaverri"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-06T02:26:34.278477Z",
+    "updateTime": "2022-02-06T02:26:34.278477Z",
+    "reviewReply": {
+      "comment": "¡Hola Silvana! Muchas gracias por calificarnos. Esperamos haber mejorado y ser merecedores de 5 estrellas. Te esperamos!",
+      "updateTime": "2025-03-09T16:54:25.865894Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURtN2JLWTlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "diego cabrera"
+    },
+    "starRating": "FIVE",
+    "comment": "Rápida atención, pero por ahí se retrasa por uno u otro conductor distraído.\n\n(Translated by Google)\nQuick response, but sometimes it gets delayed by one or another distracted driver.",
+    "createTime": "2022-02-03T21:51:43.651271Z",
+    "updateTime": "2022-02-03T21:51:43.651271Z",
+    "reviewReply": {
+      "comment": "¡Hola Diego! Muchas gracias por tu reseña, la valoramos mucho. ",
+      "updateTime": "2025-03-09T16:54:47.084819Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURtcGEzOEpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eloy Schaupp"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-02T15:42:43.694309Z",
+    "updateTime": "2022-02-02T15:42:43.694309Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMmM3ZFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariana Ramos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-01T20:19:44.149564Z",
+    "updateTime": "2022-02-01T20:19:44.149564Z",
+    "reviewReply": {
+      "comment": "¡Hola Mariana! Muchas gracias por tu reseña. Esperamos haber mejorado, y ser merecedores de 5 estrellas. Te esperamos!!",
+      "updateTime": "2025-03-09T16:55:09.455323Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURtcWZha1BnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Florencia Garcia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-25T10:31:35.337802Z",
+    "updateTime": "2022-01-25T10:31:35.337802Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURtNnJuZDRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Oliveira"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy gentiles recomendables si en entras a la ciudad\n\n(Translated by Google)\nVery friendly, highly recommended if you\u0027re entering the city",
+    "createTime": "2022-01-24T17:08:40.089850Z",
+    "updateTime": "2022-01-24T17:08:40.089850Z",
+    "reviewReply": {
+      "comment": "¡Hola Juan! Muchas gracias por tu comentario y calificación. Te esperamos nuevamente!!",
+      "updateTime": "2025-03-09T16:55:26.465979Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURtaXU2MF9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yamile Marach"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-22T01:17:25.497025Z",
+    "updateTime": "2022-01-22T01:17:25.497025Z",
+    "reviewReply": {
+      "comment": "¡Hola Yamile! Muchas gracias por tu calificación.",
+      "updateTime": "2025-03-09T16:55:37.385626Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURtM0t2V1BREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Debora Maldonado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-21T23:51:06.323765Z",
+    "updateTime": "2022-01-21T23:51:06.323765Z",
+    "reviewReply": {
+      "comment": "¡Hola Debora! Muchas gracias por calificarnos positivamente.",
+      "updateTime": "2025-03-09T16:55:48.003139Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURtM0lXUGFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Marsicano"
+    },
+    "starRating": "FOUR",
+    "comment": "De lujo. Muy cordiales\n\n(Translated by Google)\nExcellent. Very friendly.",
+    "createTime": "2022-01-11T23:37:25.055820Z",
+    "updateTime": "2022-01-11T23:37:25.055820Z",
+    "reviewReply": {
+      "comment": "¡Hola Matías! Muchas gracias por tu calificación. Esperamos, en tu próxima visita, ser merecedores de 5 estrellas. Te esperamos!!",
+      "updateTime": "2025-03-09T16:56:09.375532Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNTY3cVhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dan “Da” Fernández"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-10T02:54:29.968508Z",
+    "updateTime": "2022-01-10T02:54:29.968508Z",
+    "reviewReply": {
+      "comment": "¡Hola Dan! Muchas gracias por calificarnos. Esperamos haber mejorado para brindarte una atención 5 estrellas.",
+      "updateTime": "2025-03-09T16:56:28.476719Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNl9LdWR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Sebastian Biestro Mendoza"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención. Buen cafe\n\n(Translated by Google)\nExcellent service. Good coffee.",
+    "createTime": "2022-01-04T18:07:17.872647Z",
+    "updateTime": "2022-01-04T18:07:17.872647Z",
+    "reviewReply": {
+      "comment": "¡Hola Diego! Muchas gracias por tu reseña, muy importante para nosotros!",
+      "updateTime": "2025-03-09T16:56:45.005819Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtMVpLeVBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gaspar Gallizio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-04T10:12:08.892880Z",
+    "updateTime": "2022-01-04T10:12:08.892880Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtNWZhMW1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Vignuda"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-12-28T01:50:10.068903Z",
+    "updateTime": "2021-12-28T01:50:11.535854Z",
+    "reviewReply": {
+      "comment": "¡Hola Diego! Muchas gracias por tu comentario y calificación.",
+      "updateTime": "2025-03-09T16:57:00.637996Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtMXF1YlJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roman Alvarez Cortes"
+    },
+    "starRating": "THREE",
+    "comment": "Muy pero muy lentos atendiendo, una perdida de tiempo brutal.\n\n(Translated by Google)\nVery, very slow service, a total waste of time.",
+    "createTime": "2021-12-27T15:45:01.507707Z",
+    "updateTime": "2021-12-27T15:45:02.849052Z",
+    "reviewReply": {
+      "comment": "¡Hola Roman! Muchas gracias por tomarte el tiempo de dejarnos tu comentario y calificación. Esperamos haber mejorado para ser merecedores de 5 estrellas, objetivo por el que tanto trabajamos!",
+      "updateTime": "2025-03-09T16:58:21.262504Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNXVmZUN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paulo Ercole"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-23T15:29:10.678968Z",
+    "updateTime": "2021-12-23T15:29:10.678968Z",
+    "reviewReply": {
+      "comment": "¡Hola Paulo! Muchas gracias por tu reseña.",
+      "updateTime": "2025-03-09T16:58:33.559737Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtMHJfdnd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JORGE RAUL ARRUABARENA"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2021-12-18T23:35:17.817544Z",
+    "updateTime": "2021-12-18T23:35:19.225678Z",
+    "reviewReply": {
+      "comment": "¡Hola Jorge! Muchas gracias por tu reseña. 😉",
+      "updateTime": "2025-03-09T16:57:12.792419Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtcEs2SF9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Hugo Padovan"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-17T21:22:18.329325Z",
+    "updateTime": "2021-12-17T21:22:18.329325Z",
+    "reviewReply": {
+      "comment": "¡Hola Nestor! Muchas gracias por tu reseña. Esperamos, en tu próxima visita, ser merecedores de 5 estrellas.",
+      "updateTime": "2025-03-09T16:58:57.113975Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdU5qUEtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Murzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-16T10:15:39.348798Z",
+    "updateTime": "2021-12-16T10:15:39.348798Z",
+    "reviewReply": {
+      "comment": "¡Hola Carlos! Muchas gracias por tu reseña.",
+      "updateTime": "2025-03-09T16:59:07.991587Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtOE1IZlF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Quiroga"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-12T13:40:44.176896Z",
+    "updateTime": "2021-12-12T13:40:44.176896Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURHdF9qcG1BRRAB"
+  }]
+}

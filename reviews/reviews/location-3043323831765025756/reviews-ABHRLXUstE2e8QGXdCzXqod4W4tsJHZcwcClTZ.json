@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jose Benitez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-18T12:16:44.094208Z",
+    "updateTime": "2021-06-18T12:16:44.094208Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxODZ2TzRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Gabriela Ferreyra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-17T21:28:14.473038Z",
+    "updateTime": "2021-06-17T21:28:14.473038Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxMDkyNFdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Medina"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2021-06-16T13:45:55.757049Z",
+    "updateTime": "2021-06-16T13:45:55.757049Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxX2JuZ1VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Lago"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo el parque donde se puede tomar algo comprado en el local de café,excelentes las medialunas.\nComo anécdota aparte ,el Domingo 6 de Junio concurrimos con amigos en bicicleta ,uno de ellos está esperando ser atendido en el local y de pronto se desmayo y pego con la cara en la punta de una estantería, abriéndose un tajo en la cara bastante importante, como la ambulancia iva a demorar ,el dueño de la concesión no dudo en llevarlo al sanatorio de la prepaga del accidentado con su auto ,este lugar está a 25 km ,esto demuestra la calidad de la gente que atiende ese lugar\n\n(Translated by Google)\nThe park is lovely, and you can grab something to eat or drink at the café; the croissants are excellent.\n\nAs a side note, on Sunday, June 6th, we went there with friends on bicycles. One of them was waiting to be served when he suddenly fainted and hit his face on the corner of a shelf, getting a rather large cut. Since the ambulance was going to be delayed, the owner of the establishment didn\u0027t hesitate to take him to the clinic covered by his private health insurance in his own car. This clinic is 25 km away, which demonstrates the quality of the staff at this place.",
+    "createTime": "2021-06-15T01:59:27.818999Z",
+    "updateTime": "2021-06-15T01:59:27.818999Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxemFiVFdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Albarracin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-14T15:45:13.985432Z",
+    "updateTime": "2021-06-14T15:45:13.985432Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxOVlXMXRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carla Campiño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-14T02:00:51.983091Z",
+    "updateTime": "2021-06-14T02:00:51.983091Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxMVl5X3J3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Linda beatriz Hemsani"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-06-12T17:58:49.843671Z",
+    "updateTime": "2021-06-12T17:58:49.843671Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxaFp5UENREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Carrizo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-06-11T21:56:36.225072Z",
+    "updateTime": "2021-06-11T21:56:36.225072Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxbWYtQXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-10T19:28:08.950546Z",
+    "updateTime": "2021-06-10T19:28:08.950546Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxaVkyZmRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "cesar contrera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-10T08:27:07.819037Z",
+    "updateTime": "2021-06-10T08:27:07.819037Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxc2VxM2FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Sandez"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-06-09T01:47:41.913588Z",
+    "updateTime": "2021-06-09T01:47:41.913588Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxd2EzV2hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Octavioyfelipe Petru"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy limpia y rapidos\n\n(Translated by Google)\nVery clean and fast",
+    "createTime": "2021-06-05T16:27:07.996715Z",
+    "updateTime": "2021-06-05T16:27:07.996715Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxbHVYbUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "alejo schmunck"
+    },
+    "starRating": "ONE",
+    "createTime": "2021-06-02T15:45:12.211732Z",
+    "updateTime": "2021-06-02T15:45:12.211732Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxeW9TZ05nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo H"
+    },
+    "starRating": "ONE",
+    "comment": "Cafetería muy mala y precios Suizos...😥\n\n(Translated by Google)\nTerrible cafeteria and Swiss prices...😥",
+    "createTime": "2021-05-30T21:50:08.121292Z",
+    "updateTime": "2021-05-30T21:50:08.121292Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxdktHTWR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Dino"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente ubicación\n\n(Translated by Google)\nExcellent location",
+    "createTime": "2021-05-30T05:52:32.672266Z",
+    "updateTime": "2021-05-30T05:52:32.672266Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxN0otYlN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Cassini"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2021-05-28T12:52:10.033190Z",
+    "updateTime": "2021-05-28T12:52:10.033190Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxMUlQam93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo de Elizalde"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-05-27T11:21:16.481303Z",
+    "updateTime": "2021-05-27T11:21:16.481303Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxeE9XZjNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Sosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-05-27T02:13:08.833508Z",
+    "updateTime": "2021-05-27T02:13:08.833508Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxaE43X0VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo gabriel saporiti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-05-26T19:09:04.381035Z",
+    "updateTime": "2021-05-26T19:09:04.381035Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxLUliaWdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dario"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-05-26T11:36:34.663554Z",
+    "updateTime": "2021-05-26T11:36:34.663554Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxMkp2TTdnRRAB"
+  }]
+}

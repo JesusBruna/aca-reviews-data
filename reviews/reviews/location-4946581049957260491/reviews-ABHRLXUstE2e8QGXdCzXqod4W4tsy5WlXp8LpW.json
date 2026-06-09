@@ -1,0 +1,182 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Raul Garcia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-28T21:22:25.398570Z",
+    "updateTime": "2023-03-28T21:22:25.398570Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSNG9lcjF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Haydee"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. Estacionamiento muy cómodo para descansar\n\n(Translated by Google)\nGood service. Very convenient parking for resting.",
+    "createTime": "2023-03-28T02:39:24.956152Z",
+    "updateTime": "2023-03-28T02:39:24.956152Z",
+    "reviewReply": {
+      "comment": "Sr Haydee\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades y seguir mejorando.",
+      "updateTime": "2023-04-05T23:59:42.277138Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSX05MempRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "claudia olivera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-27T14:08:07.908140Z",
+    "updateTime": "2023-03-27T14:08:07.908140Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSbkpxdnpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Americo Alvarez"
+    },
+    "starRating": "THREE",
+    "comment": "Muy descuidada baños sucios mal atención d playa regular servicimpra carisimo\n\n(Translated by Google)\nVery neglected, dirty bathrooms, poor beach service, mediocre, very expensive.",
+    "createTime": "2023-03-27T12:47:58.003342Z",
+    "updateTime": "2023-03-27T12:47:58.003342Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSN0otRHN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fabian cavallin"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-27T12:11:46.181050Z",
+    "updateTime": "2023-03-27T12:11:46.181050Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSN0l1OTRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Javier Mallo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-27T12:01:30.766625Z",
+    "updateTime": "2023-03-27T12:01:30.766625Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSN09Qa09nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Vic Becerra"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-03-27T09:56:03.725521Z",
+    "updateTime": "2023-03-27T09:56:03.725521Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSN0tMdW53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Martin"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion, gracias\n\n(Translated by Google)\nVery good service, thank you",
+    "createTime": "2023-03-26T22:44:29.175232Z",
+    "updateTime": "2023-03-26T22:44:29.175232Z",
+    "reviewReply": {
+      "comment": "Sr Hugo\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades y seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2023-05-01T02:38:56.790953Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSek1LeWRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Corina Lagun"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-26T20:13:16.458302Z",
+    "updateTime": "2023-03-26T20:13:16.458302Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSakl2b2JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "lorena mellado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-26T04:24:20.660777Z",
+    "updateTime": "2023-03-26T04:24:20.660777Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMU5pcmtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sonia luque"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-26T02:47:05.875404Z",
+    "updateTime": "2023-03-26T02:47:05.875404Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSbEp1VFlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Caro Romero"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre limpio\n\n(Translated by Google)\nAlways clean",
+    "createTime": "2023-03-26T00:33:01.231928Z",
+    "updateTime": "2023-03-26T00:33:01.231928Z",
+    "reviewReply": {
+      "comment": "Sra Caro\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades, y seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2023-05-01T02:39:52.731216Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSbEw2X0JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Villarroel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-26T00:15:25.222277Z",
+    "updateTime": "2023-03-26T00:15:25.222277Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSbEk3UFZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Lepe"
+    },
+    "starRating": "THREE",
+    "comment": "Carisimo todo.\n\n(Translated by Google)\nEverything is very expensive.",
+    "createTime": "2023-03-25T19:51:05.103916Z",
+    "updateTime": "2023-03-25T19:51:05.103916Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSNU9uRWZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eleonora Es"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-25T19:31:31.497597Z",
+    "updateTime": "2023-03-25T19:31:31.497597Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSNUtISVhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Karen Soria Aguirre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-25T12:45:12.849662Z",
+    "updateTime": "2023-03-25T12:45:12.849662Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSeEtYNVd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "daniela tavella"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-03-25T04:33:29.237788Z",
+    "updateTime": "2023-03-25T04:33:29.237788Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSLVBfOEJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Evangelina Vera A."
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-24T18:49:22.382425Z",
+    "updateTime": "2023-03-24T18:49:22.382425Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdU56Q0lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Alberto Abello"
+    },
+    "starRating": "ONE",
+    "comment": "La super mejor antencion del chicos que trbajan ahi, muy buena la calidad del servicio.Lastima los baños como siempre los de afuera un ASCO UNA VERGUENZA y los baños de los socios del ACA LIMPIOS ADENTRO.Los baños deben estar todos limpios por igual o modifiquen los baños.\n\n(Translated by Google)\nThe staff there provided excellent service, and the quality of service was very good. It\u0027s a shame about the bathrooms; as always, the ones outside are disgusting and shameful, while the ACA members\u0027 bathrooms inside are spotless. All the bathrooms should be equally clean, or they should be renovated.",
+    "createTime": "2016-01-17T12:20:12.915Z",
+    "updateTime": "2023-03-24T12:31:39.365035Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3NTVPMDh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Santa"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2023-03-24T12:07:06.356503Z",
+    "updateTime": "2023-03-24T12:07:15.534384Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSbUk2cy1RRRAB"
+  }]
+}

@@ -1,0 +1,96 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Cesar Urrutia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-15T09:12:07.914Z",
+    "updateTime": "2018-01-15T09:12:07.914Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChdDSUhNMG9nS0VJQ0FnSURRdHBtanpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Marcelo Alvarenga"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-01-11T00:17:34.573Z",
+    "updateTime": "2018-01-11T00:17:34.573Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSURBcFBEekpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Cassini"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2017-12-31T10:54:13.989Z",
+    "updateTime": "2017-12-31T10:54:34.862Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChdDSUhNMG9nS0VJQ0FnSURBcHZYRm9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Laurente"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre excelente\n\n(Translated by Google)\nAlways excellent",
+    "createTime": "2017-12-27T10:27:00.764Z",
+    "updateTime": "2017-12-27T10:27:40.751Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSURRdWN1ell3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Villalba"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-12-17T11:16:00.263Z",
+    "updateTime": "2017-12-17T11:16:00.263Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3dll6dExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Luis Figueiras"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor\n\n(Translated by Google)\nThe best",
+    "createTime": "2017-12-16T12:49:55.166Z",
+    "updateTime": "2017-12-16T12:50:05.033Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRbjQ2YVhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elena V. De Rosso"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-07-16T00:54:24.848Z",
+    "updateTime": "2017-07-16T00:54:34.335Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSURRcmRHc1p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "David Barcelo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-07-13T22:41:24.599Z",
+    "updateTime": "2017-07-13T22:41:24.599Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRdGUtXzFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fabian d\u0027alessandro"
+    },
+    "starRating": "THREE",
+    "comment": "Bueno el shop... rico café.. . La playa  no es gran cosa la atención\n\n(Translated by Google)\nWell the shop... delicious coffee... The beach is not great, the service",
+    "createTime": "2017-06-22T23:46:19.039Z",
+    "updateTime": "2017-06-22T23:47:03.823Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSURBMzdDekpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Raimondi"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-05-11T18:17:13.866Z",
+    "updateTime": "2017-05-11T18:17:13.866Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChdDSUhNMG9nS0VJQ0FnSURBd29qZG5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "altoroca gazzolo"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy comodo para un descanso\nBuen cafe\nBuenos tostados\n\n(Translated by Google)\nVery comfortable for a break\nGood coffee\nGood roasted coffees",
+    "createTime": "2017-05-02T16:20:26.925Z",
+    "updateTime": "2017-05-02T16:21:52.750Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3NW82alVnEAE"
+  }]
+}

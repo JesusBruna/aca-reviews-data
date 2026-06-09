@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Anllerama"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-26T14:15:25.831221Z",
+    "updateTime": "2021-03-26T14:15:25.831221Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLcUlpRmJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "martin saavedra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-24T12:34:04.931964Z",
+    "updateTime": "2021-03-24T12:34:04.931964Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLb0lMTHhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Garrido"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien buena atención lo único malo es que estuve más de 40 minutos esperando porque estaban descargando combustible el playero que además estaba solo después baños limpios afuera y.para socios adentro joya\n\n(Translated by Google)\nExcellent service, the only downside was that I waited over 40 minutes because they were unloading fuel. The attendant was working alone. After that, the restrooms outside were clean, and the ones inside were for members. Great!",
+    "createTime": "2021-03-24T01:26:24.614328Z",
+    "updateTime": "2021-03-24T01:27:46.384290Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLZ04zTWl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maximo Hernan Camacho"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-23T12:40:00.672375Z",
+    "updateTime": "2021-03-23T12:40:00.672375Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5djdIQ21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo “Ale” Donoso"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encantó 😃\n\n(Translated by Google)\nI loved it 😃",
+    "createTime": "2021-03-17T22:38:40.725289Z",
+    "updateTime": "2021-03-17T22:38:49.575031Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5cTV1cVRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dani Rotela (Daniladerulos)"
+    },
+    "starRating": "FOUR",
+    "comment": "Atención rápida, cordial y resolutiva.\n\n(Translated by Google)\nFast, friendly and effective service.",
+    "createTime": "2021-03-16T11:41:16.782679Z",
+    "updateTime": "2021-03-16T11:41:36.424294Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5bzd5eVlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Martínez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-05T15:18:33.410750Z",
+    "updateTime": "2021-03-14T22:41:38.426465Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5eHBfMTlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Grisel Fischer"
+    },
+    "starRating": "ONE",
+    "comment": "Los baños están cerrados porque estan muy sucios y no hay personal de limpieza. No funciona el sistema para cargar puntos de ypf serviclub. A las 9 de la mañana aun esta cerrada la confitería. Pésimo\n\n(Translated by Google)\nThe restrooms are closed because they\u0027re filthy and there\u0027s no cleaning staff. The YPF Serviclub points system isn\u0027t working. The café was still closed at 9:00 AM. Terrible.",
+    "createTime": "2021-03-14T11:55:26.291414Z",
+    "updateTime": "2021-03-14T11:56:46.078313Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5NVlha1JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Miranda"
+    },
+    "starRating": "FIVE",
+    "comment": "ACA siempre\n\n(Translated by Google)\nAlways here",
+    "createTime": "2021-03-13T15:01:02.469470Z",
+    "updateTime": "2021-03-13T15:01:02.469470Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5aFo2bGhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Ariel Sarmiento"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-12T21:22:57.741418Z",
+    "updateTime": "2021-03-12T21:22:57.741418Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5bWUtY2hBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Valentin Gallo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-11T02:52:47.920036Z",
+    "updateTime": "2021-03-11T02:52:47.920036Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5c1l6Yy1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Vanacloig"
+    },
+    "starRating": "ONE",
+    "createTime": "2021-03-09T17:44:17.715323Z",
+    "updateTime": "2021-03-09T17:44:23.596910Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5Z2UzNTZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Pieralisi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-09T17:04:38.250366Z",
+    "updateTime": "2021-03-09T17:04:38.250366Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5Z2VuQTNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "elprimoloko7"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-09T05:44:58.747822Z",
+    "updateTime": "2021-03-09T05:44:58.747822Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5dnY2azJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tomas De Castelli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-08T18:08:06.342122Z",
+    "updateTime": "2021-03-08T18:08:06.342122Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5M29ESjFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel L"
+    },
+    "starRating": "TWO",
+    "comment": "Baños en pésimas condiciones, falta de higiene, sin protocolos covid, no hay jabón ni elementos sanitizantes. Una vergüenza para YPF y el ACA.\n\n(Translated by Google)\nBathrooms in terrible condition, lack of hygiene, no COVID protocols, no soap or sanitizing supplies. A disgrace for YPF and the ACA.",
+    "createTime": "2021-03-07T15:53:49.767911Z",
+    "updateTime": "2021-03-07T15:56:08.900789Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5enRpNmF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Austin Whittall"
+    },
+    "starRating": "FOUR",
+    "comment": "Siempre paro acá\n\n(Translated by Google)\nI always stop here",
+    "createTime": "2021-03-07T14:37:52.525819Z",
+    "updateTime": "2021-03-07T14:37:52.525819Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5anN2eHhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Ángel Rossi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-05T23:38:02.455072Z",
+    "updateTime": "2021-03-05T23:38:02.455072Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5NXVyNFNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "turbito Etchevarne"
+    },
+    "starRating": "TWO",
+    "comment": "No quería cargar los datos para hacerme una factura a.\n\n(Translated by Google)\nI didn\u0027t want to upload the data to create an invoice for myself.",
+    "createTime": "2021-03-04T02:30:06.662721Z",
+    "updateTime": "2021-03-04T02:30:14.617207Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5bXBIX1l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan manuel Barrios"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-02T23:49:59.005217Z",
+    "updateTime": "2021-03-02T23:49:59.005217Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5aXVYaWp3RRAB"
+  }]
+}

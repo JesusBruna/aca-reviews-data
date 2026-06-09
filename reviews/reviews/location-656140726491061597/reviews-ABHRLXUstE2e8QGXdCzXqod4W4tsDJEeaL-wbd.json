@@ -1,0 +1,228 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Alejandra S"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-31T11:29:03.398170Z",
+    "updateTime": "2022-01-31T11:29:03.398170Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURta2VxSV9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Acosta"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-30T14:06:14.927889Z",
+    "updateTime": "2022-01-30T14:06:14.927889Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtZ2ZlYlpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Eduardo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-29T23:57:30.891920Z",
+    "updateTime": "2022-01-29T23:57:30.891920Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdnMtZ1pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noemi Riazuelo"
+    },
+    "starRating": "FOUR",
+    "comment": "MUY BUENA ATENCIÓN,POCA DEMORA Y SANITARIOS LIMPIOS\n\n(Translated by Google)\nExcellent service, short wait times, and clean restrooms.",
+    "createTime": "2022-01-29T13:45:14.236610Z",
+    "updateTime": "2022-01-29T13:45:14.236610Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias.",
+      "updateTime": "2022-01-31T21:14:58.299568Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtbnYtRkhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marta Noemí Martin Remon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-28T23:56:36.869140Z",
+    "updateTime": "2022-01-28T23:56:36.869140Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcnAtaWdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gus"
+    },
+    "starRating": "ONE",
+    "comment": "Pobre surtido en el shooping tarjetas de crédito limitadas\n\n(Translated by Google)\nPoor assortment in shopping, limited credit cards",
+    "createTime": "2022-01-27T13:03:40.142909Z",
+    "updateTime": "2022-01-27T13:03:40.142909Z",
+    "reviewReply": {
+      "comment": "Tiene usted razon, el dia de hoy tenemos problemas de enlace con las tarjetas.\nTrabajaremos para mejorar nuestro surtido. Gracias.",
+      "updateTime": "2022-01-27T14:32:46.331134Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtbHAyR2xBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Genoni"
+    },
+    "starRating": "TWO",
+    "comment": "...tuve mala experiencia, cargué nafta y al pedir un service se me dijo NO TENER personal idóneo, diluviaba y tuve que seguir varios Km más...\n\n(Translated by Google)\n...I had a bad experience. I filled up with gas and when I requested service, I was told there was NO qualified personnel, it was pouring rain, and I had to continue for several more kilometers...",
+    "createTime": "2022-01-26T20:55:00.274985Z",
+    "updateTime": "2022-01-26T20:55:00.274985Z",
+    "reviewReply": {
+      "comment": "Señor DANIEL nos resulta extraño su comentario ya que aqui hace mas de una semana que no llueve.\nGracias.",
+      "updateTime": "2022-01-27T14:23:54.233651Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcHVLSnBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana López Figueroa"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio y amable atención\n\n(Translated by Google)\nGood service and friendly attention",
+    "createTime": "2022-01-26T12:12:19.156135Z",
+    "updateTime": "2022-01-26T12:12:19.156135Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario.",
+      "updateTime": "2022-01-26T12:54:44.349572Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtaHFLZmNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rubén Carro"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-01-26T12:04:05.182436Z",
+    "updateTime": "2022-01-26T12:04:05.182436Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2022-01-26T12:53:29.854843Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtaHR5dDdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roxana Bonelli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-26T11:06:58.331734Z",
+    "updateTime": "2022-01-26T11:06:58.331734Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtaHRENGh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Lopez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-25T13:52:54.569054Z",
+    "updateTime": "2022-01-25T13:52:54.569054Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtbXJxakh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Cristina Cuello"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención lo único que la cafetería está cerrada de noche una pena porque los viajeros necesitamos un lugar para comprar o tomarse algo calentito o frío comer algo una pena .....\n\n(Translated by Google)\nExcellent service, the only downside is that the cafeteria is closed at night, which is a shame because travelers need a place to buy something, have a hot or cold drink, or eat something. It\u0027s a pity...",
+    "createTime": "2022-01-25T11:33:45.656433Z",
+    "updateTime": "2022-01-25T11:33:45.656433Z",
+    "reviewReply": {
+      "comment": "Nuestro servicompras nunca trabajo 24 hrs, pero en epoca estival los horarios son mas amplios.\nEste año por causa de contagios tenemos ausencias lo que aumento la carga horaria de los que quedamos y optamos por preservar la salud de las chicas sacrificando horarios.\nMuchas gracias por su comentario y sepa Usted disculparnos.",
+      "updateTime": "2022-01-25T13:57:01.875274Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtNnV2SUZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norma Cordoba"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-25T02:04:37.857493Z",
+    "updateTime": "2022-01-25T02:04:37.857493Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcW9TUDlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Katy"
+    },
+    "starRating": "FOUR",
+    "comment": "Baños muy sucios..\n\n(Translated by Google)\nVery dirty bathrooms.",
+    "createTime": "2022-01-25T01:17:55.335603Z",
+    "updateTime": "2022-01-25T01:17:55.335603Z",
+    "reviewReply": {
+      "comment": "Le pedimos disculpas. Gracias por avisarnos.",
+      "updateTime": "2022-01-25T11:05:19.334649Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcXVEMWt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciana Brunella"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo bien\n\n(Translated by Google)\nAll good",
+    "createTime": "2022-01-24T20:41:04.182684Z",
+    "updateTime": "2022-01-24T20:41:04.182684Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-01-25T10:57:18.235860Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURteXJxNElREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carla Pasteni"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los playeros y de las chicas del local!!!!\n\n(Translated by Google)\nExcellent service from the beach attendants and the girls at the establishment!!!!",
+    "createTime": "2022-01-24T06:15:43.696028Z",
+    "updateTime": "2022-01-24T06:15:43.696028Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2022-01-24T10:55:25.413250Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtc3JLNnhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Horacio Ortiz"
+    },
+    "starRating": "ONE",
+    "comment": "La ridiculez innombrable! ( RESCATÓ AL PERSONAL DE PLAYA POR SU SENSATEZ)\n\n(Translated by Google)\nThe unspeakable ridiculousness! (HE RESCUED THE BEACH STAFF BECAUSE OF HIS SENSIBILITY)",
+    "createTime": "2022-01-24T01:36:56.211381Z",
+    "updateTime": "2022-01-24T01:36:56.211381Z",
+    "reviewReply": {
+      "comment": "Señor ORTIZ, las medidas de seguridad se cumplen no se discuten. Gracias.",
+      "updateTime": "2022-01-24T10:54:54.987443Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURtMHZYMjVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Jesser"
+    },
+    "starRating": "TWO",
+    "comment": "La atención muy lenta, los playeros me parecen unos inoperantes, estuvimos 20 minutos haciendo fila, dentro del negocio también muy lento.\n\n(Translated by Google)\nThe service was very slow, the beach attendants seemed incompetent to me, we were in line for 20 minutes, and inside the store it was also very slow.",
+    "createTime": "2022-01-23T23:31:14.763533Z",
+    "updateTime": "2022-01-23T23:31:22.765011Z",
+    "reviewReply": {
+      "comment": "Sepa usted disculpar las demoras, Tenemos ausencia de personal por COVID. Gracias.",
+      "updateTime": "2022-01-24T10:53:56.861642Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMHBiZ0pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Nacca"
+    },
+    "starRating": "THREE",
+    "comment": "Baños muy limpios, pero debería estar mejor cuidada!\n\n(Translated by Google)\nThe bathrooms are very clean, but it should be better maintained!",
+    "createTime": "2022-01-23T22:45:15.113806Z",
+    "updateTime": "2022-01-23T22:45:15.113806Z",
+    "reviewReply": {
+      "comment": "Estamos trabajando en eso. Gracias",
+      "updateTime": "2022-01-24T10:50:21.698659Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMHRLREx3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Irene Dirmuz"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy atentos los playeros, y el servicio de cafetería muy bueno.\n\n(Translated by Google)\nThe beach staff were very attentive, and the cafeteria service was very good.",
+    "createTime": "2022-01-22T23:56:37.399978Z",
+    "updateTime": "2022-01-22T23:56:37.399978Z",
+    "reviewReply": {
+      "comment": "Muy amable su comentario. Gracias.",
+      "updateTime": "2022-01-23T20:06:54.511947Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURtd28yV0hBEAE"
+  }]
+}

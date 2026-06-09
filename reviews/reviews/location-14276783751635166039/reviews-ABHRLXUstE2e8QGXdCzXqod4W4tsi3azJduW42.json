@@ -1,0 +1,188 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Singi"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-03-20T18:32:43.654Z",
+    "updateTime": "2018-03-20T18:32:43.654Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURnOThubUVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rober Pampa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-03-19T20:33:02.640Z",
+    "updateTime": "2018-03-19T20:33:02.640Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3MjlqN0VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Bermudez"
+    },
+    "starRating": "THREE",
+    "comment": "Muy bien\n\n(Translated by Google)\nVery good",
+    "createTime": "2018-03-18T21:14:51.620Z",
+    "updateTime": "2018-03-18T21:14:59.292Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURRNHBfYkZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Arechaga"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-03-16T04:11:16.413Z",
+    "updateTime": "2018-03-16T04:11:16.413Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURncEwyZ0V3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Giudici"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno y buena comida en el restaurante\n\n(Translated by Google)\nVery good and good food at the restaurant",
+    "createTime": "2018-03-16T00:06:19.076Z",
+    "updateTime": "2018-03-16T00:06:37.447Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURnamRlUS1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Subires"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!!!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2018-03-15T12:34:05.165Z",
+    "updateTime": "2018-03-15T12:34:19.526Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNncTR1LUZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Nieva"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-03-15T01:09:13.694Z",
+    "updateTime": "2018-03-15T01:09:13.694Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBcmNtRGxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elian Ibañez"
+    },
+    "starRating": "FIVE",
+    "comment": "HAY GNC?\n\n(Translated by Google)\nIS THERE CNG?",
+    "createTime": "2018-03-14T14:47:31.322Z",
+    "updateTime": "2018-03-14T14:47:31.322Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3MUw2UXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "oscar ivan hasuoka"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-03-13T21:15:42.214Z",
+    "updateTime": "2018-03-13T21:15:42.214Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURBdDk2a0J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Cortes"
+    },
+    "starRating": "FOUR",
+    "comment": "Lugar muy limpio, pare a tomar algo, no tiene wifi.\n\n(Translated by Google)\nVery clean place, stop for a drink, no wifi.",
+    "createTime": "2018-03-13T13:54:53.309Z",
+    "updateTime": "2018-03-13T13:55:25.965Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T21:52:17.536437Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURBbkxfbGR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Soledad Parra"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar para hacer un alto en tu viaje\n\n(Translated by Google)\nExcellent place to stop on your trip",
+    "createTime": "2018-03-13T11:01:25.391Z",
+    "updateTime": "2018-03-13T11:01:50.367Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRZ1kyRVFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Cavazzoli"
+    },
+    "starRating": "FOUR",
+    "comment": "Good and fast",
+    "createTime": "2018-03-13T03:39:36.673Z",
+    "updateTime": "2018-03-13T03:39:47.843Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T22:00:55.934391Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURRNUtET2lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Iparraguirre"
+    },
+    "starRating": "THREE",
+    "comment": "Buena Atención por parte del playero Esteban.\n\n(Translated by Google)\nGood service from the beach attendant Esteban.",
+    "createTime": "2018-03-13T03:31:54.027Z",
+    "updateTime": "2018-03-13T03:32:27.975Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBc09Pak5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "celulares deusodiario"
+    },
+    "starRating": "FIVE",
+    "comment": "Recomiendo el restaurant.. se come muy bien.\n\n(Translated by Google)\nI recommend the restaurant... the food is very good.",
+    "createTime": "2018-03-13T01:01:20.995Z",
+    "updateTime": "2018-03-13T01:01:42.511Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eXRIemJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Banfi"
+    },
+    "starRating": "ONE",
+    "comment": "Deberian mejorar la atencion\n\n(Translated by Google)\nThey should improve the attention",
+    "createTime": "2018-03-11T19:12:55.726Z",
+    "updateTime": "2018-03-11T19:13:35.682Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURBbFpIQ0F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Catalina Pircio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-03-10T14:42:40.129Z",
+    "updateTime": "2018-03-10T14:42:40.129Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNndEp1VDB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Ulloa"
+    },
+    "starRating": "ONE",
+    "comment": "Atención mala . Tardan 1hs para cargarte combustible . Los alrededores de la estación cada ves están pero ..mucha basura .\n\n(Translated by Google)\nBad service. It takes an hour to fill up your tank. The area around the station is getting worse, but... lots of trash.",
+    "createTime": "2018-03-09T14:40:27.409Z",
+    "updateTime": "2018-03-09T14:41:20.400Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnLXZqTEdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "JUAN ANTONIO CAPARROS"
+    },
+    "starRating": "TWO",
+    "comment": "👌👌",
+    "createTime": "2018-03-09T01:38:11.801Z",
+    "updateTime": "2018-03-09T01:38:50.946Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdGVYcUpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noelia Cotter"
+    },
+    "starRating": "ONE",
+    "comment": "Un desastre la atención del playero Nicolás Bustos, no solo que tarda muchísimo tiempo, sino que también le toma el pelo a los clientes.  Solicite un libro de quejas, y me dieron dos tapas duras con hojas sueltas sin foliar... Una verguenza ACA 25 de mayo. De servicios 0...\n\n(Translated by Google)\nThe service from the attendant Nicolás Bustos was a disaster. Not only is he incredibly slow, but he also treats customers like dirt. I asked for a complaint book, and they gave me two hard covers with loose, unnumbered pages... A disgrace, ACA 25 de Mayo. Zero service.",
+    "createTime": "2018-03-08T22:36:29.115Z",
+    "updateTime": "2018-03-08T22:36:29.115Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia ",
+      "updateTime": "2025-07-19T22:03:58.335580Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURnMFBUX3Z3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agus Acri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-03-07T20:50:58.258Z",
+    "updateTime": "2018-03-07T20:50:58.258Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRb01YS2xnRRAB"
+  }]
+}

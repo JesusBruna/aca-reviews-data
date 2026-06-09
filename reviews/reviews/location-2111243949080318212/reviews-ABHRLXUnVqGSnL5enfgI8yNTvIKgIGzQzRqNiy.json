@@ -1,0 +1,256 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "mj A"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-12-14T19:24:44.203476Z",
+    "updateTime": "2025-12-14T19:24:44.203476Z",
+    "reviewReply": {
+      "comment": "Gracias muy amable saludos ",
+      "updateTime": "2025-12-17T03:19:07.649952Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taelkwNVJjbHBCZGpkblduaGlXRzFMZHpVd09XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo E. Rizzi"
+    },
+    "starRating": "FOUR",
+    "comment": "En la estación de servicio atienden muy bien pero siempre hay mucha cola. Si no sos socio del ACA cobran la ficha para inflar los neumáticos.  La cafetería es muy amplia y agradable, muy buena atención,  precios un tanto caros. El lavadero de autos es bueno y económico,  uno de los pocos que lavan chasis. La gomería también presta un buen servicio. Recomendable\n\n(Translated by Google)\nThe service at the gas station is excellent, but there\u0027s always a long line. If you\u0027re not an ACA member, they charge a token to inflate your tires. The cafeteria is spacious and pleasant, with very good service, though the prices are a bit high. The car wash is good and inexpensive, one of the few that washes chassis. The tire shop also provides good service. Recommended.",
+    "createTime": "2025-12-14T15:34:25.291466Z",
+    "updateTime": "2025-12-14T15:34:25.291466Z",
+    "reviewReply": {
+      "comment": "Gracias gustavo ",
+      "updateTime": "2025-12-14T17:57:47.013188Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KbFh6TkZjakZYYlRkaWRFbFpkR296V1VwbGVGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Alrican"
+    },
+    "starRating": "ONE",
+    "comment": "Muy lentos para cargar nafta. Tuve que desistir de la carga de puntos por deficiencia en su sistema informático.\nEl ACA ? Para atrás. Atrasa.\n\n(Translated by Google)\nVery slow at the gas station. I had to give up on adding points due to a problem with their computer system. The ACA? It\u0027s backwards. It\u0027s outdated.",
+    "createTime": "2025-12-14T00:35:03.885021Z",
+    "updateTime": "2025-12-14T00:35:03.885021Z",
+    "reviewReply": {
+      "comment": "Mil disculpas hubo muchos problemas a nivel país pero con los sistemas en general de pagos\nSaludos ",
+      "updateTime": "2025-12-17T03:20:03.283256Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GRlptWkZWa1ZuWjFGUU9XRmFjemRZVjBoSFJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-13T23:40:57.739864Z",
+    "updateTime": "2025-12-13T23:40:57.739864Z",
+    "reviewReply": {
+      "comment": "Gracias Marcos",
+      "updateTime": "2025-12-17T03:20:17.979627Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zMU5ISlJjV0ZJTjBWMVJtNDVZMTk0VVVKZlRXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "EDGARDO SANCHEZ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-13T16:07:39.869967Z",
+    "updateTime": "2025-12-13T16:07:39.869967Z",
+    "reviewReply": {
+      "comment": "Gracias eduardo ",
+      "updateTime": "2025-12-13T22:22:19.398378Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOa1IyWmZaSFZ2WTJKSlNIRXhjVk4zYkdWUWJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Parola"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-13T11:21:24.632387Z",
+    "updateTime": "2025-12-13T11:21:24.632387Z",
+    "reviewReply": {
+      "comment": "Gracias gustavo ",
+      "updateTime": "2025-12-13T22:22:33.257180Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pscmFWOUlOMFpoWTI1b2FsQlZTbUpUZVZwRWVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Devereux"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-13T02:12:36.850696Z",
+    "updateTime": "2025-12-13T02:12:36.850696Z",
+    "reviewReply": {
+      "comment": "Gracias verónica ",
+      "updateTime": "2025-12-13T22:22:47.894540Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGbU5YUTVUbFZaTlVWUVQwcFRTR1UwWW5weWVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ballena Orca"
+    },
+    "starRating": "FIVE",
+    "comment": "Bien . Pense q tenian mejor presio en combustible por ser casa central.\n\n(Translated by Google)\nGood. I thought they had better fuel prices because they\u0027re the main branch.",
+    "createTime": "2025-12-12T17:34:07.826028Z",
+    "updateTime": "2025-12-12T17:35:11.180993Z",
+    "reviewReply": {
+      "comment": "Gracias si tenemos mejor precio que otras de la zona gracias ",
+      "updateTime": "2025-12-13T22:23:46.811730Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGUmFWTkJjRnB1TUZNNWIwMDROMUJhVFdOSlFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "LUCIANA COLAZO"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio. Completo\n\n(Translated by Google)\nExcellent service. Complete.",
+    "createTime": "2025-12-12T16:08:30.073723Z",
+    "updateTime": "2025-12-12T16:08:30.073723Z",
+    "reviewReply": {
+      "comment": "Gracias luciana ",
+      "updateTime": "2025-12-13T22:23:59.159535Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jMU5VWmpWVFZyVVZoR1NHOXdjMUZQZEZGa1lYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Repiso"
+    },
+    "starRating": "THREE",
+    "createTime": "2025-12-10T17:43:49.089396Z",
+    "updateTime": "2025-12-10T17:43:49.089396Z",
+    "reviewReply": {
+      "comment": "Gracias ricardo ",
+      "updateTime": "2025-12-12T02:09:47.235195Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sUlYyMUpaekZLU210NFZWQm9UelIzVldaaGNsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Hugo Rodas"
+    },
+    "starRating": "FIVE",
+    "comment": "El aca central una muy buena estación de servicio\n\n(Translated by Google)\nThe central station is a very good service station",
+    "createTime": "2025-12-10T16:03:28.035281Z",
+    "updateTime": "2025-12-10T16:03:28.035281Z",
+    "reviewReply": {
+      "comment": "Gracias víctor muy amable \n",
+      "updateTime": "2025-12-12T02:10:12.534551Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GZlFtbFVSVTgyWVY5VmVucHRNbkJZZG14Nk1FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Centurión"
+    },
+    "starRating": "FIVE",
+    "comment": "consulta… para hacer un tramite de registro internacional qué horario abren??\n\n(Translated by Google)\nQuestion… what are your opening hours for international registration procedures?",
+    "createTime": "2025-12-10T02:40:14.102049Z",
+    "updateTime": "2025-12-10T02:40:14.102049Z",
+    "reviewReply": {
+      "comment": "Hola facundo el horario es de 9 a 17 hs \nTrae dni registro y ahí lo realizamos en el 3er piso saludos ",
+      "updateTime": "2025-12-12T02:11:24.438267Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tobGNrdDNVVFZxTm1sVFYxcE5kakZXTW1aMWVuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Saplara"
+    },
+    "starRating": "FOUR",
+    "comment": "Soy socio hace más de 30 años!!! Siempre los elijo. Últimamente los playeros están un poco desganado. Espero mejore la situación de ellos para que no afecte el servicio.\n\n(Translated by Google)\nI\u0027ve been a member for over 30 years! I always choose them. Lately, the beach attendants seem a bit unmotivated. I hope their situation improves so it doesn\u0027t affect the service.",
+    "createTime": "2019-08-15T00:47:03.673557Z",
+    "updateTime": "2025-12-10T00:46:41.203340Z",
+    "reviewReply": {
+      "comment": "Gracias ",
+      "updateTime": "2025-04-26T23:04:49.090683Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChRDSUhNMG9nS0VJQ0FnSURVNUpjcRAB"
+  }, {
+    "reviewer": {
+      "displayName": "B. Ansaldo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!!!\n\n(Translated by Google)\nExcellent service!!!",
+    "createTime": "2017-09-09T15:38:20.813Z",
+    "updateTime": "2025-12-09T22:25:15.497521Z",
+    "reviewReply": {
+      "comment": "Gracias andando por tu comentario saludos ",
+      "updateTime": "2025-12-12T02:11:46.942677Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSUNndmRldDVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo"
+    },
+    "starRating": "FIVE",
+    "comment": "Linda estacion, cómoda, atención y despacho rapido\n\n(Translated by Google)\nNice station, comfortable, fast service and dispatch",
+    "createTime": "2025-12-08T22:39:03.177889Z",
+    "updateTime": "2025-12-08T22:39:03.177889Z",
+    "reviewReply": {
+      "comment": "Gracias muy amable saludos ",
+      "updateTime": "2025-12-09T11:23:31.803695Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOdk5ESlVVamhOWlhob1lXVk9aVE5FTFhWTFdIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kilowatt Socialmedia"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bien para hacer un descanso un corte al mediodía\n\n(Translated by Google)\nGreat for taking a break at midday",
+    "createTime": "2025-12-08T20:40:17.969231Z",
+    "updateTime": "2025-12-08T20:40:17.969231Z",
+    "reviewReply": {
+      "comment": "Gracias por tu comentario saludos ",
+      "updateTime": "2025-12-09T11:23:52.674802Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kdWQyVkpORzR5Y3pCaFpuVTNhMmRHT0RocWJXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Favio Fatone"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención muy buena siempre\n\n(Translated by Google)\nThe service is always very good.",
+    "createTime": "2025-12-08T12:58:24.920554Z",
+    "updateTime": "2025-12-08T12:58:24.920554Z",
+    "reviewReply": {
+      "comment": "Gracias favio saludos ",
+      "updateTime": "2025-12-09T11:24:16.939023Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sWmMwOTJUMjlNZWxsalVWYzNkR3hDZW1seVkzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Viegas"
+    },
+    "starRating": "FIVE",
+    "comment": "Cómo siempre...todas las estaciones YPF y en especial las del ACA no son un punto de carga de combustible por personal amable y capacitado sino que además ofrecen baños limpios.. un lugar donde tomar un café o hacer alguna compra de último momento en un lugar agradable\n\n(Translated by Google)\nAs always...all YPF stations, and especially those of the ACA, are not just fuel stops with friendly and trained staff, but also offer clean restrooms, a place to have a coffee, or do some last-minute shopping in a pleasant atmosphere.",
+    "createTime": "2025-12-07T15:55:45.051119Z",
+    "updateTime": "2025-12-07T15:55:45.051119Z",
+    "reviewReply": {
+      "comment": "Gracias martina muy amable saludos ",
+      "updateTime": "2025-12-08T11:54:40.009252Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkT1JqUldaakZKTURoRmNXSkthbWhUU1dJMExWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Esteban Vodanovich"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-12-07T06:22:39.901889Z",
+    "updateTime": "2025-12-07T06:22:39.901889Z",
+    "reviewReply": {
+      "comment": "Gracias jorge ",
+      "updateTime": "2025-12-08T11:54:55.393472Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSYVFWUllWbXB0VTJGTFVXdFRlSGRyZUVwSFduYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Martino"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena,atención . como siempre .\n\n(Translated by Google)\nVery good service, as always.",
+    "createTime": "2025-12-05T19:52:32.420757Z",
+    "updateTime": "2025-12-05T19:52:32.420757Z",
+    "reviewReply": {
+      "comment": "Gracias marcelo ",
+      "updateTime": "2025-12-07T03:22:06.614462Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FeE1YcGFibU5aY0Zvd1RHVjFVbWhNZEVkWlFuYxAB"
+  }]
+}

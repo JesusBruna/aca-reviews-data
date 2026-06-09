@@ -1,0 +1,169 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Carlos Ortega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-23T01:13:29.495696Z",
+    "updateTime": "2022-07-23T01:13:29.495696Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1N0pxaG9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "cintia valdez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-22T16:22:27.545078Z",
+    "updateTime": "2022-07-22T16:22:27.545078Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1ekpiUklREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Winkelmann"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-21T21:52:39.988742Z",
+    "updateTime": "2022-07-21T21:52:39.988742Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1MVA3dFZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Cuenca"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-20T01:49:02.007931Z",
+    "updateTime": "2022-07-20T01:49:02.007931Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1cU12UnRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Eandi"
+    },
+    "starRating": "FOUR",
+    "comment": "Lugar justo para desayunar en mi caso ..\n\n(Translated by Google)\nPerfect place for breakfast in my case...",
+    "createTime": "2022-07-20T00:29:20.030789Z",
+    "updateTime": "2022-07-20T00:29:20.030789Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1cUttSDJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Patterer"
+    },
+    "starRating": "TWO",
+    "comment": "Falta de mesa de mesas para tomar un café...y falta de combustible\n\n(Translated by Google)\nLack of tables to have a coffee...and lack of fuel",
+    "createTime": "2022-07-20T00:06:10.445405Z",
+    "updateTime": "2022-07-20T00:06:10.445405Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1cUtHNHZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Berra Eduardo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-19T15:07:40.155930Z",
+    "updateTime": "2022-07-19T15:07:40.155930Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1aVBDUUFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "carola miranda"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención,  solo los baños muy sucios\n\n(Translated by Google)\nExcellent service, only the bathrooms were very dirty.",
+    "createTime": "2022-07-19T14:05:28.277969Z",
+    "updateTime": "2022-07-19T14:05:28.277969Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1OEsyRnFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Adrian Asprea"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y muy buen trato de todos hacia la gente. Excelente todo\n\n(Translated by Google)\nExcellent service and everyone treated us very well. Everything was excellent.",
+    "createTime": "2022-07-18T11:47:32.347424Z",
+    "updateTime": "2022-07-18T11:47:32.347424Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1Z1AyeDhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Esquivel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-17T02:37:16.639200Z",
+    "updateTime": "2022-07-17T02:37:16.639200Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURPai1ldnN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Laura Carbone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-16T17:10:01.723415Z",
+    "updateTime": "2022-07-16T17:10:01.723415Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURPdDlPNkxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Navarta"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo lugar para pasar el día y comer un asado, tiene lindos parrilleros\n\n(Translated by Google)\nNice place to spend the day and have a barbecue, it has nice grills",
+    "createTime": "2022-07-16T03:23:15.944849Z",
+    "updateTime": "2022-07-16T03:23:15.944849Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURPNTdHd1p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "claudio pesce"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-15T01:54:18.547516Z",
+    "updateTime": "2022-07-15T01:54:18.547516Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURPdV9EcXB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivanila Inglese"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-11T20:05:45.412397Z",
+    "updateTime": "2022-07-11T20:05:45.412397Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURPN2UzaGhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "roberto calcaterra"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-10T12:26:15.709746Z",
+    "updateTime": "2022-07-10T12:26:15.709746Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURPNWZldkZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Miguel Kelly"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-08T16:14:09.695819Z",
+    "updateTime": "2022-07-08T16:14:09.695819Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURPeVp1d3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adolfo C Roca"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-07-06T22:59:42.376129Z",
+    "updateTime": "2022-07-06T22:59:42.376129Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURPd2FEUVpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Bogado"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-04T23:54:38.286987Z",
+    "updateTime": "2022-07-04T23:54:38.286987Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURPMW8tU0NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Pagola"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-04T01:22:12.357181Z",
+    "updateTime": "2022-07-04T01:22:12.357181Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURPeHB5Z0lnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Diez"
+    },
+    "starRating": "ONE",
+    "comment": "Desastre la atención en el interior del local. El café servido fue intomable.\n\n(Translated by Google)\nThe service inside the establishment was a disaster. The coffee served was undrinkable.",
+    "createTime": "2022-07-03T23:04:35.717704Z",
+    "updateTime": "2022-07-03T23:04:35.717704Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURPaG9mdjR3RRAB"
+  }]
+}

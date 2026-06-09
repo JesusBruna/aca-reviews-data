@@ -1,0 +1,55 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Opinador"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención. Pero el café no es bueno\n\n(Translated by Google)\nGood service. But the coffee isn\u0027t good.",
+    "createTime": "2016-07-19T18:30:31.412Z",
+    "updateTime": "2016-07-19T18:30:50.272Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3aDhyTGxnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco D. Guevara"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-06-28T12:37:32.494Z",
+    "updateTime": "2016-06-28T12:37:32.494Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChdDSUhNMG9nS0VJQ0FnSURndi0tbXR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Inesta"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente estación de servicios\n\n(Translated by Google)\nExcellent service station",
+    "createTime": "2016-06-21T12:24:18.396Z",
+    "updateTime": "2016-06-21T12:24:26.219Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMk83dnpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Daniel Darlan"
+    },
+    "starRating": "THREE",
+    "comment": "Es una linda estación de servicios con un pequeño comedor...y a la par de un hotel del mismo automóvil club...\n\n(Translated by Google)\nIt\u0027s a nice service station with a small dining room...and next to a hotel from the same automobile club...",
+    "createTime": "2016-02-21T16:12:10.405Z",
+    "updateTime": "2016-02-21T16:14:14.450Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChZDSUhNMG9nS0VJQ0FnSURnNE5DbUFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Muniz"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-02-19T00:27:38.309Z",
+    "updateTime": "2016-02-19T00:27:38.309Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChZDSUhNMG9nS0VJQ0FnSURnanZua09BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Huertas"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y todos los servicios.\n\n(Translated by Google)\nGood service and all the amenities.",
+    "createTime": "2015-10-25T19:56:06.678Z",
+    "updateTime": "2015-10-25T19:56:35.461Z",
+    "name": "accounts/109853746269412609224/locations/8171823765692458471/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBM0lDSmV3EAE"
+  }]
+}

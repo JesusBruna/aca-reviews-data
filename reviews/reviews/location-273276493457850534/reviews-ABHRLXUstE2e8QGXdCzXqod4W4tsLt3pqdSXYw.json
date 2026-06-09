@@ -1,0 +1,178 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jorge Leonardo Arevalo"
+    },
+    "starRating": "THREE",
+    "comment": "Bueno\n\n(Translated by Google)\nWell",
+    "createTime": "2019-03-04T04:59:17.213975Z",
+    "updateTime": "2019-03-04T04:59:17.213975Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvNTRIVFJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Cabral"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-03-03T10:57:42.056694Z",
+    "updateTime": "2019-03-03T10:57:42.056694Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUNveDlyRnN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Zabala"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2019-01-29T04:24:44.632086Z",
+    "updateTime": "2019-03-02T22:30:16.788967Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURJMzZXdHFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Montes De Oca"
+    },
+    "starRating": "TWO",
+    "comment": "Servicio muy lento por la demanda y pocos surtidores\n\n(Translated by Google)\nVery slow service due to demand and few pumps",
+    "createTime": "2019-02-17T13:19:20.356859Z",
+    "updateTime": "2019-02-17T13:19:20.356859Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvdnRHTkl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Linqué Araya Coroleu"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2019-02-15T04:26:47.954593Z",
+    "updateTime": "2019-02-15T04:26:47.954593Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvOXNiTWV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "SoyNacho"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-02-15T03:19:18.477443Z",
+    "updateTime": "2019-02-15T03:19:18.477443Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvOXBLMFpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rosana Gómez"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-02-13T13:07:14.555088Z",
+    "updateTime": "2019-02-13T13:07:14.555088Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvcHNXMmNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Montoya"
+    },
+    "starRating": "TWO",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2019-02-12T16:35:57.334539Z",
+    "updateTime": "2019-02-12T16:35:57.334539Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por dejarnos una calificación ",
+      "updateTime": "2025-04-01T15:55:06.586440Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvLXZlWXp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juampi boiero"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-02-10T14:21:56.076427Z",
+    "updateTime": "2019-02-10T14:21:56.076427Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvcXFUYnh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustín Eduardo Quesada"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-02-09T05:36:49.910484Z",
+    "updateTime": "2019-02-09T05:36:49.910484Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvMHAzRUhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio López"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-02-06T10:19:14.129457Z",
+    "updateTime": "2019-02-06T10:19:14.129457Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvMU9hZWhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Flor Ruarte"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-02-03T03:16:11.203482Z",
+    "updateTime": "2019-02-03T03:16:11.203482Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvcU43VzhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Ramon Espeche"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-01-24T20:34:40.306274Z",
+    "updateTime": "2019-01-24T20:34:40.306274Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURJcDdqeGV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "José Carlos Cerezo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-01-21T10:55:25.388788Z",
+    "updateTime": "2019-01-21T10:55:25.388788Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURJaS1YTG9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston Sanchez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-01-20T03:51:58.223030Z",
+    "updateTime": "2019-01-20T03:51:58.223030Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por dejarnos una calificación de 5 estrellas! Agradecemos mucho su apoyo. Si disfrutó de su experiencia o si hay algo que podamos hacer para que su próxima visita sea aún mejor, nos encantaría saberlo. ¡Sus comentarios nos ayudan a seguir mejorando!",
+      "updateTime": "2025-04-01T15:54:45.584895Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURJazdlNnF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nelson Kevin Poblete"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion, precios elevados.\n\n(Translated by Google)\nGood service, high prices.",
+    "createTime": "2019-01-20T03:38:44.042766Z",
+    "updateTime": "2019-01-20T03:38:44.042766Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURJay1lY3BBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Gramajo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-01-17T23:55:36.757892Z",
+    "updateTime": "2019-01-17T23:55:36.757892Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURJdmVfWW5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jimena Salto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-01-17T18:50:32.913739Z",
+    "updateTime": "2019-01-17T18:50:32.913739Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdmZhYkRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Valles"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-01-16T22:03:11.824699Z",
+    "updateTime": "2019-01-16T22:03:11.824699Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURJbmRURklREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fer Getino (fer)"
+    },
+    "starRating": "FOUR",
+    "comment": "Un lugar donde hacer un alto en el camino, muy buen combustible, hosteria y baños publicos, excelente cafe\n\n(Translated by Google)\nA place to stop along the way, very good fuel, inn and public restrooms, excellent coffee",
+    "createTime": "2019-01-14T06:56:17.957440Z",
+    "updateTime": "2019-01-14T06:57:32.148944Z",
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSURJbFpPUHZ3RRAB"
+  }]
+}

@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Teresa Pallero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-21T13:39:20.282635Z",
+    "updateTime": "2023-10-21T13:39:20.282635Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1b3AtaWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Aguirre"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-10-20T13:43:27.195022Z",
+    "updateTime": "2023-10-20T13:47:32.364151Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1N0tUN3NRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "edgardo zorzoli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-20T12:05:19.603333Z",
+    "updateTime": "2023-10-20T12:05:19.603333Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1ek0zYW9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ayelen Quiroga"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños limpios\n\n(Translated by Google)\nClean bathrooms",
+    "createTime": "2023-10-19T13:03:04.477307Z",
+    "updateTime": "2023-10-19T13:03:04.477307Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1aUlYY1NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tano Vito"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion y limpieza\n\n(Translated by Google)\nVery good service and cleanliness",
+    "createTime": "2023-10-18T22:35:25.204311Z",
+    "updateTime": "2023-10-18T22:35:25.204311Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1MEpxMGt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Impecable todo\n\n(Translated by Google)\nEverything was impeccable",
+    "createTime": "2023-10-18T22:22:25.016110Z",
+    "updateTime": "2023-10-18T22:23:57.554494Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1MFBMaXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Benjamin Melloni Berro"
+    },
+    "starRating": "THREE",
+    "comment": "La habitación esta bien para dormir y listo. Es calentita, la cama está bien y la ducha normal. El desayuno es en la ypf full, no tiene restorán como algunos ACA, asi que la cena (si no te queres mover de ahi) es hamburguesas y alguno otra opcion similar. El servicio del personal está muy bien. Cada habitación tiene su cochera.\n\n(Translated by Google)\nThe room is fine for sleeping, that\u0027s all. It\u0027s warm, the bed is comfortable, and the shower is standard. Breakfast is at the YPF Full station; there\u0027s no restaurant like some ACA hotels, so dinner (if you don\u0027t want to leave the hotel) is usually hamburgers or similar options. The staff is very helpful. Each room has its own parking space.",
+    "createTime": "2023-10-18T11:07:00.210896Z",
+    "updateTime": "2023-10-18T11:07:00.210896Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1d1BEZjV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Daniel Herrera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-17T19:48:41.725405Z",
+    "updateTime": "2023-10-17T19:48:41.725405Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1MV91WjBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Pires"
+    },
+    "starRating": "FIVE",
+    "comment": "Un buen lugar para hacer un alto en el viaje\n\n(Translated by Google)\nA good place to stop on the journey",
+    "createTime": "2023-10-16T14:31:24.785210Z",
+    "updateTime": "2023-10-16T14:31:24.785210Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1M2E2RUtBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Pavon"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de tod@s l@s chic@s. Excelente el servicio de cafetería.\n\n(Translated by Google)\nGreat service from all the staff. Excellent cafeteria service.",
+    "createTime": "2023-10-16T12:03:53.197742Z",
+    "updateTime": "2023-10-16T12:03:53.197742Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1N2M3WURnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Gerardo Diez Gómez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bonita y cuidada plaza céntrica de San Martín de los Andes. Con zona WiFi.\n\n(Translated by Google)\nA very beautiful and well-maintained central square in San Martín de los Andes. With a WiFi zone.",
+    "createTime": "2023-10-16T00:53:22.832231Z",
+    "updateTime": "2023-10-16T00:53:22.832231Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1bGJ5UXJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Medina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-15T20:58:53.313943Z",
+    "updateTime": "2023-10-15T20:58:53.313943Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1aGQ3aEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Muñoz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-15T18:59:41.279361Z",
+    "updateTime": "2023-10-15T18:59:41.279361Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1dVpYZkZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Zoe Acuña"
+    },
+    "starRating": "FIVE",
+    "comment": "El café con leche está 1300 el vasito descartable, las fichas para el agua caliente 100$ cada una y está muy limpio el baño\n\n(Translated by Google)\nThe coffee with milk is 1300 for the disposable cup, the tokens for hot water are $100 each, and the bathroom is very clean.",
+    "createTime": "2023-10-15T01:33:25.641740Z",
+    "updateTime": "2023-10-15T01:33:25.641740Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1MFl2eWpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Insaurralde"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-10-15T00:35:34.095250Z",
+    "updateTime": "2023-10-15T00:35:34.095250Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1MGNYUmtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Zorzit"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-13T01:43:24.351352Z",
+    "updateTime": "2023-10-13T01:43:24.351352Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1aHZLV1hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina Conchado"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-10-13T00:29:49.700262Z",
+    "updateTime": "2023-10-13T00:29:49.700262Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1LXRpdENBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Lamarfa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-12T16:27:30.710779Z",
+    "updateTime": "2023-10-12T16:27:30.710779Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1cXRic2J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "DANIEL A. GREGORI"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-11T13:56:34.406505Z",
+    "updateTime": "2023-10-11T13:56:34.406505Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1akx1RFBREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Karina Lapolla"
+    },
+    "starRating": "FOUR",
+    "comment": "Cómo todas las estaciones del ACA que conozco. Excelente atención\n\n(Translated by Google)\nLike all the ACA stations I know. Excellent service.",
+    "createTime": "2023-10-10T18:09:11.247546Z",
+    "updateTime": "2023-10-10T18:09:11.247546Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1bE9qSnpnRRAB"
+  }]
+}

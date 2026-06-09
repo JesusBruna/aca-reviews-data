@@ -1,0 +1,36 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Lucas Nilsson"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien ofreciendo todos sus productos y promociones.\n\n(Translated by Google)\nGood at offering all their products and promotions.",
+    "createTime": "2016-10-04T21:54:48.076Z",
+    "updateTime": "2016-10-04T21:55:27.088Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURBX3BlS29nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Barbareschi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-09-07T11:34:04.956Z",
+    "updateTime": "2016-09-07T11:34:04.956Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURndHVIOFdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "leonardo pesce"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-08-05T15:15:22.125Z",
+    "updateTime": "2016-08-05T15:15:22.125Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRbXNDMkR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "JF Amigo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2015-12-29T02:24:06.326Z",
+    "updateTime": "2015-12-29T02:24:06.326Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBb2FmTFB3EAE"
+  }]
+}

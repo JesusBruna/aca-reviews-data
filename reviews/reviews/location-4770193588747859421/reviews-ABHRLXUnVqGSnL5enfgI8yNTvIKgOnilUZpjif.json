@@ -1,0 +1,256 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Duarte"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-01-31T20:35:59.973229Z",
+    "updateTime": "2023-01-31T20:35:59.973229Z",
+    "reviewReply": {
+      "comment": "Juan gracias por calificarnos!\nSaludos",
+      "updateTime": "2023-10-12T23:30:18.593863Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSURCejdXQ3Z3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Yannelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-01-20T21:33:07.750792Z",
+    "updateTime": "2023-01-20T21:33:07.750792Z",
+    "reviewReply": {
+      "comment": "Miguel gracias por confiar en nosotros!!!\nSaludos",
+      "updateTime": "2023-10-12T23:30:44.820458Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSURCX3RmYzZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Strumia"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. Muchos surtidores.\n\n(Translated by Google)\nGood service. Plenty of pumps.",
+    "createTime": "2023-01-12T00:48:55.498721Z",
+    "updateTime": "2023-01-12T00:48:55.498721Z",
+    "reviewReply": {
+      "comment": "Martin gracias por calificarnos!\nSaludos",
+      "updateTime": "2023-10-12T23:30:59.997861Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSURCcE9YYjJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Barbaglia"
+    },
+    "starRating": "THREE",
+    "comment": "No dejan bajarse y abonar.... No me gusta. A veces cdo uno está en viaje una de las razones de parar a cargar nafta es estirar esos minutos las piernas. Tampoco hay lugar para estacionar luego de la carga. No lo revomiendo\n\n(Translated by Google)\nThey don\u0027t let you get off and pay... I don\u0027t like it. Sometimes, when you\u0027re traveling, one of the reasons you stop to fill up with gas is to stretch your legs for a few minutes. There\u0027s also no place to park after filling up. I don\u0027t recommend it.",
+    "createTime": "2023-01-10T19:03:19.352416Z",
+    "updateTime": "2023-01-10T19:03:19.352416Z",
+    "reviewReply": {
+      "comment": "Rodrigo tomamos la sugerencia\nSaludos",
+      "updateTime": "2023-10-14T12:04:39.830252Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSURCNkxPTldBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Aguirre"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-01-07T10:34:21.653820Z",
+    "updateTime": "2023-01-07T10:34:43.381335Z",
+    "reviewReply": {
+      "comment": "María gracias por confiar en nosotros!!!\nSaludos",
+      "updateTime": "2023-10-12T23:32:26.376168Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCai03Q2d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Angel Lardone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-27T19:03:28.100055Z",
+    "updateTime": "2022-12-27T19:03:28.100055Z",
+    "reviewReply": {
+      "comment": "Miguel gracias por las 5 estrellas!!!\nSaludos",
+      "updateTime": "2023-03-10T10:19:07.467083Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCb1pPdnNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "corina nyko"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-26T22:14:04.400073Z",
+    "updateTime": "2022-12-26T22:14:04.400073Z",
+    "reviewReply": {
+      "comment": "Corina gracias por las estrellas!!!\nSaludos",
+      "updateTime": "2023-10-12T23:35:47.210465Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCdnFpbmxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Ferreira"
+    },
+    "starRating": "ONE",
+    "comment": "No andan los sistemas para pagos. Los socios no accedemos a ese beneficio. No lo recomiendo para nada. Malisimo! Ya no soy socio!!!!\n\n(Translated by Google)\nThe payment systems aren\u0027t working. Members can\u0027t access that benefit. I don\u0027t recommend it at all. Terrible! I\u0027m no longer a member!",
+    "createTime": "2022-12-18T14:35:46.230183Z",
+    "updateTime": "2022-12-24T00:49:33.298923Z",
+    "reviewReply": {
+      "comment": "Estimado Luis tenemos inconvenientes técnicos en nuestra atención como consecuencia de una intrusión en nuestros sistemas.\nEstamos trabajando fuerte para volver a la normalidad, pedimos disculpas del caso por este indeseable hecho.-\nLo invitamos a pasar por nuestras oficinas para revisar su caso y acceder a los beneficios que da nuestra institucion.-\n\nSaludos!!!",
+      "updateTime": "2022-12-20T12:58:33.747669Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCdEotUU93EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Rojas"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar, ordenado. Personal muy amable y calificado.\n\n(Translated by Google)\nExcellent, tidy place. Very friendly and knowledgeable staff.",
+    "createTime": "2022-12-18T05:45:30.393542Z",
+    "updateTime": "2022-12-18T05:45:30.393542Z",
+    "reviewReply": {
+      "comment": "Alejandro gracias por confiar en nosotros!!!\nSaludos",
+      "updateTime": "2023-10-12T23:36:20.977665Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCMU9Tajl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sissi Heredia"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y amabilidad de los empleados\n\n(Translated by Google)\nGood service and friendly staff",
+    "createTime": "2022-12-18T02:39:35.937739Z",
+    "updateTime": "2022-12-18T02:39:35.937739Z",
+    "reviewReply": {
+      "comment": "Sissi gracias por calificarnos!\nSaludos",
+      "updateTime": "2023-10-12T23:36:35.422917Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCbEpXZG9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "sebastian rodrigo barthelemy"
+    },
+    "starRating": "ONE",
+    "createTime": "2022-12-08T10:51:32.377310Z",
+    "updateTime": "2022-12-08T10:51:32.377310Z",
+    "reviewReply": {
+      "comment": "Hola Sebastián, si es posible nos gustaría que nos amplies la calificación a contacto@ypfacasantafe.com.ar\nSaludos",
+      "updateTime": "2022-12-08T15:33:53.032509Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtNDdTbXhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Mussín"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-07T19:57:14.998820Z",
+    "updateTime": "2022-12-07T19:57:14.998820Z",
+    "reviewReply": {
+      "comment": "Hola Carolina gracias por las estrellas...\nSaludos",
+      "updateTime": "2022-12-07T22:59:19.724812Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtZzVhRkVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Sabena"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo muy bien puesto pero siempre faltan empleados para la cantidad de gente q concurre\n\n(Translated by Google)\nEverything is very well set up but there are always not enough employees for the amount of people who come.",
+    "createTime": "2022-11-28T19:30:36.421383Z",
+    "updateTime": "2022-12-02T12:33:27.632755Z",
+    "reviewReply": {
+      "comment": "Darío gracias por calificarnos! Tomamos la sugerencia\nSaludos",
+      "updateTime": "2023-10-12T23:37:10.736869Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNXRiTlJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "rosa patricia reynoso"
+    },
+    "starRating": "FIVE",
+    "comment": "Cómo siempre YPF a la vanguardia en atención\n\n(Translated by Google)\nAs always, YPF is at the forefront of customer service.",
+    "createTime": "2022-11-24T21:00:34.724218Z",
+    "updateTime": "2022-11-24T21:00:34.724218Z",
+    "reviewReply": {
+      "comment": "Rosa gracias por confiar en nosotros!!!\nSaludos",
+      "updateTime": "2023-10-12T23:37:38.204258Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtd3JHb0pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Garnero"
+    },
+    "starRating": "FOUR",
+    "comment": "YPF de bandera, con todos los servicios, además del ACA.\nPero el bar es simple y básico, y no es Full, de YPF\n\n(Translated by Google)\nYPF is a state-owned gas station with all services, plus the ACA (Automobile Club of Argentina) is a local branch.\n\nBut the bar is simple and basic, and it\u0027s not a full-service YPF station.",
+    "createTime": "2022-11-24T00:36:16.601635Z",
+    "updateTime": "2022-11-24T00:36:16.601635Z",
+    "reviewReply": {
+      "comment": "Hola Daniel gracias por tus comentarios\nSaludos",
+      "updateTime": "2022-11-24T10:58:29.437431Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtM0xtbDFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "claudia zamora"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención, limpieza excelente\n\n(Translated by Google)\nVery good service, excellent cleaning",
+    "createTime": "2022-11-22T20:53:07.699875Z",
+    "updateTime": "2022-11-22T20:53:07.699875Z",
+    "reviewReply": {
+      "comment": "Hola Claudia muy agradecidos por las estrellas!!!\nSaludos",
+      "updateTime": "2022-11-23T02:23:43.226627Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaklUN2FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Rossetti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-22T16:28:52.528690Z",
+    "updateTime": "2022-11-22T16:28:52.528690Z",
+    "reviewReply": {
+      "comment": "Silvia gracias por las estrellas!!!\nSaludos",
+      "updateTime": "2023-10-12T23:38:03.224788Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtOUtTMUZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "silvia salva"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-07-16T12:08:31.163618Z",
+    "updateTime": "2022-11-22T15:11:11.553476Z",
+    "reviewReply": {
+      "comment": "Silvia gracias por calificarnos!\nSaludos",
+      "updateTime": "2023-10-12T23:38:17.379168Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMTliZ3dRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaby ve Rusa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-22T12:24:55.221946Z",
+    "updateTime": "2022-11-22T12:24:55.221946Z",
+    "reviewReply": {
+      "comment": "Gaby gracias por calificarnos!\nSaludos",
+      "updateTime": "2023-10-12T23:38:30.285226Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtdE5DNjJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Bonazzola"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2022-11-22T00:40:28.603400Z",
+    "updateTime": "2022-11-22T00:40:28.603400Z",
+    "reviewReply": {
+      "comment": "Nicolás gracias por el comentario!!!\nSaludos",
+      "updateTime": "2023-10-12T23:39:00.677947Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNUlQSVlREAE"
+  }]
+}

@@ -1,0 +1,254 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Edgar"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenos baños, limpios.\n\n(Translated by Google)\nGood, clean bathrooms.",
+    "createTime": "2024-01-15T02:20:50.534133Z",
+    "updateTime": "2024-01-18T02:07:00.495576Z",
+    "reviewReply": {
+      "comment": "gracias Edgar !\n",
+      "updateTime": "2024-01-26T16:45:41.903736Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOZ2E2NGpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Baraldo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-01-16T11:01:14.170348Z",
+    "updateTime": "2024-01-16T11:01:14.170348Z",
+    "reviewReply": {
+      "comment": "gracias Claudio",
+      "updateTime": "2024-01-26T16:45:49.817573Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNObFpyRVRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "josefina zan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-15T03:39:40.899200Z",
+    "updateTime": "2024-01-15T03:39:40.899200Z",
+    "reviewReply": {
+      "comment": "Gracias Josefina",
+      "updateTime": "2024-01-26T16:45:58.434496Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOd1lMQ09REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Boixadera"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, sin demoras.\nTodo impecable.\nAgua caliente para el mate gratis.\n\n(Translated by Google)\nExcellent service, no delays.\nEverything was impeccable.\nFree hot water for mate.",
+    "createTime": "2024-01-12T22:07:15.547715Z",
+    "updateTime": "2024-01-12T22:07:48.765649Z",
+    "reviewReply": {
+      "comment": "Gracias Gonzalo, te esperamos nuevamente ",
+      "updateTime": "2024-01-26T16:46:20.190285Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOdkxMaHRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Omar Barattucci Rosas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-09T18:47:27.769270Z",
+    "updateTime": "2024-01-09T18:47:27.769270Z",
+    "reviewReply": {
+      "comment": "gracias Gabriel",
+      "updateTime": "2024-01-26T16:46:27.650877Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxdy02SzR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mari"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y destacar que no te cobran el agua caliente para el mate!\n\n(Translated by Google)\nGood service and note that they don\u0027t charge you for hot water for mate!",
+    "createTime": "2024-01-07T13:48:50.035478Z",
+    "updateTime": "2024-01-07T13:48:50.035478Z",
+    "reviewReply": {
+      "comment": "gracias Mari !",
+      "updateTime": "2024-01-26T16:47:27.658292Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxX3IyUFd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Carlos Oreja"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-01-04T05:10:57.988697Z",
+    "updateTime": "2024-01-04T05:10:57.988697Z",
+    "reviewReply": {
+      "comment": "Gracias Sergio !\n",
+      "updateTime": "2024-01-26T16:47:54.531807Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxNTVER2NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Bat"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención baños limpios\n\n(Translated by Google)\nGood service, clean bathrooms",
+    "createTime": "2024-01-03T15:46:14.745850Z",
+    "updateTime": "2024-01-03T15:46:14.745850Z",
+    "reviewReply": {
+      "comment": "Gracias te esperamos nuevamente\n",
+      "updateTime": "2024-01-26T16:48:08.727871Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxOC1fdFp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Godoy"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2024-01-02T07:03:34.962174Z",
+    "updateTime": "2024-01-02T07:03:34.962174Z",
+    "reviewReply": {
+      "comment": "Gracias Cristina",
+      "updateTime": "2024-01-26T16:48:17.779484Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxOVpmZU5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Sebastián Borda"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen espacio y servicios\n\n(Translated by Google)\nGood space and services",
+    "createTime": "2024-01-01T02:44:11.681358Z",
+    "updateTime": "2024-01-01T02:44:11.681358Z",
+    "reviewReply": {
+      "comment": "Gracias Jorge, te esperamos nuevamente",
+      "updateTime": "2024-01-26T16:48:47.728374Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxNlltaWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Osores"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-31T01:38:24.883138Z",
+    "updateTime": "2023-12-31T01:38:24.883138Z",
+    "reviewReply": {
+      "comment": "Gracias Gerardo ",
+      "updateTime": "2024-01-26T16:49:03.815410Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxb2IySU1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "daniel del real"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-29T21:17:43.093745Z",
+    "updateTime": "2023-12-29T21:17:43.093745Z",
+    "reviewReply": {
+      "comment": "Gracias Daniel",
+      "updateTime": "2024-01-26T16:49:09.956497Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChRDSUhNMG9nS0VJQ0FnSUMxenF3aRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Alejandro Graces"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-12-29T12:25:49.130296Z",
+    "updateTime": "2023-12-29T12:25:49.130296Z",
+    "reviewReply": {
+      "comment": "Gracias Agustin, te esperamos nuevamente",
+      "updateTime": "2024-01-26T16:49:28.525495Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxdHNENDZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Brand"
+    },
+    "starRating": "FOUR",
+    "comment": "Ok",
+    "createTime": "2023-12-29T11:01:45.754441Z",
+    "updateTime": "2023-12-29T11:01:45.754441Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-01-26T16:49:39.714627Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxMXFtOFlREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nico veron"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-29T01:49:04.812942Z",
+    "updateTime": "2023-12-29T01:49:13.244049Z",
+    "reviewReply": {
+      "comment": "gracias ",
+      "updateTime": "2024-01-26T16:49:45.335291Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxNXJxbXJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Braian Ottaviano"
+    },
+    "starRating": "FIVE",
+    "comment": "Sencilla pero con lo adecuado. Agua caliente gratis\n\n(Translated by Google)\nSimple but with everything you need. Free hot water.",
+    "createTime": "2023-12-24T15:31:22.166021Z",
+    "updateTime": "2023-12-24T15:31:22.166021Z",
+    "reviewReply": {
+      "comment": "Gracias Braian, te esperamos nuevamente.",
+      "updateTime": "2024-01-26T16:50:03.371361Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxckwzaDdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alejandra MELCHOR"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-09T02:47:15.791612Z",
+    "updateTime": "2023-12-09T02:47:15.791612Z",
+    "reviewReply": {
+      "comment": "gracias",
+      "updateTime": "2024-01-26T16:50:08.430032Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWZ19XaGtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Landolt"
+    },
+    "starRating": "FOUR",
+    "comment": "Falta mejorar un poco la atención en playa, bien en full .\n\n(Translated by Google)\nThe service on the beach needs a little improvement, but it\u0027s good overall.",
+    "createTime": "2023-12-03T14:19:48.409681Z",
+    "updateTime": "2023-12-03T14:19:48.409681Z",
+    "reviewReply": {
+      "comment": "Gracias Marcelo, te esperamos nuevamente !",
+      "updateTime": "2024-01-26T16:50:26.603506Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSURsbzZDUk5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Augusto Pérez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-11-30T22:01:02.610843Z",
+    "updateTime": "2023-11-30T22:01:02.610843Z",
+    "reviewReply": {
+      "comment": "gracias Carlos.",
+      "updateTime": "2024-01-26T16:50:32.117756Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChdDSUhNMG9nS0VJQ0FnSURsX0xySnp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Burgos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-29T02:19:32.529993Z",
+    "updateTime": "2023-11-29T02:19:32.529993Z",
+    "reviewReply": {
+      "comment": "Gracias Patricia!",
+      "updateTime": "2024-01-26T16:50:46.037268Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13657899365243523321/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsal9HMlBBEAE"
+  }]
+}

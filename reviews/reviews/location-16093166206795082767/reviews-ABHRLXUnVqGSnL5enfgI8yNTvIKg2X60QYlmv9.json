@@ -1,0 +1,214 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Sab Pab"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-16T13:56:47.828014Z",
+    "updateTime": "2023-07-16T13:56:47.828014Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKMXNySVJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Clara"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-13T17:33:15.580445Z",
+    "updateTime": "2023-07-13T17:33:15.580445Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKNHZTd0h3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tomas Palazon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-13T15:16:32.182377Z",
+    "updateTime": "2023-07-13T15:16:32.182377Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKb3NhZkt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Malisani"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, debería modernizarse.\n\n(Translated by Google)\nGood service, but it should be modernized.",
+    "createTime": "2023-07-13T13:57:40.492020Z",
+    "updateTime": "2023-07-13T13:57:40.492020Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario ",
+      "updateTime": "2023-07-14T10:26:03.093847Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKd3BmTUV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Juan Deandreis"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-12T11:12:26.148992Z",
+    "updateTime": "2023-07-12T11:12:26.148992Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKclA2ZldBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Mario Crippa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-12T01:28:15.092963Z",
+    "updateTime": "2023-07-12T01:28:15.092963Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKakx5RkV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Cardozo"
+    },
+    "starRating": "FIVE",
+    "comment": "Concurrido\n\n(Translated by Google)\nBusy",
+    "createTime": "2023-07-12T00:13:27.175484Z",
+    "updateTime": "2023-07-12T00:13:27.175484Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURKOVBPOHVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio B"
+    },
+    "starRating": "FOUR",
+    "comment": "Tradicional parada en el ACA a mitad de camino de BA a Rosario\n\n(Translated by Google)\nTraditional stop at the ACA halfway from Buenos Aires to Rosario",
+    "createTime": "2023-07-10T16:40:18.559432Z",
+    "updateTime": "2023-07-10T16:40:18.559432Z",
+    "reviewReply": {
+      "comment": "Gracias Horacio por su visita! Lo esperamos nuevamente ",
+      "updateTime": "2023-07-10T16:46:25.929182Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURKdUp1M25RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Morando"
+    },
+    "starRating": "FOUR",
+    "comment": "Hace mas de 30 años que paro ahí. Buena propuesta gastronómica. Lugar comodo y agradable. Bien atendido. Sanitarios limpios.\n\n(Translated by Google)\nI\u0027ve been stopping there for over 30 years. Good food. Comfortable and pleasant place. Good service. Clean restrooms.",
+    "createTime": "2023-07-10T16:33:27.629598Z",
+    "updateTime": "2023-07-10T16:33:27.629598Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias por sus comentarios ",
+      "updateTime": "2023-07-10T16:45:29.362614Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKdUl2a053EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Vega"
+    },
+    "starRating": "FOUR",
+    "comment": "Los baños no funcionaba el jabón\n\n(Translated by Google)\nThe soap in the bathrooms wasn\u0027t working.",
+    "createTime": "2023-07-09T17:45:43.983582Z",
+    "updateTime": "2023-07-09T17:45:43.983582Z",
+    "reviewReply": {
+      "comment": "Que raro Carolina,corregiremos el error",
+      "updateTime": "2023-07-10T16:47:25.436355Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURKaUw3Szd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo catalinas viajes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-09T12:26:57.583364Z",
+    "updateTime": "2023-07-09T12:26:57.583364Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKc0ptTk9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Anezin"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre bien atendido y surtido. ACA es un oasis en la ruta para cualquier automovilista!!\n\n(Translated by Google)\nAlways well-served and stocked. ACA is an oasis on the road for any motorist!",
+    "createTime": "2023-07-09T01:53:48.117205Z",
+    "updateTime": "2023-07-09T01:53:48.117205Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias por su comentario ",
+      "updateTime": "2023-07-09T02:35:22.359913Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURKNEx2ZE1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Marcelo Brunás Thill"
+    },
+    "starRating": "FIVE",
+    "comment": "Una agradable parada en el camino.\n\n(Translated by Google)\nA pleasant stop along the way.",
+    "createTime": "2023-07-09T01:33:16.261031Z",
+    "updateTime": "2023-07-09T01:33:16.261031Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario. ",
+      "updateTime": "2023-07-09T02:36:51.239112Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURKNExQazlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Altamura"
+    },
+    "starRating": "FOUR",
+    "comment": "Full muy lindo, como es de ACA no se puede pagar con aplicación YPF.\n\n(Translated by Google)\nVery nice full, as it is from ACA you cannot pay with the YPF application.",
+    "createTime": "2023-07-08T16:42:42.266057Z",
+    "updateTime": "2023-07-08T16:42:42.266057Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu comentario ",
+      "updateTime": "2023-07-08T20:29:30.273352Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURKd05yUS1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Leuthold"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, buen menú de viajero. Precios acordes. Amplio espacio. Buen wifi.\n\n(Translated by Google)\nGood service, good traveler\u0027s menu. Reasonable prices. Spacious. Good Wi-Fi.",
+    "createTime": "2023-07-07T10:20:47.380343Z",
+    "updateTime": "2023-07-07T10:20:47.380343Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu comentario, te esperamos nuevamente ",
+      "updateTime": "2023-07-07T11:06:07.948891Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKajRXMUJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Bernardez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-06T02:55:07.052327Z",
+    "updateTime": "2023-07-06T02:55:07.052327Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKaC1yQmtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Guillermo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen café y medialunas. Atención rápida.aceptan débito.\n\n(Translated by Google)\nVery good coffee and croissants. Fast service. They accept debit cards.",
+    "createTime": "2023-07-05T15:44:29.564530Z",
+    "updateTime": "2023-07-05T15:44:29.564530Z",
+    "reviewReply": {
+      "comment": "Gustavo, muchas gracias por tu comentario te esperamos nuevamente ",
+      "updateTime": "2023-07-05T15:55:48.396603Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKMi1iRXN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Luis Paulucci"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-07-04T23:32:03.140075Z",
+    "updateTime": "2023-07-04T23:32:03.140075Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu comentario ",
+      "updateTime": "2023-07-07T11:06:29.813182Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKeS1MQWZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Correa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-03T12:09:11.872630Z",
+    "updateTime": "2023-07-03T12:09:11.872630Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKdmN1d0dBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Daverio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-02T20:31:16.185675Z",
+    "updateTime": "2023-07-02T20:31:16.185675Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKN1lyUFRREAE"
+  }]
+}

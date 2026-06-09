@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Richard Pinedo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-16T14:31:18.758011Z",
+    "updateTime": "2022-01-16T14:31:18.758011Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnSURtc09YMGZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "cristian caro"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-16T00:07:47.733221Z",
+    "updateTime": "2022-01-16T00:07:47.733221Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnSURta1BMMEZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "liliana Medina parache"
+    },
+    "starRating": "THREE",
+    "comment": "Lindo\n\n(Translated by Google)\nNice",
+    "createTime": "2022-01-15T21:53:50.835144Z",
+    "updateTime": "2022-01-15T21:53:50.835144Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnSURtNE5lOFp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Edith Acuña"
+    },
+    "starRating": "FIVE",
+    "comment": "Estación de servicio muy limpio, muy buena atención\n\n(Translated by Google)\nVery clean service station, very good service",
+    "createTime": "2022-01-13T13:25:11.692437Z",
+    "updateTime": "2022-01-13T13:25:12.840001Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtejYzdnB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Guinsburg"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-13T09:11:55.778900Z",
+    "updateTime": "2022-01-13T09:11:55.778900Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtajVlMXpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sil cas"
+    },
+    "starRating": "THREE",
+    "comment": "Fui al baño\n\n(Translated by Google)\nI went to the bathroom",
+    "createTime": "2022-01-11T01:59:42.321282Z",
+    "updateTime": "2022-01-11T01:59:42.321282Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtLTVIcV9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Ignacio Ferrari"
+    },
+    "starRating": "FOUR",
+    "comment": "Genial.\n\n(Translated by Google)\nBrilliant.",
+    "createTime": "2022-01-09T14:38:03.402438Z",
+    "updateTime": "2022-01-09T14:38:03.402438Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnSUNteS1xeUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nora Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!!!!! Lugar más que recomendable\n\n(Translated by Google)\nExcellent service! Highly recommended!",
+    "createTime": "2022-01-09T12:26:00.584302Z",
+    "updateTime": "2022-01-09T12:26:00.584302Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtaTlmY19RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Colombo"
+    },
+    "starRating": "FOUR",
+    "comment": "Siempre ok\n\n(Translated by Google)\nAlways OK",
+    "createTime": "2022-01-07T23:06:00.514269Z",
+    "updateTime": "2022-01-07T23:06:00.514269Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtNDhESHpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Bagnoli"
+    },
+    "starRating": "FOUR",
+    "comment": "Atención totalmente esmerada por parte de los playeros\n\n(Translated by Google)\nTotally attentive service from the beach attendants",
+    "createTime": "2022-01-07T15:53:26.617165Z",
+    "updateTime": "2022-01-07T15:53:26.617165Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdzltX0JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Herrero"
+    },
+    "starRating": "FOUR",
+    "comment": "Amplia, buen servicio lo al cliente, buena disposición  de los playeros\n\n(Translated by Google)\nSpacious, good customer service, friendly staff",
+    "createTime": "2022-01-07T00:23:11.372187Z",
+    "updateTime": "2022-01-07T00:23:13.267440Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdmYtUFZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norma Valor"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención tanto en playa como en el Full ... Da gusto sentarte a disfrutar un café ... Ya que el servicio es muy bueno y los empleados que atienden son muy cordiales y te ofrecen las promociones ... Me encanta el lugar\n\n(Translated by Google)\nExcellent service both on the beach and at the Full... It\u0027s a pleasure to sit down and enjoy a coffee... Since the service is very good and the employees who serve you are very friendly and offer you promotions... I love the place",
+    "createTime": "2021-12-31T20:57:34.811300Z",
+    "updateTime": "2022-01-04T19:03:56.455242Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtc2VEZXpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivanna Leibovich"
+    },
+    "starRating": "FIVE",
+    "comment": "Atienden bastante rápido\n\n(Translated by Google)\nThey serve you quite quickly",
+    "createTime": "2022-01-04T18:49:03.140112Z",
+    "updateTime": "2022-01-04T18:49:03.140112Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtMWZic2hRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Samanta Noemi Díaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-04T05:32:06.745658Z",
+    "updateTime": "2022-01-04T05:32:06.745658Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtcFpHend3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Silvana Mastrolorenzo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-04T04:08:45.327054Z",
+    "updateTime": "2022-01-04T04:08:45.327054Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtcGFLYzRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina Gonzalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención de los playeros\n\n(Translated by Google)\nThe beach attendants provided excellent service.",
+    "createTime": "2022-01-04T01:12:23.931742Z",
+    "updateTime": "2022-01-04T01:12:37.490476Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnSUNteGJ1aklnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rupicora Tienda Deco"
+    },
+    "starRating": "FOUR",
+    "comment": "Limpieza absoluta, excelente atención al momento de solicitar nuestra merienda. Muy buenos combos para desayunar o merendar. Un poco altos sus precios comparando con otras zonas de la Ciudad de Buenos Aires.\n\n(Translated by Google)\nSpotlessly clean, excellent service when we ordered our afternoon snack. Great combo meals for breakfast or afternoon tea. Their prices are a bit high compared to other areas of Buenos Aires.",
+    "createTime": "2022-01-03T15:33:51.399178Z",
+    "updateTime": "2022-01-03T15:33:51.399178Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtaGVDNUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lic. Prof. Alfredo Caramuti"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio. Cosas ricas\n\n(Translated by Google)\nGood service. Delicious food.",
+    "createTime": "2022-01-02T23:00:50.531910Z",
+    "updateTime": "2022-01-02T23:00:50.531910Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtMmZ6cnpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lic. Oscar Arístides Palacio"
+    },
+    "starRating": "THREE",
+    "comment": "Estación de servicio de la red del ACA, se privilegio el uso del estacionamiento para la cafetería.\n\n(Translated by Google)\nACA network service station, the use of the parking lot for the cafeteria was prioritized.",
+    "createTime": "2022-01-02T17:16:42.765915Z",
+    "updateTime": "2022-01-02T17:16:42.765915Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtbVlyMmx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Buzzelatto"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-12-31T18:53:50.997847Z",
+    "updateTime": "2021-12-31T18:53:50.997847Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtMGQzWF9BRRAB"
+  }]
+}

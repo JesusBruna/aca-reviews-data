@@ -1,0 +1,176 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "JUAN DUEÑAS"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-22T14:38:52.044877Z",
+    "updateTime": "2023-10-22T14:38:52.044877Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1eW9Ic2ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "El Pul"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-14T13:30:22.028493Z",
+    "updateTime": "2023-10-14T13:30:22.028493Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1b1lPaXRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-09T23:33:08.657122Z",
+    "updateTime": "2023-10-09T23:33:08.657122Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1NlBqR29RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucia Rivero"
+    },
+    "starRating": "FIVE",
+    "comment": "Estación de servicio con instalaciones impecables. Todo limpio, prolijo,  bien pintado, ejemplo para muchos.\nProductos con sus respectivos precios como corresponde (sin necesidad de preguntar o llegar al mostrador para pagar sin saber).\nWiFi en el lugar, atención muy respetuosa y servicial de los empleados.\nSi prestan atención en el local, tienen la bandera argentina colgada y una vitrina con los premios merecidos del programa ACA + YPF.\nRecomendable, además de la tranquilidad de la localidad.\n\n(Translated by Google)\nA service station with impeccable facilities. Everything is clean, tidy, and well-painted—a model for many. Products are priced correctly (no need to ask or go to the counter to pay without knowing the price). There\u0027s Wi-Fi available, and the staff is very respectful and helpful. If you look around, you\u0027ll see the Argentine flag hanging and a display case with the awards earned from the ACA + YPF program. Highly recommended, especially considering the peaceful location.",
+    "createTime": "2023-10-09T18:51:07.435614Z",
+    "updateTime": "2023-10-09T18:51:07.435614Z",
+    "reviewReply": {
+      "comment": "Lucía. Muchas gracias por tu comentario positivo, te esperamos nuevamente por nuestra estacion para brindarte nuestros servicios y seguir mejorando.",
+      "updateTime": "2023-10-13T06:26:18.429554Z"
+    },
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1aVBtV3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfonso Milet Dupuy"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-01T18:34:15.998373Z",
+    "updateTime": "2023-10-01T18:34:15.998373Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSURaM3FHNndRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Poli Tejada"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-09-17T13:44:35.421805Z",
+    "updateTime": "2023-09-17T13:44:35.421805Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMC1LRHJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ARABEL TRUCCO \u0026 ASOCIADOS"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-06T12:19:33.810503Z",
+    "updateTime": "2023-09-06T12:19:33.810503Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSUNadktyNXNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Martinetto"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-09-06T03:10:50.154805Z",
+    "updateTime": "2023-09-06T03:10:50.154805Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChZDSUhNMG9nS0VJQ0FnSUNabktDU1JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Di Lorenzo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-09-04T16:16:59.629980Z",
+    "updateTime": "2023-09-04T16:16:59.629980Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChZDSUhNMG9nS0VJQ0FnSUNacEktTklREAE"
+  }, {
+    "reviewer": {
+      "displayName": "antonio tobares"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-20T19:29:05.998184Z",
+    "updateTime": "2023-08-20T19:29:05.998184Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSURwaHJ5cnpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emilio Ramirez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2023-08-18T16:02:41.795765Z",
+    "updateTime": "2023-08-18T16:02:41.795765Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSURwd3RQdXlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabricio LEGNINI"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-08-14T00:00:54.164971Z",
+    "updateTime": "2023-08-14T00:00:54.164971Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSURwd0xDWjhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "nelson tisera"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-08-07T18:54:28.344696Z",
+    "updateTime": "2023-08-07T18:54:28.344696Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwMWZtdndBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Diaz Barrios"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-08-04T15:30:07.249724Z",
+    "updateTime": "2023-08-04T15:30:07.249724Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwdnNINFRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rui Decio Silveira"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) Excellent\n\n(Original)\nExcelente",
+    "createTime": "2023-07-24T02:16:36.221653Z",
+    "updateTime": "2023-07-24T02:16:36.221653Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSURKaC1fdnhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo La Colla"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención y baños limpios\n\n(Translated by Google)\nGood service and clean bathrooms",
+    "createTime": "2023-07-22T16:46:27.487009Z",
+    "updateTime": "2023-07-22T16:46:27.487009Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChZDSUhNMG9nS0VJQ0FnSURKaThia0N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Adrian Asprea"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención como todas las estaciones de servicio ACA. Limpieza inmejorable en todos los sectores de la estación de servicio. Fuimos a merendar y el lugar además de ser muy cómodo cuenta con wifi. Baños inmejorables\n\n(Translated by Google)\nExcellent service, as with all ACA service stations. Impeccable cleanliness throughout the station. We went for a snack, and the place, besides being very comfortable, has Wi-Fi. Excellent restrooms.",
+    "createTime": "2023-07-18T11:45:27.280108Z",
+    "updateTime": "2023-07-18T11:46:22.577552Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSURKd2V1azB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ernesto Leale"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-16T00:29:59.639658Z",
+    "updateTime": "2023-07-16T00:29:59.639658Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChZDSUhNMG9nS0VJQ0FnSURKeHNlWkV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria del carmen Grande"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno, excelente atención.\n\n(Translated by Google)\nVery good, excellent service.",
+    "createTime": "2023-07-13T20:36:45.783005Z",
+    "updateTime": "2023-07-13T20:36:45.783005Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChdDSUhNMG9nS0VJQ0FnSURKa3ZpeHlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yolanda Krauberger"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, no tiene cocina,  solo sándwich,  baños muy limpios\n\n(Translated by Google)\nVery good service, no kitchen, only sandwiches, very clean bathrooms",
+    "createTime": "2023-06-29T01:07:04.830210Z",
+    "updateTime": "2023-06-29T01:07:04.830210Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKNGJuWU5nEAE"
+  }]
+}

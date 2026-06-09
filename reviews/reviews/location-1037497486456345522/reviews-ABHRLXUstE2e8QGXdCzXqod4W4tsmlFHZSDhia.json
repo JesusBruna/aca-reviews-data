@@ -1,0 +1,251 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Cris IV"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-27T02:38:53.911591Z",
+    "updateTime": "2024-05-27T02:38:53.911591Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-05-31T01:01:30.851384Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURUX2NQcGdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Denise Zuñiga"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-25T21:20:31.359569Z",
+    "updateTime": "2024-05-25T21:20:31.359569Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-05-25T23:30:47.425729Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURUNll2X3hBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liz Almendras"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención,  buenos precios para desayunar, rico\n\n(Translated by Google)\nGood service, good prices for breakfast, delicious",
+    "createTime": "2024-05-25T01:43:26.456615Z",
+    "updateTime": "2024-05-25T01:43:26.456615Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Liz",
+      "updateTime": "2024-05-25T23:31:07.277130Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURUM3Z1NWV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elvis Boaventura"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-23T23:19:52.612345Z",
+    "updateTime": "2024-05-23T23:19:52.612345Z",
+    "reviewReply": {
+      "comment": "Gracias Elvis",
+      "updateTime": "2024-05-25T23:31:16.379363Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURUcXJlS01nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ayrton Torres"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-22T19:46:12.515251Z",
+    "updateTime": "2024-05-22T19:46:12.515251Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-05-25T23:31:25.201248Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURUNUpuQ2ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Erdozain"
+    },
+    "starRating": "FOUR",
+    "comment": "Complicada la cola de acceso para carga de combustible. Engorroso estacionamiento. Muy confortable el drugstore.\n\n(Translated by Google)\nThe fuel line is complicated. Parking is cumbersome. The drugstore is very comfortable.",
+    "createTime": "2024-05-21T11:22:11.726786Z",
+    "updateTime": "2024-05-21T11:22:11.726786Z",
+    "reviewReply": {
+      "comment": "Hola Alejandro. Gracias por tu devolución!!!",
+      "updateTime": "2024-05-22T11:46:24.300546Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURUNEwzQ3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pame Scandella"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-20T22:34:04.050616Z",
+    "updateTime": "2024-05-20T22:34:04.050616Z",
+    "reviewReply": {
+      "comment": "Gracias Pame",
+      "updateTime": "2024-05-22T11:46:37.778345Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUdl9EWUF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Arturo Pinco"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-19T21:41:06.512278Z",
+    "updateTime": "2024-05-19T21:41:06.512278Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-05-22T11:46:46.358689Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUcDlqejh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Bruna"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-18T05:33:13.907483Z",
+    "updateTime": "2024-05-18T05:34:45.074684Z",
+    "reviewReply": {
+      "comment": "Michas Gracias Marina",
+      "updateTime": "2024-05-18T10:23:26.611641Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUM2F2Qm5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Garrido"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-16T01:44:02.050758Z",
+    "updateTime": "2024-05-16T01:44:02.050758Z",
+    "reviewReply": {
+      "comment": "Gracias Lucas",
+      "updateTime": "2024-05-18T10:23:42.031196Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUMGVlV21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Ramirez Marin"
+    },
+    "starRating": "FOUR",
+    "comment": "Limpia,.buenos baños buena atención.  Aguante chosma junin y alumine.\n\n(Translated by Google)\nClean, good bathrooms, good service. Long live Chosma Junin and Alumine.",
+    "createTime": "2024-05-14T01:33:04.645734Z",
+    "updateTime": "2024-05-14T01:33:04.645734Z",
+    "reviewReply": {
+      "comment": "Gracias por tu visita. Y aguante los buenos clientes también!!!",
+      "updateTime": "2024-05-18T10:24:13.628373Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUaHZibDB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fernando tripodi"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo bien.\n\n(Translated by Google)\nAll good.",
+    "createTime": "2024-05-13T16:16:27.471586Z",
+    "updateTime": "2024-05-13T16:16:27.471586Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2024-05-18T10:24:22.434668Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUbXRmX1NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio R. SARSFIELD ESCOBAR"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-12T02:32:05.636065Z",
+    "updateTime": "2024-05-12T02:32:05.636065Z",
+    "reviewReply": {
+      "comment": "Gracias Patricio",
+      "updateTime": "2024-05-12T11:05:42.314780Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUN1BfMTBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Mardones"
+    },
+    "starRating": "FIVE",
+    "comment": "Es personal de playa es muy cordial y de mucha calidez.\n\n(Translated by Google)\nThe beach staff are very friendly and welcoming.",
+    "createTime": "2024-05-10T12:36:59.660762Z",
+    "updateTime": "2024-05-10T12:36:59.660762Z",
+    "reviewReply": {
+      "comment": "Gracias Yanina. Es lo que buscamos que sientan nuestros clientes",
+      "updateTime": "2024-05-12T11:06:28.124101Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUcU9yYXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Aguilera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-08T16:04:48.417684Z",
+    "updateTime": "2024-05-08T16:04:48.417684Z",
+    "reviewReply": {
+      "comment": "Gracias Laura",
+      "updateTime": "2024-05-09T00:35:29.842090Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURqdF9TZkpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfonso Milet Dupuy"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-05-08T02:50:17.386083Z",
+    "updateTime": "2024-05-08T02:50:17.386083Z",
+    "reviewReply": {
+      "comment": "Gracias por tu visita",
+      "updateTime": "2024-05-09T00:35:58.048212Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURqLTQ2OGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Agostini"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-05-07T11:32:21.974790Z",
+    "updateTime": "2024-05-07T11:32:21.974790Z",
+    "reviewReply": {
+      "comment": "🤩🤩🤩",
+      "updateTime": "2024-05-09T00:36:19.724106Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURqODVtSURBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Bermudez"
+    },
+    "starRating": "ONE",
+    "comment": "Demasiado lento, hay que hacer fila y los chicos demasiado lentos. Noa tardamos casi 1 hora para recargar combustible.\n\n(Translated by Google)\nToo slow, you have to wait in line and the guys are too slow. It took us almost an hour to refuel.",
+    "createTime": "2024-05-03T17:05:19.458105Z",
+    "updateTime": "2024-05-03T17:05:19.458105Z",
+    "reviewReply": {
+      "comment": "Lamentamos que tuvieras que esperar mucho. No es nuestra intención, pero hay mucha demanda y no podemos acelerar nuestros tiempos",
+      "updateTime": "2024-05-05T14:26:35.198735Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURqM3NmTTlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Tarifeño"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno.\n\n(Translated by Google)\nVery good.",
+    "createTime": "2024-05-01T14:52:31.267905Z",
+    "updateTime": "2024-05-01T14:52:31.267905Z",
+    "reviewReply": {
+      "comment": "Gracias por tu visita",
+      "updateTime": "2024-05-03T12:48:22.269530Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURqaXM3RHpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "EDUARDO MAX HAUSLER"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención 10 puntos\n\n(Translated by Google)\nAttention 10 points",
+    "createTime": "2024-04-30T17:43:02.259691Z",
+    "updateTime": "2024-04-30T17:43:02.259691Z",
+    "reviewReply": {
+      "comment": "Gracias Eduardo",
+      "updateTime": "2024-04-30T20:36:48.829260Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURqdk1QbDB3RRAB"
+  }]
+}

@@ -1,0 +1,54 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "David Herrera"
+    },
+    "starRating": "FIVE",
+    "comment": "Cordial y rápida atención.\n\n(Translated by Google)\nFriendly and prompt service.",
+    "createTime": "2016-01-18T00:08:15.165Z",
+    "updateTime": "2016-01-18T00:08:37.593Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMXFEZ3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Camilo Caffaratti"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-01-13T11:44:33.139Z",
+    "updateTime": "2016-01-13T11:44:33.139Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBdFpibG1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fer h"
+    },
+    "starRating": "FOUR",
+    "comment": "Estación completa,  sin lavado. Es base del aca.\nAceptan pagos con tarjeta.\n\n(Translated by Google)\nFull service station, no wash. It\u0027s a basic service station.\nCard payments accepted.",
+    "createTime": "2015-12-03T16:39:59.581Z",
+    "updateTime": "2015-12-03T16:46:18.720Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURRd2RhNHV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Axel Lolich"
+    },
+    "starRating": "FOUR",
+    "createTime": "2015-11-25T03:11:53.836Z",
+    "updateTime": "2015-11-25T03:11:53.836Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBODhtRWRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Morales"
+    },
+    "starRating": "FOUR",
+    "createTime": "2015-11-14T15:08:40.173Z",
+    "updateTime": "2015-11-14T15:08:40.173Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBOUpXUVdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Santarsiero"
+    },
+    "starRating": "FIVE",
+    "comment": "Todos los servicios y lo más importante: aceptan todas las tarjetas de crédito.\n\n(Translated by Google)\nAll services and most importantly: they accept all credit cards.",
+    "createTime": "2015-01-10T17:10:14.024Z",
+    "updateTime": "2015-01-10T17:10:14.024Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURBc08ydlZBEAE"
+  }]
+}

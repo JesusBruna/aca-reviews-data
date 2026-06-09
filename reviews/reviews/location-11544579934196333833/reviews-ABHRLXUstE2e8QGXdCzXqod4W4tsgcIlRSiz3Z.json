@@ -1,0 +1,39 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mauricio C"
+    },
+    "starRating": "THREE",
+    "comment": "Buenas estación de servicios. Es la bien centrica. Lo malo es el lugar para la carga, ya que es muy reducido y casi nunca estan habilitadas todas islas. La tienda Full no puedo opinar ya que nunca eh concurrido.\n\n(Translated by Google)\nGood gas station. It\u0027s very centrally located. The downside is the fueling area, as it\u0027s very small and almost all the pumps are never open. I can\u0027t comment on the convenience store since I\u0027ve never been there.",
+    "createTime": "2016-05-07T04:38:36.015Z",
+    "updateTime": "2016-05-07T04:42:40.842Z",
+    "name": "accounts/109853746269412609224/locations/11544579934196333833/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRaXBIZ2NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Kevin Martin"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena\n\n(Translated by Google)\nGood",
+    "createTime": "2016-04-06T02:05:19.267Z",
+    "updateTime": "2016-04-06T02:05:25.172Z",
+    "name": "accounts/109853746269412609224/locations/11544579934196333833/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnNVpyWm1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Lopez"
+    },
+    "starRating": "FOUR",
+    "comment": "Es la más céntrica de las estaciones de servicio con un lindo serví compras. La atención es buena.\nEl problema es el espacio para cargar combustible que es escaso y muchas veces la fila llega a la calle y entorpece el tránsito.\n\n(Translated by Google)\nIt\u0027s the most centrally located gas station with a nice shopping center. The service is good.\nThe problem is that there\u0027s limited space to fill up, and the line often stretches out onto the street and slows down traffic.",
+    "createTime": "2015-11-21T20:09:47.887Z",
+    "updateTime": "2015-11-22T12:20:16.976Z",
+    "name": "accounts/109853746269412609224/locations/11544579934196333833/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3MXZuZlpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Amadeo Fuentes"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención...\n\n(Translated by Google)\nGood service...",
+    "createTime": "2013-02-18T17:13:24.082768Z",
+    "updateTime": "2013-02-18T17:13:24.082768Z",
+    "name": "accounts/109853746269412609224/locations/11544579934196333833/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3emRycENREAE"
+  }]
+}

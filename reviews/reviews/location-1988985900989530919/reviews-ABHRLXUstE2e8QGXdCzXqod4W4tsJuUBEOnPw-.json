@@ -1,0 +1,182 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "María Sol Diaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-08T14:34:27.720765Z",
+    "updateTime": "2022-06-08T14:34:27.720765Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPeHBXeXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "S.R A"
+    },
+    "starRating": "THREE",
+    "comment": "Buen lugar\n\n(Translated by Google)\nGood place",
+    "createTime": "2022-06-08T10:24:41.102961Z",
+    "updateTime": "2022-06-08T10:24:41.102961Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPaHVYWGtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Urizar"
+    },
+    "starRating": "THREE",
+    "comment": "Hermoso lugar\n\n(Translated by Google)\nBeautiful place",
+    "createTime": "2022-06-07T03:09:50.063115Z",
+    "updateTime": "2022-06-07T03:09:50.063115Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPcXRMZTBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Alfredo"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente servicio\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-06-03T21:31:32.666643Z",
+    "updateTime": "2022-06-03T21:31:32.666643Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPN0tpNG5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julian Sim"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-03T20:44:27.078876Z",
+    "updateTime": "2022-06-03T20:44:27.078876Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPcklfYVpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lore Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-03T20:21:39.378532Z",
+    "updateTime": "2022-06-03T20:22:06.117569Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPclB1Y09nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Amilcar Gallego"
+    },
+    "starRating": "TWO",
+    "comment": "Las dos veces que fui no pude cargar porque decían que no andaba la aplicación\n\n(Translated by Google)\nThe two times I went I couldn\u0027t load because they said the app didn\u0027t work.",
+    "createTime": "2022-06-03T11:30:18.526477Z",
+    "updateTime": "2022-06-03T11:30:18.526477Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPak9XMFlREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Maximiliano Bustamante"
+    },
+    "starRating": "FOUR",
+    "comment": "Podrían mejoras la limpieza.\nLa limpieza de la playa era impecable a pesar del viento. La limpieza del baño de hombre era impecable, no así la limpieza del baño de mujeres.\n\n(Translated by Google)\nThe cleanliness could be improved.\nThe beach was spotless despite the wind. The men\u0027s restroom was spotless, but the women\u0027s restroom was not.",
+    "createTime": "2022-05-31T09:56:53.404551Z",
+    "updateTime": "2022-05-31T11:43:34.727370Z",
+    "reviewReply": {
+      "comment": "Buen dia . Nos pondria indicar q sector se refierer",
+      "updateTime": "2022-05-31T11:10:26.343609Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPcU5TS0pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "walter soto"
+    },
+    "starRating": "FOUR",
+    "comment": "Como toda YPF  muy buena atencion y servicio\n\n(Translated by Google)\nLike all YPF, very good attention and service.",
+    "createTime": "2022-05-30T00:38:01.453947Z",
+    "updateTime": "2022-05-30T00:38:37.832067Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPd0kzdGxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elda Natalia Rivadeneira"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-26T16:02:00.751837Z",
+    "updateTime": "2022-05-26T16:02:00.751837Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaDRLTjR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Carrizo"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención y muy lindo lugar\n\n(Translated by Google)\nGreat service and a very nice place",
+    "createTime": "2022-05-26T15:10:20.469675Z",
+    "updateTime": "2022-05-26T15:10:20.469675Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaDVDYjJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Ariaudo"
+    },
+    "starRating": "FIVE",
+    "comment": "Es nuestra segunda parada obligada cuando viajamos al sur, buena cafetería muy cálida atención\n\n(Translated by Google)\nIt\u0027s our second must-stop when we travel south; a good coffee shop with very warm service.",
+    "createTime": "2022-05-25T15:28:06.173593Z",
+    "updateTime": "2022-05-25T15:28:06.173593Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNjduVW9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-25T05:27:09.600681Z",
+    "updateTime": "2022-05-25T05:27:09.600681Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyeTZIRUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Marquez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-05-24T18:32:33.335884Z",
+    "updateTime": "2022-05-24T18:32:57.987835Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyODhHajdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Fica"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-05-24T12:42:55.509Z",
+    "updateTime": "2022-05-24T12:42:55.509Z",
+    "reviewReply": {
+      "comment": "Buen dia\nAlguna sugerencia ppr la puntuacion recibida",
+      "updateTime": "2022-05-24T13:55:48.910985Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyczZDV19RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Benitez"
+    },
+    "starRating": "THREE",
+    "comment": "Lo único a criticar es que el full no está abierto en la madrugada\n\n(Translated by Google)\nThe only criticism is that the full menu is not open in the early morning.",
+    "createTime": "2022-05-23T22:35:42.735804Z",
+    "updateTime": "2022-05-23T22:35:42.735804Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNDhiWGp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vivi Rosas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-23T18:56:41.995846Z",
+    "updateTime": "2022-05-23T18:56:41.995846Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyb18zaHJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Panebianco"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-05-23T15:03:51.804280Z",
+    "updateTime": "2022-05-23T15:03:51.804280Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQydzR1OWNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "julio depetris"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-21T23:53:29.620588Z",
+    "updateTime": "2022-05-21T23:53:29.620588Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUQycmNxeld3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Riky Mauri"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-20T22:02:27.899640Z",
+    "updateTime": "2022-05-20T22:02:27.899640Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyMWVXVGxRRRAB"
+  }]
+}

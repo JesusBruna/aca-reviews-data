@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ruben Maddalena"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-21T10:04:55.117638Z",
+    "updateTime": "2023-06-21T10:04:55.117638Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKNUxxUHlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "diego fregeiro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-21T08:18:17.959558Z",
+    "updateTime": "2023-06-21T08:18:17.959558Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKcEtlVUhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ines Garcia"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención en el buffet...limpios los baños...\n\n(Translated by Google)\nVery good service at the buffet...clean bathrooms...",
+    "createTime": "2023-06-21T03:37:56.918420Z",
+    "updateTime": "2023-06-21T03:37:56.918420Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeEp2V3FnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Trippano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-20T17:42:56.967243Z",
+    "updateTime": "2023-06-20T17:42:56.967243Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKLUpYcmJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cora Camps"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-06-20T17:38:36.066596Z",
+    "updateTime": "2023-06-20T17:38:36.066596Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKLU1YemVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Calderon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-20T16:51:16.177964Z",
+    "updateTime": "2023-06-20T16:51:16.177964Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKLU5TeXZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Arossa"
+    },
+    "starRating": "FIVE",
+    "comment": "Súper recomendable!!!!la atención es diez puntos!!!\n\n(Translated by Google)\nHighly recommended!!!! The service is excellent!!!",
+    "createTime": "2023-06-20T13:02:13.633719Z",
+    "updateTime": "2023-06-20T13:04:43.895026Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKMkl2Y2hRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Serrano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-20T10:22:38.608434Z",
+    "updateTime": "2023-06-20T10:22:38.608434Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKbU5lcmxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Oliva Velez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-20T06:52:21.850854Z",
+    "updateTime": "2023-06-20T06:52:21.850854Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKNlB2bVN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Staffolani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-20T06:33:17.720912Z",
+    "updateTime": "2023-06-20T06:33:17.720912Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKNktQT0FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Marcelo Rodriguez"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente lugar para comer bien ,abundante y en precio ,todos los servicios, IMPORTANTE AGUA CALIENTE GRATIS.\n\n(Translated by Google)\nExcellent place to eat well, plentiful and reasonably priced, all services included, IMPORTANTLY FREE HOT WATER.",
+    "createTime": "2023-06-19T21:49:30.949030Z",
+    "updateTime": "2023-06-19T21:50:49.767671Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKeUwtdWVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jairo Laurino"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio, cuenta con un gran espacio abierto  con mesas y asiento ideal para detenerse un momento a descansar y comer algo\n\n(Translated by Google)\nGood service, it has a large open space with tables and seating, ideal for stopping for a moment to rest and have something to eat",
+    "createTime": "2023-06-19T21:39:05.827683Z",
+    "updateTime": "2023-06-19T21:39:05.827683Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeU0tbHp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Capocasa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-19T04:25:52.790764Z",
+    "updateTime": "2023-06-19T04:25:52.790764Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKa0wzaDhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo"
+    },
+    "starRating": "FOUR",
+    "comment": "Tiene todo lo necesario para una parada relajante antes de seguir el viaje. Felicitaciones 🙏\n\n(Translated by Google)\nIt has everything you need for a relaxing stop before continuing your journey. Congratulations 🙏",
+    "createTime": "2023-06-18T20:56:35.542146Z",
+    "updateTime": "2023-06-18T20:56:35.542146Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKNE1hNV9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Canosa"
+    },
+    "starRating": "FOUR",
+    "comment": "Limpieza en los baños. Buena atención\n\n(Translated by Google)\nClean bathrooms. Good service.",
+    "createTime": "2023-06-18T19:14:50.883878Z",
+    "updateTime": "2023-06-18T19:14:50.883878Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKb0tfeVRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Gomez"
+    },
+    "starRating": "THREE",
+    "comment": "Ok",
+    "createTime": "2023-06-18T07:55:23.225684Z",
+    "updateTime": "2023-06-18T07:55:23.225684Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4XzlhMXlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "German Traverso"
+    },
+    "starRating": "THREE",
+    "comment": "Pasé a las 7 am y no tenían medialunas para acompañar el café, me atendieron con poco interés, supongo que todos podemos tener un mal día, por lo demás es un shop muy bien surtido, no es Full, es Aca, no esperen canjear puntos serviclub.\n\n(Translated by Google)\nI went by at 7 am and they didn\u0027t have croissants to go with the coffee. I was served with little interest; I suppose we can all have a bad day. Otherwise, it\u0027s a very well-stocked shop. It\u0027s not Full, it\u0027s Aca, so don\u0027t expect to redeem Serviclub points.",
+    "createTime": "2023-06-18T00:48:53.364333Z",
+    "updateTime": "2023-06-18T00:48:53.364333Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4MzdPMFJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "antonella arispon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-17T20:03:25.764536Z",
+    "updateTime": "2023-06-17T20:03:25.764536Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4bjh1RVF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nahuel Juarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena parada.\n\n(Translated by Google)\nVery good stop.",
+    "createTime": "2023-06-17T15:53:41.850539Z",
+    "updateTime": "2023-06-17T15:53:41.850539Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4NzRXcUtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "enzo gayon"
+    },
+    "starRating": "THREE",
+    "comment": "Solo pare para ir al baño, aceptables estaban\n\n(Translated by Google)\nI only stopped to go to the bathroom, they were acceptable",
+    "createTime": "2023-06-17T01:06:18.939976Z",
+    "updateTime": "2023-06-17T01:06:18.939976Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4OV9POE1BEAE"
+  }]
+}

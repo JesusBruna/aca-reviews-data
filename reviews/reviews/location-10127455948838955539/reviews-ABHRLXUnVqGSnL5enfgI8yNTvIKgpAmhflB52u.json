@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jose Pedraza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-21T13:03:46.988955Z",
+    "updateTime": "2026-02-21T13:03:46.988955Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFMGEyeFpaMUV6ZVdkclVFNU5ZVTlIUTFNME1sRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Samanta guzman"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-10T22:15:36.858018Z",
+    "updateTime": "2026-02-10T22:15:36.858018Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSQ1ZISnJOMGRYYTJ4NGRVdFdOV2N3Ym1aU2NHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emanuel Orellana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-10T21:01:01.214504Z",
+    "updateTime": "2026-02-10T21:01:01.214504Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toUlQxUk1OMVJCYWt4ek5WOW9MVWxvVlRZMFVGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Garcia Massini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-10T20:58:28.964008Z",
+    "updateTime": "2026-02-10T20:58:28.964008Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WQlZXVkpVVnBWUTBaRWN6VTFPSEZhWjFSMGQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Sandra Valentinuzzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-10T20:21:04.132443Z",
+    "updateTime": "2026-02-10T20:21:04.132443Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CaGMwMTRNMFpHYldKR09XaE9OVlZ5YkVkNmFuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Aciares"
+    },
+    "starRating": "FIVE",
+    "comment": "Insuperable, lo mejor.\n\n(Translated by Google)\nUnbeatable, the best.",
+    "createTime": "2026-02-07T01:16:38.019415Z",
+    "updateTime": "2026-02-07T01:16:38.019415Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT201dmMyRXlTVFEyUVhKbU1VaG9ZVEIyYjNWMGJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "LaMona Jacinta (Marisol T.)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-06T17:11:48.010818Z",
+    "updateTime": "2026-02-06T17:11:48.010818Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwR1JsSkNlRzlrVjBWRlMxcDFUM2hoVEcxNlNFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jony Lucero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en la estación de servicio aca anillaco\n\n(Translated by Google)\nExcellent service at the ACA Anillaco gas station",
+    "createTime": "2025-06-17T15:47:58.943557Z",
+    "updateTime": "2026-02-06T17:10:21.564666Z",
+    "reviewReply": {
+      "comment": "Gracias Jony por tus 5 estrellas ",
+      "updateTime": "2025-07-10T05:56:09.679391Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT205V1p6UnFRMU5NYkhoMlIxQnBUSFV4TUZORlZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carla Alvarez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-06T17:08:37.188648Z",
+    "updateTime": "2026-02-06T17:08:37.188648Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdFNrdGhiblIwVjJGbVJHcEhOa0pVVm1aVmJFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Homero Nuñez"
+    },
+    "starRating": "FIVE",
+    "comment": "YPF anillaco\n\n(Translated by Google)\nYPF Anillaco",
+    "createTime": "2026-02-06T16:57:09.300803Z",
+    "updateTime": "2026-02-06T16:57:09.300803Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wa1FrNWFaek5JU0VsWWVFTnRWR2syYzNGUVoyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolás Torres"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-06T16:01:28.982623Z",
+    "updateTime": "2026-02-06T16:01:28.982623Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WbVlXVTRabmxqVG5GMWMwNW5OVzlPWW5obk5HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Ocampo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena comida y buena atención\n\n(Translated by Google)\nVery good food and good service",
+    "createTime": "2026-02-06T16:01:06.316294Z",
+    "updateTime": "2026-02-06T16:01:06.316294Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOeVNtbzBXRVF5U25CdFdHcHphSFozWlRoZk1uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica De La Vega"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencio!!\n\n(Translated by Google)\nExcellent service!!",
+    "createTime": "2026-02-06T15:25:10.966107Z",
+    "updateTime": "2026-02-06T15:25:10.966107Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toclFsOXpkMk5KWW1ObloyNXJUMUJaTVRSalEyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Farias"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en la estación de servicio. Muy cordial el señor Nestor.\n\n(Translated by Google)\nExcellent service at the gas station. Mr. Nestor was very friendly.",
+    "createTime": "2026-01-29T22:15:44.933714Z",
+    "updateTime": "2026-01-29T22:15:44.933714Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twUldXd3pkMDlTTms5cVNUaGlWaTFNVUhoV2VXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yesica Reynoso"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso semana en Anillaco. e\nExcelente atención del playero Néstor, gracias por las recomendaciones y la simpátia. Volveremos para el finde de carnaval.\n\n(Translated by Google)\nBeautiful week in Anillaco.\nExcellent service from the beach attendant Nestor, thank you for the recommendations and your friendliness. We\u0027ll be back for Carnival weekend.",
+    "createTime": "2026-01-29T20:29:14.212848Z",
+    "updateTime": "2026-01-29T20:29:14.212848Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT25nMU5qVlBjM2hMYkdFMFowYzVSMEZNWTNReVdsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ringo Nieto"
+    },
+    "starRating": "FIVE",
+    "comment": "Me atendió Héctor muy buena la atención un 10\n\n(Translated by Google)\nHector helped me, the service was excellent, a 10 out of 10",
+    "createTime": "2017-05-24T18:38:24.536Z",
+    "updateTime": "2026-01-29T20:01:43.375757Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndU9LYWJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Juan Brizuela"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-29T16:58:12.658456Z",
+    "updateTime": "2026-01-29T16:58:12.658456Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT214eVJIZEdRekZCWDJWaVEzWlNYMjlzVVhCdmQzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eve Ceballos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-29T15:46:57.839909Z",
+    "updateTime": "2026-01-29T15:46:57.839909Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWWVFsOWthMVZOV0RGS2J6bHNjak5oVmtsRk4yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Melany Toledo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-29T15:44:09.173286Z",
+    "updateTime": "2026-01-29T15:44:09.173286Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZNE1UaG5PR3hXUlVwQ1pVcHZZMlJ6VlRaTWRVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carla Brizuela"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-29T15:25:43.843075Z",
+    "updateTime": "2026-01-29T15:25:43.843075Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aMU5GRkNUblpyY1RGVkxWSk5SM0p6WlZCYWVFRRAB"
+  }]
+}

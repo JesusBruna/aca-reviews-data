@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "marco pollo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-14T10:41:34.468492Z",
+    "updateTime": "2022-05-14T10:41:34.468492Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQydG95bVJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Spolidori"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-13T00:06:27.778597Z",
+    "updateTime": "2022-05-13T00:06:27.778597Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyLXZmM3FnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela Agüero"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención es muy buena, tiene cafetería, los baños son muy limpios.\n\n(Translated by Google)\nThe service is very good, it has a cafeteria, the bathrooms are very clean.",
+    "createTime": "2022-05-12T17:31:22.718727Z",
+    "updateTime": "2022-05-12T17:31:22.718727Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQydXRtckhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Valentina Fiora"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-11T19:07:10.052748Z",
+    "updateTime": "2022-05-11T19:07:10.052748Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQycXRLcFBnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elisabeth Angeloni"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio de cambio de aceite. Utilicé puntos y baje la factura.\n\n(Translated by Google)\nExcellent oil change service. I used points and got a discount on the bill.",
+    "createTime": "2022-05-10T13:32:10.570868Z",
+    "updateTime": "2022-05-10T13:32:10.570868Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQya3BTREJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Heis"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente capuccino 👏🏼👏🏼😊\n\n(Translated by Google)\nExcellent cappuccino 👏🏼👏🏼😊",
+    "createTime": "2022-05-09T23:58:59.447211Z",
+    "updateTime": "2022-05-09T23:58:59.447211Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyd3I3MkdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "antonio bee"
+    },
+    "starRating": "FOUR",
+    "comment": "Lenta la atencion\n\n(Translated by Google)\nSlow attention",
+    "createTime": "2022-05-09T17:30:23.169513Z",
+    "updateTime": "2022-05-09T17:30:23.169513Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyZ3FTTVBREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noelia Marina Ortiz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-08T21:26:02.477107Z",
+    "updateTime": "2022-05-08T21:26:02.477107Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQybk1ya2t3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "javier gstavo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-08T21:20:25.835342Z",
+    "updateTime": "2022-05-08T21:20:25.835342Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyblBMQ3Z3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jose oviedo"
+    },
+    "starRating": "FIVE",
+    "comment": "Una excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-05-08T18:27:13.927602Z",
+    "updateTime": "2022-05-08T18:27:13.927602Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyN01QR3BBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "sebas villar"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-08T14:44:01.192662Z",
+    "updateTime": "2022-05-08T14:44:01.192662Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQycktPZmhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "yany"
+    },
+    "starRating": "THREE",
+    "comment": "Siempre q voy los chicos tienen la mejor onda para atender!\n\n(Translated by Google)\nWhenever I go, the guys are always so friendly and helpful!",
+    "createTime": "2022-05-06T19:24:54.963044Z",
+    "updateTime": "2022-05-06T19:24:54.963044Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQycE1xVklBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matilde Cáceres"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar  .muy limpio y ordenado, las chicas excelentes en la atención.\n\n(Translated by Google)\nGood place. Very clean and tidy, the girls are excellent in their service.",
+    "createTime": "2022-05-05T21:29:20.019698Z",
+    "updateTime": "2022-05-05T21:29:20.019698Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyMk9mWTNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Gonzalo Valenzuela"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-05T20:01:05.807079Z",
+    "updateTime": "2022-05-05T20:01:05.807079Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyMk1YNkhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Juan Lezcano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-05T19:48:21.617104Z",
+    "updateTime": "2022-05-05T19:48:21.617104Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyMk9tWEF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Resnik"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-05-04T16:31:23.181036Z",
+    "updateTime": "2022-05-04T16:31:23.181036Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaU1MNDh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Juan Anriquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-04T15:45:38.175927Z",
+    "updateTime": "2022-05-04T15:45:38.175927Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaU1qRzRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hernan gonzalez"
+    },
+    "starRating": "THREE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-05-03T20:20:37.627038Z",
+    "updateTime": "2022-05-03T20:20:37.627038Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQya0w3VnVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sabrina Ciaramellano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-03T17:21:06.078794Z",
+    "updateTime": "2022-05-03T17:21:06.078794Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNEl2TTNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Valeria Gatto"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-04-30T16:02:30.480999Z",
+    "updateTime": "2022-04-30T16:02:30.480999Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyMV9fd2hnRRAB"
+  }]
+}

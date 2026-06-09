@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Julio Heck"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-16T02:07:35.812502Z",
+    "updateTime": "2022-02-16T02:07:35.812502Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXOE91clp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Rubino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-15T12:14:44.440443Z",
+    "updateTime": "2022-02-15T12:14:44.440443Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChRDSUhNMG9nS0VJQ0FnSUNXa010bBAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aylen Edith Acosta"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-02-15T06:11:25.308135Z",
+    "updateTime": "2022-02-15T06:11:25.308135Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNFBHMG9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston Garro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-14T16:37:19.101532Z",
+    "updateTime": "2022-02-14T16:37:19.101532Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXZ1Atc2RnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernanda Romero"
+    },
+    "starRating": "TWO",
+    "comment": "Sus baños impresentable (horribles)\n\n(Translated by Google)\nIts bathrooms are unacceptable (horrible).",
+    "createTime": "2022-02-14T12:41:44.583499Z",
+    "updateTime": "2022-02-14T12:41:44.583499Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXZ0xESU1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Vilaseco"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena estación\n\n(Translated by Google)\nVery good station",
+    "createTime": "2022-01-16T03:33:47.441698Z",
+    "updateTime": "2022-02-13T21:00:22.223495Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChZDSUhNMG9nS0VJQ0FnSURta012akJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Palazzesi"
+    },
+    "starRating": "FIVE",
+    "comment": "El mejor café con leche en 100km a la redonda. Atención de calidad.\n\n(Translated by Google)\nThe best coffee with milk within a 100km radius. Excellent service.",
+    "createTime": "2022-02-08T19:11:16.367806Z",
+    "updateTime": "2022-02-08T19:11:16.367806Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChZDSUhNMG9nS0VJQ0FnSURtczV1c1NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Evelyn Scerca"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-07T22:02:47.088741Z",
+    "updateTime": "2022-02-07T22:02:47.088741Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChZDSUhNMG9nS0VJQ0FnSURtbzRlWVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Gerardo Lopez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-07T20:09:41.016561Z",
+    "updateTime": "2022-02-07T20:09:41.016561Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSURtbzRtYV9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Moira Repossi Galasso"
+    },
+    "starRating": "THREE",
+    "comment": "Pequeño\n\n(Translated by Google)\nLittle",
+    "createTime": "2022-02-02T15:42:32.086967Z",
+    "updateTime": "2022-02-06T17:35:29.220516Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSURtMmM2SndRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Alicia Santillan"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy amables\n\n(Translated by Google)\nVery kind",
+    "createTime": "2022-02-04T21:32:14.695059Z",
+    "updateTime": "2022-02-04T21:32:14.695059Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSURtdGVPX3d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustina Babugia"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-28T03:03:19.132526Z",
+    "updateTime": "2022-01-28T03:03:19.132526Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSURtOXN6bThRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Migue Angel"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-01-28T01:48:52.963410Z",
+    "updateTime": "2022-01-28T01:48:52.963410Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSURtOXVDeXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Fabian Cevasco"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy atento el muchacho del shop. Sabe todo lo referente al pueblo. La Paz, un hermoso lugar, tranquilo. La gente es muy cordial.\n\n(Translated by Google)\nThe young man at the shop was very helpful. He knows everything about the town. La Paz is a beautiful, peaceful place. The people are very friendly.",
+    "createTime": "2022-01-19T14:10:36.300864Z",
+    "updateTime": "2022-01-19T14:10:36.300864Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSURtNUk2bHZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Mena"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-17T17:41:16.010941Z",
+    "updateTime": "2022-01-17T17:41:16.010941Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSURtNktHU2xRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Aguero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-01-15T21:11:30.290739Z",
+    "updateTime": "2022-01-15T21:11:30.290739Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSURtNEpQa193RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jesus Salomon"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bien todo,falta que habrá a la noche el local comercial, necesitas algo y está cerrado,lo demás muy bien,el personal muy respetuoso\n\n(Translated by Google)\nEverything was great, except the shop needs to be closed at night; if you need something, it\u0027s closed. Otherwise, it\u0027s very good, and the staff are very respectful.",
+    "createTime": "2022-01-15T02:05:51.684680Z",
+    "updateTime": "2022-01-15T02:05:51.684680Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChZDSUhNMG9nS0VJQ0FnSURtZ09DWWFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sofía Olmedo"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-12T22:06:43.356854Z",
+    "updateTime": "2022-01-12T22:06:43.356854Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtOThhT25nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ROXANA Alcaraz"
+    },
+    "starRating": "ONE",
+    "comment": "El sr q nos atendió muy maleducado.... Le faltó el respeto a mí hija ... ... La app de YPF no funcionaba, cosa q no nos dijo antes de cargar .... Pedimos para limpiar el parabrisas ..... No tenían  uno sano. El que había estaba roto y dejaba todo rallado el parabrisas... .... Un desastre.... Si pueden pasar y no cargar nafta ahí es lo mejor q pueden hacer...\n\n(Translated by Google)\nThe man who served us was very rude. He disrespected my daughter. The YPF app wasn\u0027t working, which they didn\u0027t tell us before we filled up. We asked to have the windshield cleaned, but they didn\u0027t have a clean one. The one they had was cracked and scratched the windshield. It was a disaster. If you can drive by and not fill up there, that\u0027s the best thing you can do.",
+    "createTime": "2022-01-11T23:03:54.714314Z",
+    "updateTime": "2022-01-11T23:03:54.714314Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtNTRhTmpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Geroli"
+    },
+    "starRating": "FOUR",
+    "comment": "Nesecitaba comprar algunas cosas y abrieron casi a las 10 de la mañana muy tarde\n\n(Translated by Google)\nI needed to buy some things and they opened almost at 10 in the morning, very late.",
+    "createTime": "2022-01-07T23:20:38.596268Z",
+    "updateTime": "2022-01-07T23:20:38.596268Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNDdEWVVREAE"
+  }]
+}

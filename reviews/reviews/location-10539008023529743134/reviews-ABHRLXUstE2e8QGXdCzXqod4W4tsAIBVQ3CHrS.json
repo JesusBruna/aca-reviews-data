@@ -1,0 +1,38 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mario Lo Cascio"
+    },
+    "starRating": "FOUR",
+    "comment": "Como siempre el ACA, muy buena atención.\n\n(Translated by Google)\nAs always, ACA provides excellent service.",
+    "createTime": "2017-01-05T01:27:27.661Z",
+    "updateTime": "2017-01-05T01:27:27.661Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3dWV2X2lRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Alvarez Valenzuela"
+    },
+    "starRating": "FIVE",
+    "comment": "La comida es buena y es el unico lugar cercano al terminal de mendoza que tiene wifi\n\n(Translated by Google)\nThe food is good and it\u0027s the only place near the Mendoza bus terminal that has Wi-Fi.",
+    "createTime": "2016-11-26T19:45:23.514Z",
+    "updateTime": "2016-11-26T19:46:06.927Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3a3Z6WTV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Cruz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-08-31T18:48:34.646Z",
+    "updateTime": "2016-08-31T18:48:34.646Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSURBM1B5UEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Xavier"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención de los bombistas, y el servicompras muy completo y cómodo.\n\n(Translated by Google)\nThe service from the pump operators was excellent, and the convenience store was very complete and comfortable.",
+    "createTime": "2016-07-05T12:40:49.171Z",
+    "updateTime": "2016-07-05T12:41:29.042Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBdV95WGRBEAE"
+  }]
+}

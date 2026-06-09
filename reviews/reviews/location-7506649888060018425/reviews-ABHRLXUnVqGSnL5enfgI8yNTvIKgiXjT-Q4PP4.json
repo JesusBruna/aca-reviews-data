@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Facundo Rodríguez"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2017-01-18T17:28:05.181Z",
+    "updateTime": "2017-01-18T17:28:09.805Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRaGZEbktREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Carmona"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-01-18T12:00:20.996Z",
+    "updateTime": "2017-01-18T12:00:20.996Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdXB2UEh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victoria Perez Romano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-01-16T19:01:38.714Z",
+    "updateTime": "2017-01-16T19:01:38.714Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSURBcWN1WjlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Damián Andrés Hourcade"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2017-01-15T16:43:08.907Z",
+    "updateTime": "2017-01-15T16:43:27.071Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUNROGJ5dHBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Robles"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-01-14T13:10:36.195Z",
+    "updateTime": "2017-01-14T13:10:36.195Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3aEp1SFJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego alejandro Plisga"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-01-14T02:39:03.418Z",
+    "updateTime": "2017-01-14T02:39:03.418Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSURRMnJYMmJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Sartori"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-01-10T20:06:31.540Z",
+    "updateTime": "2017-01-10T20:06:31.540Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3ODRyc05BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Teme"
+    },
+    "starRating": "ONE",
+    "comment": "La atención es muy muy lenta, el personal es mayor y debería haber algún recambio, se sienten irremplazables. No digo que los dejen sin trabajo, solo poner en playa personal más hiper activos.\n\n(Translated by Google)\nThe service is incredibly slow, the staff is older and there should be some replacements; they seem irreplaceable. I\u0027m not saying they should be fired, just that they should be given more energetic staff.",
+    "createTime": "2017-01-10T16:31:19.458Z",
+    "updateTime": "2017-01-10T16:33:54.108Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3dXVqLXVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "German Federico Gatti"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2017-01-10T10:29:35.688Z",
+    "updateTime": "2017-01-10T10:29:49.002Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3cU1mUXhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "oscar hourcade"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena cordialidad . Buenos precios\n\n(Translated by Google)\nFriendly service. Good prices.",
+    "createTime": "2017-01-07T21:08:57.447Z",
+    "updateTime": "2017-01-07T21:09:23.493Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNXFpWDNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Damián Vigna"
+    },
+    "starRating": "THREE",
+    "comment": "Demora en la atención\n\n(Translated by Google)\nDelay in care",
+    "createTime": "2017-01-07T02:55:02.262Z",
+    "updateTime": "2017-01-07T02:55:11.049Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3b29xSF9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susan Figueroa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-01-07T01:46:52.539Z",
+    "updateTime": "2017-01-07T01:46:52.539Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRcDl5M21RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dante Stefanuto"
+    },
+    "starRating": "TWO",
+    "createTime": "2016-12-29T18:37:14.193Z",
+    "updateTime": "2016-12-29T18:37:14.193Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3MmRQeVNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo M F Gutierrez (ComPass)"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-12-28T00:37:48.894Z",
+    "updateTime": "2016-12-28T00:37:48.894Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSURncGFqTHd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vegs Santiago"
+    },
+    "starRating": "THREE",
+    "comment": "Poco personal\n\n(Translated by Google)\nLimited staff",
+    "createTime": "2016-12-27T21:09:52.192Z",
+    "updateTime": "2016-12-27T21:09:52.192Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSURnbG9iMXlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Darío Hernán Irigaray"
+    },
+    "starRating": "FOUR",
+    "comment": "Estación de servicio céntrica del Automóvil Club Argentino que a los socios le hacen un 5 en la compra de combustibles.\n\n(Translated by Google)\nCentral service station of the Argentine Automobile Club that gives members a 5% discount on fuel purchases.",
+    "createTime": "2016-12-27T17:01:31.893Z",
+    "updateTime": "2016-12-27T17:09:47.519Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBcE5xZVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Monti"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-12-25T20:37:44.528Z",
+    "updateTime": "2016-12-25T20:37:44.528Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSURRdXBYQU1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Manu Turri"
+    },
+    "starRating": "THREE",
+    "comment": "Normal",
+    "createTime": "2016-12-25T18:44:55.615Z",
+    "updateTime": "2016-12-25T18:45:03.729Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRamVQWGpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Arevalos"
+    },
+    "starRating": "ONE",
+    "createTime": "2016-12-25T13:39:48.370Z",
+    "updateTime": "2016-12-25T13:39:48.370Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSURnMUlYcVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Lázzaro"
+    },
+    "starRating": "THREE",
+    "comment": "Estación de venta de combustible. Céntrica, siempre hay autos Atención normal. Hay un pequeño shopping de compras\n\n(Translated by Google)\nGas station. Centrally located, always busy. Standard service. There\u0027s a small shopping center nearby.",
+    "createTime": "2016-12-18T12:05:58.486Z",
+    "updateTime": "2016-12-18T12:07:48.421Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSURBNVlqWEJ3EAE"
+  }]
+}

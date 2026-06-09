@@ -1,0 +1,237 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Ignacio Sandoval"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-05-01T09:06:35.711645Z",
+    "updateTime": "2021-05-01T09:06:35.711645Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSURLbEx1R0JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Montesanto"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-04-25T19:23:49.340580Z",
+    "updateTime": "2021-04-25T19:23:49.340580Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:05:08.558375Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSURLZ092dlBnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Suarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención...trabajan las 24 horas\n\n(Translated by Google)\nVery good service...they work 24 hours a day",
+    "createTime": "2021-04-22T17:41:01.785621Z",
+    "updateTime": "2021-04-22T17:41:01.785621Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:05:58.393744Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdDhxMDR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Magram"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-04-13T16:43:46.401121Z",
+    "updateTime": "2021-04-13T16:43:46.401121Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:05:47.941101Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdGJISG9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Marani"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención. Promociones y descuentos\n\n(Translated by Google)\nExcellent service. Promotions and discounts.",
+    "createTime": "2021-04-07T22:06:30.031681Z",
+    "updateTime": "2021-04-07T22:06:30.031681Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:05:45.749377Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLd2NIM0xREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Rodriguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-30T20:21:56.828781Z",
+    "updateTime": "2021-03-30T20:21:56.828781Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:05:34.636043Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLNHRIQnhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Rey"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-30T15:49:10.928259Z",
+    "updateTime": "2021-03-30T15:49:10.928259Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:05:32.329760Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLd3VyQ2x3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "juan carlos Villalba"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención rápido limpio\n\n(Translated by Google)\nGood service, fast, clean",
+    "createTime": "2021-03-27T21:16:56.814529Z",
+    "updateTime": "2021-03-27T21:17:19.526524Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:05:28.988064Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdUwtTTRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miri Ceballos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-21T05:18:16.786694Z",
+    "updateTime": "2021-03-21T05:18:16.786694Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:05:18.828760Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5dC1xWHZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norma"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-19T02:48:16.798439Z",
+    "updateTime": "2021-03-19T02:48:16.798439Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:07:28.915330Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5dTlfVEpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "graciela noel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-15T22:43:54.115249Z",
+    "updateTime": "2021-03-15T22:43:54.115249Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:07:23.369184Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5cmFYMzdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ezequiel zeballos"
+    },
+    "starRating": "FIVE",
+    "comment": "👌👌",
+    "createTime": "2021-03-15T16:57:03.858800Z",
+    "updateTime": "2021-03-15T16:57:03.858800Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:07:20.069687Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5OVoydzF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Pucheta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-15T10:49:57.339957Z",
+    "updateTime": "2021-03-15T10:49:57.339957Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:07:16.830840Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5dGRHZjZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabián Arce"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-03-14T21:09:42.841413Z",
+    "updateTime": "2021-03-14T21:09:42.841413Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:07:13.993888Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5bGJ2Qm13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Edita Vera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-13T18:01:41.144541Z",
+    "updateTime": "2021-03-13T18:01:41.144541Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:07:09.435694Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5eFpDZUtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Charly M"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-12T19:08:50.679669Z",
+    "updateTime": "2021-03-12T19:08:50.679669Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5bVptRW5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Orlando Rivero"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-10T19:55:16.162760Z",
+    "updateTime": "2021-03-10T19:55:16.162760Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:07:07.432827Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5MFp6UDlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlinho Ji"
+    },
+    "starRating": "FOUR",
+    "comment": "Agradable. Una cafetería con gastronomía para el desayuno o merienda. Con las normas preventivas contra la pandemia.\n\n(Translated by Google)\nPleasant. A café with food for breakfast or afternoon tea. Following pandemic prevention protocols.",
+    "createTime": "2021-03-09T10:20:38.191687Z",
+    "updateTime": "2021-03-09T10:24:56.902576Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:07:04.489811Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5X29MOE9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "ALFREDO CANEPA"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-08T15:27:45.941858Z",
+    "updateTime": "2021-03-08T15:27:45.941858Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Posadas",
+      "updateTime": "2021-10-15T00:06:35.408202Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5bnQ2S2Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Ayala"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-08T01:09:14.373569Z",
+    "updateTime": "2021-03-08T01:09:14.373569Z",
+    "name": "accounts/109853746269412609224/locations/9200897225069866922/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5cnRhV053EAE"
+  }]
+}

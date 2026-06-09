@@ -1,0 +1,178 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ricardo Larrosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-05-25T14:12:43.496050Z",
+    "updateTime": "2019-05-25T14:12:43.496050Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURZeDZmYU93EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rita De Feudis"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-05-25T05:11:31.818566Z",
+    "updateTime": "2019-05-25T05:11:31.818566Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURZaDc2dGNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Jorge Garcia"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar y servicio\n\n(Translated by Google)\nGood place and service",
+    "createTime": "2019-05-24T22:35:56.603292Z",
+    "updateTime": "2019-05-24T22:35:56.603292Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURZLV8ybXlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Filantropía Conurbana"
+    },
+    "starRating": "THREE",
+    "comment": "Bien, me daban ganas de soltar al caballo, no lo hice por respeto.\n\n(Translated by Google)\nWell, I felt like letting the horse go, but I didn\u0027t out of respect.",
+    "createTime": "2019-05-14T13:36:32.534028Z",
+    "updateTime": "2019-05-14T13:36:32.534028Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURZX3YtY3RBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Luque"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención de 10\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2019-05-08T10:02:13.848551Z",
+    "updateTime": "2019-05-08T10:02:13.848551Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURZbW9IVnpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ezequiel alvarez"
+    },
+    "starRating": "FIVE",
+    "comment": "O la Buenísima,  precio económicos por ser oficial ypf. Lo único criticable es el acceso no es muy bueno y le falta iluminación, señales para la llegada por qué como está metida para adentro,si no conoces la zona seguro que seguís de largo\n\n(Translated by Google)\nOr the Buenísima, with economical prices because it\u0027s an official YPF station. The only downside is the access; it\u0027s not very good and lacks lighting and signs to guide you, because since it\u0027s tucked away, if you don\u0027t know the area you\u0027ll surely miss it.",
+    "createTime": "2019-05-06T19:58:47.024484Z",
+    "updateTime": "2019-05-06T19:58:47.024484Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURZaW9UZzJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Gimenez"
+    },
+    "starRating": "THREE",
+    "comment": "Bastante mal llevados los que atienden.\nYo entiendo que estén cansados porque muchos cargamos ahí! Pero si te trato bien hace lo mismo!!\n\n(Translated by Google)\nThe staff there are pretty badly behaved.\n\nI understand they\u0027re tired because many of us carry things there! But if I treat you well, I expect you to do the same!",
+    "createTime": "2019-05-05T14:35:03.623066Z",
+    "updateTime": "2019-05-05T14:35:03.623066Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURZa3FpWVR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Fiordani"
+    },
+    "starRating": "FOUR",
+    "comment": "muy buena atencion muy limpios los sanitarios\n\n(Translated by Google)\nExcellent service, very clean restrooms",
+    "createTime": "2019-05-04T19:02:59.985545Z",
+    "updateTime": "2019-05-04T19:02:59.985545Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURZd3F5WlJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Fernanadez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar para hacer una parada y luego seguir de viaje\n\n(Translated by Google)\nGood place to stop and then continue your journey",
+    "createTime": "2019-04-30T13:26:47.835474Z",
+    "updateTime": "2019-04-30T13:28:09.347813Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURZNVA2TmNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Iricibar"
+    },
+    "starRating": "FOUR",
+    "comment": "Baños limpios. Comida para el paso\n\n(Translated by Google)\nClean restrooms. Food on the go.",
+    "createTime": "2019-04-28T18:28:32.066077Z",
+    "updateTime": "2019-04-28T18:28:32.066077Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURZMktiMjRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Toiw"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-04-28T14:28:10.748438Z",
+    "updateTime": "2019-04-28T14:28:10.748438Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURZbUkyOE9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "MarianKa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-04-28T14:24:59.426392Z",
+    "updateTime": "2019-04-28T14:24:59.426392Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURZbUxYX0dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Montañana La Bianca"
+    },
+    "starRating": "FOUR",
+    "comment": "Como la mayoria de las estaciones de servicio YPF esta tambien cuenta con un gran buffet y un completisimo kiosko. Toda la onda los playeros siempre gente muy macanauda.\n\n(Translated by Google)\nLike most YPF gas stations, this one also has a large buffet and a fully equipped kiosk. The beach bar is always a great place to be, and they\u0027re always very cool.",
+    "createTime": "2019-04-26T13:33:44.304499Z",
+    "updateTime": "2019-04-26T13:33:44.304499Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURZMElxT2FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Molaro"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente opción,  estación grande y en buen estado. Cargamos antes de pasar a Uruguay, allí la nafta vale el doble\n\n(Translated by Google)\nExcellent option, large and well-maintained station. We filled up before crossing into Uruguay, where gas costs twice as much.",
+    "createTime": "2019-04-23T12:02:24.150080Z",
+    "updateTime": "2019-04-23T12:02:24.150080Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZbDhxV2ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Edgardo Kuprewicz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2019-04-22T17:13:13.445254Z",
+    "updateTime": "2019-04-22T17:13:13.445254Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZcDVpcjhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Luis Fernández de la Torre"
+    },
+    "starRating": "THREE",
+    "comment": "Recomendable para parada en la ruta.\n\n(Translated by Google)\nRecommended as a stop along the route.",
+    "createTime": "2019-04-20T23:14:00.166962Z",
+    "updateTime": "2019-04-20T23:14:00.166962Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZbTV6VkRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Farfán"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-04-20T22:40:37.130182Z",
+    "updateTime": "2019-04-20T22:40:37.130182Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZbS1TcnNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gloi 100"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2019-04-20T18:17:44.610230Z",
+    "updateTime": "2019-04-20T18:17:44.610230Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZNjU2MHFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ESTANCIA ALSACIA"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena\n\n(Translated by Google)\nGood",
+    "createTime": "2019-04-19T22:27:52.983169Z",
+    "updateTime": "2019-04-19T22:27:52.983169Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZaTlIYnJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria del Rosario Martina"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar para una parada, baños limpios\n\n(Translated by Google)\nGood place to stop, clean restrooms",
+    "createTime": "2019-04-18T22:12:27.978154Z",
+    "updateTime": "2019-04-18T22:12:27.978154Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZazUtVGF3EAE"
+  }]
+}

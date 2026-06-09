@@ -1,0 +1,176 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mariano Javier Vazquez"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-08T02:30:37.091Z",
+    "updateTime": "2018-01-08T02:30:37.091Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSURRdUpPYjhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Santa Cruz"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-01-06T16:54:17.880Z",
+    "updateTime": "2018-01-06T16:54:23.528Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRenMzVVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Peralta"
+    },
+    "starRating": "THREE",
+    "comment": "Linda YPF, buena atención\n\n(Translated by Google)\nNice YPF, good service",
+    "createTime": "2018-01-06T01:15:29.198Z",
+    "updateTime": "2018-01-06T01:15:59.647Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdE1YY1N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juanpi Goic"
+    },
+    "starRating": "TWO",
+    "comment": "Re caro.",
+    "createTime": "2018-01-05T20:21:44.954Z",
+    "updateTime": "2018-01-05T20:21:59.495Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tomarte el tiempo y dejarnos tu reseña!\nHaremos todo lo posible para que tu próxima experiencia sea excelente!.  \nNo olvides descargar la App de YPF y seguirnos en Instagram @acavillacarlospaz para no perderte novedades y beneficios!\n¡Esperamos verte nuevamente!",
+      "updateTime": "2026-04-21T12:41:47.070235Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURnejlfNUl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "VICTOR HUGO VERNENGO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-05T14:15:24.470Z",
+    "updateTime": "2018-01-05T14:15:24.470Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSURRdzRfWTJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Brizio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-05T13:27:59.819Z",
+    "updateTime": "2018-01-05T13:27:59.819Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRdE1DWTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Bortoli"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-01-05T12:47:53.568Z",
+    "updateTime": "2018-01-05T12:47:53.568Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3b3JXUVBREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Iturraspe"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-05T06:21:08.337Z",
+    "updateTime": "2018-01-05T06:21:08.337Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3M29YcjNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matilde Delgado"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-01-05T03:59:15.246Z",
+    "updateTime": "2018-01-05T03:59:24.562Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBbDlEWGtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Aranda"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-01-04T21:19:19.473Z",
+    "updateTime": "2018-01-04T21:19:22.171Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3cnVqYkF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos M. Sydiaha"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-04T19:07:24.158Z",
+    "updateTime": "2018-01-04T19:07:24.158Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURnaHJQZ1RnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "max garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2018-01-03T22:33:50.985Z",
+    "updateTime": "2018-01-03T22:33:59.214Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBbmNfYVVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrés Sánchez Tulian"
+    },
+    "starRating": "ONE",
+    "comment": "No tiene adheridos los servicios de serviclub\nY no aceptan débito . Un desastre para el uso de bandera YPF\n\n(Translated by Google)\nServiclub services are not available. And they don\u0027t accept debit cards. A disaster for using the YPF brand.",
+    "createTime": "2018-01-03T13:57:47.760Z",
+    "updateTime": "2018-01-03T13:59:07.095Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNndGZucndRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Lemus"
+    },
+    "starRating": "THREE",
+    "comment": "Lindo\n\n(Translated by Google)\nNice",
+    "createTime": "2018-01-02T07:31:16.414Z",
+    "updateTime": "2018-01-02T07:31:20.710Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3cjlubnN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leo Canelo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-01T16:20:30.077Z",
+    "updateTime": "2018-01-01T16:20:30.077Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnMVllbnFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Lopez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-12-31T18:32:55.659Z",
+    "updateTime": "2017-12-31T18:32:55.659Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBcUlhZHB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Augusto Drudi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-12-31T17:34:24.616Z",
+    "updateTime": "2017-12-31T17:34:24.616Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURRNE1YWkhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noe Pir"
+    },
+    "starRating": "FOUR",
+    "comment": "Estación de paraje, no se puede pedir más. Buena atención.\n\n(Translated by Google)\nA great station, you can\u0027t ask for more. Good service.",
+    "createTime": "2017-12-31T16:30:48.784Z",
+    "updateTime": "2017-12-31T16:31:30.756Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURBbk9mZWJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "camilo trebino"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-12-30T15:04:13.883Z",
+    "updateTime": "2017-12-30T15:04:13.883Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnLTRQV1RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Núñez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente la limpieza en las estaciones de servicios en el trayecto que realizamos\n\n(Translated by Google)\nThe cleanliness at the service stations along our route was excellent.",
+    "createTime": "2017-12-29T20:23:19.598Z",
+    "updateTime": "2017-12-29T20:24:06.106Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURndnZyY0x3EAE"
+  }]
+}

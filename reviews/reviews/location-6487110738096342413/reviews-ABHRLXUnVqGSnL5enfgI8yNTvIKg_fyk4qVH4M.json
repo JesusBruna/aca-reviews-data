@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Marcos A. Hernández"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-15T11:15:59.657581Z",
+    "updateTime": "2022-02-15T11:15:59.657581Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXa0pub0hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Giselle Zorrilla Blanco"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso\n\n(Translated by Google)\nBeautiful",
+    "createTime": "2022-02-15T06:07:44.980963Z",
+    "updateTime": "2022-02-15T06:07:44.980963Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXNE5IMll3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Cuadros"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-15T00:10:27.369637Z",
+    "updateTime": "2022-02-15T00:10:27.369637Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXb05tTExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "V.B"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-15T00:06:01.348797Z",
+    "updateTime": "2022-02-15T00:06:01.348797Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXb0puTjJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Vidales"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-13T03:00:53.802294Z",
+    "updateTime": "2022-02-13T03:00:53.802294Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChdDSUhNMG9nS0VJQ0FnSURtejZXWHdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrián Smulovitz"
+    },
+    "starRating": "FOUR",
+    "comment": "Poco estacionamiento\n\n(Translated by Google)\nLimited parking",
+    "createTime": "2022-02-12T18:19:50.978654Z",
+    "updateTime": "2022-02-12T18:19:50.978654Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtajZUbVdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jessica Maria Medina"
+    },
+    "starRating": "ONE",
+    "comment": "Pésimo que no funciones su posnet !!!!!\n\n(Translated by Google)\nTerrible that their POS terminal isn\u0027t working!",
+    "createTime": "2022-02-12T16:58:12.905064Z",
+    "updateTime": "2022-02-12T16:58:12.905064Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtOTd1Z0JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "maiza echave"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-08T03:44:18.226257Z",
+    "updateTime": "2022-02-08T03:44:18.226257Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtNDduX2JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel landa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-06T20:34:00.815558Z",
+    "updateTime": "2022-02-06T20:34:00.815558Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdmJhOElBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Caballero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar para cargar Nafta y descansar un rato antes de seguir en la ruta. Baños limpios, Kiosco completo, aire para las cubiertas, todos los medios de pago y área de descanso con bancos.\n\n(Translated by Google)\nExcellent place to fill up with gas and rest before continuing on your route. Clean restrooms, a fully stocked convenience store, tire inflation, all forms of payment accepted, and a rest area with benches.",
+    "createTime": "2022-02-05T18:52:43.026622Z",
+    "updateTime": "2022-02-05T18:52:43.026622Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcmRUYnh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-04T20:41:16.394200Z",
+    "updateTime": "2022-02-04T20:41:16.394200Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdGFYcFFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano Olguin"
+    },
+    "starRating": "ONE",
+    "comment": "Mala atención y no le anda para débito 👎\n\n(Translated by Google)\nPoor service and it doesn\u0027t work for debit cards 👎",
+    "createTime": "2022-02-03T19:26:43.905586Z",
+    "updateTime": "2022-02-03T19:26:43.905586Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtcGRLM2ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pablo Puig"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-03T02:54:47.495558Z",
+    "updateTime": "2022-02-03T02:54:47.495558Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtLWNMUGFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Novile"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2022-02-02T18:23:47.974173Z",
+    "updateTime": "2022-02-02T18:23:47.974173Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdVlDdEh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "LAUREANO Espeche"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente para uja parada en ruta, baños impecables\n\n(Translated by Google)\nExcellent for a stop along the route, spotless bathrooms",
+    "createTime": "2022-01-28T04:15:09.244318Z",
+    "updateTime": "2022-01-28T04:15:09.244318Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChdDSUhNMG9nS0VJQ0FnSURtOXByTjd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Corbera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-27T21:00:11.758318Z",
+    "updateTime": "2022-01-27T21:00:11.758318Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdHBxMmJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Ortiz"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena la atencion\n\n(Translated by Google)\nThe service was very good.",
+    "createTime": "2022-01-26T02:44:55.841977Z",
+    "updateTime": "2022-01-26T02:44:55.841977Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdXJQX2ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cynthia Monasterio"
+    },
+    "starRating": "THREE",
+    "comment": "Los baños limpios. Fuimos a merendar pero no haya muchas opciones solo café con leche.\n\n(Translated by Google)\nThe bathrooms are clean. We went for a snack, but there weren\u0027t many options, just coffee with milk.",
+    "createTime": "2022-01-25T13:51:09.943674Z",
+    "updateTime": "2022-01-25T13:51:09.943674Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChdDSUhNMG9nS0VJQ0FnSURtbXRyRDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Richard Barbero"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención.\nTodo impecable.\n\n(Translated by Google)\nExcellent service.\nEverything was perfect.",
+    "createTime": "2022-01-25T02:09:19.164119Z",
+    "updateTime": "2022-01-25T02:09:39.152730Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcXFTOGdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ale"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención. Buena predisposición de su gente\n\n(Translated by Google)\nExcellent service. The staff were very helpful.",
+    "createTime": "2022-01-23T16:16:40.862597Z",
+    "updateTime": "2022-01-23T16:16:40.862597Z",
+    "name": "accounts/109853746269412609224/locations/6487110738096342413/reviews/ChZDSUhNMG9nS0VJQ0FnSURta3NUU2JnEAE"
+  }]
+}

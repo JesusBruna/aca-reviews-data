@@ -1,0 +1,218 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Alejandro Ale"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-30T22:05:17.579923Z",
+    "updateTime": "2019-07-30T22:05:17.579923Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!",
+      "updateTime": "2019-09-06T00:45:03.925230Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVMWNhbll3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Carabajal"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-30T00:03:10.056624Z",
+    "updateTime": "2019-07-30T00:03:10.056624Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!",
+      "updateTime": "2019-09-06T00:45:06.774176Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVeFpQbkxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Cabrera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-07-29T20:41:51.234380Z",
+    "updateTime": "2019-07-29T20:41:51.234380Z",
+    "reviewReply": {
+      "comment": "muchas gracias por su calificación",
+      "updateTime": "2019-11-16T12:38:52.179812Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVeFpyRlRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "nelson franke"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-07-28T10:20:15.784986Z",
+    "updateTime": "2019-07-28T10:20:15.784986Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVNmJqOTh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-07-24T03:29:59.171223Z",
+    "updateTime": "2019-07-24T03:29:59.171223Z",
+    "reviewReply": {
+      "comment": "muchas gracias por su calificación!",
+      "updateTime": "2019-11-16T12:39:40.050073Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVem9fTVBREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Aquino Gustavo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-07-21T19:32:27.058230Z",
+    "updateTime": "2019-07-21T19:32:27.058230Z",
+    "reviewReply": {
+      "comment": "muchas gracias por su calificación!",
+      "updateTime": "2019-11-16T12:40:22.185724Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVd3FuN2p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina Verena"
+    },
+    "starRating": "FOUR",
+    "comment": "Baños pulcros con todos los elementos necesarios,muy buena atención en el servi club, rica merienda\n\n(Translated by Google)\nClean bathrooms with all the necessary amenities, very good service at the restroom, delicious snack",
+    "createTime": "2019-07-18T00:04:58.155581Z",
+    "updateTime": "2019-07-18T00:04:58.155581Z",
+    "reviewReply": {
+      "comment": "muchas gracias por su comentario, esperamos nuevamente su visita",
+      "updateTime": "2019-08-15T11:39:36.616972Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVeE9PNC1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Mendez"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor estación de servicio de la ciudad! La atención insuperable por no decir excelente por demás, la limpieza, orden de todo en el lugar es impresionante. Ahora remodelada luce muchísimo mas que antes! Espero sigan así.\n\n(Translated by Google)\nThe best gas station in town! The service is unbeatable, if not excellent. The cleanliness and order of everything in the place is impressive. Now remodeled, it looks so much better than before! I hope they continue like this.",
+    "createTime": "2019-07-07T04:07:34.752944Z",
+    "updateTime": "2019-07-07T04:07:34.752944Z",
+    "reviewReply": {
+      "comment": "muchas gracias por su comentario, esperamos nuevamente su visita.",
+      "updateTime": "2019-08-15T11:38:06.750252Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURrMDc3ZnpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Larramendy"
+    },
+    "starRating": "ONE",
+    "comment": "Pésima atención, tuve una mala experiencia, un playero no me dejó estacionar el auto 5min mientras compraba algo y se expresa con tono prepotente. Ojalá mejoren\n\n(Translated by Google)\nTerrible service. I had a bad experience. A beach attendant wouldn\u0027t let me park my car for 5 minutes while I bought something, and he spoke in an arrogant tone. I hope they improve.",
+    "createTime": "2019-06-27T16:30:03.542614Z",
+    "updateTime": "2019-06-27T16:30:03.542614Z",
+    "reviewReply": {
+      "comment": "lamentamos la mala experiencia, lo invitamos a que nos visite nuevamente y de ser posible amplíe comentarios al encargado de turno, así tomamos las acciones necesarias para que no vuelvan a suceder episodios como el descrito en su comentario.",
+      "updateTime": "2019-08-15T11:36:45.594773Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURrd2Y2Qmh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Inglant"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2019-06-25T11:05:06.285233Z",
+    "updateTime": "2019-06-25T11:05:06.285233Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURrMHJ5NFRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Estación de Servicio.\n\n(Translated by Google)\nService station.",
+    "createTime": "2019-05-12T20:11:24.965576Z",
+    "updateTime": "2019-05-12T20:11:24.965576Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURZcnRMNEFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Linares"
+    },
+    "starRating": "FIVE",
+    "comment": "Lamentable el tiempo que le está llevando la remodelación\n\n(Translated by Google)\nIt\u0027s unfortunate how long the remodeling is taking.",
+    "createTime": "2019-05-09T02:27:37.063064Z",
+    "updateTime": "2019-05-09T02:27:37.063064Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURZdW9HY1lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar G. Estilista"
+    },
+    "starRating": "THREE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2019-04-28T13:57:04.738745Z",
+    "updateTime": "2019-04-28T13:57:04.738745Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURZbUpuSWV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nicoo Senilliani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-04-26T19:05:21.064876Z",
+    "updateTime": "2019-04-26T19:05:21.064876Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!",
+      "updateTime": "2019-09-06T00:45:12.247933Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURZc0l5LWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Avalle"
+    },
+    "starRating": "FIVE",
+    "comment": "Al día de la fecha está cerrado por reparación, (reparando a Nuevo) cambio de tanques,  serbi compra techo , todo nuevo .\n\n(Translated by Google)\nAs of today it is closed for repairs, (repairing to new) tank replacement, servicing, roof purchase, everything is new.",
+    "createTime": "2019-03-07T04:59:51.715860Z",
+    "updateTime": "2019-03-07T04:59:51.715860Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvdjRmenFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gus tavo"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2019-03-05T22:55:52.417136Z",
+    "updateTime": "2019-03-05T22:55:52.417136Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUNvejd2dWxnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Merka"
+    },
+    "starRating": "FIVE",
+    "comment": "buen lugar para desayunar y buena atencion\n\n(Translated by Google)\nGood place for breakfast and good service",
+    "createTime": "2019-02-23T11:33:34.666209Z",
+    "updateTime": "2019-02-23T11:33:56.321862Z",
+    "reviewReply": {
+      "comment": "muchas gracias por el comentario, esperamos nuevamente su visita.",
+      "updateTime": "2019-08-15T11:25:04.465102Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvcmZtNWN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Javier"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-02-02T01:24:19.507918Z",
+    "updateTime": "2019-02-02T01:24:19.507918Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvOE5iVElREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marlene GL"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-12-31T15:42:51.121202Z",
+    "updateTime": "2018-12-31T15:42:51.121202Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!",
+      "updateTime": "2019-09-06T00:45:25.636046Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURJbXY3UmpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Maurel"
+    },
+    "starRating": "ONE",
+    "comment": "Pésima atención, 1 hora 30 minutos esperando que la comida llegue a la mesa. Falta organización y no hay todos los platos que ofrecen en la carta\n\n(Translated by Google)\nTerrible service, waiting 1 hour and 30 minutes for the food to arrive. Lack of organization, and not all the dishes on the menu are available.",
+    "createTime": "2018-10-01T02:36:49.450801Z",
+    "updateTime": "2018-10-01T02:36:49.450801Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURnMS1EMV9nRRAB"
+  }]
+}

@@ -1,0 +1,251 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "ALEJANDRA BELTRAMINO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-13T13:35:13.805232Z",
+    "updateTime": "2022-12-13T13:35:13.805232Z",
+    "reviewReply": {
+      "comment": "Gracias Alejandra por tu valoración.",
+      "updateTime": "2022-12-15T11:36:38.113481Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtM191REpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sole Gmail"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-12T19:45:33.942683Z",
+    "updateTime": "2022-12-12T19:45:33.942683Z",
+    "reviewReply": {
+      "comment": "Gracias Sole por tu valoración.",
+      "updateTime": "2022-12-12T23:17:46.021360Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcjlDY0NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Augusto Castresana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-07T18:16:50.084684Z",
+    "updateTime": "2022-12-07T18:16:50.084684Z",
+    "reviewReply": {
+      "comment": "Gracias César por tu valoración.",
+      "updateTime": "2022-12-10T14:44:38.451108Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtX2ZfcFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Ritta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-06T22:57:00.388252Z",
+    "updateTime": "2022-12-06T22:57:00.388252Z",
+    "reviewReply": {
+      "comment": "Gracias Alejandra por tu valoración.",
+      "updateTime": "2022-12-07T10:35:17.781244Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtN2RPWUdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Leganlu"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-01T17:14:07.458866Z",
+    "updateTime": "2022-12-01T17:14:07.458866Z",
+    "reviewReply": {
+      "comment": "Gracias Ángel por tu valoración.",
+      "updateTime": "2022-12-02T14:45:50.289546Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtb2F5YU5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "sofia benitez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-29T10:10:11.336397Z",
+    "updateTime": "2022-11-29T10:10:11.336397Z",
+    "reviewReply": {
+      "comment": "Gracias Sofía por tu valoración.",
+      "updateTime": "2022-11-30T13:46:58.415075Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtdG9TXzFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel Matías Estrada"
+    },
+    "starRating": "FIVE",
+    "comment": "Súper cómodo\n\n(Translated by Google)\nSuper comfortable",
+    "createTime": "2022-11-28T01:08:28.444938Z",
+    "updateTime": "2022-11-28T01:08:28.444938Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Ezequiel por tu valoración y comentario.",
+      "updateTime": "2022-11-28T10:33:15.825815Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtLXFIUzZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Figueroa"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien atendidos y en un lugar clave para cargar\n\n(Translated by Google)\nExcellent service and in a prime location for charging",
+    "createTime": "2022-11-26T19:59:55.323108Z",
+    "updateTime": "2022-11-26T19:59:55.323108Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Franco por tu valoración y comentario.",
+      "updateTime": "2022-11-27T14:14:06.113374Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcXBTZU1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Bessone"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-11-26T17:51:19.568776Z",
+    "updateTime": "2022-11-26T17:51:19.568776Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Daniel por tu valoración y comentario.",
+      "updateTime": "2022-11-28T10:32:16.114629Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUQteXQzYjN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Muñoz"
+    },
+    "starRating": "FOUR",
+    "comment": "La atención es perfecta los playeros son todos muy amables te ayudan en lo que sea y lo mejor de todo con simpatía estás cosas son lo más valorable de un lugar así.\nSigan así\n\n(Translated by Google)\nThe service is perfect; the staff are all very friendly and helpful, and best of all, they\u0027re incredibly kind. These are the most valuable aspects of a place like this.\nKeep it up!",
+    "createTime": "2022-09-24T04:30:53.409726Z",
+    "updateTime": "2022-11-25T17:44:22.901830Z",
+    "reviewReply": {
+      "comment": "Gracias Juan por tu valoración y comentario.",
+      "updateTime": "2022-11-26T16:44:42.832125Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlcTg3cXZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "santoneochoa"
+    },
+    "starRating": "ONE",
+    "comment": "lentos para atender ;me hicieron esperar  atendieron  a los q llegaron despues y yo mirando en la playa para la carga\n\n(Translated by Google)\nSlow to serve; they made me wait, they served those who arrived later while I was standing on the beach waiting for the bus to load.",
+    "createTime": "2022-11-22T23:19:58.576448Z",
+    "updateTime": "2022-11-22T23:19:58.576448Z",
+    "reviewReply": {
+      "comment": "Gracias por tu valoración y comentario, nos permite mejorar. Lamentamos tu mala experiencia. ",
+      "updateTime": "2022-11-26T16:48:52.840571Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtakptdEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Castillo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-22T21:26:29.985310Z",
+    "updateTime": "2022-11-22T21:26:30.971264Z",
+    "reviewReply": {
+      "comment": "Gracias Federico por tu valoración.",
+      "updateTime": "2022-11-26T16:42:52.408354Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtakx5cnd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Dichiara"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-20T01:46:26.557765Z",
+    "updateTime": "2022-11-20T01:46:26.557765Z",
+    "reviewReply": {
+      "comment": "Gracias Carolina por tu valoración.",
+      "updateTime": "2022-11-26T16:40:53.814881Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcUl5aUN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Peralta"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-11-20T01:43:16.502762Z",
+    "updateTime": "2022-11-20T01:43:16.502762Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Juan Manuel por tu valoración y comentario.",
+      "updateTime": "2022-11-26T16:39:55.850837Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcUxTXzZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "L. A"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-14T21:55:56.724473Z",
+    "updateTime": "2022-11-14T21:55:56.724473Z",
+    "reviewReply": {
+      "comment": "Gracias L. A por tu valoración.",
+      "updateTime": "2022-11-26T16:38:55.529575Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtLTVmNTZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jean Paul Kaehr"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-11T10:56:10.740587Z",
+    "updateTime": "2022-11-11T10:56:10.740587Z",
+    "reviewReply": {
+      "comment": "Gracias Jean Paul por tu valoración.",
+      "updateTime": "2022-11-26T16:37:57.212635Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtdmNyd1N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Gamarra"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-11-10T02:03:09.060555Z",
+    "updateTime": "2022-11-10T02:03:09.060555Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Walter por tu valoración y comentario.",
+      "updateTime": "2022-11-26T16:36:47.514993Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtOWN2d1RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "NANCY ESTELA RETAMOZO"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-11-08T13:33:51.760045Z",
+    "updateTime": "2022-11-08T13:33:51.760045Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Nancy por tu valoración y comentario.",
+      "updateTime": "2022-11-26T16:35:53.940091Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtaFppblVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Aníbal Arro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-06T17:07:46.100353Z",
+    "updateTime": "2022-11-06T17:07:46.100353Z",
+    "reviewReply": {
+      "comment": "Gracias Aníbal por tu valoración.",
+      "updateTime": "2022-11-26T16:35:05.954010Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtc2ZUS09REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Johana Cuello"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-02T19:14:36.483673Z",
+    "updateTime": "2022-11-02T19:14:36.483673Z",
+    "reviewReply": {
+      "comment": "Gracias Johana por tu valoración.",
+      "updateTime": "2022-11-26T16:33:01.531677Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtcHJIYjdBRRAB"
+  }]
+}

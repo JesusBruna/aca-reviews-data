@@ -1,0 +1,200 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Marcos Borja"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-06T01:06:17.524020Z",
+    "updateTime": "2022-01-06T01:06:17.524020Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtcmZ1d3hRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Roussel"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-05T17:14:52.141914Z",
+    "updateTime": "2022-01-05T17:14:52.141914Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtemE3TXB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Chris"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-03T20:40:19.675117Z",
+    "updateTime": "2022-01-03T20:40:19.675117Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNteGJTem9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "23892941ful"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente 👌\n\n(Translated by Google)\nExcellent 👌",
+    "createTime": "2022-01-03T12:50:51.821233Z",
+    "updateTime": "2022-01-03T12:50:51.821233Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtLWViUW5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Celess Luz"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-03T10:07:22.744176Z",
+    "updateTime": "2022-01-03T10:07:22.744176Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtdWJ2MTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Analia Gelhorn"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion!!\n\n(Translated by Google)\nGreat service!!",
+    "createTime": "2022-01-02T07:15:16.360365Z",
+    "updateTime": "2022-01-02T07:15:16.360365Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtcVpIell3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Janet Garrido"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-31T04:05:28.215082Z",
+    "updateTime": "2021-12-31T04:05:28.215082Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNFpMcU9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Juarez"
+    },
+    "starRating": "ONE",
+    "comment": "Nunca tienen sistema para pagar con tarjeta, la app de YPF nunca funciona, no se puede pagar con billetera virtual.. Raro no!!!\n\n(Translated by Google)\nThey never have a system for card payments, the YPF app never works, you can\u0027t pay with a digital wallet... Strange, isn\u0027t it?!",
+    "createTime": "2021-12-30T22:37:52.443452Z",
+    "updateTime": "2021-12-30T22:37:53.821082Z",
+    "reviewReply": {
+      "comment": "Estimado, ante todo que tenga un excelente comienzo de año 2022, podria decirnos cuando fue la ultima vez que visito la estacion y le informaron algo de lo que Ud. menciona?, con esto nos ayudaria a saber si algo ha pasado.  Todas las estaciones ACA, desde SIEMPRE aceptaron tarjetas de credito, y desde que existe, a media que la pandemia lo permitio se implemento el uso de la APP YPF. Desde ya, muchas gracias por su comentario. Saludos cordiales. Equipo ACA Puerto Iguazu",
+      "updateTime": "2022-01-01T22:34:19.522246Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtb2NIVlRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ferran ten der"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-30T18:36:53.010669Z",
+    "updateTime": "2021-12-30T18:36:53.010669Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtd2RPbzJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Viajeros"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-30T12:21:47.600139Z",
+    "updateTime": "2021-12-30T12:21:47.600139Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtZ2RhSUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Pinheiro"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-12-30T03:11:41.915690Z",
+    "updateTime": "2021-12-30T03:11:43.483683Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias. Feliz Año!",
+      "updateTime": "2022-01-01T22:36:55.572398Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdnNfSU5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Elisa Quiroz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-28T11:12:54.875524Z",
+    "updateTime": "2021-12-28T11:12:54.875524Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtOXFITHNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kevin Roggero"
+    },
+    "starRating": "FIVE",
+    "comment": "Hola,tiene GNC??\n\n(Translated by Google)\nHello, do you have CNG?",
+    "createTime": "2021-12-27T00:36:16.176250Z",
+    "updateTime": "2021-12-27T00:36:16.176250Z",
+    "reviewReply": {
+      "comment": "Hola. Solo Nafta y Gasoil. Saludos cordiales.",
+      "updateTime": "2022-01-01T22:37:19.689700Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNteHRieEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rene Sosa"
+    },
+    "starRating": "FIVE",
+    "comment": "El único lugar donde el turista encontrará Aire para los neumáticos, free! En plena ciudad turística.  El ACA ó Automóvil  Club Argentino, ofrece a sus socios y clientes muy buena atención!\n\n(Translated by Google)\nThe only place where tourists can find free air for their tires! Right in the heart of the tourist city. The ACA (Automóvil Club Argentino) offers its members and customers excellent service!",
+    "createTime": "2021-12-27T00:18:38.520633Z",
+    "updateTime": "2021-12-27T00:18:38.520633Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias!, que tenga un excelente comienzo de año!. Saludos cordiales.",
+      "updateTime": "2022-01-01T22:37:56.979137Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNteG9hNzhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alisson Freitas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-25T22:54:01.493477Z",
+    "updateTime": "2021-12-25T22:54:01.493477Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtMnRlTUVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Spaciari1"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-25T14:48:01.136140Z",
+    "updateTime": "2021-12-25T14:48:01.136140Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtbW9mSWp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela Gallardo"
+    },
+    "starRating": "THREE",
+    "comment": "Demora muuuucccchhhooo cargar nafta\n\n(Translated by Google)\nIt takes a loooong time to fill up with gas",
+    "createTime": "2021-12-24T15:31:33.772986Z",
+    "updateTime": "2021-12-24T15:31:33.772986Z",
+    "reviewReply": {
+      "comment": "Dada la coyuntura actual, se dificulta poder brindar el servicio de la manera que nos gustaría. Esperemos en breve poder tener novedades al respecto. Saludos cordiales.",
+      "updateTime": "2022-01-01T22:39:11.400464Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNteXZ2eDJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elias Garcia"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-12-24T12:56:55.662339Z",
+    "updateTime": "2021-12-24T12:56:55.662339Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNteXFhNG1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "leandro cristian Giordano"
+    },
+    "starRating": "THREE",
+    "comment": "Es lo que se espera de una lugar asi\n\n(Translated by Google)\nThat\u0027s what you\u0027d expect from a place like that",
+    "createTime": "2021-12-23T22:36:06.243339Z",
+    "updateTime": "2021-12-23T22:36:06.243339Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias.",
+      "updateTime": "2022-01-01T22:39:22.238256Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtOG9yUmdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natt Portillo"
+    },
+    "starRating": "TWO",
+    "comment": "Muchisima gente para cargar combustible y muy pocos funcionarios atendiendo .. creó que solo 2 funcionarios 1 en la tienda y 1 en el puesto de abastecimiento.. deberian aumentar según la demanda compra venta para mejorar el servicio\n\n(Translated by Google)\nThere are so many people waiting to get fuel and so few staff members working... I think there are only two, one in the store and one at the pump. They should increase staffing levels to meet demand and improve service.",
+    "createTime": "2021-12-23T00:44:15.150253Z",
+    "updateTime": "2021-12-23T00:44:15.150253Z",
+    "reviewReply": {
+      "comment": "Hola, tendremos en cuenta su recomendación y lamentamos su mala experiencia.",
+      "updateTime": "2022-03-28T14:16:04.060394Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNHNIbVhnEAE"
+  }]
+}

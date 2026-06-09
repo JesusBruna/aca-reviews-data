@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Rackey"
+    },
+    "starRating": "FIVE",
+    "comment": "Como siempre ,es bueno ser socio ,siempre limpio y arreglado,este fue en Villa María Córdoba\n\n(Translated by Google)\nAs always, it\u0027s good to be a member, always clean and tidy. This was in Villa María, Córdoba.",
+    "createTime": "2020-02-17T20:56:33.990391Z",
+    "updateTime": "2020-02-17T20:56:33.990391Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOV9QTFdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina Canelo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-17T20:36:27.202217Z",
+    "updateTime": "2020-02-17T20:36:27.202217Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzOTRQUi1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "German Habegger"
+    },
+    "starRating": "THREE",
+    "comment": "Buena ubicación, pero siempre se forman filas de vehículos para cargar combustible. El shopp es simple, con  buen despacho de café\n\n(Translated by Google)\nGood location, but there are always lines of cars waiting for fuel. The shop is simple, with a good coffee selection.",
+    "createTime": "2020-02-16T23:46:10.868531Z",
+    "updateTime": "2020-02-16T23:46:10.868531Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzbDR6Sl9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Pozzetti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-16T16:49:44.238695Z",
+    "updateTime": "2020-02-16T16:49:44.238695Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzcDVPNWl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ana karenina"
+    },
+    "starRating": "THREE",
+    "comment": "Bien. Casi limpio\n\n(Translated by Google)\nGood. Almost clean.",
+    "createTime": "2020-02-16T16:33:32.429472Z",
+    "updateTime": "2020-02-16T16:33:32.429472Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzcDUyOEh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Maciel"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-15T18:48:27.270862Z",
+    "updateTime": "2020-02-15T18:48:27.270862Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdTdXdTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Sofia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-15T15:48:27.878220Z",
+    "updateTime": "2020-02-15T15:48:27.878220Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMi1fLVF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Rodolfo Pintos Ettlin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-15T03:49:53.256273Z",
+    "updateTime": "2020-02-15T03:49:53.256273Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzNl9PNE9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Arrascaeta"
+    },
+    "starRating": "THREE",
+    "comment": "Muy lento la atención al público espacios reducidos para el estacionamiento\n\n(Translated by Google)\nVery slow customer service, limited parking spaces",
+    "createTime": "2020-02-14T17:59:03.840306Z",
+    "updateTime": "2020-02-14T17:59:03.840306Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzcV9UVjVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Cian"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-14T17:23:14.765329Z",
+    "updateTime": "2020-02-14T17:23:14.765329Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzcTRqdXh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Guillermo Ventura"
+    },
+    "starRating": "ONE",
+    "comment": "No tiene serviclub,\n\n(Translated by Google)\nIt doesn\u0027t have a service club.",
+    "createTime": "2020-02-14T16:48:35.981764Z",
+    "updateTime": "2020-02-14T16:49:36.186903Z",
+    "reviewReply": {
+      "comment": "Sr. Ventura agradecemos se haya tomado el tiempo de calificarnos y queremos aclararle que es un problema que nos excede. En breve el sistema estará funcionando nuevamente. Saludos cordiales.",
+      "updateTime": "2020-02-16T11:50:38.329319Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzeThfWXRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Montiel"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-14T13:26:07.308213Z",
+    "updateTime": "2020-02-14T13:26:07.308213Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChRDSUhNMG9nS0VJQ0FnSUNzeV94MRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Rodrigo garcia"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-02-13T17:12:38.744312Z",
+    "updateTime": "2020-02-13T17:12:38.744312Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzczZLV3hRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Flia Scarafia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-13T05:16:28.764189Z",
+    "updateTime": "2020-02-13T05:16:28.764189Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzazhLTU9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Girardi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-13T00:52:42.726670Z",
+    "updateTime": "2020-02-13T00:52:42.726670Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNC0zdzZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Caio Cipolatti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-13T00:31:43.183982Z",
+    "updateTime": "2020-02-13T00:31:43.183982Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzNDlXMVhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nacho carc"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-12T20:29:05.289237Z",
+    "updateTime": "2020-02-12T20:29:05.289237Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzNDZqT2R3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Aisama"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-12T15:14:09.562596Z",
+    "updateTime": "2020-02-12T15:14:09.562596Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzb19DSGpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Villagra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-12T13:12:49.640950Z",
+    "updateTime": "2020-02-12T13:12:49.640950Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdzVYZ3lRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "wisksys"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente las chicas que atienden son lo massssss !!!!!!\n\n(Translated by Google)\nExcellent! The girls who work there are the best!",
+    "createTime": "2020-02-12T00:24:21.542825Z",
+    "updateTime": "2020-02-12T00:24:21.542825Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzX2FmVGlBRRAB"
+  }]
+}

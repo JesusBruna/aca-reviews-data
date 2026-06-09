@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Jerez"
+    },
+    "starRating": "THREE",
+    "comment": "Práctico\n\n(Translated by Google)\nPractical",
+    "createTime": "2020-12-24T03:23:52.563394Z",
+    "updateTime": "2020-12-24T03:24:02.375974Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURTNXFmVnlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Mesa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-12-23T13:24:18.521873Z",
+    "updateTime": "2020-12-23T13:24:18.521873Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURTeHNfMXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gaston monzon"
+    },
+    "starRating": "FIVE",
+    "comment": "Precios inmejorables... Sospechoso?\n\n(Translated by Google)\nUnbeatable prices... Suspicious?",
+    "createTime": "2020-12-21T20:19:36.303454Z",
+    "updateTime": "2020-12-21T20:19:43.551988Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURTNnF1M3BRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Andrea Lazzaro"
+    },
+    "starRating": "THREE",
+    "comment": "La bajada DE BEBEDETTI está lleno de basura y la colectora que va al parque de inunda\n\n(Translated by Google)\nThe BEBEDETTI descent is full of garbage and the collector that goes to the park floods.",
+    "createTime": "2020-12-18T16:45:44.982293Z",
+    "updateTime": "2020-12-18T16:46:12.790790Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURTd3BTTG1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Clientes\n\n(Translated by Google)\nCustomers",
+    "createTime": "2020-12-17T18:30:38.354716Z",
+    "updateTime": "2020-12-17T18:30:38.354716Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUNTNjlXcjBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Coti Malaka"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, siempre que pasó por allí cargo en ese lugar\n\n(Translated by Google)\nGood service, every time I went there I was in charge there.",
+    "createTime": "2020-12-17T02:36:04.101228Z",
+    "updateTime": "2020-12-17T02:36:20.787989Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUNTaTlPalJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noemi Fazzio"
+    },
+    "starRating": "THREE",
+    "comment": "No tienen gas\n\n(Translated by Google)\nThey have no gas",
+    "createTime": "2020-12-17T00:22:16.347074Z",
+    "updateTime": "2020-12-17T00:22:32.682081Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUNTN2ZUX3BRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Davies"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-12-07T11:52:01.394313Z",
+    "updateTime": "2020-12-07T11:52:01.394313Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSURpeWE2VlFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Butera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-12-05T20:12:06.666428Z",
+    "updateTime": "2020-12-05T20:12:06.666428Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURpa2Vyd2p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rolando Bartet"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-12-04T00:05:10.122723Z",
+    "updateTime": "2020-12-04T00:05:10.122723Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSURpdnNQVFBnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Andrea Saucedo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-12-03T11:20:20.533639Z",
+    "updateTime": "2020-12-03T11:20:20.533639Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSURpbHFtSWpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Fabiana Esquivel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-11-29T11:36:52.654193Z",
+    "updateTime": "2020-11-29T11:36:52.654193Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSURpX05mZmZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Cabral"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-11-22T15:52:20.817536Z",
+    "updateTime": "2020-11-22T15:52:20.817536Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSURpOExTV2JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "NINIHUE S.A."
+    },
+    "starRating": "THREE",
+    "createTime": "2020-11-19T21:19:31.503356Z",
+    "updateTime": "2020-11-19T21:19:31.503356Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpbi1xNTBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "PABLO GELMAN"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención y precios\n\n(Translated by Google)\nExcellent service and prices",
+    "createTime": "2020-11-18T19:14:37.458177Z",
+    "updateTime": "2020-11-18T19:14:37.458177Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpOTdXT3p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2020-11-18T06:46:08.227325Z",
+    "updateTime": "2020-11-18T06:46:08.227325Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpMThtdDR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Martinez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-11-17T02:31:37.108105Z",
+    "updateTime": "2020-11-17T02:31:37.108105Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpdTZ2Nk1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Alejandra Pérez"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-11-14T12:23:00.959092Z",
+    "updateTime": "2020-11-14T12:23:00.959092Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpay1PeTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Palazuelos"
+    },
+    "starRating": "ONE",
+    "createTime": "2020-11-14T09:58:05.321483Z",
+    "updateTime": "2020-11-14T09:58:05.321483Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpazg3bTRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ariel juarez"
+    },
+    "starRating": "FOUR",
+    "comment": "Sin comentarios estuve de paso\n\n(Translated by Google)\nNo comment, I was just passing through.",
+    "createTime": "2020-11-12T15:37:36.541166Z",
+    "updateTime": "2020-11-12T15:37:36.541166Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpdllTZGF3EAE"
+  }]
+}

@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mario Rampulla"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-08T17:47:20.796539Z",
+    "updateTime": "2022-01-08T17:47:20.796539Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtczVpUVBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maru Villafañe"
+    },
+    "starRating": "THREE",
+    "comment": "Linda",
+    "createTime": "2021-12-29T04:23:32.889198Z",
+    "updateTime": "2022-01-08T03:44:57.603048Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtcnRQeGdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Ramirez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-04T23:19:35.110025Z",
+    "updateTime": "2022-01-04T23:19:35.110025Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdGZ5dWV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Aldo Villareal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-04T10:12:23.467377Z",
+    "updateTime": "2022-01-04T10:12:23.467377Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNWZiekZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Callegari"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-28T16:41:25.883865Z",
+    "updateTime": "2021-12-28T16:41:25.883865Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtanRQb3Z3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Tojo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-28T14:51:10.548869Z",
+    "updateTime": "2021-12-28T14:51:10.548869Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtanBxV0hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Belmonte Avila"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-27T03:57:30.987790Z",
+    "updateTime": "2021-12-27T03:57:30.987790Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSUNteHV1c1ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "LOREDO PROPIEDADES"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-27T03:44:20.133416Z",
+    "updateTime": "2021-12-27T03:44:20.133416Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSUNteHZQdGJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Donasco"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención sanitarios bien limpios\n\n(Translated by Google)\nGood care, very clean toilets",
+    "createTime": "2021-12-27T00:31:22.584113Z",
+    "updateTime": "2021-12-27T00:31:50.170346Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSUNteHBiU0lREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Estibaletti"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención..\n\n(Translated by Google)\nGood service.",
+    "createTime": "2021-12-22T18:15:53.196995Z",
+    "updateTime": "2021-12-22T18:15:54.688738Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtb3ZhOVJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Néstor Gallardo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-22T13:59:45.932333Z",
+    "updateTime": "2021-12-22T13:59:45.932333Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtd3U3c2h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JOSE MARQUEZ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-19T12:35:45.639373Z",
+    "updateTime": "2021-12-19T12:35:45.639373Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtbE1hOXhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nahue Di sanzo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-18T11:03:32.834818Z",
+    "updateTime": "2021-12-18T11:03:32.834818Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtaExpLTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "cesar fritzler"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-12-16T11:15:32.420070Z",
+    "updateTime": "2021-12-16T11:15:33.906737Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtOEszazZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Zitzer"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2021-12-13T21:26:57.737715Z",
+    "updateTime": "2021-12-13T21:26:59.245735Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSURHbjRxaGpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Ponce"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy limpio, agradable\n\n(Translated by Google)\nVery clean, pleasant",
+    "createTime": "2021-12-11T21:50:48.119445Z",
+    "updateTime": "2021-12-11T21:50:48.119445Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSURHNS03ZHV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Barrale"
+    },
+    "starRating": "FOUR",
+    "comment": "Falta higiene en los baños\n\n(Translated by Google)\nThere is a lack of hygiene in the bathrooms.",
+    "createTime": "2021-12-11T16:16:58.210723Z",
+    "updateTime": "2021-12-11T16:18:06.473252Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSURHcDdxV2J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Teresa Fischer"
+    },
+    "starRating": "FIVE",
+    "comment": "Rápida atención, sectores limpios y baños impecables.\n\n(Translated by Google)\nFast service, clean areas and spotless bathrooms.",
+    "createTime": "2021-12-09T20:49:43.541994Z",
+    "updateTime": "2021-12-09T20:50:46.416205Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSURHcV9QbzV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Miranda"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los playeros, muy buen servicio y gran variedad de productos en el shop...\n\n(Translated by Google)\nExcellent service from the beach attendants, very good service, and a wide variety of products in the shop...",
+    "createTime": "2021-12-03T11:49:44.588674Z",
+    "updateTime": "2021-12-03T11:49:44.588674Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChdDSUhNMG9nS0VJQ0FnSURHdWNmTXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "carlos insaurralde"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy cómodo. Buena atención\n\n(Translated by Google)\nVery comfortable. Good service.",
+    "createTime": "2021-11-30T01:40:07.398244Z",
+    "updateTime": "2021-11-30T01:40:47.702594Z",
+    "name": "accounts/109853746269412609224/locations/10277714820934344759/reviews/ChZDSUhNMG9nS0VJQ0FnSURHZ1pidEd3EAE"
+  }]
+}

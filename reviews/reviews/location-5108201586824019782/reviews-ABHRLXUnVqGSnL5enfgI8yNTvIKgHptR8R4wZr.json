@@ -1,0 +1,239 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Noelia Noguera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-01T04:01:42.320332Z",
+    "updateTime": "2022-03-01T04:01:42.320332Z",
+    "reviewReply": {
+      "comment": "Gracias Noelia !",
+      "updateTime": "2022-03-01T04:35:36.554565Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXa2RDWWdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucy Silva"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-03-01T01:50:13.927648Z",
+    "updateTime": "2022-03-01T01:50:13.927648Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXNGVXZ1pnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-28T23:19:57.929012Z",
+    "updateTime": "2022-02-28T23:19:57.929012Z",
+    "reviewReply": {
+      "comment": "Gracias Norma !",
+      "updateTime": "2022-03-01T04:35:00.493588Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNFlqcGpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sh8k V8"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo excelente, lástima la que parece ser la encargada del lugar, una tipa muy mal educada e ignorante\n\n(Translated by Google)\nEverything was excellent, it\u0027s a shame about the woman who seems to be in charge of the place, a very rude and ignorant woman.",
+    "createTime": "2022-02-27T23:28:22.813462Z",
+    "updateTime": "2022-02-27T23:28:22.813462Z",
+    "reviewReply": {
+      "comment": "Gracias Bombón por tu calificación.",
+      "updateTime": "2022-02-28T03:56:21.239154Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXbnZHU0l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Balado"
+    },
+    "starRating": "TWO",
+    "comment": "No tiene pago electrónico. El bar lo basico caro y solo efectivo.\n\n(Translated by Google)\nThey don\u0027t have electronic payment. The bar is expensive and only accepts cash.",
+    "createTime": "2022-02-27T12:42:27.320154Z",
+    "updateTime": "2022-02-27T12:42:27.320154Z",
+    "reviewReply": {
+      "comment": "Si su aporte es para ayudar a otros como dice su perfil, es mejor no distorsionar la verdad. El pago electrónico está funcionando desde  hace 6 meses, los conceptos de básico y caro son tan subjetivos como su expectativa o presupuesto y se aceptan tarjetas de débito y crédito. A veces hay que entender las condiciones de conectividad del lugar.",
+      "updateTime": "2022-02-27T13:27:15.359049Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXcnVqT21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JUAN MIEREZ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-26T18:05:05.494104Z",
+    "updateTime": "2022-02-26T18:05:05.494104Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Juan !",
+      "updateTime": "2022-02-27T13:27:43.208521Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXOXFqWGpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Gonzalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excente en medio de la nada.\n\n(Translated by Google)\nExcellent in the middle of nowhere.",
+    "createTime": "2022-02-25T17:14:12.062421Z",
+    "updateTime": "2022-02-25T17:14:12.062421Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Marcelo ! Es lindo cuando la gente entiende.",
+      "updateTime": "2022-02-26T01:42:21.908988Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXcHZPb1pREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Navarro"
+    },
+    "starRating": "FIVE",
+    "comment": "Pasamos una vez. Buena atención.\n\n(Translated by Google)\nWe stopped by once. Good service.",
+    "createTime": "2022-02-25T14:00:12.408980Z",
+    "updateTime": "2022-02-25T14:00:12.408980Z",
+    "reviewReply": {
+      "comment": "Gracias Cecilia !",
+      "updateTime": "2022-02-25T14:25:10.972521Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXeHUtRVVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Marenda"
+    },
+    "starRating": "FIVE",
+    "comment": "Llega donde nadie llega\n\n(Translated by Google)\nIt goes where no one else goes",
+    "createTime": "2022-02-25T00:05:10.680168Z",
+    "updateTime": "2022-02-25T00:05:10.680168Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Juan Carlos.",
+      "updateTime": "2022-02-25T01:26:02.092704Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXLXNQbmVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Horacio Perea"
+    },
+    "starRating": "THREE",
+    "comment": "Lo justo y necesario\n\n(Translated by Google)\nJust what\u0027s necessary",
+    "createTime": "2022-02-24T22:00:57.384973Z",
+    "updateTime": "2022-02-24T22:00:57.384973Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXLXE2S2RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Alfredo Brito"
+    },
+    "starRating": "FOUR",
+    "comment": "No pude pagar con la app por falta de señal. Los sanitarios estaban limpios. Una lastima que la estación no esté mantenida, tiene la arquitectura \"vieja\" de las YPF...Ya no quedan muchas\n\n(Translated by Google)\nI couldn\u0027t pay with the app due to lack of signal. The restrooms were clean. It\u0027s a shame the station isn\u0027t maintained; it has the \"old\" architecture typical of YPF stations... There aren\u0027t many left.",
+    "createTime": "2022-02-24T01:20:22.849685Z",
+    "updateTime": "2022-02-24T01:20:22.849685Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNnR1aG5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matías Dispenza"
+    },
+    "starRating": "ONE",
+    "comment": "Muy chica, entonces siempre hay una larga espera para cargar combustible. La entrada es de tierra. Todo muy 1968\n\n(Translated by Google)\nIt\u0027s very small, so there\u0027s always a long wait for fuel. The entrance is unpaved. Very 1968.",
+    "createTime": "2022-02-24T01:13:07.096483Z",
+    "updateTime": "2022-02-24T01:13:07.096483Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXNnV2YUVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Araya"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!!\n\n(Translated by Google)\nExcellent service!!",
+    "createTime": "2022-02-23T16:55:28.529751Z",
+    "updateTime": "2022-02-23T16:55:28.529751Z",
+    "reviewReply": {
+      "comment": "Gracias Fabián !",
+      "updateTime": "2022-02-23T21:34:21.014426Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXcXRyLWZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia J. Lopez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar para cargar combustible, faltaría otro baño de damas, hay uno solo y se hace fila para entrar...\n\n(Translated by Google)\nGood place to fill up, but another women\u0027s restroom is needed. There\u0027s only one, and there\u0027s a long line to get in...",
+    "createTime": "2022-02-21T21:57:11.357492Z",
+    "updateTime": "2022-02-21T21:57:11.357492Z",
+    "reviewReply": {
+      "comment": "Gracias Natalia. Está en proyecto la renovación de sanitarios.",
+      "updateTime": "2022-02-23T21:35:02.222394Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXb3ZxaU93EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ivon Escobar"
+    },
+    "starRating": "FOUR",
+    "comment": "Hermosa la estación, lastima que el baño de mujeres deja bastante que desear...\n\n(Translated by Google)\nThe station is beautiful, it\u0027s a shame the women\u0027s restroom leaves a lot to be desired...",
+    "createTime": "2022-02-21T14:28:51.144551Z",
+    "updateTime": "2022-02-21T14:28:56.012757Z",
+    "reviewReply": {
+      "comment": "Gracias Ivon. Estamos trabajando para optimizar el funcionamiento de los baños.",
+      "updateTime": "2022-02-21T15:52:12.300444Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXZ3VXTXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucio Scalzo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-21T00:23:13.440709Z",
+    "updateTime": "2022-02-21T00:23:13.440709Z",
+    "reviewReply": {
+      "comment": "Gracias Lucio !",
+      "updateTime": "2022-02-21T02:16:30.706791Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXdk1LdmlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Soledad S"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-20T23:29:17.317154Z",
+    "updateTime": "2022-02-20T23:29:17.317154Z",
+    "reviewReply": {
+      "comment": "Gracias Soledad !",
+      "updateTime": "2022-02-20T23:57:17.992259Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXdktTZnVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hector gustavo lema"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-20T23:16:35.605626Z",
+    "updateTime": "2022-02-20T23:16:35.605626Z",
+    "reviewReply": {
+      "comment": "Gracias Héctor !",
+      "updateTime": "2022-02-20T23:57:00.668451Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXdlBqazdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "CHRISTIAN"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-20T20:05:18.789365Z",
+    "updateTime": "2022-02-20T20:05:18.789365Z",
+    "reviewReply": {
+      "comment": "Gracias Christian.",
+      "updateTime": "2022-02-20T23:56:41.661132Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXM0xtbkJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Niv Pellegrino"
+    },
+    "starRating": "FIVE",
+    "comment": "Lo mejor....el playero. Un divino\n\n(Translated by Google)\nThe best part...the beachy one. Absolutely divine.",
+    "createTime": "2022-02-20T10:03:27.253347Z",
+    "updateTime": "2022-02-20T10:03:27.253347Z",
+    "reviewReply": {
+      "comment": "Muchas gracias !",
+      "updateTime": "2022-02-20T14:11:53.888199Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXN082UGVREAE"
+  }]
+}

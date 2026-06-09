@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Federico Gadea"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-11T20:44:41.375016Z",
+    "updateTime": "2023-03-11T20:44:41.375016Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURoaWUya21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Son Risas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-11T12:55:31.462361Z",
+    "updateTime": "2023-03-11T12:55:31.462361Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURoc2JYa2VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Hoyos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-10T16:45:53.343716Z",
+    "updateTime": "2023-03-10T16:45:53.343716Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURob2I2cWNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Hugo D .Mackenzie"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-10T13:50:52.546843Z",
+    "updateTime": "2023-03-10T13:50:52.546843Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURod2RueHBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Muñoz"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. Muy surtido. Cosas ricas.\nLugar para sentarse y desayunar, almorzar, merendar o cenar.\n\n(Translated by Google)\nGreat service. Wide selection. Delicious food.\nA place to sit and have breakfast, lunch, an afternoon snack, or dinner.",
+    "createTime": "2023-03-09T20:26:01.818494Z",
+    "updateTime": "2023-03-09T20:26:01.818494Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURodnFUUmx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mateus Müller"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) A place that literally saves travelers on Route 3, where there\u0027s absolutely nothing for about 100km in each direction. As you know, the Patagonia region is known for its extreme winds reaching over 100km/h. The gas station attendant recommended a place with less wind to spend the night. It was super peaceful, and the place is well-organized and clean.\n\n(Original)\nUm lugar que literalmente salva o viajante que faz o trajeto pela ruta 3, a cerca de 100km para cada lado não existe absolutamente nada, e como sabem a região da Patagônia é conhecida pelos ventos extremos que chegam a mais de 100km/h, o frentista nos Indicou um lugar que tinha menos vento para passar a noite, foi super tranquilo e o local é bem organizado e limpo",
+    "createTime": "2023-03-09T15:23:06.908963Z",
+    "updateTime": "2023-03-09T15:23:13.880644Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURobnZQOVdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Ingravallo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención. Los baños muy limpios.\n\n(Translated by Google)\nExcellent service. The restrooms were very clean.",
+    "createTime": "2023-03-09T13:29:59.173053Z",
+    "updateTime": "2023-03-09T13:30:01.373452Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURobnJ6T0NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alexis Visser Olivar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-07T21:14:48.860731Z",
+    "updateTime": "2023-03-07T21:14:48.860731Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNXVfTENnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "El Vasco Gimeno"
+    },
+    "starRating": "THREE",
+    "comment": "Solo pasamos a desayunar lindo servicio al paso.\n\n(Translated by Google)\nWe just stopped by for breakfast; nice quick service.",
+    "createTime": "2023-03-07T13:45:59.661499Z",
+    "updateTime": "2023-03-07T13:45:59.661499Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeG8ta2x3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian duarte"
+    },
+    "starRating": "TWO",
+    "comment": "Un desastre  no tenian combustible\nPoca informacion\nVarados 4 horas\n\n(Translated by Google)\nA disaster, they had no fuel.\nLittle information. Stranded for 4 hours.",
+    "createTime": "2023-03-01T19:10:04.361269Z",
+    "updateTime": "2023-03-07T13:32:05.923076Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURocFBMaExBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina soledad Zarate"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-07T03:52:54.192554Z",
+    "updateTime": "2023-03-07T03:52:54.192554Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURoLXNLWVZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Pereyra"
+    },
+    "starRating": "FOUR",
+    "comment": "Atentos y muy completo todo\n\n(Translated by Google)\nAttentive and everything was very thorough",
+    "createTime": "2023-03-07T02:58:38.777689Z",
+    "updateTime": "2023-03-07T02:58:38.777689Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURodW9fLUJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mar Designx"
+    },
+    "starRating": "FIVE",
+    "comment": "Los precios en el shop re accesibles.  Iba a usar el wifi porque en camarones no hay. Los empleados todos super amables.\n\n(Translated by Google)\nThe prices at the shop are really affordable. I was going to use the Wi-Fi because there\u0027s no Wi-Fi at Camarones. The employees are all super friendly.",
+    "createTime": "2023-03-07T02:20:43.266264Z",
+    "updateTime": "2023-03-07T02:20:43.266264Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURodXF2SHZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Loiacono"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo muy lindo!!!\n\n(Translated by Google)\nEverything is so beautiful!!!",
+    "createTime": "2023-03-06T17:34:35.394087Z",
+    "updateTime": "2023-03-06T17:34:35.394087Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURobXF2NHlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elena Ce “Helen” Lemos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-06T05:49:34.975049Z",
+    "updateTime": "2023-03-06T05:49:34.975049Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeXFHUGlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "el loco del Jeep"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-05T14:10:49.416044Z",
+    "updateTime": "2023-03-05T14:10:49.416044Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMHFQYmtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonio Alejo Severo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-04T20:44:52.764077Z",
+    "updateTime": "2023-03-04T20:44:52.764077Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURob3J6a1hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias"
+    },
+    "starRating": "FIVE",
+    "comment": "Un oasis!!\n\n(Translated by Google)\nAn oasis!!",
+    "createTime": "2023-03-04T02:18:00.021127Z",
+    "updateTime": "2023-03-04T02:18:00.021127Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURodktpdmpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Castagno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-04T00:15:16.188449Z",
+    "updateTime": "2023-03-04T00:15:16.188449Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURoM0lPVUV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "brian Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-03T22:27:22.737292Z",
+    "updateTime": "2023-03-03T22:27:22.737292Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURoM1BiUEZ3EAE"
+  }]
+}

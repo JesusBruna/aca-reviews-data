@@ -1,0 +1,244 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "milagros Ramirez"
+    },
+    "starRating": "ONE",
+    "createTime": "2021-02-17T17:04:17.954231Z",
+    "updateTime": "2021-02-17T17:04:17.954231Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5ejVqWjdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel Virt"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-02-14T21:34:35.603173Z",
+    "updateTime": "2021-02-14T21:34:35.603173Z",
+    "reviewReply": {
+      "comment": "Gracias por la calificación.",
+      "updateTime": "2021-02-14T22:22:14.879921Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5LTdMZll3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre buena atención\n\n(Translated by Google)\nAlways good service",
+    "createTime": "2021-02-10T11:30:23.246555Z",
+    "updateTime": "2021-02-10T11:32:27.589492Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Oscar por el comentario y la calificación.",
+      "updateTime": "2021-02-14T22:21:47.018841Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5dmZmbWJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "marta irene fogar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-07T16:22:45.822058Z",
+    "updateTime": "2021-02-07T16:22:45.822058Z",
+    "reviewReply": {
+      "comment": "Gracias por la calificación!",
+      "updateTime": "2021-02-07T16:51:55.237259Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5MWRLYmNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Exequiel Ibarra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-01-29T02:12:07.292110Z",
+    "updateTime": "2021-01-29T02:12:07.292110Z",
+    "reviewReply": {
+      "comment": "Gracias por la calificacion",
+      "updateTime": "2021-01-29T03:12:42.800329Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5NXFlel9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "maria de los angeles rios"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio\n\n(Translated by Google)\nVery good service",
+    "createTime": "2021-01-21T19:46:30.201115Z",
+    "updateTime": "2021-01-21T19:46:30.201115Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el comentario y la calificación!",
+      "updateTime": "2021-01-21T21:03:43.681325Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5aklyMWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel Flores"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion sus empleados son muy amables\n\n(Translated by Google)\nExcellent service, their employees are very friendly.",
+    "createTime": "2021-01-12T11:39:20.349205Z",
+    "updateTime": "2021-01-12T11:39:49.515156Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario y calificación",
+      "updateTime": "2021-01-15T19:49:47.085026Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURTbF9IYlJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lesandra Godoy"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-01-10T13:21:20.709949Z",
+    "updateTime": "2021-01-10T13:21:20.709949Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!",
+      "updateTime": "2021-01-10T16:47:32.387342Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURTMjdIWTFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nati Giache"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena ubicación. Buena atención\n\n(Translated by Google)\nGood location. Good service.",
+    "createTime": "2021-01-09T03:12:19.767009Z",
+    "updateTime": "2021-01-09T03:12:19.767009Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario y calificación!",
+      "updateTime": "2021-01-09T09:42:23.215603Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURTaV8taURnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-01-08T16:17:29.344636Z",
+    "updateTime": "2021-01-08T16:17:29.344636Z",
+    "reviewReply": {
+      "comment": "Gracias por la calificación!",
+      "updateTime": "2021-01-09T09:41:38.318254Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURTODRiZ2ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Saucedo"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo lugar, buena atención . Sobre todo para gente de paso.\n\n(Translated by Google)\nNice place, good service. Especially for people passing through.",
+    "createTime": "2021-01-08T11:36:59.213913Z",
+    "updateTime": "2021-01-08T11:37:27.847822Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario y calificación!",
+      "updateTime": "2021-01-09T09:41:04.769068Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURTczdISlZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elian Ibañez"
+    },
+    "starRating": "FIVE",
+    "comment": "HAY GNC??\n\n(Translated by Google)\nIs there CNG available?",
+    "createTime": "2021-01-06T03:00:02.456084Z",
+    "updateTime": "2021-01-06T03:00:02.456084Z",
+    "reviewReply": {
+      "comment": "Hola, en la zona no hay estaciones de GNC",
+      "updateTime": "2021-01-06T10:09:20.473389Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURTdmZITlBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nadia Soledad Ruiz"
+    },
+    "starRating": "FIVE",
+    "comment": "Lo mejor .\n\n(Translated by Google)\nThe best.",
+    "createTime": "2020-12-28T21:40:17.185566Z",
+    "updateTime": "2020-12-28T21:40:17.185566Z",
+    "reviewReply": {
+      "comment": "Gracias por el comentario y la calificación",
+      "updateTime": "2020-12-29T02:05:05.289268Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURTb1pTcWFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Villalba"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-12-28T11:26:26.969030Z",
+    "updateTime": "2020-12-28T11:26:26.969030Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!",
+      "updateTime": "2020-12-28T11:37:45.050729Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURTZ1pHMTB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela Avila"
+    },
+    "starRating": "FIVE",
+    "comment": "...Excelente atención y servicios!..\n\n(Translated by Google)\nExcellent attention and services!",
+    "createTime": "2020-12-21T17:22:33.157257Z",
+    "updateTime": "2020-12-21T17:22:33.157257Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario y la calificación!",
+      "updateTime": "2020-12-21T19:45:56.511430Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURTNnNhamJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Luhaces"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-12-20T03:53:57.959927Z",
+    "updateTime": "2020-12-20T03:53:57.959927Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación!",
+      "updateTime": "2020-12-20T04:20:44.834816Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSURTc3RLbFZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Pereyra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-12-08T04:18:16.821299Z",
+    "updateTime": "2020-12-08T04:18:16.821299Z",
+    "reviewReply": {
+      "comment": "Gracias por la calificación",
+      "updateTime": "2020-12-08T05:41:18.421118Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURpNmFHOTRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "EDGARDO ADOLFO IRIART"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-12-06T01:14:59.087440Z",
+    "updateTime": "2020-12-06T01:14:59.087440Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por la calificación!",
+      "updateTime": "2020-12-06T01:59:32.379488Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChdDSUhNMG9nS0VJQ0FnSURpa1lmY3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriano Bogado"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención!!!\n\n(Translated by Google)\nExcellent service!!!",
+    "createTime": "2020-11-17T01:44:47.977171Z",
+    "updateTime": "2020-11-17T01:44:47.977171Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias por el comentario y la calificación!",
+      "updateTime": "2020-11-17T11:52:22.487572Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpdTRXRVhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "jovan strusiat"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-11-16T18:52:10.592882Z",
+    "updateTime": "2020-11-16T18:52:10.592882Z",
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpMjdMekR3EAE"
+  }]
+}

@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Marcela Zapata"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-04-07T19:48:44.993586Z",
+    "updateTime": "2019-04-07T19:48:44.993586Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZZ3FlRFpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Ernesto Lizza"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2019-03-08T03:11:16.486113Z",
+    "updateTime": "2019-04-07T14:13:33.055016Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSURvb1BYVFZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Amaya"
+    },
+    "starRating": "ONE",
+    "comment": "Mala atención de sus empleados de playa.\n\n(Translated by Google)\nPoor service from their beach staff.",
+    "createTime": "2019-04-06T15:27:36.024362Z",
+    "updateTime": "2019-04-06T15:27:36.024362Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZbk1IMUpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "pedrito ugarte"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-04-04T14:57:35.568537Z",
+    "updateTime": "2019-04-04T14:57:35.568537Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZdE96MmpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matías Zacchi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-04-04T07:57:04.196644Z",
+    "updateTime": "2019-04-04T07:57:04.196644Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZMUx5ajV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Sack"
+    },
+    "starRating": "FIVE",
+    "comment": "Es buena la atención\n\n(Translated by Google)\nThe attention is good",
+    "createTime": "2019-04-02T23:53:16.659785Z",
+    "updateTime": "2019-04-02T23:53:16.659785Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZeExhWmdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo fandiño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-04-02T22:25:51.416103Z",
+    "updateTime": "2019-04-02T22:25:51.416103Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZeEtLQUVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Chaqui Francos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-04-01T17:23:33.755026Z",
+    "updateTime": "2019-04-01T17:23:33.755026Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZMk5lVjVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Zuleski"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-03-31T19:32:18.849937Z",
+    "updateTime": "2019-03-31T19:32:18.849937Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZNktTeHFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jorge rossi"
+    },
+    "starRating": "FOUR",
+    "comment": "Mejoró mucho la atención con el personal actual. Cómoda y eficiente\n\n(Translated by Google)\nThe service has improved significantly with the current staff. Comfortable and efficient.",
+    "createTime": "2019-03-31T14:45:43.285748Z",
+    "updateTime": "2019-03-31T14:45:43.285748Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZcUlxX1dREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Guaquinchay"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2019-03-30T18:49:49.057276Z",
+    "updateTime": "2019-03-30T18:49:49.057276Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZOEs2cHZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bernardo Velasco"
+    },
+    "starRating": "FOUR",
+    "comment": "Tiene el estilo variada y servicios de las clásicas ACA. Se puede tramitar el registro internacional sin ser socio. El combustible es más económico que en la mayoría, además del descuento que hacen a socios. Bien ubicado en una zona pintoresca y segura de devoto.\n\n(Translated by Google)\nIt has the varied style and services of a classic ACA. You can apply for international registration without being a member. Fuel is cheaper than most, in addition to the member discount. Well located in a picturesque and safe area for worshippers.",
+    "createTime": "2017-07-27T17:13:15.464Z",
+    "updateTime": "2019-03-30T18:32:34.138480Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBZ183Yk5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Streule"
+    },
+    "starRating": "ONE",
+    "comment": "Estaba cerrado\n\n(Translated by Google)\nIt was closed",
+    "createTime": "2019-03-29T01:27:00.451266Z",
+    "updateTime": "2019-03-29T01:27:00.451266Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZb01pNU9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Rio"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena ubicacion. Servicio de 1era linea.\nAmplitud de estacionamiento. Baños limpios.\nMuy bueno el serviclub. Con variedad de productos. Lo recomiendo\n\n(Translated by Google)\nExcellent location. Top-notch service.\nAmple parking. Clean restrooms.\nThe convenience store is great, with a wide variety of products. I recommend it.",
+    "createTime": "2019-03-28T19:33:53.270374Z",
+    "updateTime": "2019-03-28T19:33:53.270374Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZd0tyRGRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Delgado"
+    },
+    "starRating": "ONE",
+    "comment": "El servicio que me brindaron nada que ver con las palabras. Tenés el servicio del seguro para tu auto y no te solucionan nada, el que me atendió en suvoz se notaba que me estaba boludeando, no dejaba expresar mi accidente, la verdad que después del choque necesitas contención que te guíen que trámites, en teoría  el seguro tiene que ayudarte a hacer los trámites, pero bueno no tuve esa suerte. Adiós ACA no tuve una buena experiencia con uds.\n\n(Translated by Google)\nThe service I received was nothing like the description. You have car insurance coverage and they don\u0027t do anything to help. The person who answered the phone sounded like he was messing with me; he wouldn\u0027t let me explain my accident. Honestly, after a crash you need support and guidance through the paperwork. In theory, the insurance company is supposed to help you with the paperwork, but unfortunately, I wasn\u0027t so lucky. Goodbye ACA, I didn\u0027t have a good experience with you.",
+    "createTime": "2019-03-28T16:30:15.805633Z",
+    "updateTime": "2019-03-28T16:34:01.467805Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUNZZ0plcGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Grisel Miranda"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-03-24T16:08:31.398505Z",
+    "updateTime": "2019-03-24T16:08:31.398505Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSURvbDgybFNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "mariano gomez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, siempre lleno\n\n(Translated by Google)\nGood service, always full",
+    "createTime": "2019-03-24T05:34:08.879915Z",
+    "updateTime": "2019-03-24T05:34:08.879915Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSURvNTdDM193RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas A. Lopez B."
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-03-23T22:31:05.676675Z",
+    "updateTime": "2019-03-23T22:31:05.676675Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSURvcDdUbzJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Fernanda CARRIZO"
+    },
+    "starRating": "FIVE",
+    "comment": "ACA todo absolutamente toda la mejor atención para tu auto...Gracias por existir los mejores lejos...\n\n(Translated by Google)\nHERE, absolutely all the best care for your car...Thank you for existing, the best by far...",
+    "createTime": "2019-03-23T10:31:16.904371Z",
+    "updateTime": "2019-03-23T10:31:16.904371Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSURvaDl6NGdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Peralta"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2019-03-19T17:27:24.033870Z",
+    "updateTime": "2019-03-19T17:27:24.033870Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSURvbzhERWtRRRAB"
+  }]
+}

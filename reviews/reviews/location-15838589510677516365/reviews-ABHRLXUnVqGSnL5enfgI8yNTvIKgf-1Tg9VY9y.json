@@ -1,0 +1,178 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Edgardo Barbisini"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-05T17:19:23.075Z",
+    "updateTime": "2018-01-05T17:19:23.075Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURRenJxQ21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Piojo Paz"
+    },
+    "starRating": "FIVE",
+    "comment": "En pleno centro y siempre abierto\n\n(Translated by Google)\nRight in the city center and always open",
+    "createTime": "2018-01-03T18:35:30.935Z",
+    "updateTime": "2018-01-03T18:35:58.822Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURnM0lyb2ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Thomas Andrés Pérez"
+    },
+    "starRating": "THREE",
+    "comment": "Barato y de calidad\n\n(Translated by Google)\nCheap and high quality",
+    "createTime": "2018-01-02T23:29:34.837Z",
+    "updateTime": "2018-01-02T23:29:43.496Z",
+    "reviewReply": {
+      "comment": "¡Hola Thomas! Muchas gracias por tu reseña. Nos encantaría puedas volver a evaluarnos, a fin de generar una experiencia de 5 estrellas en tu visita. Tu calificación es muy importante para nosotros. Te esperamos!",
+      "updateTime": "2025-03-13T01:56:57.658326Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRNmNPUTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Rios"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-12-31T11:11:03.074Z",
+    "updateTime": "2017-12-31T11:11:03.074Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnNUppUE9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Cecilia Lopez Viñals"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-12-30T19:04:55.426Z",
+    "updateTime": "2017-12-30T19:04:55.426Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURRa2N6ejZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Gallizio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-12-30T17:42:45.982Z",
+    "updateTime": "2017-12-30T17:42:45.982Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBNjdTTjlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "agustin rodriguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-12-28T19:26:27.905Z",
+    "updateTime": "2017-12-28T19:26:27.905Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURRM0szOEtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Scozziero"
+    },
+    "starRating": "TWO",
+    "comment": "Lentos en la atención\n\n(Translated by Google)\nSlow to respond",
+    "createTime": "2017-12-27T11:38:37.637Z",
+    "updateTime": "2017-12-27T11:39:13.340Z",
+    "reviewReply": {
+      "comment": "¡Hola Ana! Lamentamos tu experiencia de hace unos años. Nos encantaría que vuelvas a visitarnos y evaluar nuestra atención. Te esperamos!",
+      "updateTime": "2025-03-13T01:27:16.995978Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBdEozTWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "JORGE YORCH"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-12-27T02:17:38.814Z",
+    "updateTime": "2017-12-27T02:17:38.814Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3dXZtUm5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Eugenia Crespo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-12-26T22:47:14.740Z",
+    "updateTime": "2017-12-26T22:47:14.740Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURBZ051SlhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Miranda"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-12-13T14:54:12.440Z",
+    "updateTime": "2017-12-13T14:54:12.440Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnLUtIVGZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Tallone"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-12-13T11:03:22.898Z",
+    "updateTime": "2017-12-13T11:03:22.898Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBd3BHQkZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo “PALI” Zucchi"
+    },
+    "starRating": "FIVE",
+    "comment": "El mercadito debería trabajar las 24 hs\n\n(Translated by Google)\nThe market should work 24 hours a day",
+    "createTime": "2017-12-06T10:37:29.939Z",
+    "updateTime": "2017-12-10T22:21:08.316Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSUNndFA2M29nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Del Vitto"
+    },
+    "starRating": "FIVE",
+    "comment": "UN LUGAR TRANQUILO Y CÓMODO.\n\n(Translated by Google)\nA QUIET AND COMFORTABLE PLACE.",
+    "createTime": "2017-12-04T10:33:22.744Z",
+    "updateTime": "2017-12-04T10:33:47.746Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnaV96MlBREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorgelina Brioso"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-11-30T01:09:25.048Z",
+    "updateTime": "2017-11-30T01:09:25.048Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnbnV5VFN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Roggeri (Sistemas A Medida)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-11-29T22:11:35.960Z",
+    "updateTime": "2017-11-29T22:11:35.960Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChRDSUhNMG9nS0VJQ0FnSUN3bFpjURAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Angelica Siburu"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-11-29T16:57:00.992Z",
+    "updateTime": "2017-11-29T16:57:14.954Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURBNG91d1FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Andres Soto"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-11-27T20:37:09.621Z",
+    "updateTime": "2017-11-27T20:37:26.239Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSURnaGRYUWlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis BERASI"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-11-26T12:18:45.904Z",
+    "updateTime": "2017-11-26T12:18:45.904Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSURROGJDSkZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Schiano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-11-23T04:01:36.054Z",
+    "updateTime": "2017-11-23T04:01:55.287Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnbnByVHpRRRAB"
+  }]
+}

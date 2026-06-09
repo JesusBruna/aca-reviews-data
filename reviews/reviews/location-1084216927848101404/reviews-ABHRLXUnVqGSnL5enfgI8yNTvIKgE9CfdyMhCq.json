@@ -1,0 +1,38 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Maximiliano Juhasz"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor estacion de servicio de VLA\n\n(Translated by Google)\nThe best gas station in VLA",
+    "createTime": "2016-07-28T13:08:13.983Z",
+    "updateTime": "2016-07-28T13:08:13.983Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3NXRHcmN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio Simini"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-06-20T00:25:52.340Z",
+    "updateTime": "2016-06-20T00:25:52.340Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURndUs3QlJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Rodriguez"
+    },
+    "starRating": "FOUR",
+    "comment": "Cordiales\n\n(Translated by Google)\nCordial",
+    "createTime": "2016-02-26T11:55:59.479Z",
+    "updateTime": "2016-02-26T11:55:59.479Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnaFo2S3VRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Damián"
+    },
+    "starRating": "FIVE",
+    "comment": "El restaurante que esta dentro de lo que sería el hotel,  es increíble lo bien y barato que se come. Super recomendable,  ojala todos los ACA tengan los restaurantes como este.\n\n(Translated by Google)\nThe restaurant inside the hotel is incredibly good and inexpensive. Highly recommended; I wish all ACA hotels had restaurants like this.",
+    "createTime": "2015-03-20T15:39:19.410Z",
+    "updateTime": "2015-03-20T15:39:35.644Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSURReWZIYXpnRRAB"
+  }]
+}

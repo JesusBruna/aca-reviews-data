@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Pablo Gil"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-11-27T17:03:41.751720Z",
+    "updateTime": "2019-11-27T17:03:41.751720Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNeGRyaS1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Gustavo Bonet"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-11-25T13:04:44.055332Z",
+    "updateTime": "2019-11-25T13:04:44.055332Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNcWV1ZjR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Todo Automotor"
+    },
+    "starRating": "THREE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2019-11-25T12:49:32.203622Z",
+    "updateTime": "2019-11-25T12:49:32.203622Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNcWZQeUtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Guédez"
+    },
+    "starRating": "FOUR",
+    "comment": "En realidad fui a la estacion de servicio a tomar un café. Tranquila, buena atención y ubicación en el centro\n\n(Translated by Google)\nI actually went to the gas station to get a coffee. Quiet, good service, and centrally located.",
+    "createTime": "2018-09-28T01:29:04.236184Z",
+    "updateTime": "2019-11-22T02:47:50.157234Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRc0lELUh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Navarrete"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-11-21T03:29:55.808657Z",
+    "updateTime": "2019-11-21T03:29:55.808657Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNNFlULTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Belen Martilaro"
+    },
+    "starRating": "THREE",
+    "comment": "Está siempre  abierto. Y limpio\n\n(Translated by Google)\nIt\u0027s always open. And clean.",
+    "createTime": "2019-11-18T17:28:00.169589Z",
+    "updateTime": "2019-11-18T17:28:00.169589Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwNDRtREhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noah Reef"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-11-15T22:57:12.093780Z",
+    "updateTime": "2019-11-15T22:57:12.093780Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwcmZXUG1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Villa"
+    },
+    "starRating": "ONE",
+    "createTime": "2019-11-15T02:57:56.732312Z",
+    "updateTime": "2019-11-15T02:57:56.732312Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwamF5Sm5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Torelli"
+    },
+    "starRating": "FOUR",
+    "comment": "Atención rápido y amable\n\n(Translated by Google)\nFast and friendly service",
+    "createTime": "2019-11-14T21:07:37.408678Z",
+    "updateTime": "2019-11-14T21:07:37.408678Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwOWJYdEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2019-11-13T14:26:05.835998Z",
+    "updateTime": "2019-11-13T14:26:05.835998Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwNWF2N0t3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Saez deportista ciego"
+    },
+    "starRating": "TWO",
+    "comment": "La atención es buena pero nunca se puede utilizar el plan de puntos de YPF serviclub. Nunca se puede canjear ni sumar puntos, siempre lo mismo que el posnet no funciona que no existe conexión que la tarjeta no puede ser leída etcétera además cuando tienen inconvenientes se niegan aentregar un comprobante manual para después poder sumar los puntos\n\n(Translated by Google)\nThe service is good, but you can never use the YPF Serviclub points program. You can never redeem or accumulate points; it\u0027s always the same story: the POS terminal isn\u0027t working, there\u0027s no connection, the card can\u0027t be read, etc. Furthermore, when they have problems, they refuse to provide a paper receipt so you can later add the points.",
+    "createTime": "2019-11-11T00:23:10.878761Z",
+    "updateTime": "2019-11-11T00:23:10.878761Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwbWJxTkN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Ortiz"
+    },
+    "starRating": "THREE",
+    "comment": "Medio pelo la atención\n\n(Translated by Google)\nThe service was mediocre.",
+    "createTime": "2019-11-10T21:01:57.511620Z",
+    "updateTime": "2019-11-10T21:01:57.511620Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwNmItbmp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Priscila Astrada"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-11-10T13:16:24.430899Z",
+    "updateTime": "2019-11-10T13:16:24.430899Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwcWMzSzhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Lombardi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-11-10T00:39:07.837136Z",
+    "updateTime": "2019-11-10T00:39:07.837136Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwaWJuNXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Gabriel Perez Álvarez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-11-04T23:33:00.341383Z",
+    "updateTime": "2019-11-04T23:33:00.341383Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwOXBlbEhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Armando Petazzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-11-01T00:47:49.132157Z",
+    "updateTime": "2019-11-01T00:47:49.132157Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwcXY2eHVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Marcos Marchi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-10-30T20:25:17.472359Z",
+    "updateTime": "2019-10-30T20:25:17.472359Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwOHRqX2hRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julieta Beleni"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-10-28T17:11:01.791031Z",
+    "updateTime": "2019-10-28T17:11:01.791031Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwd3FhSG53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben-Bocha Meneses"
+    },
+    "starRating": "FOUR",
+    "comment": "Exelente atención del personal de playa.\n\n(Translated by Google)\nExcellent attention from the beach staff.",
+    "createTime": "2019-10-25T15:12:08.875102Z",
+    "updateTime": "2019-10-25T15:12:08.875102Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwakxiMHV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Delgado"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-10-25T14:49:35.575342Z",
+    "updateTime": "2019-10-25T14:49:35.575342Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUQwalBxVzFBRRAB"
+  }]
+}

@@ -1,0 +1,217 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Christian"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-06-30T17:06:52.183732Z",
+    "updateTime": "2023-06-30T17:06:52.183732Z",
+    "reviewReply": {
+      "comment": "Sr Cristian\nDada a su calificación, nos interesaría conocer cuáles fueron los detalles que hicieron que no obtuviésemos la mayor puntuación, ya que de esta manera nos ayuda a mejorar.",
+      "updateTime": "2023-07-23T19:17:26.913413Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKdWNDYXJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alejandro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-29T21:17:22.559541Z",
+    "updateTime": "2023-06-29T21:17:22.559541Z",
+    "reviewReply": {
+      "comment": "Sr Alejandro \nAgradecemos mucho su calificación. Continuaremos trabajando para satisfacer sus necesidades y seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2023-07-23T19:18:04.114045Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKaWNlS3l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Mendez"
+    },
+    "starRating": "ONE",
+    "createTime": "2023-06-26T03:45:47.942822Z",
+    "updateTime": "2023-06-26T03:45:47.942822Z",
+    "reviewReply": {
+      "comment": "Sr Nicolás\nLamentamos haya tenido una mala experiencia en nuestro establecimiento. Nos interesaría conocer cuáles fueron los detalles que hicieron que no obtuviésemos la mayor puntuación, ya que de esta manera nos ayuda a mejorar.",
+      "updateTime": "2023-07-23T19:18:46.844215Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKeHNqVkhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "josias ortega"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención,  baños limpios\n\n(Translated by Google)\nGood service, clean bathrooms",
+    "createTime": "2023-06-24T22:03:46.792120Z",
+    "updateTime": "2023-06-24T22:03:46.792120Z",
+    "reviewReply": {
+      "comment": "Josias\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer todas sus necesidades. ",
+      "updateTime": "2023-06-29T01:10:12.585182Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeXJQcnlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ines pereira"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-06-22T22:35:47.026967Z",
+    "updateTime": "2023-06-22T22:35:47.026967Z",
+    "reviewReply": {
+      "comment": "Sra Inés\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer todas sus necesidades.  La esperamos nuevamente.",
+      "updateTime": "2023-06-29T01:11:19.189814Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKM0ptQ1p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Oteruelo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-22T16:22:03.219618Z",
+    "updateTime": "2023-06-22T16:22:03.219618Z",
+    "reviewReply": {
+      "comment": "Si Guillermo \nAgradecemos mucho su calificación. Continuaremos trabajando para satisfacer sus necesidades, y seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2023-07-23T19:19:27.917215Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKN0ktbVJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Emilio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-22T15:10:10.441858Z",
+    "updateTime": "2023-06-22T15:10:10.441858Z",
+    "reviewReply": {
+      "comment": "Sr Pedro \nAgradecemos mucho su calificación. Continuaremos trabajando para satisfacer sus necesidades, y seguir mejorando.   Esperamos su visita nuevamente.",
+      "updateTime": "2023-07-23T19:20:44.524962Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKN1BHUUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo A. Rodriguez Cancelo"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo lo que uno espera de una YPF en una ruta en Argentina. Muy limpio el baño (se agradece cuando uno viene viajando) y muy completo el C-Store (YPF Full).\n\n(Translated by Google)\nEverything you\u0027d expect from a YPF station on a highway in Argentina. The bathroom was very clean (a welcome feature when traveling) and the convenience store (YPF Full) was very well-stocked.",
+    "createTime": "2023-06-21T23:46:26.627369Z",
+    "updateTime": "2023-06-22T14:56:26.743962Z",
+    "reviewReply": {
+      "comment": "Sr Marcelo\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades, y seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2023-07-23T19:21:35.048011Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKOUo2cF93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Rios"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-22T01:14:27.410219Z",
+    "updateTime": "2023-06-22T01:14:27.410219Z",
+    "reviewReply": {
+      "comment": "Se Gustavo\nAgradecemos mucho su calificación. Continuaremos trabajando para satisfacer sus necesidades, y seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2023-07-23T19:22:06.932809Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKOVAzSTFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Palavecino"
+    },
+    "starRating": "ONE",
+    "comment": "Muy mal servicio!!!\n\n(Translated by Google)\nVery bad service!!!",
+    "createTime": "2023-06-22T00:53:16.868519Z",
+    "updateTime": "2023-06-22T00:53:16.868519Z",
+    "reviewReply": {
+      "comment": "Sr Sebastian \nLamentamos haya tenido una mala experiencia en nuestro establecimiento. Nos interesaría conocer cuales fueron los detalles que hicieron que no obtuviésemos la mayor puntuación, dado que de esta manera nos ayuda a mejorar. Continuaremos trabajando para satisfacer todas sus necesidades.",
+      "updateTime": "2023-07-23T19:23:09.151646Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKOUxYWWlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Mateos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-22T00:33:12.092204Z",
+    "updateTime": "2023-06-22T00:33:12.092204Z",
+    "reviewReply": {
+      "comment": "Sr José Luis\nAgradecemos mucho su calificación. Continuaremos trabajando para satisfacer sus necesidades y seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2023-07-23T19:23:47.062019Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKOUxuUjNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Nicoletti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-21T01:29:07.918386Z",
+    "updateTime": "2023-06-21T01:29:07.918386Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeE82VjJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "María Elena Rubilar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-20T22:57:20.519297Z",
+    "updateTime": "2023-06-20T22:57:20.519297Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeEtEWTdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Vogel"
+    },
+    "starRating": "FOUR",
+    "comment": "Es la única estación con baños. Solo ha un migitorio  en el de hombres.\n\n(Translated by Google)\nIt\u0027s the only station with restrooms. There\u0027s only one urinal in the men\u0027s restroom.",
+    "createTime": "2018-05-14T11:53:19.003Z",
+    "updateTime": "2023-06-20T21:47:12.859522Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnN3JlamVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Coronel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-20T21:45:05.126586Z",
+    "updateTime": "2023-06-20T21:45:05.126586Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKaE9PdFZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Troncoso"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-20T02:03:49.744114Z",
+    "updateTime": "2023-06-20T02:03:49.744114Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKcUlQdzNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "NICOLAS MATUS"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-06-19T20:17:48.796059Z",
+    "updateTime": "2023-06-19T20:17:48.796059Z",
+    "reviewReply": {
+      "comment": "Sr Nicolás\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer todas sus necesidades. Lo esperamos nuevamente.",
+      "updateTime": "2023-06-29T01:12:28.314945Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeVBuNDFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Vera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-18T13:23:28.368282Z",
+    "updateTime": "2023-06-18T13:23:28.368282Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKd05UcHZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Soledad Marrero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-17T17:48:37.066178Z",
+    "updateTime": "2023-06-17T17:48:37.066178Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4bjh5eXpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Florencia Agustina"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-06-16T18:21:43.946736Z",
+    "updateTime": "2023-06-16T18:21:43.946736Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4MTc3TmhBRRAB"
+  }]
+}

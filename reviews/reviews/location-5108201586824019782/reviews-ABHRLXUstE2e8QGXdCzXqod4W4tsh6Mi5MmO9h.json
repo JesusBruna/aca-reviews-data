@@ -1,0 +1,226 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "vivi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-26T22:20:36.102123Z",
+    "updateTime": "2022-03-26T22:20:36.102123Z",
+    "reviewReply": {
+      "comment": "Gracias vivi.",
+      "updateTime": "2022-03-26T23:21:23.098204Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURXa2Y3Mk5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Abascal"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-03-24T03:18:10.637334Z",
+    "updateTime": "2022-03-24T03:18:10.637334Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURXanRMcEZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Axel Eres"
+    },
+    "starRating": "ONE",
+    "comment": "La verdad pésima atención, el playero agrandadito y con menos ganas de laburar que los de la muni\n\n(Translated by Google)\nThe service was truly terrible; the attendant was arrogant and less motivated to work than the municipal employees.",
+    "createTime": "2022-03-23T23:19:58.072854Z",
+    "updateTime": "2022-03-23T23:19:58.072854Z",
+    "reviewReply": {
+      "comment": "Que pena que hayas vivido una mala experiencia, nos esforzaremos para que la próxima sea mucho mejor.",
+      "updateTime": "2022-03-24T18:39:12.148715Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURXOXQyalJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Janina Oviedo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-23T19:13:31.970206Z",
+    "updateTime": "2022-03-23T19:13:31.970206Z",
+    "reviewReply": {
+      "comment": "Gracias Janina !",
+      "updateTime": "2022-03-23T21:45:11.897929Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdHRfdktBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Luis"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-21T10:46:55.275651Z",
+    "updateTime": "2022-03-21T10:46:55.275651Z",
+    "reviewReply": {
+      "comment": "Gracias Daniel.",
+      "updateTime": "2022-03-21T12:57:04.847003Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXNnJYVHNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ABC EMPAQUES SRL BOPP OPP CELOFÁN POLIOLEFINA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-18T00:13:46.402198Z",
+    "updateTime": "2022-03-18T00:13:46.402198Z",
+    "reviewReply": {
+      "comment": "Muchas gracias !",
+      "updateTime": "2022-03-18T00:17:34.979490Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXM095am93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cast no Shadow"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-17T22:41:30.943049Z",
+    "updateTime": "2022-03-17T22:41:30.943049Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Romina.",
+      "updateTime": "2022-03-18T00:17:14.937415Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXM0lDZ3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Helguera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-17T19:23:17.723944Z",
+    "updateTime": "2022-03-17T19:23:17.723944Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Cecilia !",
+      "updateTime": "2022-03-17T21:15:28.081662Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXbk1hRjFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Navarro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-17T17:38:23.057866Z",
+    "updateTime": "2022-03-17T17:38:23.057866Z",
+    "reviewReply": {
+      "comment": "Gracias Mirta !",
+      "updateTime": "2022-03-17T19:08:06.982104Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURXN092aVZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "mario david Franz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-16T08:14:48.287857Z",
+    "updateTime": "2022-03-16T08:14:48.287857Z",
+    "reviewReply": {
+      "comment": "Gracias Mario.",
+      "updateTime": "2022-03-16T10:46:09.339308Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXbEpfend3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Logay"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-15T19:05:41.194841Z",
+    "updateTime": "2022-03-15T19:05:41.194841Z",
+    "reviewReply": {
+      "comment": "Gracias Guillermo.",
+      "updateTime": "2022-03-15T20:50:03.761457Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXcExHd21RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "German Sacido"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-03-15T11:53:15.374349Z",
+    "updateTime": "2022-03-15T11:53:15.374349Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURXaEtXeUpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Rihl"
+    },
+    "starRating": "THREE",
+    "comment": "La atención buena un solo empleado y el aire no funcionaba\n\n(Translated by Google)\nThe service was good, there was only one employee, and the air conditioning wasn\u0027t working.",
+    "createTime": "2022-03-15T03:43:04.066754Z",
+    "updateTime": "2022-03-15T03:43:04.066754Z",
+    "reviewReply": {
+      "comment": "El poste de aire funciona perfectamente. Estamos pensando en ampliar la dotación para la próxima temporada.",
+      "updateTime": "2022-03-16T03:32:21.187507Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdU4tbFRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno (Zeta)"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-03-14T21:05:37.039848Z",
+    "updateTime": "2022-03-14T21:05:37.039848Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXdUtDV3V3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Costa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-14T13:59:21.653355Z",
+    "updateTime": "2022-03-14T13:59:21.653355Z",
+    "reviewReply": {
+      "comment": "Gracias Patricia.",
+      "updateTime": "2022-03-16T03:35:32.645214Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXbUlIUTh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio Pastor Rearte"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-03-13T11:34:34.016631Z",
+    "updateTime": "2022-03-13T11:34:34.016631Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXOEt2SHpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "David Soto Leiva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-13T10:58:28.069852Z",
+    "updateTime": "2022-03-13T10:58:28.069852Z",
+    "reviewReply": {
+      "comment": "Gracias David.",
+      "updateTime": "2022-03-16T03:35:55.754284Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXOEsyVzBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Santos"
+    },
+    "starRating": "ONE",
+    "comment": "Los baños muy sucios. El agua caliente para el termo 50 pesos. El piso de entrada y salida muy desparejo\n\n(Translated by Google)\nThe bathrooms were very dirty. Hot water for the water heater cost 50 pesos. The entrance and exit floors were very uneven.",
+    "createTime": "2022-03-13T01:45:55.794974Z",
+    "updateTime": "2022-03-13T01:45:55.794974Z",
+    "reviewReply": {
+      "comment": "Que pena que se haya llevado esa impresión, si es que pasó . A mucha gente le encanta.",
+      "updateTime": "2022-03-16T03:34:57.947719Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURXc01LQmNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Ariel Temperini"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-13T01:34:16.520678Z",
+    "updateTime": "2022-03-13T01:34:16.520678Z",
+    "reviewReply": {
+      "comment": "Gracias Pablo.",
+      "updateTime": "2022-03-16T03:36:14.127826Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXc055cjVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Miguel Perez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-03-12T00:24:22.499100Z",
+    "updateTime": "2022-03-12T00:24:22.499100Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd011ZTdRRRAB"
+  }]
+}

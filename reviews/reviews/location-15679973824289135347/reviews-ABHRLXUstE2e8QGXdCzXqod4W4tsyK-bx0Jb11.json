@@ -1,0 +1,253 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mario Delgado"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-11-20T21:40:08.627209Z",
+    "updateTime": "2022-11-20T21:40:08.627209Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Mario",
+      "updateTime": "2022-11-25T11:44:46.143383Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtdUthdmpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Augé"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien atendido y con un buen shop .\n\n(Translated by Google)\nWell attended and with a good shop.",
+    "createTime": "2022-11-18T18:39:29.658110Z",
+    "updateTime": "2022-11-18T18:39:29.658110Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Pablo! Muchas gracias por tu comentario!  Nos alegra hayas tenido una buena experiencia. ",
+      "updateTime": "2022-11-18T18:52:40.434584Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNEpXUUV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Laffitte"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-11-17T22:45:01.911978Z",
+    "updateTime": "2022-11-17T22:45:26.488834Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias Claudia por tu reseña! ",
+      "updateTime": "2022-11-18T18:54:15.304790Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtXy1tOW93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Alcarraz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-17T04:05:52.985398Z",
+    "updateTime": "2022-11-17T04:05:52.985398Z",
+    "reviewReply": {
+      "comment": "Gracias Carlos por su puntuación! ",
+      "updateTime": "2022-11-18T18:58:18.577683Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtNzc3MEdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matías Dentoni"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-11-16T12:48:40.520385Z",
+    "updateTime": "2022-11-16T12:48:40.520385Z",
+    "reviewReply": {
+      "comment": "Gracias Matías! ",
+      "updateTime": "2022-11-18T18:58:30.464605Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtajRpcG9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Beatriz Correa"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-11-13T15:07:00.198218Z",
+    "updateTime": "2022-11-13T15:07:00.198218Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Beatriz por su comentario y excelente puntuación!  Nos alegra haya tenido una grata experiencia!",
+      "updateTime": "2022-11-18T18:59:32.601273Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMteTlUUTB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "dudi arceno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-12T00:35:08.264717Z",
+    "updateTime": "2022-11-12T00:35:08.264717Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu valoración!  Que tengas buenas noches!  ",
+      "updateTime": "2022-11-12T00:52:15.627009Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtdy03MEtBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-11T18:40:11.690532Z",
+    "updateTime": "2022-11-11T18:40:11.690532Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Patricia por tu valoración! ",
+      "updateTime": "2022-11-11T20:11:30.972Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtZzRxVTVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Rivoira"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-10T23:39:30.490525Z",
+    "updateTime": "2022-11-10T23:39:30.490525Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Carlos por tu valoración! ",
+      "updateTime": "2022-11-11T01:32:28.122858Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtbmVxWnVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston"
+    },
+    "starRating": "ONE",
+    "comment": "Pesima atención en la confitería, el café quemado y todo el tiempo una sensación como sos una molestia para la chica que atiende. Si pueden pasen por la ypf full\n\n(Translated by Google)\nTerrible service at the confectionery shop, the coffee was burnt, and the girl serving me constantly felt like I was a nuisance. If you can, go to the YPF Full station instead.",
+    "createTime": "2022-11-10T21:37:12.893702Z",
+    "updateTime": "2022-11-10T21:37:12.893702Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Pablo. Lamentamos hayas tenido una mala experiencia. Te pedimos si podes precisarnos el horario en el que fuiste por la tienda para poder identificar y corregir correctamente al personal. Desde ya muchas gracias ",
+      "updateTime": "2022-11-11T20:13:18.913229Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtN2YtcTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alex Albert Graue"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-10T07:17:10.881174Z",
+    "updateTime": "2022-11-10T07:17:10.881174Z",
+    "reviewReply": {
+      "comment": "Buen día Alex! Gracias por tu valoración ",
+      "updateTime": "2022-11-10T11:29:17.212518Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtamRYU29RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nilda Reyes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-09T23:46:44.114353Z",
+    "updateTime": "2022-11-09T23:46:44.114353Z",
+    "reviewReply": {
+      "comment": "Gracias Nilda por tu valoración!  ",
+      "updateTime": "2022-11-10T00:38:17.665369Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtOVo3UTFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Julian Chiovetta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-07T16:34:23.837445Z",
+    "updateTime": "2022-11-07T16:34:23.837445Z",
+    "reviewReply": {
+      "comment": "Gracias Agustín por tu aporte",
+      "updateTime": "2022-11-07T17:06:28.719083Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtNmZXaEx3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bocha Torrente"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-06T00:00:13.562133Z",
+    "updateTime": "2022-11-06T00:00:13.562133Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu reseña! ",
+      "updateTime": "2022-11-06T00:21:15.920442Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtb1lic3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adolfo Gonzalez Aguirre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-01T18:07:10.757132Z",
+    "updateTime": "2022-11-01T18:07:10.757132Z",
+    "reviewReply": {
+      "comment": "Gracias Adolfo por tu puntuación! ",
+      "updateTime": "2022-11-01T19:43:26.605529Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtMnNyVFlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrés Vazquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-31T04:02:32.386826Z",
+    "updateTime": "2022-10-31T04:02:32.386826Z",
+    "reviewReply": {
+      "comment": "Gracias Andrés por tu puntuación! ",
+      "updateTime": "2022-11-01T19:43:58.437037Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUMta3UyLUJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Antonio Bichara"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-10-27T16:30:22.318798Z",
+    "updateTime": "2022-10-27T16:30:22.318798Z",
+    "reviewReply": {
+      "comment": "Gracias Antonio ",
+      "updateTime": "2022-11-01T19:44:12.088910Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtNUlua3pRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Vilaseco"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encantó el lugar con mesitas que tenían para comer.\n\n(Translated by Google)\nI loved the place with the little tables they had for eating.",
+    "createTime": "2022-10-24T23:41:35.151549Z",
+    "updateTime": "2022-10-24T23:41:35.151549Z",
+    "reviewReply": {
+      "comment": "Buenas noches Pablo! Nos complace mucho que hayas disfrutado del deck! Es un nuevo espacio pensado para satisfacer a nuestros clientes! ",
+      "updateTime": "2022-10-25T00:12:11.845467Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUMta00yMndBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nona Anyjo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-10-24T07:36:15.559676Z",
+    "updateTime": "2022-10-24T07:36:15.559676Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu comentario!  ",
+      "updateTime": "2022-10-24T11:27:42.439676Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtd05qLWNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "C. Cecche"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena estación de servicio\n\n(Translated by Google)\nVery good gas station",
+    "createTime": "2022-10-22T15:24:59.180690Z",
+    "updateTime": "2022-10-22T15:24:59.180690Z",
+    "reviewReply": {
+      "comment": "Buenos días muchas gracias por tu comentario!  Nos alegra hayas tenido una buena experiencia en ACA VIEDMA",
+      "updateTime": "2022-10-22T16:16:09.625341Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSURlejl5aHVRRRAB"
+  }]
+}

@@ -1,0 +1,250 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "pedro serra"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-01-13T11:56:40.853466Z",
+    "updateTime": "2023-01-13T11:56:40.853466Z",
+    "reviewReply": {
+      "comment": "Gracias Pedro",
+      "updateTime": "2023-01-13T14:52:28.475772Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURCelB2S0h3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Cesar Tettamanzi"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en el Full. El personal muy predispuesto al servicio del cliente.\n\n(Translated by Google)\nExcellent service at Full. The staff is very attentive to customer service.",
+    "createTime": "2023-01-04T10:40:07.292452Z",
+    "updateTime": "2023-01-12T13:52:11.418953Z",
+    "reviewReply": {
+      "comment": "Gracias Mario",
+      "updateTime": "2023-01-04T12:54:40.096936Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCaTcyQk93EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo González"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-11T22:35:40.136098Z",
+    "updateTime": "2023-01-11T22:35:40.136098Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Marcelo",
+      "updateTime": "2023-01-11T23:33:06.762629Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURCcE5MOXVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bomboneria Bombonella"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-01-11T19:20:59.249248Z",
+    "updateTime": "2023-01-11T19:20:59.249248Z",
+    "reviewReply": {
+      "comment": "Hola. Nos podes contar por qué fueron solo 2 estrellas tu calificación???",
+      "updateTime": "2023-01-11T23:32:49.924480Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURCeEptMTFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bernabe morales"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-01-10T14:19:44.716356Z",
+    "updateTime": "2023-01-10T14:19:44.716356Z",
+    "reviewReply": {
+      "comment": "Gracias Bernabé",
+      "updateTime": "2023-01-10T18:04:33.105563Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcUk3b0hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Agusti"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2023-01-10T12:59:10.503027Z",
+    "updateTime": "2023-01-10T12:59:10.503027Z",
+    "reviewReply": {
+      "comment": "Hola Alejandra. Te esperamos cuqndo quieras",
+      "updateTime": "2023-01-10T18:05:00.310011Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcUpEeUJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Eugenia Calquin"
+    },
+    "starRating": "FIVE",
+    "comment": "Orden, higiene, buena atención y servicio al cliente. En el full surtido y calidad\n\n(Translated by Google)\nOrder, hygiene, good customer service. Full selection and quality.",
+    "createTime": "2023-01-10T12:07:36.822406Z",
+    "updateTime": "2023-01-10T12:07:36.822406Z",
+    "reviewReply": {
+      "comment": "Hola Maria Eugenia. Muchas gracias por compartir tu opinión",
+      "updateTime": "2023-01-10T18:05:30.859947Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURCeUpQWVVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Balmaceda"
+    },
+    "starRating": "THREE",
+    "comment": "Muy pocas maquinas para cargar combustible\n\n(Translated by Google)\nVery few refueling stations",
+    "createTime": "2023-01-10T01:15:45.280297Z",
+    "updateTime": "2023-01-10T01:15:45.280297Z",
+    "reviewReply": {
+      "comment": "Hola Roberto. Lamentablemente nos supera la demanda en algunas ocasiones.",
+      "updateTime": "2023-01-10T02:52:31.372457Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURCOElTdFVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio Luffi"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion al cliente\n\n(Translated by Google)\nGood customer service",
+    "createTime": "2023-01-10T00:34:23.378826Z",
+    "updateTime": "2023-01-10T00:34:23.378826Z",
+    "reviewReply": {
+      "comment": "Gracias Patricio por compartir tu experiencia",
+      "updateTime": "2023-01-10T02:51:41.941258Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURCc1AtcW5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Florencia Marquez"
+    },
+    "starRating": "FIVE",
+    "comment": "Llegamos luego de no conseguir nafta en Caviahue, ni es Loncopue, ni en Las Lajas. Había cola para cargar pero los playeros eran muy dinámicos y avanzó relativamente rápido.\n\n(Translated by Google)\nWe arrived after not being able to find gas in Caviahue, Loncopue, or Las Lajas. There was a line to fill up, but the attendants were very efficient and it moved relatively quickly.",
+    "createTime": "2023-01-09T19:36:54.534224Z",
+    "updateTime": "2023-01-09T19:36:54.534224Z",
+    "reviewReply": {
+      "comment": "Hola Matia Florencia. Muchas gracias y espero que la hayas pasado bien en nuestra zona",
+      "updateTime": "2023-01-10T02:53:39.757076Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMFA2Z1BBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alexandro Callegaro"
+    },
+    "starRating": "THREE",
+    "comment": "Muy buena estación ACA, sobre todo por su lugar específico en el centro del lugar.. dice ser FULL, NO lo es..\nDice tener buenos precios, pero NO lo son (parece bandera blanca) y no se puede cargar puntos de SERVI CLUB..\nLa atención del empleado es buena.. el resto NO\n\n(Translated by Google)\nA very good ACA station, especially for its specific location in the center of the place. It claims to be FULL, but it isn\u0027t.\nIt claims to have good prices, but they aren\u0027t (it seems like a white flag) and you can\u0027t charge SERVI CLUB points.\nThe employee service is good. The rest are NOT.",
+    "createTime": "2023-01-09T02:32:05.300699Z",
+    "updateTime": "2023-01-09T02:32:05.300699Z",
+    "reviewReply": {
+      "comment": "Hola Alexandro. Lamentablemente estuvimos todos oos ACA del pais con algunos problemas en nuestros sistemas. Pero hoy ya estan silucionados. Ya podes cargar los puntos serviclub y todos oos beneficios que te da YPF y el ACA.",
+      "updateTime": "2023-01-10T02:55:31.058296Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURCd0lyTFZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dusterandroidauto"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent service. There\u0027s a tire repair shop near YPF. They had 3 flat tires on the gravel road.\n\n(Original)\nOtimo atendimento. Ha gomeria proximo do YPF. Furou 3 pneus no ripio.",
+    "createTime": "2023-01-09T02:25:29.161230Z",
+    "updateTime": "2023-01-09T02:25:29.161230Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu visita",
+      "updateTime": "2023-01-10T02:55:55.765132Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSURCd0xMLUZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana Mattiuzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-07T21:33:10.657600Z",
+    "updateTime": "2023-01-07T21:33:10.657600Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCNy1xbnVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Ale"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-07T18:08:55.123373Z",
+    "updateTime": "2023-01-07T18:08:55.123373Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias Laura. Te esperamos nuevamente",
+      "updateTime": "2023-01-07T20:58:16.737046Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCcjY2WFp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Oliva"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion en el local!\nVolveremos a pasar!\n\n(Translated by Google)\nExcellent service at the store!\nWe\u0027ll definitely be back!",
+    "createTime": "2023-01-07T13:14:48.514320Z",
+    "updateTime": "2023-01-07T13:14:48.514320Z",
+    "reviewReply": {
+      "comment": "Te esperamos Juan",
+      "updateTime": "2023-01-07T20:59:13.028090Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCel9pN0l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Andrés Ledo"
+    },
+    "starRating": "THREE",
+    "comment": "El pueblo no tiene Internet de celular y este establecimiento tiene wify que la única aplicación que no abre es la que se necesita para pagar. Tuvimos que gastar efectivo que no nos sobraba porque no tenían para pagar con tarjeta tampoco. La comida (hamburguesa) nos la dieron con pan viejo. Trato muy malo la verdad.\n\n(Translated by Google)\nThe town doesn\u0027t have cell phone service, and this establishment has Wi-Fi, but the only app that doesn\u0027t work is the one needed for payment. We had to spend cash, which we didn\u0027t have much of, because they didn\u0027t accept cards either. The food (a hamburger) was served on stale bread. The service was really bad, to be honest.",
+    "createTime": "2023-01-07T12:35:55.360052Z",
+    "updateTime": "2023-01-07T12:39:18.362845Z",
+    "reviewReply": {
+      "comment": "Hola Daniel. Lamentablemente ayer se rompió la fibra óptica que nos trae internet y estuvo todo el pueblo así. Y lamentablemente la app funciona con este recurso. Hoy ya esta funcionando normalmente.",
+      "updateTime": "2023-01-07T20:57:55.174681Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCajZfVzhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Alexis Campero"
+    },
+    "starRating": "FOUR",
+    "comment": "Normal",
+    "createTime": "2023-01-07T03:24:28.165112Z",
+    "updateTime": "2023-01-07T03:24:28.165112Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCOThqd1lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fiorella Sifuentes"
+    },
+    "starRating": "ONE",
+    "comment": "La atención del full es buena, pero me parece que debería incluir mujeres en la playa.\n\n(Translated by Google)\nThe service at the full service is good, but I think they should include women on the beach.",
+    "createTime": "2023-01-07T03:18:22.906110Z",
+    "updateTime": "2023-01-07T03:18:22.906110Z",
+    "reviewReply": {
+      "comment": "Hola Fiorella Gracias por tu sugerencia. Nuestra politica es la diversidad de genero. En alguna oportunidad teniamos mujeres trabajando en nuestra playa y prometemos que en un futiro tomaremos en la playa!!!",
+      "updateTime": "2023-01-07T05:00:29.010867Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCOTdDbDRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "elias reyes"
+    },
+    "starRating": "ONE",
+    "comment": "Pésima atención los playeros\n\n(Translated by Google)\nTerrible service from the beach attendants",
+    "createTime": "2023-01-06T16:21:58.399872Z",
+    "updateTime": "2023-01-06T16:21:58.399872Z",
+    "reviewReply": {
+      "comment": "Elisa perdón por no poder atenderte mejor. Nos das algún contacto asi podemos hablar con vos y nos contss cuál fué tu experiencia???",
+      "updateTime": "2023-01-06T20:28:21.552277Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCbF9IV1JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar 333 Rebolledo"
+    },
+    "starRating": "FIVE",
+    "comment": "Tiene un grupo de empleados muy buenos  muy amigables y te dan la información correcta a cualquier visitante o de la localidad\n\n(Translated by Google)\nThey have a very good and friendly team of employees who provide accurate information to any visitor or local.",
+    "createTime": "2023-01-05T21:16:24.326365Z",
+    "updateTime": "2023-01-05T21:16:24.326365Z",
+    "reviewReply": {
+      "comment": "Gracias Oscar. Te esperamos nuevamente",
+      "updateTime": "2023-01-06T20:29:23.343123Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCaF9HSE9REAE"
+  }]
+}

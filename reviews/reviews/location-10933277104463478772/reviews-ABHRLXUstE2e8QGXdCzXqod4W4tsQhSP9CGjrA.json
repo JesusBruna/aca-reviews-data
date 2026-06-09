@@ -1,0 +1,178 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Nicolas Ignacio Diaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-10T17:17:53.636194Z",
+    "updateTime": "2022-09-10T17:17:53.636194Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlOHBtVWJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "raul depetris"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-09-09T16:36:39.643206Z",
+    "updateTime": "2022-09-09T16:36:39.643206Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlb3FMSlBREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Jorgelina Martinengo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-07T19:39:44.178829Z",
+    "updateTime": "2022-09-07T19:39:44.178829Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlekxpVTlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Bocalon"
+    },
+    "starRating": "THREE",
+    "comment": "Un poco abandonado.\n\n(Translated by Google)\nA bit neglected.",
+    "createTime": "2022-09-05T22:09:25.864406Z",
+    "updateTime": "2022-09-06T22:19:17.426839Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNldU52VFZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "hugo juan bertino"
+    },
+    "starRating": "FIVE",
+    "comment": "De 10 muy buena atencion.\n\n(Translated by Google)\nExcellent service, 10 out of 10.",
+    "createTime": "2022-09-06T10:06:22.034441Z",
+    "updateTime": "2022-09-06T10:14:02.995420Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNleExEb3ZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Celso Arrascaeta Plus"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-09-06T09:37:05.580761Z",
+    "updateTime": "2022-09-06T09:37:05.580761Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlaExmcXpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ignacio ludueña"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-06T05:39:29.405269Z",
+    "updateTime": "2022-09-06T05:39:29.405269Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlaE1Eay1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Piccinini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-05T11:34:05.678310Z",
+    "updateTime": "2022-09-05T11:34:05.678310Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlbU5LcFVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Remondino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-04T23:36:59.617856Z",
+    "updateTime": "2022-09-04T23:36:59.617856Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlcUpqcGhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marta Fitte"
+    },
+    "starRating": "TWO",
+    "comment": "Muy básico el servicio. Pocos alimentos. Mantenimientos regular. Aparentemente el surtidor marca de mas\n\n(Translated by Google)\nThe service is very basic. There\u0027s a limited food selection. Maintenance is inconsistent. Apparently, the pump is overfilling.",
+    "createTime": "2022-09-04T18:00:05.294386Z",
+    "updateTime": "2022-09-04T18:00:05.294386Z",
+    "reviewReply": {
+      "comment": "Sra. Fitte agradecemos su tiempo de calificarnos.\nNuestra estación está sujeta a controles regulares y específicos internos, de proveedores y del Estado, respecto al volumen de despacho de combustibles expendido por nuestros surtidores, por lo cual a su comentario indicando que \"aparentemente el surtidor marca de mas\" le respondemos que la invitamos a acercarse a nuestra Dependencia y realizar las pruebas que considere necesarias para demostrarle que es erróneo su planteo. Saludos cordiales.",
+      "updateTime": "2022-09-06T13:09:30.307990Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNleU1Dd2xBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Olmos"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-09-02T12:07:26.293926Z",
+    "updateTime": "2022-09-02T12:07:26.293926Z",
+    "reviewReply": {
+      "comment": "Gracias por su tiempo en calificarnos. Sería importante para nosotros si puede contarnos un poco más sobre su experiencia y de esa manera, a futuro, tratar de alcanzar sus expectativas. Saludos cordiales.",
+      "updateTime": "2022-09-06T13:11:55.644462Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1MzRPQjF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Barraud"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente  atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-09-01T09:43:02.655385Z",
+    "updateTime": "2022-09-01T09:43:02.655385Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1ajhUN053EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jota"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-08-30T18:33:27.101664Z",
+    "updateTime": "2022-08-30T18:33:27.101664Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1LTlmajRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Osvaldo Giordano"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno!!!!\n\n(Translated by Google)\nVery good!!!!",
+    "createTime": "2022-08-29T15:44:12.574885Z",
+    "updateTime": "2022-08-29T15:44:12.574885Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1eTlMclh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elvira Gonzalez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-08-29T02:02:07.704795Z",
+    "updateTime": "2022-08-29T02:02:07.704795Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1czdUUUR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Analia Rodano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-26T23:41:17.554858Z",
+    "updateTime": "2022-08-26T23:41:17.554858Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1N2V5RklBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Paillet"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-26T18:16:30.592152Z",
+    "updateTime": "2022-08-26T18:16:30.592152Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1cmJDTlFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Vazquez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente  atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-08-24T19:00:32.700400Z",
+    "updateTime": "2022-08-24T19:00:32.700400Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1dWRfbEtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Florencia Pucheta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-22T17:38:40.910401Z",
+    "updateTime": "2022-08-22T17:38:40.910401Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1b2JmXzZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "REGINA TREVISANATO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-20T22:01:29.801713Z",
+    "updateTime": "2022-08-20T22:01:29.801713Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1enNpWC1RRRAB"
+  }]
+}

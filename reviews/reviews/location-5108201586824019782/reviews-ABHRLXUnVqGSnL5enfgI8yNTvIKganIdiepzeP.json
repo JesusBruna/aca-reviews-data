@@ -1,0 +1,256 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ariel Roldan"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-11-10T13:22:24.856259Z",
+    "updateTime": "2023-11-10T13:22:24.856259Z",
+    "reviewReply": {
+      "comment": "Gracias Ariel.",
+      "updateTime": "2023-12-02T22:30:29.346198Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURGMi1XTFhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Daniel Rabinovich"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy atentos\n\n(Translated by Google)\nVery attentive",
+    "createTime": "2023-11-06T22:43:13.828627Z",
+    "updateTime": "2023-11-06T22:43:13.828627Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Ricardo.",
+      "updateTime": "2023-11-07T18:27:58.565609Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURGNXNpeDhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emma G"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-05T11:52:09.133240Z",
+    "updateTime": "2023-11-05T11:52:09.133240Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Emma !",
+      "updateTime": "2023-11-05T15:15:13.300864Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURGeXZtd2p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "antonio ansambar"
+    },
+    "starRating": "FOUR",
+    "comment": "30-9-23...Me encantó la construcción dé ésta filial del ACA, un lugar como Mascardi ,qué mejor qué ésta Estación, además del paisaje, concuerda con lo dicho excelente, la atención muy buena, y a pesar de los conflictos, si, le faltaría un poco de mejoras...\n\n(Translated by Google)\n9-30-23...I loved the construction of this ACA branch, a place like Mascardi, what better than this Station? Besides the scenery, it agrees with what was said: excellent, the service was very good, and despite the conflicts, yes, it could use a few improvements...",
+    "createTime": "2023-11-01T23:06:04.199589Z",
+    "updateTime": "2023-11-02T21:29:59.522724Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Antonio por su comentario, efectivamente la construcción que data de 1940  es un símbolo de lo que era la calidad de materiales y el estilo de las estaciones del ACA. Hoy el Club y nosotros estamos embarcados en las mejoras pendientes que se atrasaron mucho desde el inicio del conflicto en 2017. Pero allá vamos y comentarios como el suyo nos estimulan para seguir.",
+      "updateTime": "2023-11-03T23:01:14.427917Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGczVUd0Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Cassinelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-11-01T19:03:12.147799Z",
+    "updateTime": "2023-11-01T19:03:12.147799Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Rubén !!",
+      "updateTime": "2023-11-03T23:01:38.232512Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGMDZUU3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Basualdo"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo lugar y práctico para cargar combustible para el viaje. Tiene mini market!\n\n(Translated by Google)\nNice and convenient place to refuel for your trip. It has a mini-market!",
+    "createTime": "2023-10-31T17:22:54.973136Z",
+    "updateTime": "2023-10-31T17:22:54.973136Z",
+    "reviewReply": {
+      "comment": "Gracias Cristian por tu puntuación y comentario.",
+      "updateTime": "2023-11-03T23:02:07.948316Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGdlpqYnZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Estela Eni Perez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención. Todo lo necesario\n\n(Translated by Google)\nGood service. Everything needed.",
+    "createTime": "2023-10-31T16:43:48.498213Z",
+    "updateTime": "2023-10-31T16:43:48.498213Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Estela !!",
+      "updateTime": "2023-11-03T23:02:26.405376Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGM2Fma29RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Peronasi"
+    },
+    "starRating": "FIVE",
+    "comment": "YPF Mascardi",
+    "createTime": "2023-10-31T14:17:23.957419Z",
+    "updateTime": "2023-10-31T14:17:23.957419Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Gustavo.",
+      "updateTime": "2023-11-03T23:02:44.860126Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGM1pEazBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Mendez"
+    },
+    "starRating": "TWO",
+    "comment": "El sábado 28 de octubre 2023 entre las 11.30 y 12  del medio día.    cargue combustible .pedi llenar el tanque   Supuestamente  cargue 20 litros el payero de ese turno no me quiso dar tikek de compra.  Cuando salgo de hay veo q el marcador.  No me marca lleno.   Cargue en Bariloche le llene el tanque.   Resulta q  dentro 16 litros de NAFTA.   Osea nunca me cargo NAFTA el payero de acá Mascardi .  Ya dos veces me pasa lo mismo con el mismo playero  . Haci q  tengan cuidado gente.\n\n(Translated by Google)\nOn Saturday, October 28, 2023, between 11:30 AM and 12:00 PM, I filled up with gas. I asked to fill the tank. I supposedly put in 20 liters, but the attendant on duty refused to give me a receipt. When I left, I noticed the gauge wasn\u0027t showing full. I filled up in Bariloche, but it only took 16 liters of gasoline. So, the attendant here in Mascardi never filled my tank. This has happened to me twice now with the same attendant. So, be careful, everyone.",
+    "createTime": "2023-10-30T13:29:18.108131Z",
+    "updateTime": "2023-10-30T13:29:18.108131Z",
+    "reviewReply": {
+      "comment": "Una opinión absolutamente infundada. El playero al que se refiere hace años trabaja en la estación, es vecino de la localidad y es reconocido entre los clientes por la calidad de su atención. El mismo playero me anotició de su reclamo y lamentablemente debo poner en tela de juicio la veracidad de su opinión, mucho más aún el hecho de que sea la 2da vez que le ocurre y con el mismo vendedor.",
+      "updateTime": "2023-10-30T20:40:32.974435Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGdFlqUEZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Fedrigo"
+    },
+    "starRating": "TWO",
+    "comment": "Es una estación muy chica, alejada de centros urbanos o poblados relativamente importantes, pero la higiene en los baños, nunca deja de ser importante, y acá escasea. La impresión fué mala, muy raro para una estacio del ACA.\n\n(Translated by Google)\nIt\u0027s a very small station, far from any major urban centers or towns, but hygiene in the restrooms is always important, and here it\u0027s lacking. The impression was bad, very unusual for an ACA station.",
+    "createTime": "2023-10-30T01:40:38.816003Z",
+    "updateTime": "2023-10-30T01:40:38.816003Z",
+    "reviewReply": {
+      "comment": "Sr Fedrigo efectivamente es una estación chica que mantiene una población estable de 60 miembros de las fuerzas de seguridad instalados dentro del predio y que hacen uso permanente de los baños sin intervenir en el proceso de limpieza, imagino que habrá visto los móviles y las casillas de Gendarmería, Prefectura y PSA dentro del predio de la estación. Es probable que su mala impresión - que por supuesto lamentamos - se haya debido a que en algún momento no se haya repasado la limpieza del baño. De ser así le pedimos las correspondientes disculpas.",
+      "updateTime": "2023-10-30T20:46:41.231033Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGcGFhcE53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Anabella Schmidt"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-29T04:11:27.223235Z",
+    "updateTime": "2023-10-29T04:11:27.223235Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Anabella !!",
+      "updateTime": "2023-10-30T20:47:03.070481Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGNmV2cUhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Lehrhuter"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-26T02:35:10.531453Z",
+    "updateTime": "2023-10-26T02:35:10.531453Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Daniela !!",
+      "updateTime": "2023-10-30T20:47:22.694046Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1c2RlZ1pnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel Cardenas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-24T05:31:12.437013Z",
+    "updateTime": "2023-10-24T05:31:12.437013Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Mabel.",
+      "updateTime": "2023-10-24T21:56:56.887403Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1cHRlRGZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "yesica quezada"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-22T12:49:12.884295Z",
+    "updateTime": "2023-10-22T12:49:12.884295Z",
+    "reviewReply": {
+      "comment": "gracias Yesica !",
+      "updateTime": "2023-10-22T20:56:33.207425Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1aXVleTRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JORGE RAPONI"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atencion del personal de playa\n\n(Translated by Google)\nExcellent attention from the beach staff",
+    "createTime": "2023-10-19T16:28:09.153080Z",
+    "updateTime": "2023-10-19T16:28:09.153080Z",
+    "reviewReply": {
+      "comment": "Gracias Jorge.",
+      "updateTime": "2023-10-21T23:34:33.530274Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1eUpQblhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tomás de la Santísima Trinidad"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-19T02:07:37.878590Z",
+    "updateTime": "2023-10-19T02:07:37.878590Z",
+    "reviewReply": {
+      "comment": "Gracias Daniel.",
+      "updateTime": "2023-10-21T23:35:03.772115Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1MEktM25nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Don Claudio"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención 👏 👍\n\n(Translated by Google)\nExcellent service 👏 👍",
+    "createTime": "2023-10-18T11:15:35.222594Z",
+    "updateTime": "2023-10-18T11:15:35.222594Z",
+    "reviewReply": {
+      "comment": "Don Claudio, nos alegra que haya tenido una buena experiencia.",
+      "updateTime": "2023-10-21T23:35:37.159059Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1d0pUWjZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro vykyngo"
+    },
+    "starRating": "FIVE",
+    "comment": "Una parada obligada en un paraiso\n\n(Translated by Google)\nA must-see in paradise",
+    "createTime": "2023-10-16T15:15:14.265229Z",
+    "updateTime": "2023-10-16T15:15:14.265229Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Alejandro !",
+      "updateTime": "2023-10-17T16:42:22.676153Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1dmNDaFZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jacobo Coronel"
+    },
+    "starRating": "THREE",
+    "comment": "Baños limpios, mala onda la señora para atender en el negocio.\n\n(Translated by Google)\nClean bathrooms, but the lady who works there is unfriendly.",
+    "createTime": "2023-10-15T12:29:13.917986Z",
+    "updateTime": "2023-10-15T12:29:13.917986Z",
+    "reviewReply": {
+      "comment": "Gracias Jacobo por tu aporte, nos ocuparemos para que la señora ponga la mejor atención en el negocio.",
+      "updateTime": "2023-10-17T16:43:51.804171Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1aWJhNkZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "sergio greco"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente para hacer un alto camino al Bolsón.\n\n(Translated by Google)\nExcellent for a stop on the way to El Bolsón.",
+    "createTime": "2023-10-15T12:23:28.066302Z",
+    "updateTime": "2023-10-15T12:23:28.066302Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Sergio !",
+      "updateTime": "2023-10-17T16:44:07.489363Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1aWFhVFF3EAE"
+  }]
+}

@@ -1,0 +1,181 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "La Loma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-24T18:48:30.678139Z",
+    "updateTime": "2020-01-24T18:48:30.678139Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzck1xcFZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "mauricio arrieta"
+    },
+    "starRating": "FIVE",
+    "comment": "Impecable el lugar. Baños limpios y muy buena atención\n\n(Translated by Google)\nThe place is spotless. Clean bathrooms and very good service.",
+    "createTime": "2020-01-24T10:49:21.928041Z",
+    "updateTime": "2020-01-24T10:49:21.928041Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzakotaHZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alfredo cassini"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion, rapidez y buena onda del personal\n\n(Translated by Google)\nExcellent service, fast and friendly staff",
+    "createTime": "2020-01-24T03:44:27.195761Z",
+    "updateTime": "2020-01-24T03:44:27.195761Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzakppclp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "lara arnold"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-01-24T02:33:34.396278Z",
+    "updateTime": "2020-01-24T02:33:34.396278Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzOU0tcHdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Cano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y el aire es gratis, genial. En otras estaciones después de dejar un montón de plata en combustible, tenes que poner monedas para controlar los neumáticos.\n\n(Translated by Google)\nGreat service and the air is free, awesome. At other stations, after spending a ton of money on fuel, you have to put in coins to check the tire pressure.",
+    "createTime": "2020-01-23T20:56:58.097305Z",
+    "updateTime": "2020-01-23T20:56:58.097305Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOVB6TE9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "fernando Ferreyra"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar\n\n(Translated by Google)\nGood place",
+    "createTime": "2020-01-23T13:17:57.344156Z",
+    "updateTime": "2020-01-23T13:17:57.344156Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzMU1ldzh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Peppe"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar y muy buena atención como todas las estaciones de servicio  del ACA\n\n(Translated by Google)\nExcellent place and very good service, like all ACA service stations",
+    "createTime": "2020-01-23T03:51:59.826119Z",
+    "updateTime": "2020-01-23T03:51:59.826119Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzbEtIZDZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Santa cruz"
+    },
+    "starRating": "FOUR",
+    "comment": "Lugar de paso obligado cuando viajo a las sierras de la provincia de Córdoba.\nGeneralmente me acerco a cargar combustible cuando los horarios son muy accesibles, recibiendo muy buenas atenciones de el personal de la empresa .\nGeneralmente de noche, también nos acercamos a disfrutar un café o bebidas para continuar viajes a la ciudad de Córdoba o a las sierras de los diferentes valles serranos de la provincia de Córdoba.\n\n(Translated by Google)\nA must-stop when I travel to the mountains of Córdoba province.\n\nI usually stop to refuel when the hours are convenient, and I receive excellent service from the staff. We also often stop in the evening for coffee or drinks before continuing our journeys to the city of Córdoba or to the various mountain valleys of Córdoba province.",
+    "createTime": "2020-01-23T00:41:27.535675Z",
+    "updateTime": "2020-01-23T00:45:12.185042Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Jorge!!",
+      "updateTime": "2020-01-23T01:59:40.312157Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbElUVExnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Toranzo"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-01-22T17:44:28.437334Z",
+    "updateTime": "2020-01-22T17:44:28.437334Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzNVBpTmx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Dolcini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-22T14:24:19.893244Z",
+    "updateTime": "2020-01-22T14:24:19.893244Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzcEo3T3hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Echenique"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-22T11:25:18.099354Z",
+    "updateTime": "2020-01-22T11:25:18.099354Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzeE5mU0NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Irma Nicolini"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor estacion\n\n(Translated by Google)\nThe best season",
+    "createTime": "2020-01-22T03:09:33.364076Z",
+    "updateTime": "2020-01-22T03:09:33.364076Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzaEwyYVhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel Levalli"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2020-01-21T21:55:31.402144Z",
+    "updateTime": "2020-01-21T21:55:31.402144Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzaEtDbWh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "CARLOS ALCIDES GONZÁLEZ"
+    },
+    "starRating": "THREE",
+    "comment": "Atención exprés...\n\n(Translated by Google)\nExpress attention...",
+    "createTime": "2020-01-21T18:23:13.418294Z",
+    "updateTime": "2020-01-21T18:23:13.418294Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzLU9hYlFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pablo Arnaudo"
+    },
+    "starRating": "TWO",
+    "comment": "Mala calidad del combustible\n\n(Translated by Google)\nPoor fuel quality",
+    "createTime": "2020-01-21T18:13:30.575841Z",
+    "updateTime": "2020-01-21T18:13:30.575841Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzLVByall3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabiana Maggioni"
+    },
+    "starRating": "THREE",
+    "comment": "Bien , ojalá que pongan GNC\n\n(Translated by Google)\nOkay, hopefully they\u0027ll install CNG.",
+    "createTime": "2020-01-21T15:16:43.359374Z",
+    "updateTime": "2020-01-21T15:16:43.359374Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdUxuSVJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mónica Jalit"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-21T11:29:25.112776Z",
+    "updateTime": "2020-01-21T11:29:25.112776Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMkpQNUVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Isabella"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2020-01-21T10:59:35.794974Z",
+    "updateTime": "2020-01-21T10:59:35.794974Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzMkkzRUp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Quinteros"
+    },
+    "starRating": "FIVE",
+    "comment": "Mi auto llevando la bici para el reco Tanti Santa María de Punilla\n\n(Translated by Google)\nMy car carrying the bike for the Tanti Santa María de Punilla tour",
+    "createTime": "2020-01-21T03:42:17.660386Z",
+    "updateTime": "2020-01-21T03:42:17.660386Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbUsyY1pREAE"
+  }, {
+    "reviewer": {
+      "displayName": "susana figueroa"
+    },
+    "starRating": "FOUR",
+    "comment": "Se toma foco café, es un buen punto de encuentro !!\n\n(Translated by Google)\nIt\u0027s a great meeting place!",
+    "createTime": "2020-01-19T17:59:36.799714Z",
+    "updateTime": "2020-01-19T17:59:36.799714Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOEw2d1ZnEAE"
+  }]
+}

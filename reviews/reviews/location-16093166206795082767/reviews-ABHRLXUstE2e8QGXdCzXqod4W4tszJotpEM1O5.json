@@ -1,0 +1,191 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jose Correa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-01-12T14:45:33.554679Z",
+    "updateTime": "2024-01-12T14:45:33.554679Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChRDSUhNMG9nS0VJQ0FnSUNOak13WhAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Insaurralde"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-01-11T18:48:57.648166Z",
+    "updateTime": "2024-01-11T18:48:57.648166Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNONlBqeld3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Spengler"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-10T15:54:37.872860Z",
+    "updateTime": "2024-01-10T15:54:37.872860Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxaDRuOE9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bernhardt"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-01-08T13:14:28.525829Z",
+    "updateTime": "2024-01-08T13:14:28.525829Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxdVpLbzZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "NAHUEL ASERO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-08T00:33:02.762804Z",
+    "updateTime": "2024-01-08T00:33:10.461405Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxc2N2bmpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Onelia Antonela Burdisso"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y limpieza d los baños. Quiero destacar las opciones SIN TACC dulces y SALADAS (q no es poco ) una heladera c un montón d opciones aptas(frías y calientes). La verdad se agradece y ojalá sigan el ejemplo otras estaciones\n\n(Translated by Google)\nExcellent service and clean restrooms. I want to highlight the gluten-free options, both sweet and savory (which is no small feat), and a refrigerator stocked with a wide variety of suitable items (both hot and cold). It\u0027s truly appreciated, and I hope other stations follow suit.",
+    "createTime": "2024-01-07T18:11:57.550035Z",
+    "updateTime": "2024-01-07T18:13:35.066277Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario, los esperamos pronto",
+      "updateTime": "2024-01-07T19:16:26.347834Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxb2VHM3lBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Troitero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-06T14:33:05.523211Z",
+    "updateTime": "2024-01-06T14:33:05.523211Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxcXB5QUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo J Azzolini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-06T02:20:00.218320Z",
+    "updateTime": "2024-01-06T02:20:00.218320Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUQxZ3ZmLUpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Kayak Escobar"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy atentos\n\n(Translated by Google)\nVery attentive",
+    "createTime": "2024-01-05T19:40:42.267762Z",
+    "updateTime": "2024-01-05T19:40:42.267762Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxck4tQTdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernán García"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-01-04T14:06:42.785360Z",
+    "updateTime": "2024-01-04T14:06:42.785360Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxbjVPMUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Kwiatkowski"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo ok\n\n(Translated by Google)\nEverything\u0027s OK",
+    "createTime": "2023-12-30T14:57:26.448333Z",
+    "updateTime": "2023-12-30T14:57:26.448333Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxM3BHWjVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston Pretara"
+    },
+    "starRating": "ONE",
+    "comment": "Carisimos los precios, 2 lucas una botella de agua de litro y medio que en Día está 700 mangos. La atención ni siquiera acompaña el ojo de la cara que te cuesta consumir algo ahí. No volvería.\n\n(Translated by Google)\nThe prices are outrageous; a 1.5-liter bottle of water costs 2,000 pesos, while at Día it\u0027s 700. The service is terrible, and the price of anything there is exorbitant. I wouldn\u0027t go back.",
+    "createTime": "2023-12-29T00:41:23.287061Z",
+    "updateTime": "2023-12-29T00:41:23.287061Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxNXFTekNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Dam"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-25T00:07:50.803127Z",
+    "updateTime": "2023-12-25T00:07:50.803127Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxbkt6cE5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Jatib"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-24T13:31:39.279224Z",
+    "updateTime": "2023-12-24T13:31:39.279224Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxck95STRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Othaheguy"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención. El más grande sándwich de mila. Para compartir\nPero a Gualberto le gusto la pizzetita\n\n(Translated by Google)\nExcellent service. The biggest milanesa sandwich. Perfect for sharing. But Gualberto liked the small pizza too.",
+    "createTime": "2023-12-21T23:23:12.942315Z",
+    "updateTime": "2023-12-21T23:23:12.942315Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario, los esperamos nuevamente ",
+      "updateTime": "2023-12-22T10:34:02.583921Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxNkozdDVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Bravo"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-12-21T11:10:33.244083Z",
+    "updateTime": "2023-12-21T11:10:33.244083Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario,lo esperamos nuevamente ",
+      "updateTime": "2023-12-22T10:34:35.443383Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxaU1IZG1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Bullin"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2023-12-19T21:07:51.619740Z",
+    "updateTime": "2023-12-19T21:07:51.619740Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario, lo esperamos nuevamente ",
+      "updateTime": "2023-12-22T10:34:51.721740Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURWXzlQTEdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Walter"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-12T13:18:50.303763Z",
+    "updateTime": "2023-12-12T13:18:50.303763Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURWLXREVzZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Garcia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-10T14:22:27.951875Z",
+    "updateTime": "2023-12-10T14:22:27.951875Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURWOFA2cUpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Carpio"
+    },
+    "starRating": "TWO",
+    "comment": "Mucha espera para un café cuando era la única esperando. Las medialunas parecían del día anterior.\n\n(Translated by Google)\nIt was a long wait for a coffee, even though I was the only one waiting. The croissants looked like they were from the day before.",
+    "createTime": "2023-12-08T21:50:25.246227Z",
+    "updateTime": "2023-12-08T21:50:25.246227Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia, vamos a mejorar esos aspectos",
+      "updateTime": "2023-12-22T10:35:26.736534Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWN2QzZm53RRAB"
+  }]
+}

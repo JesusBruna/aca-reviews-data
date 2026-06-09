@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Melina Miste"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-30T03:33:30.249740Z",
+    "updateTime": "2023-04-30T03:33:30.249740Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURSNWVhLW5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "luis borello"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-28T01:08:43.759425Z",
+    "updateTime": "2023-04-28T01:08:43.759425Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURSaWZUWmx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Alejandro Montoto"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-04-27T04:35:49.551651Z",
+    "updateTime": "2023-04-27T04:35:49.551651Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURSNFlyZ3BRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Perotti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-24T19:00:08.638370Z",
+    "updateTime": "2023-04-24T19:00:08.638370Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURSMXJXMi1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Vazquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-23T01:51:49.390237Z",
+    "updateTime": "2023-04-23T01:51:49.390237Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURSbXRpd0x3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodo A"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-21T00:27:47.302267Z",
+    "updateTime": "2023-04-21T00:27:47.302267Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURSd3RISHlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mabel alicia garcia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-17T15:58:54.155462Z",
+    "updateTime": "2023-04-17T15:58:54.155462Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURSLU1qRXhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando “Pinguino” Ferraro"
+    },
+    "starRating": "THREE",
+    "comment": "Atencion floja\n\n(Translated by Google)\nLazy attention",
+    "createTime": "2023-04-16T21:27:47.146313Z",
+    "updateTime": "2023-04-16T21:27:47.146313Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNkxUM2RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Russo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-15T03:01:18.420134Z",
+    "updateTime": "2023-04-15T03:01:18.420134Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURSd0xYLUlREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eric Yahn"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y servicio\n\n(Translated by Google)\nGood attention and service",
+    "createTime": "2023-04-09T15:11:56.779654Z",
+    "updateTime": "2023-04-09T15:11:56.779654Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSbzVtdGhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Aguirre"
+    },
+    "starRating": "FIVE",
+    "comment": "🚛",
+    "createTime": "2023-04-09T11:42:52.136398Z",
+    "updateTime": "2023-04-09T11:42:52.136398Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSdzg3aDNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Calcagno"
+    },
+    "starRating": "FOUR",
+    "comment": "Ágil atención\n\n(Translated by Google)\nFast service",
+    "createTime": "2023-04-08T14:14:54.455259Z",
+    "updateTime": "2023-04-08T14:14:54.455259Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSbmNPV2xnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Bauret"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena estación de servicio, tiene sistema para controlar la presión de los neumáticos de forma gratuita\n\n(Translated by Google)\nGood service station, has a system to monitor tire pressure for free",
+    "createTime": "2023-04-08T13:52:05.028776Z",
+    "updateTime": "2023-04-08T13:52:05.028776Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSbmVYVmZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "G.M. A."
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-08T00:27:27.848654Z",
+    "updateTime": "2023-04-08T00:27:27.848654Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSellmbEZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Ariel Tome"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-04T10:53:58.022907Z",
+    "updateTime": "2023-04-04T10:53:58.022907Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSMGFQZERnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Marthi"
+    },
+    "starRating": "TWO",
+    "comment": "Por ser una A.C.A deja bastante que desear, le falta onda y Alos empleados más.\n\n(Translated by Google)\nFor being an A.C.A it leaves a lot to be desired, it lacks character and the employees even more so.",
+    "createTime": "2023-04-04T09:33:26.588203Z",
+    "updateTime": "2023-04-04T09:33:26.588203Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSMFpidFBREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto conconi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-02T18:30:09.797528Z",
+    "updateTime": "2023-04-02T18:30:09.797528Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSM3NEeXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Alberto Lupo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-02T13:49:12.378769Z",
+    "updateTime": "2023-04-02T13:49:12.378769Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSN3FXS0pBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Scagnetti"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención están poniendo unos muebles muy lindos y revestimientos hermosos\n\n(Translated by Google)\nExcellent service, they\u0027re installing some very nice furniture and beautiful finishes",
+    "createTime": "2023-04-01T21:53:31.277149Z",
+    "updateTime": "2023-04-01T21:53:31.277149Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSanA3YVF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tamara Montenegro"
+    },
+    "starRating": "ONE",
+    "comment": "Muy caro y segun el horario en el que vas te cobran distinto el mismo producto, el mismo dia.\n\n(Translated by Google)\nVery expensive and depending on the time you go they charge you differently for the same product, on the same day.",
+    "createTime": "2023-03-27T22:09:58.456249Z",
+    "updateTime": "2023-03-27T22:09:58.456249Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdk9ITUdnEAE"
+  }]
+}

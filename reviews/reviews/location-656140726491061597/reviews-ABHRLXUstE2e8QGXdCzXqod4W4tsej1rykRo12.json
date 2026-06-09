@@ -1,0 +1,238 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Oscar Ruiz"
+    },
+    "starRating": "FIVE",
+    "comment": "Cordial atención.\n\n(Translated by Google)\nKind attention.",
+    "createTime": "2022-01-04T20:05:15.483173Z",
+    "updateTime": "2022-01-04T20:05:15.483173Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificacion",
+      "updateTime": "2022-01-05T02:42:34.947602Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtMVkyN2dRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nelson Oscar Martinez"
+    },
+    "starRating": "THREE",
+    "comment": "Lo necesario en ruta\n\n(Translated by Google)\nWhat you need on the road",
+    "createTime": "2022-01-04T19:44:12.039885Z",
+    "updateTime": "2022-01-04T19:44:12.039885Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-01-05T02:42:06.942968Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtMVlXd3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lau Villagra"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-01-04T10:37:50.000473Z",
+    "updateTime": "2022-01-04T10:37:50.000473Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-01-04T13:13:51.523741Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNWVIWVNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mika Huenuman"
+    },
+    "starRating": "ONE",
+    "comment": "No me gustó . No tiene variedad de alimentos en cuanto sándwich de miga y unos pebetes secos.\n\n(Translated by Google)\nI didn\u0027t like it. There\u0027s no variety in the food; the sandwiches are just crusty and the rolls are dry.",
+    "createTime": "2022-01-03T16:11:42.963130Z",
+    "updateTime": "2022-01-03T16:13:20.109212Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia. Hoy nuestro proveedor de sandwich sufrio un inconveniente con la produccion y llego tarde. Tambien tenemos Sandwich de elaboracion propia y hamburgesas que se hacen en el momento por pedido.\nSepa disculparnos. Gracias.",
+      "updateTime": "2022-01-03T20:15:01.516114Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtaGJTcUpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Morales"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-01-03T07:08:41.733995Z",
+    "updateTime": "2022-01-03T07:08:41.733995Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2022-01-03T20:18:49.572502Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdVpxN1dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Enri"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2022-01-02T23:51:11.268174Z",
+    "updateTime": "2022-01-02T23:51:11.268174Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-01-03T21:28:01.805489Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtMmRyNzZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Gandini"
+    },
+    "starRating": "FOUR",
+    "comment": "Un alto en el camino donde te tratan muy bien\n\n(Translated by Google)\nA stop along the way where they treat you very well",
+    "createTime": "2022-01-02T14:42:53.291714Z",
+    "updateTime": "2022-01-02T14:42:53.291714Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2022-01-03T20:08:35.828264Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNmRPMEVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Fabris"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-02T14:10:46.070425Z",
+    "updateTime": "2022-01-02T14:10:46.070425Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtNmZYY2xnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Perazzo"
+    },
+    "starRating": "FOUR",
+    "comment": "La YPF mano derecha yendo a Bariloche tiene aire acondicionado.\n\n(Translated by Google)\nThe YPF bus on the right side going to Bariloche has air conditioning.",
+    "createTime": "2022-01-01T13:38:10.107171Z",
+    "updateTime": "2022-01-01T13:38:10.107171Z",
+    "reviewReply": {
+      "comment": "Señor FEDERICO por si le interesa el dato, esta es la Unidad Servicial CHOELE CHOEL del AUTOMOVIL CLUB ARGENTINO. Gracias.",
+      "updateTime": "2022-01-03T20:07:58.385486Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtaWJpUWV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Villagra"
+    },
+    "starRating": "FOUR",
+    "comment": "Me atendieron muy bien. Tienen un lindo predio en terreno al lado muy lindo para descanzar, tomar unos mates o pasar la noche\n\n(Translated by Google)\nI received excellent service. They have a lovely property next door, perfect for relaxing, enjoying some mate, or spending the night.",
+    "createTime": "2021-12-31T21:24:07.454332Z",
+    "updateTime": "2021-12-31T21:24:07.454332Z",
+    "reviewReply": {
+      "comment": "Nos alegra que haya sido de su agrado. Lo esperamos nuevamente. Gracias.",
+      "updateTime": "2022-01-03T20:03:42.733438Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtc2FqVTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Dicaro"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente y muy amable atención...\n\n(Translated by Google)\nExcellent and very friendly service...",
+    "createTime": "2021-12-30T23:51:51.487530Z",
+    "updateTime": "2021-12-30T23:51:51.487530Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2021-12-31T11:04:04.310290Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtb2MzbUZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Jacob"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encantó\n\n(Translated by Google)\nI loved it",
+    "createTime": "2021-12-29T22:51:38.531111Z",
+    "updateTime": "2021-12-29T22:51:38.531111Z",
+    "reviewReply": {
+      "comment": "La esperamos nuevamente. Gracias.",
+      "updateTime": "2021-12-31T11:03:26.685089Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtdnVycDdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guada Magliotto"
+    },
+    "starRating": "FIVE",
+    "comment": "Gracias a los playeros!!! Muy buenos dando consejos a los viajantes\n\n(Translated by Google)\nThanks to the beachgoers! They\u0027re great at giving advice to travelers.",
+    "createTime": "2021-12-27T13:09:17.319682Z",
+    "updateTime": "2021-12-27T13:09:18.829914Z",
+    "reviewReply": {
+      "comment": "Les hare llegar su comentario. Gracias.",
+      "updateTime": "2021-12-27T15:59:32.941687Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNXFyY05REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ciro Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-26T16:40:33.300173Z",
+    "updateTime": "2021-12-26T16:40:33.300173Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtaHZLS0JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "marcela Centeno"
+    },
+    "starRating": "FIVE",
+    "comment": "Las mejores medialunas para desayunar al paso!!!!\n\n(Translated by Google)\nThe best croissants for a quick breakfast!",
+    "createTime": "2021-12-26T12:17:58.783850Z",
+    "updateTime": "2021-12-26T12:17:58.783850Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.\nTambien le recomiendo nuestras hamburguesas.",
+      "updateTime": "2021-12-27T15:57:05.075146Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtLXBHakdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Manuel Gomez Salone"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-25T05:18:37.360833Z",
+    "updateTime": "2021-12-25T05:18:37.360833Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtNnJITUZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julian Lazarte"
+    },
+    "starRating": "FIVE",
+    "comment": "La amabilidad del playero me y el servicio exelente\n\n(Translated by Google)\nThe beach attendant\u0027s kindness and the excellent service",
+    "createTime": "2021-12-25T01:04:04.872318Z",
+    "updateTime": "2021-12-25T01:04:04.872318Z",
+    "reviewReply": {
+      "comment": "Gracias, nuestros clientes lo merecen.",
+      "updateTime": "2021-12-27T15:50:24.096014Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtNm9UeXhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rosita Albornoz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-24T12:26:30.549541Z",
+    "updateTime": "2021-12-24T12:26:30.549541Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNteXJLcmRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Pizarro"
+    },
+    "starRating": "FOUR",
+    "comment": "Regular la limpieza de los baños\n\n(Translated by Google)\nRegularly clean the bathrooms",
+    "createTime": "2021-12-21T00:08:54.673409Z",
+    "updateTime": "2021-12-22T22:47:41.972810Z",
+    "reviewReply": {
+      "comment": "Le pedimos disculpas. Lamentamos su mala experiencia.\nNos hubiera sido de suma importancia que usted nos haya avisado en ese momento para darle solucion al inconveniente y evitar malas experiencias a otras personas.\nGracias",
+      "updateTime": "2021-12-23T22:11:16.889625Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtckozakdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ayelen Gagliano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-22T17:34:06.248192Z",
+    "updateTime": "2021-12-22T17:34:06.248192Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtb3RMQXNRRRAB"
+  }]
+}

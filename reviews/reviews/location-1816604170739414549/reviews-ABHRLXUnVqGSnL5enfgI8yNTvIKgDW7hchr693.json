@@ -1,0 +1,37 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Santiago Kci"
+    },
+    "starRating": "THREE",
+    "comment": "Rico el café\n\n(Translated by Google)\nDelicious coffee",
+    "createTime": "2016-09-26T00:27:10.589Z",
+    "updateTime": "2016-09-26T00:27:18.161Z",
+    "name": "accounts/109853746269412609224/locations/1816604170739414549/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMjZlWnZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Karina Maria Ibañez Vera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2015-11-21T01:13:26.267Z",
+    "updateTime": "2015-11-21T01:13:26.267Z",
+    "name": "accounts/109853746269412609224/locations/1816604170739414549/reviews/ChZDSUhNMG9nS0VJQ0FnSURndEpxQUpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Blasberg"
+    },
+    "starRating": "FOUR",
+    "comment": "Este Automóvil Club, además de la Estación de Servicio, cuenta con un bar y restaurante de comidas caseras y muy económicas. También tiene un lubricentro y lavadero de coches.\n\n(Translated by Google)\nThis Automobile Club, in addition to the service station, has a bar and restaurant serving homemade and very affordable meals. It also has a lube shop and car wash.",
+    "createTime": "2015-11-14T15:53:14.096Z",
+    "updateTime": "2015-11-14T15:55:01.594Z",
+    "name": "accounts/109853746269412609224/locations/1816604170739414549/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3eGJ2d19BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Pascuali"
+    },
+    "starRating": "THREE",
+    "createTime": "2012-06-22T13:43:10.809209Z",
+    "updateTime": "2012-06-22T13:43:10.809209Z",
+    "name": "accounts/109853746269412609224/locations/1816604170739414549/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRck9IazFRRRAB"
+  }]
+}

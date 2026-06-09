@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Heber Lopez"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-11-15T15:24:45.276Z",
+    "updateTime": "2016-11-15T15:24:49.497Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndXYtdkhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lotes Obera"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2016-11-08T20:24:13.851Z",
+    "updateTime": "2016-11-08T20:24:19.167Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURRbGF6dVRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Ariel Garcia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-11-08T17:22:09.406Z",
+    "updateTime": "2016-11-08T17:22:09.406Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRbmJIYVNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Calvetti"
+    },
+    "starRating": "TWO",
+    "comment": "Estación de servicios\n\n(Translated by Google)\nService station",
+    "createTime": "2016-02-29T15:56:46.252Z",
+    "updateTime": "2016-10-30T21:20:55.486Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMUl1TXd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Ariel G"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2016-10-17T13:27:14.784Z",
+    "updateTime": "2016-10-17T13:27:34.530Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURnNzhlMlpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nora Busetta"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar sumamente relajante y con una cordial atención.\n\n(Translated by Google)\nA very relaxing place with friendly service.",
+    "createTime": "2016-09-27T12:48:19.345Z",
+    "updateTime": "2016-09-27T12:52:31.019Z",
+    "reviewReply": {
+      "comment": "Muchas gracias! Trabajamos constantemente para brindarles el mejor servicio. Saludos!",
+      "updateTime": "2023-01-09T12:39:55.175137Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBd3VLMEtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Espinosa"
+    },
+    "starRating": "FOUR",
+    "comment": "Mini Shop esencial, atención y cordialidad del personal excelente.\n\n(Translated by Google)\nEssential Mini Shop, excellent staff service and friendliness.",
+    "createTime": "2016-09-11T23:06:24.056Z",
+    "updateTime": "2016-09-11T23:07:11.587Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURRMlB5U3N3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matías García"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-09-07T04:00:24.472Z",
+    "updateTime": "2016-09-07T04:00:24.472Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURnbmI3NHhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lisandro Ferreyra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-08-22T16:27:37.669Z",
+    "updateTime": "2016-08-22T16:27:37.669Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURnbG9XVGFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Yrepá"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-08-12T12:25:19.695Z",
+    "updateTime": "2016-08-12T12:25:19.695Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURBd3NxdjV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "homoviator HU"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) GOOD\n\n(Original)\nBien",
+    "createTime": "2016-06-21T12:48:35.207Z",
+    "updateTime": "2016-08-11T05:45:05.009Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURBM1A2Vm93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Andrés Francinetti"
+    },
+    "starRating": "FIVE",
+    "comment": "El mercado es chico pero tiene de todo\n\n(Translated by Google)\nThe market is small but it has everything",
+    "createTime": "2016-07-23T18:48:13.855Z",
+    "updateTime": "2016-07-23T18:48:46.490Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURndFp5eUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "luis martins"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-07-17T19:22:51.233Z",
+    "updateTime": "2016-07-17T19:22:51.233Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBdmZDQ1p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Callari"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-06-26T20:45:17.266Z",
+    "updateTime": "2016-06-26T20:45:20.986Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURRa0x2RFlREAE"
+  }, {
+    "reviewer": {
+      "displayName": "POLIRUBROS HORACIO"
+    },
+    "starRating": "THREE",
+    "comment": "Buen lugar pero se puede mejorar\n\n(Translated by Google)\nGood place but it could be improved",
+    "createTime": "2016-06-14T12:41:25.555Z",
+    "updateTime": "2016-06-14T12:41:57.639Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRMDdlQmZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "russoluisangel"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-05-05T20:11:57.523Z",
+    "updateTime": "2016-05-05T20:11:57.523Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3Nl9fRGVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jero Carpintero"
+    },
+    "starRating": "THREE",
+    "comment": "Linda estación, no esta señalizada la entrada a la misma, corrijan esto. Muchos pasan derecho y tienen que retomar x colectora. . el resto de la atención y KAS comodidades excelentes. Los playeros muy atentos\n\n(Translated by Google)\nNice station, but the entrance isn\u0027t clearly marked; please fix this. Many drivers drive straight through and then have to turn around on the service road. Otherwise, the service and amenities are excellent. The attendants are very helpful.",
+    "createTime": "2015-11-19T18:54:58.630Z",
+    "updateTime": "2016-05-04T09:45:20.272Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURncE9TN2l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "rodolfo todesco"
+    },
+    "starRating": "TWO",
+    "comment": "mano a concordia gnc y servicios baños limpios kiosco\n\n(Translated by Google)\nHand to Concordia GNC and services clean restrooms kiosk",
+    "createTime": "2016-03-19T23:16:52.347Z",
+    "updateTime": "2016-03-19T23:16:52.347Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBZ2RMU2x3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rubén Dario Appendino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-03-07T02:38:18.120Z",
+    "updateTime": "2016-03-07T02:38:18.120Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBMi03Yk1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Javier"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-02-17T17:54:28.983Z",
+    "updateTime": "2016-02-17T17:54:28.983Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3c0w2ZklREAE"
+  }]
+}

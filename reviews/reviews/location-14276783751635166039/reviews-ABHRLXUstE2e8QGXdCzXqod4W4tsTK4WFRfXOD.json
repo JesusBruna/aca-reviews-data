@@ -1,0 +1,183 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Guillermo Arguiano"
+    },
+    "starRating": "FOUR",
+    "comment": "El restaurant del Aca es excelente\n\n(Translated by Google)\nThe restaurant at Aca is excellent.",
+    "createTime": "2017-03-14T12:05:34.391Z",
+    "updateTime": "2017-03-14T12:05:34.391Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURnakxpV0dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas M"
+    },
+    "starRating": "FOUR",
+    "comment": "buen lugar para parar un poco, desp de la ruta del desierto. buena señal de wifi.\n\n(Translated by Google)\nGood place to stop for a bit after the desert route. Good Wi-Fi signal.",
+    "createTime": "2017-03-13T17:59:11.823Z",
+    "updateTime": "2017-03-13T17:59:11.823Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T21:54:03.587939Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNneXZleUdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Margarita Benitez"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso lugar,  atención normal. Variedad de productos\n\n(Translated by Google)\nBeautiful place, average service. Variety of products.",
+    "createTime": "2017-03-12T23:56:46.806Z",
+    "updateTime": "2017-03-12T23:56:46.806Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3cDVPVm9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Kobayashi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-03-12T14:51:19.145Z",
+    "updateTime": "2017-03-12T14:51:19.145Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBbE1uNmpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emmanuel Demarchi"
+    },
+    "starRating": "ONE",
+    "comment": "Atiende muy mal! Lerdos, no dan pelota, no te atienden, cero cero atención al cliente. Compramos unos sanguich y estaban horribles. La verdad que lamentablemente porque están en un punto estratégico en medio de la nada, podrían brindar un muy buen servicio!\n\n(Translated by Google)\nThe service is terrible! They\u0027re slow, they ignore you, they don\u0027t help you at all, zero customer service. We bought some sandwiches and they were awful. It\u0027s a real shame that, because they\u0027re in such a strategic location in the middle of nowhere, they could provide much better service!",
+    "createTime": "2017-03-10T03:02:03.097Z",
+    "updateTime": "2017-03-10T03:05:48.521Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURBMVBEQUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel José Valdecantos García"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar obligatorio. Buena atención.\n\n(Translated by Google)\nA must-see. Good service.",
+    "createTime": "2017-03-09T02:02:23.760Z",
+    "updateTime": "2017-03-09T02:02:42.261Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURRaExXZDFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Gimeno"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente lugar para parar luego de hacer la ruta del desierto o antes de encararla. Ideal para pasar la noche con tu camper/casilla/motor home.\n\n(Translated by Google)\nAn excellent place to stop after completing the desert route or before setting out. Ideal for spending the night with your camper, cabin, or motor home.",
+    "createTime": "2017-03-08T15:41:06.353Z",
+    "updateTime": "2017-03-08T15:42:39.659Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURRa01LV3V3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Simon Puentes"
+    },
+    "starRating": "TWO",
+    "comment": "Lenta la atencion. Pocos playeros\n\n(Translated by Google)\nSlow service. Few beachgoers",
+    "createTime": "2017-03-08T00:08:39.747Z",
+    "updateTime": "2017-03-08T00:08:56.446Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3cVlDZDh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Ariel Gilardenghi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-03-07T18:35:27.909Z",
+    "updateTime": "2017-03-07T18:35:27.909Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdFpTc0hBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Antonini"
+    },
+    "starRating": "THREE",
+    "comment": "Estación de servicio con lo básico.\n\n(Translated by Google)\nGas station with the basics.",
+    "createTime": "2017-03-07T02:53:17.819Z",
+    "updateTime": "2017-03-07T02:55:14.710Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eDd6QVJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Raúl Gallino"
+    },
+    "starRating": "THREE",
+    "comment": "Lugar correcto.\n\n(Translated by Google)\nCorrect place.",
+    "createTime": "2017-03-06T22:04:14.443Z",
+    "updateTime": "2017-03-06T22:04:27.977Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBZzV6a1hBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Karina Vanesa Makara"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-03-06T19:27:43.181Z",
+    "updateTime": "2017-03-06T19:27:43.181Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNEl1aTdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano A. Farias"
+    },
+    "starRating": "FOUR",
+    "comment": "muy buena atencion, tiene oficina de ACA y alquiler de bungalows\n\n(Translated by Google)\nExcellent service, has an ACA office and bungalow rentals",
+    "createTime": "2017-03-06T18:31:05.673Z",
+    "updateTime": "2017-03-06T18:31:05.673Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnbXMtejFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier D\u0027Tello"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-03-06T13:50:28.972Z",
+    "updateTime": "2017-03-06T13:50:28.972Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNncE9UNnF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alexis Godoy"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar antes de iniciar la ruta del desierto, lindo paisajes ya que tiene un río que pasa por atrás de la estación de servicio\n\n(Translated by Google)\nExcellent place before starting the desert route, beautiful scenery as it has a river that passes behind the gas station",
+    "createTime": "2017-03-06T12:41:13.277Z",
+    "updateTime": "2017-03-06T12:42:50.158Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3M2NfT0dBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Stupczuk"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-03-05T20:25:40.988Z",
+    "updateTime": "2017-03-05T20:26:09.085Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndkpHLVh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fermín Blotto"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2017-03-05T19:13:14.875Z",
+    "updateTime": "2017-03-05T19:13:40.860Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMGRlU3F3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "d b"
+    },
+    "starRating": "FOUR",
+    "comment": "Rápida atención,  baños limpios\n\n(Translated by Google)\nFast service, clean restrooms",
+    "createTime": "2017-03-05T02:59:35.196Z",
+    "updateTime": "2017-03-05T03:00:11.678Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBM3Q3VVN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Vidueiro"
+    },
+    "starRating": "TWO",
+    "comment": "Aglomeración luego de cruzar el desierto\n\n(Translated by Google)\nCrowding after crossing the desert",
+    "createTime": "2017-03-04T18:18:09.444Z",
+    "updateTime": "2017-03-04T18:19:26.138Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3bHVpbE5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Esmail"
+    },
+    "starRating": "TWO",
+    "comment": "Mal atendido. Con mala educación y mal servicio.\n\n(Translated by Google)\nPoor service. Rude and unprofessional.",
+    "createTime": "2017-03-04T16:47:47.555Z",
+    "updateTime": "2017-03-04T16:48:14.908Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndUp1OFJnEAE"
+  }]
+}

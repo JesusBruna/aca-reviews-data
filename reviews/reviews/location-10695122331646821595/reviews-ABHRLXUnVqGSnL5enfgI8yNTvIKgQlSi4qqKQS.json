@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Cabañas El Remanso"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-08T08:02:50.987885Z",
+    "updateTime": "2023-02-08T08:02:51.562528Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoX0tlSGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Nieto"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-02-06T17:49:47.344558Z",
+    "updateTime": "2023-02-06T17:49:47.344558Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoOUsyZlp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Noelia Sosa"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. Rápidos\n\n(Translated by Google)\nGood service. Fast.",
+    "createTime": "2023-02-06T05:31:50.490598Z",
+    "updateTime": "2023-02-06T05:31:50.490598Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSUNobEoyeDB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Zaffora"
+    },
+    "starRating": "THREE",
+    "comment": "Lugar desorganizado y con escasa atención.\n\n(Translated by Google)\nDisorganized place with little attention.",
+    "createTime": "2023-02-05T15:40:22.227030Z",
+    "updateTime": "2023-02-05T15:40:22.227030Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoeEtfWVZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Russo"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-02-04T03:46:50.505837Z",
+    "updateTime": "2023-02-04T03:46:50.505837Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNocUthbk13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mirian Gaido"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención...\n\n(Translated by Google)\nGood service...",
+    "createTime": "2023-02-03T18:17:18.957808Z",
+    "updateTime": "2023-02-03T18:17:18.957808Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoaVBYSVNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "JoE"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-02-03T02:35:03.111612Z",
+    "updateTime": "2023-02-03T02:35:03.111612Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoME5Ed3d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Pasquet"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2023-02-02T17:00:05.496350Z",
+    "updateTime": "2023-02-02T17:00:05.496350Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoNFBUUW1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Peralta"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-02T14:23:31.182714Z",
+    "updateTime": "2023-02-02T14:23:31.182714Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNob083NEVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "alberto Lerda"
+    },
+    "starRating": "ONE",
+    "comment": "Fui esta mañana a desayunar . Es un desastre el q te atiende. Demora mucho y es uno solo el q atiende es una vergüenza.  Yo no volvería mas\n\n(Translated by Google)\nI went for breakfast this morning. The service is terrible. It takes forever, and only one person serves you. It\u0027s a disgrace. I wouldn\u0027t go back.",
+    "createTime": "2023-02-01T18:04:04.151777Z",
+    "updateTime": "2023-02-01T18:04:04.151777Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdl9LRFFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Taborda"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2023-01-29T19:29:52.277226Z",
+    "updateTime": "2023-02-01T15:10:04.908890Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdTl5UEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "L. A. H. Arsa L."
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-01T01:41:03.972116Z",
+    "updateTime": "2023-02-01T01:41:03.972116Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcjZYLVVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Adrian Ibarra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-31T21:28:51.710425Z",
+    "updateTime": "2023-01-31T21:28:51.710425Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURCel92VC1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Quintana"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-01-29T15:07:10.529285Z",
+    "updateTime": "2023-01-29T15:07:10.529285Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMjVTeXd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marita BARBY VE"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-28T17:32:16.958160Z",
+    "updateTime": "2023-01-28T17:32:16.958160Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURCaTlPeUNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "EDUARDO MARIO Granara"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-27T14:38:16.971800Z",
+    "updateTime": "2023-01-27T14:38:16.971800Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURCbzRQeExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Lezcano"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo lugar\n\n(Translated by Google)\nBeautiful place",
+    "createTime": "2023-01-26T22:28:03.058298Z",
+    "updateTime": "2023-01-26T22:28:03.058298Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURCX2RiQ293RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Nicolás Camarda"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-26T22:00:45.136445Z",
+    "updateTime": "2023-01-26T22:00:45.136445Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURCX2FyOHFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra rimoldi"
+    },
+    "starRating": "THREE",
+    "comment": "Bastante lento el servicio. O tal vez mal acostumbrados a todo ya. Las medialunas más o menos\n\n(Translated by Google)\nThe service was quite slow. Or maybe we\u0027re just used to everything. The croissants were so-so.",
+    "createTime": "2023-01-26T18:48:12.004513Z",
+    "updateTime": "2023-01-26T18:48:12.004513Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdmVHRHJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Ester Bosoms"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-26T17:33:40.777650Z",
+    "updateTime": "2023-01-26T17:33:40.777650Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURCM2ItRGFREAE"
+  }]
+}

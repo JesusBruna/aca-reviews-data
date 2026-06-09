@@ -1,0 +1,211 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carlos Brandan"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención los playeros muy atentos\n\n(Translated by Google)\nExcellent service, the beach attendants were very attentive",
+    "createTime": "2024-06-07T15:31:49.590171Z",
+    "updateTime": "2024-06-08T00:11:35.398277Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Carlos,  te esperamos nuevamente cuando gustes .",
+      "updateTime": "2024-06-09T16:42:28.670481Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6eE1ITkNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Ángel"
+    },
+    "starRating": "FIVE",
+    "comment": "De lujo!!\n\n(Translated by Google)\nDeluxe!!",
+    "createTime": "2024-06-07T11:53:24.737836Z",
+    "updateTime": "2024-06-07T11:53:24.737836Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Miguel por tu comentario nos encanta atenderlos de la mejor manera y que disfruten de nuestra estación.!! Te esperamos nuevamente ",
+      "updateTime": "2024-06-07T12:29:37.244427Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6dUxQdzZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlo Genovese"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención cada vez que quiero desayunar ,ricas opciones\n\n(Translated by Google)\nExcellent service every time I want breakfast, delicious options",
+    "createTime": "2024-06-06T16:22:13.882506Z",
+    "updateTime": "2024-06-06T16:22:13.882506Z",
+    "reviewReply": {
+      "comment": "Muchas gracias seba , un placer recibirte .",
+      "updateTime": "2024-06-06T17:07:05.635507Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6XzRTbXVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel Diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención son todos muy amables y también el personal de seguridad que me indicó donde están las maquinas de aires\n\n(Translated by Google)\nVery good service, everyone is very friendly and also the security staff who showed me where the air conditioning machines are.",
+    "createTime": "2024-06-06T16:10:30.021550Z",
+    "updateTime": "2024-06-06T16:10:30.021550Z",
+    "reviewReply": {
+      "comment": "Nos encanta que disfruten de nuestra estación,  muchas gracias ezequiel .",
+      "updateTime": "2024-06-06T17:07:50.510362Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6djlfRldnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Baggio"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy linda quedo\n\n(Translated by Google)\nIt turned out very nice.",
+    "createTime": "2024-06-06T13:41:44.334679Z",
+    "updateTime": "2024-06-06T13:41:44.334679Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6MzdEaWZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "mauro gomez"
+    },
+    "starRating": "TWO",
+    "createTime": "2024-06-05T11:12:25.273916Z",
+    "updateTime": "2024-06-05T11:12:25.273916Z",
+    "reviewReply": {
+      "comment": "Hola mauro, muchas gracias por calificarnos, nos ayudaría mucho si nos pudieras decir en que mejorar para que la próxima vez que vengas .",
+      "updateTime": "2024-06-06T10:35:32.168014Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6MjZhOHVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Amarú"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-06-04T23:01:13.368358Z",
+    "updateTime": "2024-06-04T23:01:13.368358Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6cy1mSlp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Hoyos"
+    },
+    "starRating": "FOUR",
+    "comment": "muy luminoso y amplio\n\n(Translated by Google)\nvery bright and spacious",
+    "createTime": "2024-06-04T17:13:27.461301Z",
+    "updateTime": "2024-06-04T17:13:27.461301Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6NDl1NEZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Galvalisi"
+    },
+    "starRating": "TWO",
+    "comment": "45 minutos de espera para recalentar un roll... el servicio del full es lamentable... extremadamente lento e ineficiente.\n\n(Translated by Google)\n45-minute wait to reheat a roll... the full service is deplorable... extremely slow and inefficient.",
+    "createTime": "2024-06-04T16:57:31.985532Z",
+    "updateTime": "2024-06-04T16:57:31.985532Z",
+    "reviewReply": {
+      "comment": "Lamentamos la espera. Trabajaremos en mejorar la rapidez y eficiencia del servicio. ¡Gracias por hacérnoslo saber!",
+      "updateTime": "2024-06-04T18:43:43.026438Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6NDdYanpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Olga Cascardo Cascardo"
+    },
+    "starRating": "FIVE",
+    "comment": "Fui para poner aire en las gomas. Enseguida me atendió un empleado muy bien\n\n(Translated by Google)\nI went to put air in the tires. I was immediately attended to by a very good employee.",
+    "createTime": "2024-06-03T23:03:27.203425Z",
+    "updateTime": "2024-06-03T23:03:27.203425Z",
+    "reviewReply": {
+      "comment": "UN PLACER ATENDERTE OLGA , ESPERAMOS QUE VUELVAS PRONTO",
+      "updateTime": "2024-06-04T18:30:28.738052Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6OWV2WHNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Ferrari"
+    },
+    "starRating": "FIVE",
+    "comment": "Saque registro internacional\nRápido, fácil , bien atendido\n\n(Translated by Google)\nGet your international driver\u0027s license.\nFast, easy, and with great service.",
+    "createTime": "2024-06-03T21:04:03.078905Z",
+    "updateTime": "2024-06-03T21:04:03.078905Z",
+    "reviewReply": {
+      "comment": "¡Gracias por tu comentario sobre nuestro servicio de registro internacional! Nos alegra saber que fue rápido, fácil y que recibiste una buena atención. ¡Esperamos poder ayudarte nuevamente pronto!",
+      "updateTime": "2024-06-03T22:17:13.868962Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6dFpXa0dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Volonnino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-28T22:50:39.343664Z",
+    "updateTime": "2024-05-28T22:50:39.343664Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURUcC16M3dRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia M"
+    },
+    "starRating": "FIVE",
+    "comment": "Rápidamente hice el trámite de la Licencia de conducir Internacional. La atención es muy agradable.\n\n(Translated by Google)\nI quickly completed the process for my International Driving Permit. The service was very friendly.",
+    "createTime": "2024-05-26T22:08:20.558981Z",
+    "updateTime": "2024-05-26T22:08:20.558981Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURUbmV1ZDZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Santos"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre me atienden muy bien.\n\n(Translated by Google)\nThey always treat me very well.",
+    "createTime": "2024-05-25T22:59:49.138901Z",
+    "updateTime": "2024-05-25T22:59:49.138901Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURUbWJmTmt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Fileppi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-25T14:13:48.729450Z",
+    "updateTime": "2024-05-25T14:13:48.729450Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURUc1ptbWFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Argentino Molina"
+    },
+    "starRating": "FIVE",
+    "comment": "Me atendió Nicolás y muy buena atención\n\n(Translated by Google)\nI was served by Nicolás and received excellent service.",
+    "createTime": "2024-05-24T18:38:35.261417Z",
+    "updateTime": "2024-05-24T18:38:35.261417Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSURUenFYWFBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela Gamarra"
+    },
+    "starRating": "FIVE",
+    "comment": "excelente atención de Marisa\n\n(Translated by Google)\nExcellent service from Marisa",
+    "createTime": "2024-05-24T18:27:59.143703Z",
+    "updateTime": "2024-05-24T18:27:59.143703Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURUem9tNG1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Correa"
+    },
+    "starRating": "FIVE",
+    "comment": "Me atendio jose luis rapido y me ofrecio los seevicios gracias\n\n(Translated by Google)\nJose Luis helped me quickly and offered me the services, thank you",
+    "createTime": "2024-05-24T18:03:15.453251Z",
+    "updateTime": "2024-05-24T18:03:15.453251Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURUem9ibW9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Tarazona"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena experiencia y muy buena atención\nNuevamente me atendió Luis muy bien\n\n(Translated by Google)\nA very good experience and excellent service.\nOnce again, Luis treated me very well.",
+    "createTime": "2022-05-10T13:03:20.617277Z",
+    "updateTime": "2024-05-24T17:27:06.967771Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUQya3BEellBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lautaro Cañete"
+    },
+    "starRating": "FIVE",
+    "comment": "Me atendió Ciro, muy rico el café y la atención!!\n\n(Translated by Google)\nCiro served me, the coffee and service were delicious!!",
+    "createTime": "2024-05-24T16:29:38.272320Z",
+    "updateTime": "2024-05-24T16:29:38.272320Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSURUanNYYjZRRRAB"
+  }]
+}

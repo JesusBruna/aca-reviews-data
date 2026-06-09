@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Alejandro Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-13T21:52:54.249104Z",
+    "updateTime": "2022-03-13T21:52:54.249104Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURXeUxleWNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jonatan Flores"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-13T01:06:29.719191Z",
+    "updateTime": "2022-03-13T01:06:29.719191Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURXc0pTZE9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "valeria rossi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-12T14:25:43.815367Z",
+    "updateTime": "2022-03-12T14:25:43.815367Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURXa0lTYzlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan José Pedraza"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-03-11T22:24:45.636453Z",
+    "updateTime": "2022-03-11T22:24:45.636453Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSURXd0xHRHZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Videla"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-11T21:59:45.232852Z",
+    "updateTime": "2022-03-11T21:59:45.232852Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURXd0w2UUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rosana Raviru"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buenas atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-03-11T14:49:25.181067Z",
+    "updateTime": "2022-03-11T14:49:25.181067Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURXZ0lEbkF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Palacios"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-11T11:35:18.886924Z",
+    "updateTime": "2022-03-11T11:35:18.886924Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXXzlMNTBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián J."
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2022-03-11T01:34:03.269308Z",
+    "updateTime": "2022-03-11T01:34:03.269308Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXMzRPVjFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Torres"
+    },
+    "starRating": "FIVE",
+    "comment": "Carisimo todo. Los baños de diez.\n\n(Translated by Google)\nEverything is very expensive. The bathrooms are excellent.",
+    "createTime": "2022-03-10T13:09:46.940701Z",
+    "updateTime": "2022-03-10T13:09:46.940701Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNzdyY3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Beatriz De Rosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-10T02:50:50.411771Z",
+    "updateTime": "2022-03-10T02:50:50.411771Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXejduZ2dBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "César Alloatti"
+    },
+    "starRating": "FIVE",
+    "comment": "Fui al baño. Un lujo\n\n(Translated by Google)\nI went to the bathroom. What a luxury.",
+    "createTime": "2022-03-09T19:05:10.182738Z",
+    "updateTime": "2022-03-09T19:05:10.182738Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXajlxSFlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alexander Margalot"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-09T15:12:14.019502Z",
+    "updateTime": "2022-03-09T15:12:14.019502Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXOTQ2OWxRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "javier ronconi"
+    },
+    "starRating": "TWO",
+    "comment": "Como la mayoría de las YPF los playeros tardan en atender , no te limpian el parabrisas,  cuando pagué con la aplicación le pedí que me explicara como hacer con los puntos y se quedó mirando su celular,  en el Shop las empleadas poca atención, tuve que esperar como 10 minutos mientras charlaban entre ellas, excepto una que estaba limpiando los vidrios,  vino me atendió muy bien\n\n(Translated by Google)\nLike most YPF stores, the attendants take a while to serve you, they don\u0027t clean your windshield, when I paid with the app I asked him to explain how to do it with the points and he kept looking at his cell phone, in the Shop the employees were not very attentive, I had to wait like 10 minutes while they chatted among themselves, except for one who was cleaning the windows, she served me very well",
+    "createTime": "2022-03-09T13:39:29.910598Z",
+    "updateTime": "2022-03-09T13:39:29.910598Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXOV9EUUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Gachi"
+    },
+    "starRating": "FIVE",
+    "comment": "Esta buenisimo\n\n(Translated by Google)\nThis is great!",
+    "createTime": "2022-03-09T02:25:09.676455Z",
+    "updateTime": "2022-03-09T02:25:09.676455Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXMV9EUEt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Onesto"
+    },
+    "starRating": "FOUR",
+    "comment": "Estacion del ACA a la antigua. Las instalaciones están bien mantenidas aunque una modernización no vendría mal tampoco.\n\n(Translated by Google)\nThe ACA station is old-fashioned. The facilities are well-maintained, although a modernization wouldn\u0027t hurt either.",
+    "createTime": "2022-03-08T15:16:39.465522Z",
+    "updateTime": "2022-03-08T15:16:39.465522Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXcDZPRDJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Joaquin Villaboa"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-03-08T14:53:12.838626Z",
+    "updateTime": "2022-03-08T14:53:12.838626Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXcDVYeW9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela “Grace” Hermida"
+    },
+    "starRating": "FIVE",
+    "comment": "Cada vez que viajo a BS As o a La Pampa es donde descanso para almorzar lugar limpio seguro con mesas y canillas bajo los arboles\n\n(Translated by Google)\nEvery time I travel to Buenos Aires or La Pampa, this is where I stop for lunch; a clean, safe place with tables and taps under the trees.",
+    "createTime": "2022-03-08T14:02:28.120637Z",
+    "updateTime": "2022-03-08T14:02:28.120637Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXcDVhMzlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agueda Veronica Somer"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-08T12:17:49.039981Z",
+    "updateTime": "2022-03-08T12:17:49.039981Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXeDVYX0dREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Lozano"
+    },
+    "starRating": "ONE",
+    "comment": "Un desastre la comida . Muy muy malo\n\n(Translated by Google)\nThe food was a disaster. Really, really bad.",
+    "createTime": "2022-03-07T17:56:17.416824Z",
+    "updateTime": "2022-03-07T17:56:17.416824Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXdTZLVVdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Fernández"
+    },
+    "starRating": "THREE",
+    "comment": "Todo bien y en orden,lo único que los baños estaban sucios\n\n(Translated by Google)\nEverything was fine and in order, the only thing was that the bathrooms were dirty.",
+    "createTime": "2022-03-07T14:38:30.136323Z",
+    "updateTime": "2022-03-07T14:38:30.136323Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXMjhiQUdREAE"
+  }]
+}

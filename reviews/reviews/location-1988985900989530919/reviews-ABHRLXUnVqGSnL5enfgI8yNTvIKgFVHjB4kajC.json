@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "laura granero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-10T22:10:47.422169Z",
+    "updateTime": "2022-02-10T22:10:47.422169Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSURtaDVMQTBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Loizaga"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-10T21:48:06.850240Z",
+    "updateTime": "2022-02-10T21:48:06.850240Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSURtaC16VTJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Dìaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-10T13:51:43.935394Z",
+    "updateTime": "2022-02-10T13:51:43.935394Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdTRidWF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Mazzeo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-02-10T09:55:46.092883Z",
+    "updateTime": "2022-02-10T09:55:46.092883Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMi1uMlJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Calderón"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-09T22:18:13.700696Z",
+    "updateTime": "2022-02-09T22:18:13.700696Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSURtNjllMm5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Parra"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo excelente,muy buena atencion dentro y fuera en la playa.\n\n(Translated by Google)\nEverything was excellent, very good service both inside and outside on the beach.",
+    "createTime": "2022-02-09T21:18:07.685020Z",
+    "updateTime": "2022-02-09T21:18:07.685020Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtNl8yVkpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nadia Veronica Gurawski"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención!\n\n(Translated by Google)\nGreat service!",
+    "createTime": "2022-02-09T20:27:12.225604Z",
+    "updateTime": "2022-02-09T20:27:12.225604Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtNjVtUk1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Balsas"
+    },
+    "starRating": "THREE",
+    "comment": "Muy buena atencion en el despacho. Falta varirdad en el servi compras\n\n(Translated by Google)\nExcellent service at the office. They lack variety in their online shopping services.",
+    "createTime": "2022-02-09T19:22:55.901623Z",
+    "updateTime": "2022-02-09T19:22:55.901623Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtNjZiNEJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "nora balbiano"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2022-02-09T15:53:31.956422Z",
+    "updateTime": "2022-02-09T15:53:31.956422Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcTc2UC1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ocupado Trabajo"
+    },
+    "starRating": "FOUR",
+    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-02-09T14:04:06.369032Z",
+    "updateTime": "2022-02-09T14:04:06.369032Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtcTZqVWZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Teresita Bruno"
+    },
+    "starRating": "FIVE",
+    "comment": "Tranqui\n\n(Translated by Google)\nRelax",
+    "createTime": "2022-02-09T13:49:17.254611Z",
+    "updateTime": "2022-02-09T13:49:17.254611Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSURtcS1EeXZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "pablo rodriguez"
+    },
+    "starRating": "ONE",
+    "createTime": "2022-02-08T22:06:50.314180Z",
+    "updateTime": "2022-02-08T22:06:50.314180Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtODhheEVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariana Diaz"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-08T19:57:34.847296Z",
+    "updateTime": "2022-02-08T19:57:34.847296Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtODRDWU1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Zulma Dalpra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-08T12:41:55.438395Z",
+    "updateTime": "2022-02-08T12:41:55.438395Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMDV5YlN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Sollner"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-08T02:10:41.976709Z",
+    "updateTime": "2022-02-08T02:10:41.976709Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSURtNDlhWnFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Acosta"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención en el Full...\n\n(Translated by Google)\nVery good service at the Full...",
+    "createTime": "2022-02-07T17:16:32.976890Z",
+    "updateTime": "2022-02-07T17:16:32.976890Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSURtdzV2bG9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Salinas"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena estación d servicio, ademas de la carga de combustible, se puede comprar para comer y tomar  , muy buena atención x parte del personal!\n\n(Translated by Google)\nVery good service station, in addition to fueling, you can buy food and drinks, very good service from the staff!",
+    "createTime": "2022-02-07T07:17:52.853520Z",
+    "updateTime": "2022-02-07T07:17:52.853520Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSURtX2J1NjN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Melina Curaqueo"
+    },
+    "starRating": "FOUR",
+    "comment": "Pase solo al baño y a cargar agua para mate. Buena atención y al baño le falta un poco más de limpieza.\n\n(Translated by Google)\nI only went to the bathroom to get some water for mate. The service was good, and the bathroom could use a little more cleaning.",
+    "createTime": "2022-02-07T03:55:04.198299Z",
+    "updateTime": "2022-02-07T03:55:04.198299Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtX1piUE13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Micaela Orgas"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena , excelente atencion\n\n(Translated by Google)\nVery good, excellent service",
+    "createTime": "2022-02-07T01:38:52.387486Z",
+    "updateTime": "2022-02-07T01:38:52.387486Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtX2JqYk5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Laterra"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente todo!! Sanitarios impecables.\n\n(Translated by Google)\nEverything was excellent!! The restrooms were spotless.",
+    "createTime": "2022-02-07T01:21:39.865957Z",
+    "updateTime": "2022-02-07T01:21:39.865957Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURtX2NqakV3EAE"
+  }]
+}

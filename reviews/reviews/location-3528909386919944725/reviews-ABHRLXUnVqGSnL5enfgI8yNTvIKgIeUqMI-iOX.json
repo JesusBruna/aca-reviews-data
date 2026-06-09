@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mauricio Raúl Schwaller"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-31T12:30:25.875210Z",
+    "updateTime": "2020-01-31T12:30:25.875210Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzNXNyd1FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Castro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-28T16:49:01.979829Z",
+    "updateTime": "2020-01-28T16:49:01.979829Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzeW83MW5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "valeria galindez"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-01-28T11:23:25.871228Z",
+    "updateTime": "2020-01-28T11:23:25.871228Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzaXR5dmlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Myriam Bucci"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy limpio y buen servicio\n\n(Translated by Google)\nVery clean and good service",
+    "createTime": "2020-01-27T12:28:03.822995Z",
+    "updateTime": "2020-01-27T12:28:03.822995Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSUNza3BlbnVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Britos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-23T17:50:10.336948Z",
+    "updateTime": "2020-01-23T17:50:10.336948Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzdEwzeG93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hector benitez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-22T11:16:34.955216Z",
+    "updateTime": "2020-01-22T11:16:34.955216Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzeE1lWEpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Frias"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena... Aunque hay una YPF en Realico que está superior!!! Que pedazo de estación!!!\n\n(Translated by Google)\nVery good... Although there\u0027s a YPF station in Realico that\u0027s better! What a great station!",
+    "createTime": "2020-01-18T04:18:30.549203Z",
+    "updateTime": "2020-01-18T04:18:30.549203Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzZ09XLUlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Jardon"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar para descansar y buen restaurante\n\n(Translated by Google)\nGood place to rest and good restaurant",
+    "createTime": "2020-01-17T14:36:33.522509Z",
+    "updateTime": "2020-01-17T14:36:33.522509Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSURNdjg2NzRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victoria Zapata"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bueno!!\n\n(Translated by Google)\nVery good!!",
+    "createTime": "2020-01-17T00:15:05.688019Z",
+    "updateTime": "2020-01-17T00:15:05.688019Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSURNbjZyUTVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alessio Cominetto Yorio"
+    },
+    "starRating": "ONE",
+    "comment": "DIFERENCIEN LA SAL DE EL EDUCORANTE HDP !!!\n\n(Translated by Google)\nDISTINGUISH SALT FROM THAT HDP EDUCATOR!!!",
+    "createTime": "2020-01-15T17:07:30.842043Z",
+    "updateTime": "2020-01-15T17:07:30.842043Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSURNOTY2LUd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Saraleguy"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-15T01:11:14.173649Z",
+    "updateTime": "2020-01-15T01:11:14.173649Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSURNbDdmU1hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge"
+    },
+    "starRating": "THREE",
+    "comment": "Nafta\n\n(Translated by Google)\nNaphtha",
+    "createTime": "2020-01-14T11:22:11.433216Z",
+    "updateTime": "2020-01-14T11:22:11.433216Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSURNcC1hZUV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dino Annoni"
+    },
+    "starRating": "TWO",
+    "comment": "El acceso malísimo\n\n(Translated by Google)\nThe access is terrible.",
+    "createTime": "2020-01-14T00:41:34.328093Z",
+    "updateTime": "2020-01-14T00:41:34.328093Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSURNaDhfTVNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Saulino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-13T19:28:34.284412Z",
+    "updateTime": "2020-01-13T19:28:34.284412Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSURNaDV6RnFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Alba"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-01-13T01:56:07.828494Z",
+    "updateTime": "2020-01-13T01:56:07.828494Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSURNMjlhdDFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ernesto Norese"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar para pasar 1 ó 2 dias. Muy buena atencion y muy limpio\n\n(Translated by Google)\nA very good place to spend 1 or 2 days. Very good service and very clean.",
+    "createTime": "2017-12-29T13:00:48.853Z",
+    "updateTime": "2020-01-11T19:55:28.666302Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSURncHJIQ3B3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fran roda"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-11T09:53:48.415002Z",
+    "updateTime": "2020-01-11T09:53:48.415002Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSURNMDRuNVJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Aguerrido"
+    },
+    "starRating": "FIVE",
+    "comment": "El mejor casino de America del Sur\n\n(Translated by Google)\nThe best casino in South America",
+    "createTime": "2020-01-11T03:30:04.431792Z",
+    "updateTime": "2020-01-11T03:30:04.431792Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChZDSUhNMG9nS0VJQ0FnSURNazVYSE1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Nielsen"
+    },
+    "starRating": "FOUR",
+    "comment": "Es un motel. Un lugar de paso, una noche o dos.Teniendo eso en cuenta, los cuartos estaban limpios y prolijos, el restaurant tiene buena atención.  Me dio algo de risa leer.criticas sobre la carta de vinos, los platos así o asa. Muy bueno para un motel de paso. El desayuno también es bueno, sin exagerar.\n\n(Translated by Google)\nIt\u0027s a motel. A place to stop over for a night or two. With that in mind, the rooms were clean and tidy, and the restaurant has good service. I found it somewhat amusing to read the reviews about the wine list and the dishes. Very good for a motel. The breakfast is also decent, nothing extraordinary.",
+    "createTime": "2020-01-09T02:08:59.479891Z",
+    "updateTime": "2020-01-09T02:08:59.479891Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificacion. Vamos a reversa algunos temas sugeridos para mejorar gracias nuevamente",
+      "updateTime": "2025-03-01T18:33:41.132999Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSURNM2VyOV9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo campostrini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-01-08T23:02:27.386310Z",
+    "updateTime": "2020-01-08T23:02:27.386310Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/ChdDSUhNMG9nS0VJQ0FnSURNM1lDZXNRRRAB"
+  }]
+}

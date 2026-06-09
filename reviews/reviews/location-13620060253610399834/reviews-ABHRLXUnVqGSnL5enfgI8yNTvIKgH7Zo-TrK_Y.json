@@ -1,0 +1,200 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "VANESA Contrera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-01-14T20:34:26.697219Z",
+    "updateTime": "2025-01-14T20:34:26.697219Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOHNlWlZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Morales"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-03T02:22:05.593289Z",
+    "updateTime": "2025-01-03T02:22:05.593289Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmMzdPdER3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gran Eric"
+    },
+    "starRating": "ONE",
+    "comment": "muy mala onda la que atiende\n\n(Translated by Google)\nThe person who works there is really rude.",
+    "createTime": "2024-12-29T07:14:31.606699Z",
+    "updateTime": "2024-12-29T07:16:00.403831Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmN29pRW9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Betty Moram"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente  atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2024-12-15T14:48:39.737356Z",
+    "updateTime": "2024-12-15T14:48:39.737356Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2bDZfX0xREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Ases"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-12-06T20:38:05.678664Z",
+    "updateTime": "2024-12-06T20:38:05.678664Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChdDSUhNMG9nS0VJQ0FnSURQdjV6TDJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicanor Arbeletche"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encanta ir a tomar café!\n\n(Translated by Google)\nI love going for coffee!",
+    "createTime": "2024-11-28T11:18:57.197286Z",
+    "updateTime": "2024-11-28T11:18:57.197286Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChdDSUhNMG9nS0VJQ0FnSURQc0syVXZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa Molto"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2024-11-12T17:52:51.309963Z",
+    "updateTime": "2024-11-12T17:52:51.309963Z",
+    "reviewReply": {
+      "comment": "Gracias por tu opinión Vanesa. Te esperamos pronto! Que tengas un buen día. Estación ACA Trelew.",
+      "updateTime": "2024-11-12T18:16:15.132083Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzOU1HczFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nilda Vedia"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buen servicio. Recomendable 👍🏻\n\n(Translated by Google)\nExcellent service. Highly recommended 👍🏻",
+    "createTime": "2024-11-08T14:17:07.870121Z",
+    "updateTime": "2024-11-08T14:17:07.870121Z",
+    "reviewReply": {
+      "comment": "Buenos días Nilda! Gracias por tu opinión, nos ayuda a mejorar para llegar a las 5 estrellas. Que tengas un excelente día! ",
+      "updateTime": "2024-11-08T15:41:25.682566Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzZzRiZ0NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Castillo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-24T00:58:03.525511Z",
+    "updateTime": "2024-10-24T00:58:03.525511Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSURYdU4yS0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Frías"
+    },
+    "starRating": "TWO",
+    "createTime": "2024-10-20T00:23:11.351121Z",
+    "updateTime": "2024-10-20T00:23:11.351121Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYbzlEN0FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Velilla"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good as everything here.\n\n(Original)\nBom como tudo Aca.",
+    "createTime": "2024-10-19T23:08:25.062925Z",
+    "updateTime": "2024-10-19T23:08:25.062925Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYdzRIblpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Giani RUN"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-10-19T20:31:24.766547Z",
+    "updateTime": "2024-10-19T20:31:24.766547Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYZzRLV0J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eliana Paillao"
+    },
+    "starRating": "FIVE",
+    "comment": "Un lugar de historia\n\n(Translated by Google)\nA place of history",
+    "createTime": "2024-10-15T13:31:57.670905Z",
+    "updateTime": "2024-10-15T13:31:57.670905Z",
+    "reviewReply": {
+      "comment": "Buenos días Norma, nos alegramos que nuestras instalaciones te generen esa sensación. Te esperamos pronto! Estación ACA TRELEW",
+      "updateTime": "2024-10-18T15:53:46.812569Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYMnVMUG53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Deborah Palavecino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-10-09T20:43:43.734715Z",
+    "updateTime": "2024-10-09T20:43:43.734715Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSURuc192QU5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "jorge lopez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-03T23:58:04.699721Z",
+    "updateTime": "2024-10-03T23:58:04.699721Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación! Los esperamos pronto. Saludos, Estación ACA Trelew.",
+      "updateTime": "2024-10-04T16:24:44.357285Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSURuN0t6SEVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dèbora Quiroga"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-09-24T12:38:18.010391Z",
+    "updateTime": "2024-09-24T12:38:18.010391Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUNua3MzWU9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rosa Maria Perez"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-02T18:11:35.132327Z",
+    "updateTime": "2024-09-09T18:30:39.363938Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5OHZPaGZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Loren Gutierrez"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención y servicios. Nos limpiaron todos los vidrios de la PARTNER, aparte de cargar combustible.\n\n(Translated by Google)\nExcellent service and attention. They cleaned all the windows of our Partner, in addition to filling up the tank.",
+    "createTime": "2024-09-05T11:52:02.920396Z",
+    "updateTime": "2024-09-05T11:52:02.920396Z",
+    "reviewReply": {
+      "comment": "Gracias por tu opinion positiva Loren, te esperamos pronto para seguir ofreciendote el mejor servicio. Que tengas un excelente dia! ",
+      "updateTime": "2024-09-05T12:12:29.456381Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdnZEYVl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco MS"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-08-10T23:52:22.550595Z",
+    "updateTime": "2024-08-30T03:37:46.852134Z",
+    "reviewReply": {
+      "comment": "Gracias Francisco por tu calificación, te esperamos pronto para seguir ofreciendote los mejores productos. ACA TRELEW.",
+      "updateTime": "2024-08-23T19:22:42.580333Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChZDSUhNMG9nS0VJQ0FnSURiMzZERUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julioo Cesar vazquez"
+    },
+    "starRating": "THREE",
+    "comment": "Buena Atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-08-23T17:01:16.856172Z",
+    "updateTime": "2024-08-23T17:01:16.856172Z",
+    "reviewReply": {
+      "comment": "Gracias Julio por tu opinión, te esperamos pronto para seguir ofreciendote la mejor atención. ACA TRELEW.",
+      "updateTime": "2024-08-23T19:21:02.442194Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3dXRQZDVBRRAB"
+  }]
+}

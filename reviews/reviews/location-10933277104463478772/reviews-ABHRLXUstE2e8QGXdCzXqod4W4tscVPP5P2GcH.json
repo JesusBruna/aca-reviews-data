@@ -1,0 +1,184 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Eric Nahuel Cabrera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-31T19:10:28.403534Z",
+    "updateTime": "2022-12-31T19:10:28.403534Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCOWRqVndnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Birreto"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-25T23:14:01.487326Z",
+    "updateTime": "2022-12-25T23:14:06.684307Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCenZPZmlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Dutto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-24T12:39:59.532976Z",
+    "updateTime": "2022-12-24T12:39:59.532976Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCbHJLQ1hBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "maria elisa groppo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-24T01:35:28.592627Z",
+    "updateTime": "2022-12-24T01:35:28.592627Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCcHJhYTVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Edgar Botta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-23T09:27:19.632023Z",
+    "updateTime": "2022-12-23T09:27:19.632023Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCLXJDRTR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Brites"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-12-21T14:10:42.548627Z",
+    "updateTime": "2022-12-21T14:10:42.548627Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCc29UbU5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nora Marín"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre tiene una buena atención!!!\n\n(Translated by Google)\nThey always provide great service!",
+    "createTime": "2022-12-19T22:31:38.695841Z",
+    "updateTime": "2022-12-19T22:31:38.695841Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCM1BYZ25RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Pacella"
+    },
+    "starRating": "ONE",
+    "comment": "Problemas de sistemas para cobrar c9n aplicscion de hace mucho tiempo, deben evadir impuestos o algo d eso\n\n(Translated by Google)\nThere are long-standing problems with the charging system with the app. They must be evading taxes or something like that.",
+    "createTime": "2022-12-17T15:14:02.263104Z",
+    "updateTime": "2022-12-17T15:14:02.263104Z",
+    "reviewReply": {
+      "comment": "Sr. Pacella, efectivamente tenemos un problema de enlace y ello nos dejó sin sistemas de facturación y para la App YPF. Provisoriamente las facturas se emiten de manera electrónica y se le envían por el medio que Ud. elija. Saludos",
+      "updateTime": "2022-12-20T15:35:58.151945Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCcE1ydUZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rita De Feudis"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-12-17T03:05:34.243408Z",
+    "updateTime": "2022-12-17T03:05:34.243408Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCLUpmaHlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Santilli"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-16T15:03:44.693645Z",
+    "updateTime": "2022-12-16T15:03:44.693645Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCMlBxckxBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "negra murguera"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena  atención de los playeros.\n\n(Translated by Google)\nExcellent service from the beach attendants.",
+    "createTime": "2017-09-25T02:29:08.723Z",
+    "updateTime": "2022-12-15T17:14:04.634670Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURRME51TjNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Contreras"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo lugar\n\n(Translated by Google)\nBeautiful place",
+    "createTime": "2022-12-13T17:18:46.730982Z",
+    "updateTime": "2022-12-13T17:18:46.730982Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtdjYtSHNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "agostina moscariello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-10T11:27:58.558355Z",
+    "updateTime": "2022-12-10T11:27:58.558355Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtMjdTaHJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Palavecino"
+    },
+    "starRating": "FOUR",
+    "comment": "Exelente lugar de paso...!!!\n\n(Translated by Google)\nExcellent place to stop by...!!!",
+    "createTime": "2022-12-09T19:15:13.884147Z",
+    "updateTime": "2022-12-09T19:15:13.884147Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcTRMWlZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Andrés Arrascaeta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-07T20:17:55.942232Z",
+    "updateTime": "2022-12-07T20:17:55.942232Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtZzc2VG1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "carlos gordillo"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención de los empleados. Mejorar formas de pago (app ypf )\n\n(Translated by Google)\nExcellent customer service. Payment methods could be improved (YPF app).",
+    "createTime": "2022-12-06T16:33:25.983760Z",
+    "updateTime": "2022-12-06T16:33:25.983760Z",
+    "reviewReply": {
+      "comment": "Sr. Gordillo muchas gracias por su tiempo en calificarnos. Aprovechamos para comentarle que lamentablemente todas nuestras estaciones del ACA sufrieron un inconveniente de sistemas que nos dejó sin la posibilidad de cobrar con medios de pago electrónicos. Afortunadamente ya estamos operando normalmente. Saludos cordiales.",
+      "updateTime": "2023-01-17T12:31:16.020316Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcllhZUhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Cordoni"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-05T12:37:21.594027Z",
+    "updateTime": "2022-12-05T12:37:21.594027Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtbGZ6OGZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Fariña"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-12-03T20:21:31.705132Z",
+    "updateTime": "2022-12-03T20:21:31.705132Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtbWNHaF9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Gabriel Gonzalez"
+    },
+    "starRating": "TWO",
+    "comment": "El otro día no tenían las llaves del baño. Me tuve que cruzar a la terminal. En cuanto al shop bien. Pero mala predisposición de los empleados. No vendían combustible con tarjetas. Solo efectivo y sin bileta\n\n(Translated by Google)\nThe other day they didn\u0027t have the bathroom keys. I had to go to the terminal. The shop was fine, but the employees were rude. They didn\u0027t sell fuel with cards. Only cash, and no ticket.",
+    "createTime": "2022-12-03T10:39:02.930434Z",
+    "updateTime": "2022-12-03T10:39:02.930434Z",
+    "reviewReply": {
+      "comment": "Sr. Gonzalez muchas gracias por su tiempo en calificarnos. Aprovechamos para comentarle que lamentablemente todas nuestras estaciones del ACA sufrieron un inconveniente de sistemas que nos dejó sin la posibilidad de cobrar con medios de pago electrónicos. Afortunadamente ya estamos operando normalmente. Saludos cordiales.",
+      "updateTime": "2023-01-17T12:32:11.149079Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcWV5TmJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guille Guevara"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención al público!!\n\n(Translated by Google)\nVery good customer service!!",
+    "createTime": "2022-12-02T20:35:32.593499Z",
+    "updateTime": "2022-12-02T20:35:32.593499Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtOGRQZFJ3EAE"
+  }]
+}

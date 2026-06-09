@@ -1,0 +1,182 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Gustavo Villaverde"
+    },
+    "starRating": "TWO",
+    "createTime": "2017-10-20T15:31:14.223Z",
+    "updateTime": "2017-10-20T15:31:14.223Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURROGNYZ0JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Orellano"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2017-10-20T02:00:01.759Z",
+    "updateTime": "2017-10-20T02:00:12.281Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3OU5yMV9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MAV"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, playeros respetuosos del cliente, falta variedad y producto en el Full en ocasiones,...y la limpieza en los baños es digna de aplausos.\n\n(Translated by Google)\nGood service, beach attendants who are respectful of customers. The Full is sometimes lacking in variety and products...and the cleanliness of the bathrooms is worthy of applause.",
+    "createTime": "2017-10-19T15:15:59.680Z",
+    "updateTime": "2017-10-19T15:19:06.576Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRaFBfYWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Xiomara Pino"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-10-18T14:26:27.936Z",
+    "updateTime": "2017-10-18T14:26:32.119Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBeTVqUi1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "C F"
+    },
+    "starRating": "THREE",
+    "comment": "Mucha demora para cargar.\n\n(Translated by Google)\nLong time to load.",
+    "createTime": "2017-10-18T11:53:48.299Z",
+    "updateTime": "2017-10-18T11:54:14.122Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBeG9fQlp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dario Vilchez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2017-09-28T11:25:07.991Z",
+    "updateTime": "2017-10-18T02:26:49.192Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRMUlPRnh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emilio Alborno"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2017-10-18T01:43:02.001Z",
+    "updateTime": "2017-10-18T01:43:28.698Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBNllEZ0dREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Niveyro"
+    },
+    "starRating": "FIVE",
+    "comment": "Un páramo en el desierto... Parada clásica obligada\n\n(Translated by Google)\nA wasteland in the desert... A classic must-see",
+    "createTime": "2017-10-17T13:09:54.741Z",
+    "updateTime": "2017-10-17T13:11:17.293Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3dXVucHNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Martinez Zabala"
+    },
+    "starRating": "THREE",
+    "comment": "La primer estación con combustible barato llendo al sur, y la última al volver.\n\n(Translated by Google)\nThe first station with cheap fuel going south, and the last one on the way back.",
+    "createTime": "2017-10-17T02:21:32.236Z",
+    "updateTime": "2017-10-17T02:22:36.026Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3dnZlU3J3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Cesanelli"
+    },
+    "starRating": "TWO",
+    "comment": "Tardan u a eternidad en despachar combustible\n\n(Translated by Google)\nThey take forever to dispense fuel",
+    "createTime": "2017-10-16T18:11:19.503Z",
+    "updateTime": "2017-10-16T18:11:48.809Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRMDZqMTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Sammartino"
+    },
+    "starRating": "THREE",
+    "comment": "Atención rápida y muy buena. Sanitarios limpios.\n\n(Translated by Google)\nQuick and excellent service. Clean restrooms.",
+    "createTime": "2017-10-16T09:40:38.904Z",
+    "updateTime": "2017-10-16T09:42:10.684Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBMEx5QzlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "julia stahl"
+    },
+    "starRating": "THREE",
+    "comment": "Bien. Limpio\n\n(Translated by Google)\nGood. Clean.",
+    "createTime": "2017-10-15T23:34:36.014Z",
+    "updateTime": "2017-10-15T23:34:48.212Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBX09Dazl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luján Lucero"
+    },
+    "starRating": "THREE",
+    "comment": "Normal",
+    "createTime": "2017-10-14T14:08:19.810Z",
+    "updateTime": "2017-10-14T14:08:25.586Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURRMXQzVWRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nelson Sepulveda"
+    },
+    "starRating": "ONE",
+    "comment": "No me gustó!!\n\n(Translated by Google)\nI didn\u0027t like it!!",
+    "createTime": "2017-10-13T15:41:48.764Z",
+    "updateTime": "2017-10-13T15:43:29.428Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRbl83WEhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guido Raggi Mir"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo muy bien (los baños son gratuitos a diferencia de otras cercanas)\n\n(Translated by Google)\nEverything was great (the bathrooms are free unlike other nearby places)",
+    "createTime": "2017-10-12T22:00:37.744Z",
+    "updateTime": "2017-10-12T22:01:37.540Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T21:56:53.284349Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURnZ2VTbW1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "yvana garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Seriedad servicio y excelente atención\n\n(Translated by Google)\nReliable service and excellent customer care",
+    "createTime": "2017-10-12T16:04:22.688Z",
+    "updateTime": "2017-10-12T16:04:45.134Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURnb29LX3dRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Demarchi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-10-11T10:15:29.391Z",
+    "updateTime": "2017-10-11T10:15:29.391Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBeXRqeTB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Ferreyra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-10-10T19:04:24.821Z",
+    "updateTime": "2017-10-10T19:04:24.821Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURnLUpQLTFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Kozur"
+    },
+    "starRating": "THREE",
+    "comment": "Buena estación de servicio, un poco lento en el despacho de combustible, casi siempre hay cola\n\n(Translated by Google)\nGood gas station, a little slow in fuel delivery, there is almost always a queue",
+    "createTime": "2017-10-10T13:39:40.562Z",
+    "updateTime": "2017-10-10T13:40:25.803Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3NXN2VnhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jorge pranzetti"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-10-10T11:08:21.670Z",
+    "updateTime": "2017-10-10T11:08:21.670Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRcDdXd19RRRAB"
+  }]
+}

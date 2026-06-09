@@ -1,0 +1,251 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Maria de las Nieves Corchado"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente,muy rápido , atentos. Y comida muy buena\n\n(Translated by Google)\nExcellent, very fast, attentive. And the food was very good.",
+    "createTime": "2026-03-08T18:12:47.332061Z",
+    "updateTime": "2026-03-08T18:12:47.332061Z",
+    "reviewReply": {
+      "comment": "Sra Maria\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T22:58:57.696032Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CYVMxVlFRVWxyWTBaR2RGODJRVXN5VVVGTlozYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Kurtz"
+    },
+    "starRating": "FOUR",
+    "comment": "Grande, buen cafe\n\n(Translated by Google)\nGreat, good coffee",
+    "createTime": "2026-03-08T02:49:18.118074Z",
+    "updateTime": "2026-03-08T02:49:18.118074Z",
+    "reviewReply": {
+      "comment": "Sr Walter\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T22:59:11.409008Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SSU4xTlllVTlJWWxKV2NEVkpjbTk1UVdSUGVtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Di Candia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente comida!!! Muy buena atención, muy bien asesorados por Noelia quien nos atendió sumamente bien!!!!!!!!\n\n(Translated by Google)\nExcellent food!!! Very good service, Noelia gave us great advice and took excellent care of us!",
+    "createTime": "2026-03-05T17:19:01.179813Z",
+    "updateTime": "2026-03-05T17:19:01.179813Z",
+    "reviewReply": {
+      "comment": "Sra Alicia\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T22:59:21.549915Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5dlkyMVRUVXgyYTBaMFN6QlhUR2xUWTJoVFJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carla Perez"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encantó la atención 🫶🏽 ideal para viajeros ✨\n\n(Translated by Google)\nI loved the service 🫶🏽 ideal for travelers ✨",
+    "createTime": "2026-03-05T14:03:17.075893Z",
+    "updateTime": "2026-03-05T14:03:17.075893Z",
+    "reviewReply": {
+      "comment": "Sra Carla\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T22:59:33.924952Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sb05YVXpTa2xwU2tOaFQyNXdOVTFuV1c5R1kzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Veron"
+    },
+    "starRating": "TWO",
+    "comment": "Falta modernización en infraestructura.\n\n(Translated by Google)\nThere is a lack of modernization in infrastructure.",
+    "createTime": "2026-03-05T00:28:14.931899Z",
+    "updateTime": "2026-03-05T00:28:14.931899Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxeE0xUnZURFptYkROWk0xTnRXWEpQVDFJeU9WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Grande"
+    },
+    "starRating": "ONE",
+    "comment": "Muy malo todo los precios excesivos x demás un puere 7.000\nUn petit bif  27.000 osea este plato 34.000\n\n(Translated by Google)\nEverything was terrible, the prices were excessive, a potato dish was 7,000! A petit bif was 27,000, so this dish was 34,000!",
+    "createTime": "2026-03-02T19:05:53.386838Z",
+    "updateTime": "2026-03-02T19:05:53.386838Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xka1FrZzFZbVYwYTAxbVMwMDJSWGMxUzNOcFlWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jessica Panadería y pastelería artesanal"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Noelia y Guillermo. Todo muy rico\n\n(Translated by Google)\nExcellent service from Noelia and Guillermo. Everything was delicious.",
+    "createTime": "2026-03-02T18:16:26.888401Z",
+    "updateTime": "2026-03-02T18:16:26.888401Z",
+    "reviewReply": {
+      "comment": "Sra Jessica\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T22:59:46.560425Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wbGFWaHFWVjkyZVRkdFNWRnRkVkJxV0hWV1VuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Palacios"
+    },
+    "starRating": "FIVE",
+    "comment": "Esta en plena ruta 40 y todos los viajeros cargan es esa o en la otra que son los 2 extremos de entrada al pueblo\n\n(Translated by Google)\nIt\u0027s right on Route 40 and all travelers load up either there or at the other one, which are the two entrances to the town.",
+    "createTime": "2026-02-28T22:49:24.907770Z",
+    "updateTime": "2026-02-28T22:49:24.907770Z",
+    "reviewReply": {
+      "comment": "Sra Gabriel\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T22:59:58.511902Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oTU1XSTBlRWxYV21SalJWSlNhMGxIZVhSdU5rRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucía Marrone"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!\nBuena variedad de platos\n\n(Translated by Google)\nExcellent service!\nGood variety of dishes",
+    "createTime": "2026-02-28T17:10:43.478267Z",
+    "updateTime": "2026-02-28T17:10:43.478267Z",
+    "reviewReply": {
+      "comment": "Sra Lucia\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:00:09.208946Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KZlduZElaa2hOUlRjd2VIaEZORUZaYjNsd1RHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Perno Renzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-28T17:09:47.049007Z",
+    "updateTime": "2026-02-28T17:09:47.049007Z",
+    "reviewReply": {
+      "comment": "Sr Marcelo\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación . Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:03:49.494393Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWNE5FbDNMVlJvTlMxRVpHcG9Va3BSZHpWRVFXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "GUSTAVO PEDRERO"
+    },
+    "starRating": "FIVE",
+    "comment": "Impecable la atención de Gama y la comida! Comimos ñoquis y ravioles caseros con bolognesa. Muy livianos y exquisitos.\n\n(Translated by Google)\nGama\u0027s service was impeccable, and the food was amazing! We had homemade gnocchi and ravioli with Bolognese sauce. Very light and delicious.",
+    "createTime": "2026-02-28T03:18:02.534352Z",
+    "updateTime": "2026-02-28T03:18:02.534352Z",
+    "reviewReply": {
+      "comment": "Sr Gustavo\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:00:23.998021Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prNFpYZGpla2xCYXpsUFFUTXRaRFpyTUhkck4xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mayra Parra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-02-28T03:14:44.520006Z",
+    "updateTime": "2026-02-28T03:14:44.520006Z",
+    "reviewReply": {
+      "comment": "Sra Mayra\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:00:40.441369Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSRVVWcHRTMHhWYUdWQ1luWmxXWGxUUlZab09VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ari"
+    },
+    "starRating": "FOUR",
+    "comment": "10 puntos\n\n(Translated by Google)\n10 points",
+    "createTime": "2026-02-27T01:23:10.011365Z",
+    "updateTime": "2026-02-27T01:23:10.011365Z",
+    "reviewReply": {
+      "comment": "Sra Ari\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:00:51.241822Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vemQxaEtibEUzTkVkcU5VRm5SVWxMT1VGR01HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Raul Jourdan"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena comida, atención excelente y muy buena música\n\n(Translated by Google)\nVery good food, excellent service, and very good music.",
+    "createTime": "2026-02-26T16:21:37.120752Z",
+    "updateTime": "2026-02-26T16:21:37.120752Z",
+    "reviewReply": {
+      "comment": "Sra Fernando\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:01:04.549128Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CTVdESjBUMnc0WmsxMmNGbHRTa0l3WlZKUGNrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "luciano sapag"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-02-25T18:40:14.592252Z",
+    "updateTime": "2026-02-25T18:40:14.592252Z",
+    "reviewReply": {
+      "comment": "Sr Lucianoi\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:06:35.154319Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kWFQwNW1XWFowV2pKNk1HVkllRlZPTVhGUWJXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mountainhigh"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Everything great!\n\n(Original)\nAlles Super!",
+    "createTime": "2026-02-24T23:34:13.952809Z",
+    "updateTime": "2026-02-24T23:34:13.952809Z",
+    "reviewReply": {
+      "comment": "Estimado\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:01:24.323979Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KTGNYcFNXazloZFZBMmNYbG9ibDlQYVhwS1gyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Accattoli"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2026-02-24T17:23:53.415181Z",
+    "updateTime": "2026-02-24T17:23:53.415181Z",
+    "reviewReply": {
+      "comment": "Sra Adriana\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:01:35.084093Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZNU1YbGtaM0JoYkVORFFtaE5UbXBJY2tGaVVIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elena Valdemoros"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y preparación de la parrillada\nExcelente atención de Noelia\nMuchas gracias por la calidez,\n\n(Translated by Google)\nExcellent service and the barbecue was delicious.\nNoelia provided outstanding service.\nThank you so much for your hospitality.",
+    "createTime": "2026-02-22T22:43:55.097423Z",
+    "updateTime": "2026-02-22T22:43:55.097423Z",
+    "reviewReply": {
+      "comment": "Sra Elena\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:01:50.447092Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT25walFrSTNMV0ZxY1VONVRqQnBWekJHUmpkMUxYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Jorge"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-22T22:10:51.576958Z",
+    "updateTime": "2026-02-22T22:10:51.576958Z",
+    "reviewReply": {
+      "comment": "Sr Jorge\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:02:09.236895Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twRk5WUmtlV0U0WVc4MGJtUTRRMlJPTms0eVYxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Solorza"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de los mozos, En especial de noelia.\nMuy rica la parrillada.😁\n\n(Translated by Google)\nExcellent service from the waiters, especially Noelia.\nThe barbecue was delicious! 😁",
+    "createTime": "2026-02-22T19:04:02.149017Z",
+    "updateTime": "2026-02-22T19:04:02.149017Z",
+    "reviewReply": {
+      "comment": "Sra Natalia\nNos alegra haya tenido una buena experiencia en nuestro establecimiento. Agradecemos su calificación y comentario. Continuaremos trabajando para ofrecerle siempre un excelente servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2026-04-02T23:02:24.235921Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4SVgzRllRelozTFZkSE1IZFZhWFJWTW5WbFJIYxAB"
+  }]
+}

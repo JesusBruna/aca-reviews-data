@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Walter Rios"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-05-28T21:36:33.457Z",
+    "updateTime": "2017-05-28T21:36:33.457Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURRb3RIWFhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Dmytryszyn"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, todo muy limpio.\n\n(Translated by Google)\nGood service, everything very clean.",
+    "createTime": "2017-05-28T20:33:05.162Z",
+    "updateTime": "2017-05-28T20:33:55.881Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURRNmVmMHpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Roberto Diana"
+    },
+    "starRating": "FOUR",
+    "comment": "Buenas amburguesas👌🍖🍖🍖\n\n(Translated by Google)\nGood burgers👌🍖🍖🍖",
+    "createTime": "2017-05-26T10:38:11.980Z",
+    "updateTime": "2017-05-27T22:03:42.810Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRNnZHX1BnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ENRIQUE SALOMON"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-05-27T11:38:26.179Z",
+    "updateTime": "2017-05-27T11:38:26.179Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURRbklmYlFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Alvarez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-05-26T10:46:48.873Z",
+    "updateTime": "2017-05-26T10:46:48.873Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNncnBTVnNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Campos"
+    },
+    "starRating": "THREE",
+    "comment": "Estación de servicio muy moderna y bonita\n\n(Translated by Google)\nVery modern and beautiful service station",
+    "createTime": "2017-05-26T09:05:01.811Z",
+    "updateTime": "2017-05-26T09:05:27.638Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBcktiLUZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Ángel A."
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion y li,pieza. Baños exelentes.\n\n(Translated by Google)\nGood service and clean room. Excellent bathrooms.",
+    "createTime": "2017-05-25T14:42:17.888Z",
+    "updateTime": "2017-05-25T14:42:17.888Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMlBiZ0RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Felix Aguilar"
+    },
+    "starRating": "FOUR",
+    "comment": "Lugar cálido y agradable para hacer una escala en ruta\n\n(Translated by Google)\nA warm and pleasant place to make a stop along the way",
+    "createTime": "2017-05-24T10:50:36.071Z",
+    "updateTime": "2017-05-24T10:51:21.336Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURROGVxcl9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "lucas Lopez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-05-21T16:53:41.225Z",
+    "updateTime": "2017-05-21T16:53:41.225Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3a3RydzFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Stanley"
+    },
+    "starRating": "THREE",
+    "comment": "No contaba con muchos servicios\n\n(Translated by Google)\nIt didn\u0027t have many amenities",
+    "createTime": "2017-05-21T15:59:40.130Z",
+    "updateTime": "2017-05-21T16:00:00.355Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURnNExIU3JRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Graciarena"
+    },
+    "starRating": "TWO",
+    "createTime": "2017-05-20T23:49:52.543Z",
+    "updateTime": "2017-05-20T23:49:52.543Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURnMnBubjJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Torrens"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención al cliente es de excelencia!\n\n(Translated by Google)\nCustomer service is excellent!",
+    "createTime": "2017-05-20T12:47:24.221Z",
+    "updateTime": "2017-05-20T12:47:48.968Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnNHRtb1hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "German Flores Capriotti"
+    },
+    "starRating": "FOUR",
+    "comment": "Es un buen lugar para hacer un alto en el camino, con buen servicio de bufet pero que a la noche no funciona. El servicio de combustible está abierto las 24 hs. Si tienen suerte podrán degustar una ensaimada sanpedrina.-\nEl lugar es seguro y los baños limpios.-\n\n(Translated by Google)\nIt\u0027s a good place to stop along the way, with a good buffet service, although it\u0027s closed at night. The gas station is open 24 hours a day. If you\u0027re lucky, you might get to try a San Pedro-style ensaimada. The place is safe and the restrooms are clean.",
+    "createTime": "2017-05-19T23:10:02.658Z",
+    "updateTime": "2017-05-19T23:10:02.658Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMTRXSFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-05-19T11:10:52.738Z",
+    "updateTime": "2017-05-19T11:10:52.738Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURneUlfam1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Carmona"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-05-19T04:52:58.558Z",
+    "updateTime": "2017-05-19T04:52:58.558Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURBNmZhRGZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Alberto BRONDELLO"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención. Rapidez y eficacia.\n\n(Translated by Google)\nExcellent service. Fast and efficient.",
+    "createTime": "2017-05-19T04:48:41.353Z",
+    "updateTime": "2017-05-19T04:49:22.306Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNTZ1OF9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Barcelo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-05-15T20:16:51.328Z",
+    "updateTime": "2017-05-15T20:16:51.328Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURRbzlHM3pRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bea Dauria"
+    },
+    "starRating": "FIVE",
+    "comment": "Por la limpieza y atención\n\n(Translated by Google)\nFor the cleanliness and attention",
+    "createTime": "2017-05-14T20:52:20.263Z",
+    "updateTime": "2017-05-14T20:52:55.080Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURRdXYza1d3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Arturo Tosoratti"
+    },
+    "starRating": "THREE",
+    "comment": "Es un poco incómodo para bajar de la autopista y volver a retomarla. Lo demás, bien.\n\n(Translated by Google)\nIt\u0027s a bit awkward getting off the highway and back on. Otherwise, it\u0027s fine.",
+    "createTime": "2017-05-14T19:34:21.303Z",
+    "updateTime": "2017-05-14T19:35:29.261Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURBNXFiTEZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Arno Seewald SA"
+    },
+    "starRating": "FIVE",
+    "comment": "lindo lugar para parar\n\n(Translated by Google)\nNice place to stop",
+    "createTime": "2017-05-14T17:53:27.086Z",
+    "updateTime": "2017-05-14T17:53:27.086Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURRNGNLMXp3RRAB"
+  }]
+}

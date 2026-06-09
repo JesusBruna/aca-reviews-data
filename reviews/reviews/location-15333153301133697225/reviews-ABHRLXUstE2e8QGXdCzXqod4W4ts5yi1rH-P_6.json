@@ -1,0 +1,199 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carlos Alberto Aguilera Neme"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-18T19:42:01.618628Z",
+    "updateTime": "2023-04-18T19:42:01.618628Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSURSMU0ybXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mayra Silvana Agüero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-18T16:25:14.930199Z",
+    "updateTime": "2023-04-18T16:25:14.930199Z",
+    "reviewReply": {
+      "comment": "👍",
+      "updateTime": "2023-04-18T18:04:24.339336Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURSbE52OERnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Radino"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-16T16:41:09.063933Z",
+    "updateTime": "2023-04-16T16:41:09.063933Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURSeVBlc0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Alejandro Fernandez"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-14T18:48:48.398340Z",
+    "updateTime": "2023-04-14T18:48:48.398340Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURSZ0lURUZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Cejas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-11T13:53:12.337570Z",
+    "updateTime": "2023-04-11T13:53:12.337570Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSMjV2eEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eliana Quiroga"
+    },
+    "starRating": "ONE",
+    "createTime": "2023-04-09T04:15:26.830248Z",
+    "updateTime": "2023-04-09T04:15:26.830248Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSX1llTzlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jesus martin"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención y buen café x la mañana !\n\n(Translated by Google)\nGreat service and good coffee in the morning!",
+    "createTime": "2023-04-04T19:23:42.126584Z",
+    "updateTime": "2023-04-04T19:23:42.126584Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSaWE3aE5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Gerez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-04T15:16:18.567562Z",
+    "updateTime": "2023-04-04T15:16:18.567562Z",
+    "reviewReply": {
+      "comment": "👍",
+      "updateTime": "2023-04-04T16:18:42.405287Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSOGVpaVVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-02T11:17:19.261116Z",
+    "updateTime": "2023-04-02T11:17:19.261116Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSN3NEQmdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel mario Diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-03-27T21:09:24.747505Z",
+    "updateTime": "2023-03-27T21:09:24.747505Z",
+    "reviewReply": {
+      "comment": "Gracias Daniel por elegirnos!!",
+      "updateTime": "2023-03-28T14:35:41.760048Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdk9xSkV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Balvidares"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de las y los playeros\n\n(Translated by Google)\nExcellent service from the beach staff",
+    "createTime": "2023-03-27T00:03:24.113303Z",
+    "updateTime": "2023-03-27T00:03:24.113303Z",
+    "reviewReply": {
+      "comment": "Gracias gustavo por elegirnos!",
+      "updateTime": "2023-03-27T12:11:58.493718Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSeks3MklnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mar Dz"
+    },
+    "starRating": "FIVE",
+    "comment": "Quedé muy contenta con la atención y trabajo realizado en la parte de boxes del  libricentro. El empleado que me atendió de nombre Marcos me dio respuesta con mucha claridad e idoneidad sobre el service que realizó a mi vehículo . Voy a destacar también que tenía turno y que por el circunstancias climáticas me había  pasado la hora , por lo que supuse que lo había perdido.  Sin embargo me llamaron para decirme que aún tenía mi turno si deseaba llevar el auto. La verdad que excelente todo! No como .la mala experiencia que pasé  2 veces en otra estación de servicio Ypf de avda Belgrano. Donde pedí turnos.en horas de la siesta y nunca estuvo el.personal, ni admistrativo para reclamar y menos el encargado de boxes. Los super recomiendo y felicito!!\n\n(Translated by Google)\nI was very pleased with the service and work done at the book center\u0027s parking lot. The employee named Marcos, who helped me, gave me very clear and competent answers about the service he performed on my vehicle. I should also highlight that I had an appointment, but due to the weather, my appointment time had passed, so I assumed I had missed it. However, they called me to tell me I still had my appointment if I wanted to take the car. Everything was truly excellent! It\u0027s not like the bad experience I had twice at another YPF service station on Belgrano Avenue, where I requested appointments during siesta time, and the staff, not even the administrative staff, were never there to complain, much less the parking lot attendant. I highly recommend and congratulate them!",
+    "createTime": "2023-03-24T02:08:23.107616Z",
+    "updateTime": "2023-03-24T02:08:23.107616Z",
+    "reviewReply": {
+      "comment": "Muchas gracias mar por elegirnos!",
+      "updateTime": "2023-03-27T12:14:31.242538Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScVBIeVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Campos"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio, atención cordial, recomiendo\n\n(Translated by Google)\nExcellent service, friendly attention, I recommend it.",
+    "createTime": "2023-03-22T14:03:53.747600Z",
+    "updateTime": "2023-03-22T14:03:53.747600Z",
+    "reviewReply": {
+      "comment": "Gracias ángel por elegirnos!",
+      "updateTime": "2023-03-27T12:13:10.611235Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSb05INHVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-22T00:16:30.674250Z",
+    "updateTime": "2023-03-22T00:16:30.674250Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURoXzYyT2RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "adriana jorgelina tejeiro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-19T07:44:16.312838Z",
+    "updateTime": "2023-03-19T07:44:16.312838Z",
+    "reviewReply": {
+      "comment": "👍",
+      "updateTime": "2023-03-27T12:13:31.387397Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURoaDhlaExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Superheroes, Cars, Machines, Wolves"
+    },
+    "starRating": "ONE",
+    "comment": "Una Aka. Jajajaja\n\n(Translated by Google)\nAn alias. Hahaha",
+    "createTime": "2023-03-15T22:49:06.037884Z",
+    "updateTime": "2023-03-15T22:49:06.037884Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURoX2VMVldREAE"
+  }, {
+    "reviewer": {
+      "displayName": "thrimn ;"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-12T01:42:03.514936Z",
+    "updateTime": "2023-03-12T01:42:03.514936Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURoeWNPZ2VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina D Lucero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-12T00:48:21.015214Z",
+    "updateTime": "2023-03-12T00:48:21.015214Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURoeVptQUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Zerda"
+    },
+    "starRating": "ONE",
+    "comment": "Malísimo el cambio de turno, no puede ser que corten 15 minutos antes con los autos parados y no hayas ningún playero por todo ese tiempo hasta que que comience el nuevo turno\n\n(Translated by Google)\nThe shift change is terrible; it\u0027s unacceptable that they close 15 minutes early with cars stopped and there\u0027s no attendant for that entire time until the new shift starts.",
+    "createTime": "2023-03-09T00:58:00.352481Z",
+    "updateTime": "2023-03-09T00:58:00.352481Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURoenYzdU9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Bernardo Berton"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención del personal de carga de combustible.\n\n(Translated by Google)\nExcellent service from the fuel loading staff.",
+    "createTime": "2023-03-08T20:48:30.104370Z",
+    "updateTime": "2023-03-08T20:48:30.104370Z",
+    "name": "accounts/109853746269412609224/locations/15333153301133697225/reviews/ChZDSUhNMG9nS0VJQ0FnSURoanYtQ0R3EAE"
+  }]
+}

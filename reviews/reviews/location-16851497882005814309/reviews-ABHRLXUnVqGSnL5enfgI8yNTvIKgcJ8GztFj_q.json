@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "walter Fernandez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-12-02T11:30:50.948800Z",
+    "updateTime": "2018-12-02T11:30:50.948800Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJM2R1VkxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Uberto"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-12-02T11:07:45.398404Z",
+    "updateTime": "2018-12-02T11:07:45.398404Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJM2ZPcHZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ely Zienko"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-11-28T16:06:41.897356Z",
+    "updateTime": "2018-12-01T16:13:39.612662Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJbFptT253RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pelicanof"
+    },
+    "starRating": "TWO",
+    "comment": "No siempre tiene buena atención y muchas veces no les funciona el posnet. No les creo.\n\n(Translated by Google)\nThe service isn\u0027t always good, and their card reader often doesn\u0027t work. I don\u0027t trust them.",
+    "createTime": "2018-11-29T23:21:44.992982Z",
+    "updateTime": "2018-11-29T23:22:41.245280Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJOVlMMFBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Wisznienski"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-11-27T18:38:17.166839Z",
+    "updateTime": "2018-11-27T18:38:17.166839Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJcGFXZW5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nahuel Ferrari"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-11-27T11:28:12.979471Z",
+    "updateTime": "2018-11-27T11:28:12.979471Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJeGVmTTlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2018-11-27T02:43:16.258244Z",
+    "updateTime": "2018-11-27T02:43:23.110241Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJeFpMQnRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Ravina"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-11-26T20:39:22.404223Z",
+    "updateTime": "2018-11-26T20:39:26.399183Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJaGRlNnZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Ricardo Di Iorio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-11-25T21:43:42.285045Z",
+    "updateTime": "2018-11-25T21:43:42.285045Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJLWNpSUJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Bertonatti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-11-25T05:37:25.223163Z",
+    "updateTime": "2018-11-25T05:37:25.223163Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJMmFucFBnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "salomon slavutzky"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-11-24T21:04:24.327981Z",
+    "updateTime": "2018-11-24T21:04:24.327981Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJbVpfS1NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eugenia Terranova"
+    },
+    "starRating": "ONE",
+    "comment": "Nos perdieron la tarjeta de débito y nunca más apareció. Si pudiera darle 0 estrella se la doy. Y nadie se hizo cargo.\n\n(Translated by Google)\nThey lost our debit card and it never turned up again. If I could give it zero stars, I would. And nobody took responsibility.",
+    "createTime": "2018-11-24T17:11:55.877106Z",
+    "updateTime": "2018-11-24T17:13:24.343796Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJbWJtdVVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Colatruglio"
+    },
+    "starRating": "TWO",
+    "comment": "Difícil acceso falta señalización\n\n(Translated by Google)\nDifficult access, lack of signage",
+    "createTime": "2018-11-24T07:06:22.013522Z",
+    "updateTime": "2018-11-24T07:06:54.445827Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJNmRtUUp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Paola Lopez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-11-23T15:43:07.227669Z",
+    "updateTime": "2018-11-23T15:43:07.227669Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJcWM3MHdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Zuniga"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-11-22T13:00:47.040710Z",
+    "updateTime": "2018-11-22T13:00:47.040710Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJaWFTd2hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "lucia andrea sivana"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2018-11-18T01:54:29.659943Z",
+    "updateTime": "2018-11-21T21:59:07.845041Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJdnV1Ym13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maximo Francisco Leon Barreto"
+    },
+    "starRating": "FIVE",
+    "comment": "Siwmpre al servicio del asociado y de la comunidad.\n\n(Translated by Google)\nAlways at the service of the associate and the community.",
+    "createTime": "2018-11-21T20:01:17.359878Z",
+    "updateTime": "2018-11-21T20:01:39.830420Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJc2FQLUR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Charly Jackson"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre de 10 el ACA\n\n(Translated by Google)\nACA is always a 10/10",
+    "createTime": "2018-11-21T11:40:06.704729Z",
+    "updateTime": "2018-11-21T11:40:17.401017Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJMGR2WEN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel A. Severo"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-11-21T11:23:59.766608Z",
+    "updateTime": "2018-11-21T11:23:59.766608Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJMGF2SmN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adangus Muebles"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen combustible, gente amigable!\n\n(Translated by Google)\nGood fuel, friendly people!",
+    "createTime": "2018-11-21T01:18:19.076194Z",
+    "updateTime": "2018-11-21T01:19:00.615257Z",
+    "name": "accounts/109853746269412609224/locations/16851497882005814309/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJMFlpdkx3EAE"
+  }]
+}

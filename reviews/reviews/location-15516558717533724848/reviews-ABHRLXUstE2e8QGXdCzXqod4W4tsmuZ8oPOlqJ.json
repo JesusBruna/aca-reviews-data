@@ -1,0 +1,38 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Eustaquio Gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Es la estación de servicio del Automóvil Club Argentino. Tiene todos los servicios y una muy buena atención. Hay lugares para descansar. Baños 90% limpios\n\n(Translated by Google)\nIt\u0027s the service station of the Argentine Automobile Club. It has all the services and very good customer service. There are places to rest. Restrooms are 90% clean.",
+    "createTime": "2016-07-08T16:38:08.104Z",
+    "updateTime": "2016-07-08T16:38:08.104Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURRZzVId3h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Renee Matias Carneiro"
+    },
+    "starRating": "FOUR",
+    "comment": "Siempre tiene combustible... Buenas eso ya es mucho pedir....\n\n(Translated by Google)\nIt always has fuel... Well, that\u0027s asking a lot...",
+    "createTime": "2016-06-17T23:52:53.313Z",
+    "updateTime": "2016-06-17T23:53:19.965Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURRelp5djBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Germán Schacht"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-06-11T15:06:46.977Z",
+    "updateTime": "2016-06-11T15:06:46.977Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRNDluUlZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Morales"
+    },
+    "starRating": "THREE",
+    "comment": "ACA - Misiones\n\n(Translated by Google)\nACA - Missions",
+    "createTime": "2014-09-25T13:36:21.947Z",
+    "updateTime": "2014-09-25T13:36:21.947Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBOUxtSlRREAE"
+  }]
+}

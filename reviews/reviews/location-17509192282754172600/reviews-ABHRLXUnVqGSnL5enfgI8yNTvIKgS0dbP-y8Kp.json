@@ -1,0 +1,21 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Nael Rod"
+    },
+    "starRating": "THREE",
+    "comment": "Gran atención y servicio. Aunque aún le falta un poco para ser suficiente.\n\n(Translated by Google)\nGreat attention and service. Although it still falls a little short of being perfect.",
+    "createTime": "2016-07-18T17:56:06.323Z",
+    "updateTime": "2016-07-18T17:56:43.532Z",
+    "name": "accounts/109853746269412609224/locations/17509192282754172600/reviews/ChZDSUhNMG9nS0VJQ0FnSURndlBQMVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Angel Ponce"
+    },
+    "starRating": "ONE",
+    "comment": "El único lugar donde no se puede pagar con tarjeta y sólo abre durante el día.\n\n(Translated by Google)\nThe only place where you can\u0027t pay by card and it\u0027s only open during the day.",
+    "createTime": "2016-05-20T22:47:55.048Z",
+    "updateTime": "2016-05-20T22:48:26.681Z",
+    "name": "accounts/109853746269412609224/locations/17509192282754172600/reviews/ChdDSUhNMG9nS0VJQ0FnSURRd2VxTGt3RRAB"
+  }]
+}

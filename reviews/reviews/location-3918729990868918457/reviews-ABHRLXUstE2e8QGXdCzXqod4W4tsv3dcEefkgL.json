@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Liliana Gimenez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-21T12:10:08.126637Z",
+    "updateTime": "2021-02-21T12:10:08.126637Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5c0tHLTVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Zarate"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y lo mejor la higiene que tienen siempre todo bien limpio ..para pasar un rato\n\n(Translated by Google)\nExcellent service and best of all, the hygiene is top-notch; everything is always spotless...perfect for spending some time.",
+    "createTime": "2021-02-20T15:36:52.961733Z",
+    "updateTime": "2021-02-20T15:38:02.593674Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5NElPd0hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "CRISTIAN RIOS"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente lugar\n\n(Translated by Google)\nExcellent place",
+    "createTime": "2021-02-20T12:27:48.985034Z",
+    "updateTime": "2021-02-20T12:27:48.985034Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5NE15TVRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Paillet"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2021-02-15T23:09:16.079077Z",
+    "updateTime": "2021-02-15T23:09:16.079077Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5cC1lSFdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Piedra Papel o Tijera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-15T15:33:11.096634Z",
+    "updateTime": "2021-02-15T15:33:11.096634Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5eF8zaWVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Paillet"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y baños muy limpios\n\n(Translated by Google)\nGood service and very clean bathrooms",
+    "createTime": "2021-02-15T02:54:42.669324Z",
+    "updateTime": "2021-02-15T02:54:42.669324Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5LV91Zk1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "gabriela geron"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-14T18:40:09.407686Z",
+    "updateTime": "2021-02-14T18:40:09.407686Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5dTdlRXpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Cuenca"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención solo que podrían traer el código qr al auto o ponerlo sobre el surtidor así no hay que bajarse del auto para ir a pagar, así con eso evitamos contactos entre personas que son en vano pudiéndose hacer de otra manera\n\n(Translated by Google)\nGood service, but they could bring the QR code to the car or place it on the pump so you don\u0027t have to get out of the car to pay. That way we avoid unnecessary contact between people when it could be done another way.",
+    "createTime": "2021-02-14T02:59:14.541379Z",
+    "updateTime": "2021-02-14T02:59:32.229428Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5bThQVVRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Edgardo Vario"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar para descansar\n\n(Translated by Google)\nA great place to relax",
+    "createTime": "2021-02-13T18:51:52.869143Z",
+    "updateTime": "2021-02-13T18:51:52.869143Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5NjhQSGpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ramiro Jose Lopez Bustos"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención d personal de playa\n\n(Translated by Google)\nExcellent attention from beach staff",
+    "createTime": "2021-02-11T19:35:10.638921Z",
+    "updateTime": "2021-02-11T19:35:10.638921Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5azUyQXpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "San Llanos"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena la atención, los baños siempre limpios\n\n(Translated by Google)\nExcellent service, the bathrooms were always clean",
+    "createTime": "2021-02-10T15:38:03.314318Z",
+    "updateTime": "2021-02-10T15:38:09.474858Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5X2RXRktnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ruben mazurek"
+    },
+    "starRating": "THREE",
+    "comment": "Bueno\n\n(Translated by Google)\nWell",
+    "createTime": "2021-02-09T22:47:30.833962Z",
+    "updateTime": "2021-02-09T22:47:30.833962Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5M2FLTkp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Cari Benisio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-09T22:03:53.869525Z",
+    "updateTime": "2021-02-09T22:03:53.869525Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5M2RUUzhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roman Salgado"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-09T13:38:26.511896Z",
+    "updateTime": "2021-02-09T13:38:26.511896Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5N1pHcWt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Sadeldin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-08T21:01:08.723676Z",
+    "updateTime": "2021-02-08T21:01:08.723676Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5ellLQS13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vale Nuñez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención! Una parada obligatoria\n\n(Translated by Google)\nExcellent service! A must-stop!",
+    "createTime": "2021-02-05T19:32:12.623864Z",
+    "updateTime": "2021-02-05T19:42:53.963498Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5LWFxdGtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Isabel Mili Lauri"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente como siempre. Limpio. Buen precio. Muy amables. Buenos productos. Baños\nlimpios\n\n(Translated by Google)\nExcellent as always. Clean. Good price. Very friendly. Good products. Clean restrooms.",
+    "createTime": "2021-02-01T23:55:58.465212Z",
+    "updateTime": "2021-02-01T23:56:36.934350Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5d1lxZ09BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Banegas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-01-30T22:39:59.070135Z",
+    "updateTime": "2021-01-30T22:39:59.070135Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5cnVXN0p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Brenda Rivera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-01-30T21:20:41.341189Z",
+    "updateTime": "2021-01-30T21:20:41.341189Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5cm9ITXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nilda Alvarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables. Los baños limpios. Rápido atención\n\n(Translated by Google)\nVery friendly. Clean restrooms. Quick service.",
+    "createTime": "2021-01-26T14:54:50.740652Z",
+    "updateTime": "2021-01-26T14:55:22.879563Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5cXRmM1F3EAE"
+  }]
+}

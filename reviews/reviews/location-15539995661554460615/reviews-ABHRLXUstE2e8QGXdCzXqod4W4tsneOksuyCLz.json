@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Miguel Yapur"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-03-03T03:47:21.927865Z",
+    "updateTime": "2020-03-03T03:47:21.927865Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzbHZLTzZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Darío Remedi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-03-03T00:05:04.539341Z",
+    "updateTime": "2020-03-03T00:05:04.539341Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSURzNXJtRWZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ada M Cargnelutti"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2020-03-01T11:04:07.074094Z",
+    "updateTime": "2020-03-01T11:04:07.074094Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzbXFXRTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Naty Ruiz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-03-01T05:32:48.623299Z",
+    "updateTime": "2020-03-01T05:32:48.623299Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSURzNnVQMEVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Garcia"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-29T20:39:04.951687Z",
+    "updateTime": "2020-02-29T20:39:04.951687Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSURzcXJMRVRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Juan Machado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-29T04:22:19.870504Z",
+    "updateTime": "2020-02-29T04:22:19.870504Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzOHF6SmtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Valentina Ruth Cuello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-28T18:29:11.555203Z",
+    "updateTime": "2020-02-28T18:29:11.555203Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzMHFYRXJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elio Diaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-27T03:19:05.312130Z",
+    "updateTime": "2020-02-27T03:19:05.312130Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzX096ZHRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciosalsao Santostefano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-24T23:34:14.307652Z",
+    "updateTime": "2020-02-24T23:34:14.307652Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzdEpURW1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrés Izeta"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-24T20:11:56.710272Z",
+    "updateTime": "2020-02-24T20:11:56.710272Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzMUxueW1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Gomez"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-02-24T11:51:43.662478Z",
+    "updateTime": "2020-02-24T11:51:43.662478Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSURzNUx1d1BREAE"
+  }, {
+    "reviewer": {
+      "displayName": "ezequiel boarini"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-23T22:22:54.497521Z",
+    "updateTime": "2020-02-23T22:22:54.497521Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzeElPV2dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lautaro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-23T12:05:55.661809Z",
+    "updateTime": "2020-02-23T12:05:55.661809Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzLUxxXzN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "German Verblud"
+    },
+    "starRating": "ONE",
+    "comment": "!No tomen cafe, por favor!\n\n(Translated by Google)\nPlease don\u0027t drink coffee!",
+    "createTime": "2020-02-21T19:35:03.371930Z",
+    "updateTime": "2020-02-21T19:35:03.371930Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSURzaU5qQlN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Myrian Martinez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.  Hay suficientes playeros para atender.\n\n(Translated by Google)\nGood service. There are enough beach attendants to serve.",
+    "createTime": "2020-02-21T13:29:10.720753Z",
+    "updateTime": "2020-02-21T13:29:10.720753Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSURzc04zTFZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "lucas rosales"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención al cliente\n\n(Translated by Google)\nGood customer service",
+    "createTime": "2020-02-21T13:15:43.650923Z",
+    "updateTime": "2020-02-21T13:15:43.650923Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzc1BYSnFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JUAN MARCELO PEREZ"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-21T09:13:14.421Z",
+    "updateTime": "2020-02-21T09:13:14.421Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSURzME5lUEhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Ecxelente servicio\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-02-20T00:11:48.370552Z",
+    "updateTime": "2020-02-20T00:11:48.370552Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChdDSUhNMG9nS0VJQ0FnSURzZ0o2bThnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Lopez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bueno!\n\n(Translated by Google)\nVery good!",
+    "createTime": "2020-02-19T15:17:22.785336Z",
+    "updateTime": "2020-02-19T15:17:22.785336Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzdi1mM0tnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Virginia Prigioni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-19T01:09:24.528151Z",
+    "updateTime": "2020-02-19T01:09:24.528151Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzbjZPNlVBEAE"
+  }]
+}

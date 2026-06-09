@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mariel Carbó"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-08T01:50:42.116500Z",
+    "updateTime": "2022-11-08T01:50:42.116500Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtMmJtYnN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel aguirre"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-06T19:02:03.106986Z",
+    "updateTime": "2022-11-06T19:02:03.106986Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtc1l2ZE5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Campos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-06T19:01:45.417596Z",
+    "updateTime": "2022-11-06T19:01:45.417596Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtc1l2SjNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fredy lopez"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-11-01T16:50:51.590605Z",
+    "updateTime": "2022-11-01T16:51:00.067712Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtbXJfQUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Trail Arg. Alejandro M.Quiroga"
+    },
+    "starRating": "FOUR",
+    "comment": "El viejo y buen estilo de un ACA!!!\n\n(Translated by Google)\nThe good old-fashioned ACA style!!!",
+    "createTime": "2022-11-01T02:41:12.829009Z",
+    "updateTime": "2022-11-01T02:41:12.829009Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUMteXNtQmhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Viviana Pereyra Fuentes"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-10-31T03:02:59.836387Z",
+    "updateTime": "2022-10-31T03:03:10.652926Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUMta3A3UGl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y predisposición del personal todo limpió\n\n(Translated by Google)\nExcellent service and helpful staff, everything was clean",
+    "createTime": "2022-10-30T21:56:27.368854Z",
+    "updateTime": "2022-10-30T21:56:27.368854Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtNHUzODF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Bondino"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-10-30T04:07:05.009181Z",
+    "updateTime": "2022-10-30T04:07:05.009181Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtX092cnh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Norry"
+    },
+    "starRating": "THREE",
+    "comment": "Pequeña estación de servicio dentro del pueblo. Tiene una cafetería con lo básico. Los baños limpios. La atención correcta.\n\n(Translated by Google)\nSmall gas station in town. It has a café with basic amenities. Clean restrooms. Decent service.",
+    "createTime": "2022-10-30T00:45:15.034553Z",
+    "updateTime": "2022-10-30T00:45:15.034553Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtX05yRUlREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Valenzuela"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-10-30T00:21:15.235154Z",
+    "updateTime": "2022-10-30T00:21:15.235154Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtX05LX093EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dra Sara Castro"
+    },
+    "starRating": "THREE",
+    "comment": "Vieja Estacion de Servicio del ACA con una sola dársena de combustible y un Shop Café lindo. Claramente es para el consumo local, dado que esta lejos de la Ruta, no está a la vista...u la Regla de Oro de la mercadotecnia dice, que el producto debe tener exposición o visualizado por el potencial cliente (viajante). La nafta súper a $155.70, correctamente atendido por la señora playera.\n\n(Translated by Google)\nOld ACA service station with a single fuel bay and a nice little shop/café. It\u0027s clearly for local use, given its distance from the highway and lack of visibility... and the Golden Rule of marketing states that the product must be visible to potential customers (travelers). Premium gasoline was $155.70, and the attendant was very helpful.",
+    "createTime": "2022-10-28T20:06:00.004342Z",
+    "updateTime": "2022-10-28T20:06:00.004342Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtek5uWEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cynthia Bustamante"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-10-24T20:10:39.479339Z",
+    "updateTime": "2022-10-24T20:10:39.479339Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUMta0ppVkVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Gardella"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención del bar de dicha estación de servicio\n\n(Translated by Google)\nExcellent service at the bar of that gas station",
+    "createTime": "2022-10-21T18:55:45.163878Z",
+    "updateTime": "2022-10-21T18:55:45.163878Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURlMTlqMGVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Horacio Martín"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-10-17T23:03:31.408859Z",
+    "updateTime": "2022-10-17T23:03:31.408859Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSURlZzVLNWpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Huczok"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy serviciales, a la vuelta hay una panadería muy buena.\n\n(Translated by Google)\nVery helpful, there\u0027s a very good bakery around the corner.",
+    "createTime": "2022-10-15T18:38:23.677271Z",
+    "updateTime": "2022-10-15T18:38:23.677271Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURlMVlpX2V3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Quinteros"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre con una muy buena atención exelente los servicios que prestan\n\n(Translated by Google)\nAlways with very good attention, excellent services they provide.",
+    "createTime": "2022-10-09T11:17:54.314999Z",
+    "updateTime": "2022-10-09T11:17:54.314999Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURlNXFHdURREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Flores"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-07T23:30:52.973936Z",
+    "updateTime": "2022-10-07T23:30:52.973936Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSURlbXZHbzZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Druetta"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy ordenado y limpio. Excelente atención.\n\n(Translated by Google)\nVery tidy and clean. Excellent service.",
+    "createTime": "2022-10-06T18:41:34.809421Z",
+    "updateTime": "2022-10-06T18:41:34.809421Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURlc3ZiaU53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Farias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-30T21:46:36.081541Z",
+    "updateTime": "2022-09-30T21:46:36.081541Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURlcUxmc2ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "vero ramaccioni"
+    },
+    "starRating": "TWO",
+    "comment": "El lugar es chico. Si hay mucha demanda se quedan sin menaje.\n\n(Translated by Google)\nThe place is small. If there\u0027s a lot of demand, they run out of supplies.",
+    "createTime": "2022-09-24T12:24:49.860595Z",
+    "updateTime": "2022-09-24T12:24:49.860595Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlNjktbS1BRRAB"
+  }]
+}

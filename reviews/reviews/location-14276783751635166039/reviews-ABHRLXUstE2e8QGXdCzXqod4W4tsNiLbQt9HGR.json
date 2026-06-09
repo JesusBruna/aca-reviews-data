@@ -1,0 +1,233 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Paulo Mondaca"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-23T16:55:57.883558Z",
+    "updateTime": "2022-11-23T16:55:57.883558Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtbktUTkdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santi Zapata"
+    },
+    "starRating": "TWO",
+    "comment": "No había agua para el mate, no habían sanguchitos, era lo único que necesitaba, así que todo mal\n\n(Translated by Google)\nThere was no water for mate, no sandwiches, that was all I needed, so everything was wrong",
+    "createTime": "2022-11-23T16:18:46.931946Z",
+    "updateTime": "2022-11-23T16:18:46.931946Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtN0xfOTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Quezada"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-23T02:12:47.402734Z",
+    "updateTime": "2022-11-23T02:12:47.402734Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQteklqY0JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "laugallo06"
+    },
+    "starRating": "THREE",
+    "comment": "Bastante caro la parte de\n\n(Translated by Google)\nThe part about",
+    "createTime": "2022-11-22T23:33:41.358017Z",
+    "updateTime": "2022-11-22T23:49:23.025434Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtak1YYW1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Astrid Bachmann"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-22T14:04:14.013050Z",
+    "updateTime": "2022-11-22T14:04:14.013050Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T14:45:49.539763Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtdEw2d3p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Freitas"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) The gas station is good, standard for other YPF stations, but it needs to be expanded; there\u0027s always a line to get gas.\n\n(Original)\nO posto é bom, padrão dos demais YPF, mas precisa ser ampliado, está sempre com fila para abastecer.",
+    "createTime": "2022-11-19T23:50:29.995479Z",
+    "updateTime": "2022-11-19T23:50:29.995479Z",
+    "reviewReply": {
+      "comment": "Buen día gracias por su comentario  estamos trabajando para agilizar los tiempos de atencion \n",
+      "updateTime": "2022-11-22T14:03:34.228871Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQteU1mVFpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Russo"
+    },
+    "starRating": "FOUR",
+    "comment": "Vista exelente\n\n(Translated by Google)\nExcellent view",
+    "createTime": "2022-11-19T18:50:58.486859Z",
+    "updateTime": "2022-11-19T18:50:58.486859Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario esperamos pronto su visita\n",
+      "updateTime": "2022-11-22T13:49:53.420270Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaU0tMkxBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "JOSÉ GRAMAJO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-19T12:25:12.293517Z",
+    "updateTime": "2022-11-19T12:25:12.293517Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T13:50:23.220060Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtOExqS2lRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Pravettoni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-19T03:28:20.869960Z",
+    "updateTime": "2022-11-19T03:28:20.869960Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T13:50:30.216390Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtMEphcXN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Ascurra"
+    },
+    "starRating": "FIVE",
+    "comment": "Correcta atención...\n\n(Translated by Google)\nProper attention...",
+    "createTime": "2022-11-17T03:47:37.692156Z",
+    "updateTime": "2022-11-17T22:39:43.408580Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T13:50:36.743173Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtNzQ2TWVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Antonio alfonso Dinamarca"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-11-15T13:13:24.030254Z",
+    "updateTime": "2022-11-15T13:13:24.030254Z",
+    "reviewReply": {
+      "comment": "Buen día gracias por su comentario, desde la administración estamos interesados en saber cual fue su experiencia ",
+      "updateTime": "2022-11-22T13:51:39.732109Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtNTd5UUtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "RAQUEL SILVESTRINI"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso lugar.\n\n(Translated by Google)\nBeautiful place.",
+    "createTime": "2022-11-15T00:15:42.124330Z",
+    "updateTime": "2022-11-15T00:15:42.124330Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T13:51:46.528744Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtaC1LZFNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Badal"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-13T02:26:54.722190Z",
+    "updateTime": "2022-11-13T02:26:54.722190Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T13:51:52.713920Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtczYyUU9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan José Pereira"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-09T10:24:50.773574Z",
+    "updateTime": "2022-11-09T10:24:50.773574Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T13:52:06.463637Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtbGVhTzd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Vacas"
+    },
+    "starRating": "THREE",
+    "comment": "Mucha gente en la YPF y a pocos metros hay otra estación de servicio. La ruta está en buen estado, viajamos un domingo y no había obras en curso. Los primeros 50 KM desde 25 de Mayo hacia el este tienen máquinas a los costados. Tal vez en días de semana haya desvíos.\n\n(Translated by Google)\nLots of people at the YPF station, and there\u0027s another gas station a few meters away. The road is in good condition; we traveled on a Sunday, and there was no roadwork in progress. The first 50 km from 25 de Mayo eastward have machines on the sides. There may be detours on weekdays.",
+    "createTime": "2022-11-08T12:57:56.953478Z",
+    "updateTime": "2022-11-08T12:57:56.953478Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario, si hay horarios en que se satura la estacion con clientes, estamos trabajando para agilizar en esos picos puntuales la atención ",
+      "updateTime": "2022-11-22T13:53:11.664326Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtLWZmWk5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Ferreyro"
+    },
+    "starRating": "ONE",
+    "comment": "Muy mala atención en los surtidores...\n\n(Translated by Google)\nVery poor service at the pumps...",
+    "createTime": "2022-11-07T21:07:17.423448Z",
+    "updateTime": "2022-11-07T21:07:17.423448Z",
+    "reviewReply": {
+      "comment": "Buen día desde la Administración estamos interesados por saber cual fue su experiencia ",
+      "updateTime": "2022-11-22T13:53:45.532747Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtbWZPSzVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Dubini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-04T00:19:23.479649Z",
+    "updateTime": "2022-11-04T00:19:23.479649Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T13:53:51.806055Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtanQ3S0ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "German Barreiro"
+    },
+    "starRating": "ONE",
+    "comment": "En enero fui pésima atención del encargado, la playa llena de gente 40 minutos esperando bajo el sol y el encargado sentado hablando por celular. Realice mi queja y me dijo que vaya a otra estación a cargar nafta. Los playeros por poco que hacen el pulido de las ópticas.\nLa estación de la salida del camino del desierto mucho mejor la atención y mas dinámicos.\n\n(Translated by Google)\nIn January, I received terrible service from the attendant. The gas station was packed, and I waited 40 minutes in the sun while he sat on his cell phone. I complained, and he told me to go to another station to fill up. The attendants barely bothered to clean the headlights.\nThe station at the exit of the desert road had much better service and was much more efficient.",
+    "createTime": "2022-11-02T15:48:48.003090Z",
+    "updateTime": "2022-11-02T15:48:48.003090Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia ",
+      "updateTime": "2025-07-19T21:57:07.275059Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMteHRXM1dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "dany el diablo Scorcione"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-02T11:45:55.827028Z",
+    "updateTime": "2022-11-02T11:45:55.827028Z",
+    "reviewReply": {
+      "comment": "Buen dia gracias por su comentario ",
+      "updateTime": "2022-11-22T14:00:37.870641Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtaHVtZjFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "EduL"
+    },
+    "starRating": "FOUR",
+    "comment": "Siempre YPF\n\n(Translated by Google)\nAlways YPF",
+    "createTime": "2022-11-01T01:11:33.322395Z",
+    "updateTime": "2022-11-01T01:11:33.322395Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUMteXRyVkF3EAE"
+  }]
+}

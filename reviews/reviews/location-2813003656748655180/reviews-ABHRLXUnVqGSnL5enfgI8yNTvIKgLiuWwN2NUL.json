@@ -1,0 +1,172 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Valentin Vega"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-26T22:51:47.925313Z",
+    "updateTime": "2020-02-26T22:51:47.925313Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzdk1IaVhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ro Arias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-26T22:49:20.541547Z",
+    "updateTime": "2020-02-26T22:49:20.541547Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzdklIeHB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Alberto Haedo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-26T21:32:01.854349Z",
+    "updateTime": "2020-02-26T21:32:01.854349Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzdkxMZTVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luz Reyes"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-26T20:14:40.335102Z",
+    "updateTime": "2020-02-26T20:14:40.335102Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzdk1qWVB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Alcaraz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-26T19:07:24.426264Z",
+    "updateTime": "2020-02-26T19:07:24.426264Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzM052NUl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Trulls"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente lugar para parar. Estacion de servicio muy cómoda y de muy buena atención. La confitería es muy amplia con mesas suficientes. El servicio impecable. Los baños siempre limpios salvo cuando desborda de gente. Lindo parque con parrilleros.\n\n(Translated by Google)\nExcellent place to stop. Very comfortable gas station with great service. The café is spacious with plenty of tables. Impeccable service. The restrooms are always clean except when it\u0027s overcrowded. Nice park with barbecue grills.",
+    "createTime": "2017-10-08T19:02:29.861Z",
+    "updateTime": "2020-02-26T18:54:42.221032Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRN1k2VHhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Papo Capanga"
+    },
+    "starRating": "FIVE",
+    "comment": "Espacios verdes amplios para descansar.\n\n(Translated by Google)\nSpacious green areas for relaxing.",
+    "createTime": "2020-02-26T18:51:54.699826Z",
+    "updateTime": "2020-02-26T18:51:54.699826Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzM0xPUE1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Yesica Aguirre"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-26T18:19:46.448200Z",
+    "updateTime": "2020-02-26T18:19:46.448200Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzM0kzbmdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ESTEBAN ABEL Guglielmino"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-26T17:28:38.024485Z",
+    "updateTime": "2020-02-26T17:28:38.024485Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzM0tHQ1Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Ricciardi"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-02-26T17:00:02.126314Z",
+    "updateTime": "2020-02-26T17:00:02.126314Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzM05iS1JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Horacio Paradis"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente sitio para descansar en medio del viaje a Mar del Plata. Muy buen parque con asientos y mesas para socios, cómodo y práctico para estacionar. Muy buena sombra. Párrafo aparte para los baños, muy buenos, lamentablemente la gente es muy descuidada y sucia. El am-pm no es recomendable los precios son caros y la atención no es buena.\n\n(Translated by Google)\nExcellent place to rest during the trip to Mar del Plata. A very nice park with seating and tables for members, comfortable and convenient for parking. Very good shade. A separate section for the bathrooms, which are very good, unfortunately the staff are very careless and dirty. The AM-PM is not recommended; prices are high and the service is poor.",
+    "createTime": "2020-02-26T15:32:57.018078Z",
+    "updateTime": "2020-02-26T15:32:57.018078Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzbk92UklBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Ortigoza"
+    },
+    "starRating": "FOUR",
+    "createTime": "2020-02-26T15:24:51.912732Z",
+    "updateTime": "2020-02-26T15:24:51.912732Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzM0lpZl93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel De Sanctis"
+    },
+    "starRating": "FIVE",
+    "comment": "Tiene lo que uno necesita\n\n(Translated by Google)\nIt has what one needs",
+    "createTime": "2020-02-26T14:59:12.670848Z",
+    "updateTime": "2020-02-26T14:59:12.670848Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzbk4tc3ZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daro Top"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-26T13:40:53.774055Z",
+    "updateTime": "2020-02-26T13:40:53.774055Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzbk0zREFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elsa Romero"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo lugar, se puede tomar mate tranquilo\n\n(Translated by Google)\nNice place, you can have a quiet mate.",
+    "createTime": "2020-02-26T13:39:00.113969Z",
+    "updateTime": "2020-02-26T13:39:00.113969Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzbkkybEtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Lasalde"
+    },
+    "starRating": "FIVE",
+    "comment": "El clásico de la ruta 2. Una parada prácticamente indiscutida a la hora de emprender viaje hacia la costa atlántica argentina. Las instalaciones del ACA Dolores cuentan con todos los servicios necesarios para poder hacer de tu viaje algo realmente placentero. Los baños muy limpios y buen servicio de comida rápida. Nuestro lugar de descanso...\n\n(Translated by Google)\nThe classic on Route 2. A practically undisputed stop when embarking on a trip to Argentina\u0027s Atlantic coast. The ACA Dolores facilities have all the necessary services to make your trip truly enjoyable. The restrooms are very clean and the fast food service is excellent. Our resting place...",
+    "createTime": "2020-02-26T13:14:10.338195Z",
+    "updateTime": "2020-02-26T13:14:10.338195Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzbk5uSGdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Lanfranconi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-02-26T12:30:33.150225Z",
+    "updateTime": "2020-02-26T12:30:33.150225Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzbk83TzNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Daniel Aranda"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-02-26T11:05:52.844377Z",
+    "updateTime": "2020-02-26T11:05:52.844377Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzbkt6OG5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "SERGIO PICCO"
+    },
+    "starRating": "FIVE",
+    "comment": "Infaltable en mis visitas a la Costa\n\n(Translated by Google)\nA must-have on my visits to the Coast",
+    "createTime": "2020-02-26T04:42:20.765089Z",
+    "updateTime": "2020-02-26T04:42:20.765089Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChZDSUhNMG9nS0VJQ0FnSURzN1BLeUhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Gomez Estrada"
+    },
+    "starRating": "THREE",
+    "comment": "Lindo lugar buena atención no es muy económico el desayuno\n\n(Translated by Google)\nNice place, good service, but breakfast isn\u0027t very cheap.",
+    "createTime": "2020-02-26T02:28:27.504169Z",
+    "updateTime": "2020-02-26T02:28:27.504169Z",
+    "name": "accounts/109853746269412609224/locations/2813003656748655180/reviews/ChdDSUhNMG9nS0VJQ0FnSURzN01EVDJnRRAB"
+  }]
+}
