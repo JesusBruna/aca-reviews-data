@@ -1,0 +1,212 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Horacio luciani"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-16T17:40:05.180529Z",
+    "updateTime": "2021-12-16T17:40:05.180529Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNteU1UQ2N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Marcelo Mendez"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-12-16T14:46:18.916243Z",
+    "updateTime": "2021-12-16T14:46:18.916243Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtaUo3YnR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Migone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-12T16:15:41.710835Z",
+    "updateTime": "2021-12-12T16:15:41.710835Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURHdDQzcm9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ruben torres"
+    },
+    "starRating": "FOUR",
+    "comment": "No estoy muy de acuerdo con los precios x ser de la patagonia\n\n(Translated by Google)\nI don\u0027t really agree with the prices because I\u0027m from Patagonia.",
+    "createTime": "2021-12-12T02:27:50.638411Z",
+    "updateTime": "2021-12-12T02:27:52.414770Z",
+    "reviewReply": {
+      "comment": "Sepa usted disculparnos señor TORRES, péro nuestros precios son los oficiales. Gracias.",
+      "updateTime": "2021-12-14T18:58:12.295627Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURHbDdTamd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lorena Zurita"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy limpió los baños...\n\n(Translated by Google)\nThe bathrooms were very clean...",
+    "createTime": "2021-12-11T00:15:59.210826Z",
+    "updateTime": "2021-12-11T00:15:59.210826Z",
+    "reviewReply": {
+      "comment": "Nos satisface que haya sido de su agrado. Gracias",
+      "updateTime": "2021-12-16T00:01:41.405090Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHLTVtcUZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Islas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-09T15:18:48.285881Z",
+    "updateTime": "2021-12-09T15:18:48.285881Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHeV9uX1BBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Benitez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-09T12:37:48.162358Z",
+    "updateTime": "2021-12-09T12:37:48.162358Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHeTREc2NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Ferrón"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo correcto\n\n(Translated by Google)\nEverything is fine.",
+    "createTime": "2021-12-07T19:36:58.538032Z",
+    "updateTime": "2021-12-07T19:36:59.883733Z",
+    "reviewReply": {
+      "comment": "Gracias.",
+      "updateTime": "2021-12-09T22:05:49.623019Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHd19iMkZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Ducca"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atencion...\n\n(Translated by Google)\nGood service...",
+    "createTime": "2021-12-06T03:06:41.432679Z",
+    "updateTime": "2021-12-06T03:06:41.432679Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2021-12-09T21:59:54.515159Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURHemFHMC1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marito Torres"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-12-06T01:23:37.163961Z",
+    "updateTime": "2021-12-06T01:23:37.163961Z",
+    "reviewReply": {
+      "comment": "Estamos para servirle. Gracias",
+      "updateTime": "2021-12-09T21:59:33.621526Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURHemFMdm53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jairo Roggiano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-05T14:11:00.136979Z",
+    "updateTime": "2021-12-05T14:11:00.136979Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURHOWVMaDNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Maldonado"
+    },
+    "starRating": "FIVE",
+    "comment": "Genial!\n\n(Translated by Google)\nBrilliant!",
+    "createTime": "2019-07-27T13:46:05.783816Z",
+    "updateTime": "2021-12-04T22:45:49.657160Z",
+    "reviewReply": {
+      "comment": "Muy amable por su calificacion. Gracias",
+      "updateTime": "2021-12-09T21:58:58.066029Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVOGM3WFhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maxi Pezzotta"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-12-04T19:58:21.304668Z",
+    "updateTime": "2021-12-04T19:58:21.304668Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHbGNIcEVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Anibal Torres"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-02T20:40:18.689029Z",
+    "updateTime": "2021-12-02T20:40:18.689029Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURHbWNYR3h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Vidaurreta"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2021-12-02T15:13:40.387625Z",
+    "updateTime": "2021-12-02T15:13:40.387625Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2021-12-02T23:19:26.670906Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHNmFIZUhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Coco Zarasola"
+    },
+    "starRating": "FIVE",
+    "comment": "Instalación refaccionada, buena atencion\n\n(Translated by Google)\nRefurbished facility, good service",
+    "createTime": "2021-11-28T23:25:00.636150Z",
+    "updateTime": "2021-11-28T23:25:00.636150Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2021-11-29T22:49:52.183553Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHN3F1ekN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Aldo Veron"
+    },
+    "starRating": "ONE",
+    "createTime": "2021-11-27T23:39:01.813538Z",
+    "updateTime": "2021-11-27T23:39:01.813538Z",
+    "reviewReply": {
+      "comment": "Señor VERON nos gustaria poder mejorar. Nos brindaria detalles del porque de su calificacion.\nMi cel 0291 155047351\nGracias, RUBEN",
+      "updateTime": "2021-11-29T22:49:42.911654Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHanVqU1ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "TEC 3D"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-26T12:23:00.069994Z",
+    "updateTime": "2021-11-26T12:23:00.069994Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURHcHVLMy1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica B"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-26T02:32:06.446069Z",
+    "updateTime": "2021-11-26T02:32:06.446069Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHaG9leGVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "hugo omar balmaceda"
+    },
+    "starRating": "THREE",
+    "comment": "Muy caro\n\n(Translated by Google)\nVery expensive",
+    "createTime": "2021-11-25T19:29:01.736283Z",
+    "updateTime": "2021-11-25T19:29:01.736283Z",
+    "reviewReply": {
+      "comment": "Le agradezco el comentario OMAR, trabajaremos en eso.",
+      "updateTime": "2021-11-29T22:46:44.857863Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURHaHRDTkdREAE"
+  }]
+}

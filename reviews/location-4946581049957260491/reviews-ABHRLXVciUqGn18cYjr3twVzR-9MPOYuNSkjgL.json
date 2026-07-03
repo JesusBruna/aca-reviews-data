@@ -1,0 +1,256 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Daniel Vargas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-08T02:23:15.276401Z",
+    "updateTime": "2024-05-08T02:23:15.276401Z",
+    "reviewReply": {
+      "comment": "Sr Daniel\nAgradecemos su calificación. Continuaremos trabajando para seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T14:24:54.100305Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURqLTl6azZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Carelli"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-05-05T22:59:40.642370Z",
+    "updateTime": "2024-05-05T22:59:40.642370Z",
+    "reviewReply": {
+      "comment": "Sr Jose\nAgradecemos mucho su calificación. Continuaremos trabajando para seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T14:25:39.564860Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURqdGRmWi1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Campos"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, cargue rápido.\n\n(Translated by Google)\nGood service, fast charging.",
+    "createTime": "2024-05-05T16:22:55.492698Z",
+    "updateTime": "2024-05-05T16:22:55.492698Z",
+    "reviewReply": {
+      "comment": "Sr Daniel\nAgradecemos mucho su calificación y comentario, ya que de esta manera nos ayuda a mejorar. Aguardamos su visita nuevamente.",
+      "updateTime": "2024-06-03T14:29:26.220274Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURqNWZQY25nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-04T00:21:54.044981Z",
+    "updateTime": "2024-05-04T00:21:54.044981Z",
+    "reviewReply": {
+      "comment": "Sr Diego\nAgradecemos su calificación. Continuaremos trabajando para seguir mejorando. Esperamos contar con su visita nuevamente.",
+      "updateTime": "2024-06-03T14:32:36.455785Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURqZ2VmSGd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "celia benitez"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo lugar\n\n(Translated by Google)\nBeautiful place",
+    "createTime": "2024-05-02T03:32:28.279019Z",
+    "updateTime": "2024-05-02T03:32:28.279019Z",
+    "reviewReply": {
+      "comment": "Sra Celia\nAgradecemos mucho calificación y comentario. Continuaremos trabajando para seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T14:33:55.586496Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURqMnRLUXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marita Rimoldi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-01T18:44:43.276285Z",
+    "updateTime": "2024-05-01T18:44:43.276285Z",
+    "reviewReply": {
+      "comment": "Sra Marita\nAgradecemos su calificación. Continuaremos trabajando para seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T14:34:44.354524Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURqcXA2aWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Iris Matus"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención..\nGracias Silvia\n\n(Translated by Google)\nExcellent service. Thank you, Silvia.",
+    "createTime": "2024-04-30T15:15:30.590243Z",
+    "updateTime": "2024-04-30T15:15:30.590243Z",
+    "reviewReply": {
+      "comment": "Sra Ana\nAgradecemos su calificación y cometario, ya que nos ayuda a mejorar. Continuaremos trabajando para seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T14:36:01.279505Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURqM1BMWURBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "hector osvaldo muñoz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion de Silvia gracias\n\n(Translated by Google)\nSilvia provided excellent service, thank you.",
+    "createTime": "2024-04-30T15:15:00.756744Z",
+    "updateTime": "2024-04-30T15:15:00.756744Z",
+    "reviewReply": {
+      "comment": "Sr Hector\nAgradecemos mucho su calificación y comentario, ya que de esta manera nos ayuda a mejorar. Continuaremos trabajando para ofrecerle siempre el mejor servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T14:37:28.711619Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURqM0xMaFhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "skisis"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención,muy cálida Silvia la chica q atiende,venimos de un viaje largo un café y un chocolate resuelve todo!\n\n(Translated by Google)\nExcellent service, Silvia the girl who serves is very friendly; we\u0027ve just come from a long trip, a coffee and a hot chocolate solves everything!",
+    "createTime": "2024-04-30T14:40:13.442680Z",
+    "updateTime": "2024-04-30T14:40:13.442680Z",
+    "reviewReply": {
+      "comment": "Sr cliente\nAgradecemos mucho su calificación y comentario, ya que de esta manera nos ayuda a mejorar. Continuaremos trabajando para ofrecerle el mejor servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T14:39:22.160727Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURqbk8tLUNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Rinaldi"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención. Personal muy cordial. Varias opciones de comida al paso.\n\n(Translated by Google)\nExcellent service. Very friendly staff. Several fast food options.",
+    "createTime": "2024-04-26T15:06:27.826072Z",
+    "updateTime": "2024-04-26T15:06:27.826072Z",
+    "reviewReply": {
+      "comment": "Sr Ivan\nAgradecemos mucho su comentario y calificación, ya que de esta manera nos ayuda a mejorar.Esperamos contar nuevamente con su visita.",
+      "updateTime": "2024-06-03T18:00:00.678517Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqcDVySzFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Parmo"
+    },
+    "starRating": "THREE",
+    "comment": "Parada obligada para cargar combustible, sobretodo si se viaja para Caviahue o Copahue.\nCómoda, con baños limpios y una cafetería para descansar y tomar algo.\n\n(Translated by Google)\nA must-stop for fuel, especially if you\u0027re traveling to Caviahue or Copahue. Comfortable, with clean restrooms and a café to relax and have a drink.",
+    "createTime": "2024-04-23T04:18:34.427145Z",
+    "updateTime": "2024-04-23T04:18:34.427145Z",
+    "reviewReply": {
+      "comment": "Sr Ruben\nAgradecemos mucho su calificación y comentario, ya que de esta manera nos ayuda a mejorar. Continuaremos trabajando para ofrecerle el mejor servicio. Esperamos su visita nuevamente",
+      "updateTime": "2024-06-03T18:01:53.930318Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqaWV6dXNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa Marivil"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-23T02:38:50.138426Z",
+    "updateTime": "2024-04-23T02:38:50.138426Z",
+    "reviewReply": {
+      "comment": "Sra Vanesa\nAgradecemos su calificacion. Continuaremos trabajando para seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T18:03:04.862776Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqOFlIVTJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano Renda"
+    },
+    "starRating": "FIVE",
+    "comment": "Las instalaciones son muy buenas y hay mucho espacio para comer. Muy caro los precios un block grande estaba 18 dólares, una locura. Pero muy buena atención e instalaciones\n\n(Translated by Google)\nThe facilities are very good and there\u0027s plenty of space to eat. The prices are very expensive; a large block of bread was $18, which is crazy. But the service and facilities are excellent.",
+    "createTime": "2024-04-19T01:49:26.975787Z",
+    "updateTime": "2024-04-19T01:49:26.975787Z",
+    "reviewReply": {
+      "comment": "Sr Emiliano\nAgradecemos mucho su calificacion y comentario, ya que de esta manera nos ayuda a mejorar. Continuaremos trabajando para seguir ofreciendo un buen servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T18:08:56.047466Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqdk9tbUVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tomas Echeverria"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-19T01:38:44.009974Z",
+    "updateTime": "2024-04-19T01:38:44.009974Z",
+    "reviewReply": {
+      "comment": "Sr Tomas\nAgradecemos mucho su calificacion. Continuaremos trabajando para seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T18:10:51.421440Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqdkpIc2xBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Hernandez"
+    },
+    "starRating": "THREE",
+    "comment": "Lerdos para atender\nNo tienen muchos productos\nEl restaurante carisimo y comida recalentada\n\n(Translated by Google)\nSlow service\nThey don\u0027t have many products\nThe restaurant is very expensive and the food is reheated",
+    "createTime": "2024-04-15T19:44:06.671466Z",
+    "updateTime": "2024-04-15T19:44:06.671466Z",
+    "reviewReply": {
+      "comment": "Sr Adrian\nLamentamos haya tenido una mala experiencia en nuestro establecimiento. Nos comprometemos en trabajar cada punto de lo mencionado por ud. Su comentario nos ayuda a mejorar. ",
+      "updateTime": "2024-06-04T12:31:35.131370Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUREejdpNm9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Estela Gorosito"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los tres empleados. Super atentos. Da gusto ser atendidos por estás personas.\n\n(Translated by Google)\nExcellent service from all three employees. They were incredibly attentive. It\u0027s a pleasure to be served by them.",
+    "createTime": "2024-04-15T17:04:38.525057Z",
+    "updateTime": "2024-04-15T17:21:14.854424Z",
+    "reviewReply": {
+      "comment": "Sra Monica\nLe agradecemos mucho su calificación y comentario, dado que nos ayuda a mejorar. Continuaremos trabajando para ofrecerle siempre un buen servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T18:12:41.773399Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUREOTRmZThBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nony Vazquez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención..  Silvia una masa, me calentó los sandwich de miga con la mejor onda y te saca toda duda, todos muy amables\n\n(Translated by Google)\nExcellent service. Silvia was amazing, she warmed up my finger sandwiches with the best attitude and answered all my questions. Everyone was very friendly.",
+    "createTime": "2024-04-12T15:38:27.713253Z",
+    "updateTime": "2024-04-12T15:38:27.713253Z",
+    "reviewReply": {
+      "comment": "Sr cliente\nAgradecemos mucho su calificación y comentario, ya que de esta manera nos ayuda mejorar. Continuaremos trabajando para ofrecerle el mejor servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T18:14:17.214319Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUREOWFhcTRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maricel Lujan"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de Luciana,Emanuel y Sil.Excelentecpresentacion del cafe\n\n(Translated by Google)\nExcellent service from Luciana, Emanuel, and Sil. Excellent coffee presentation.",
+    "createTime": "2024-04-12T15:37:25.692887Z",
+    "updateTime": "2024-04-12T15:37:25.692887Z",
+    "reviewReply": {
+      "comment": "Sra Maricel\nAgradecemos mucho su califiicación y comentario, ya que de esta manera nos ayuda a mejorar. Continuaremos trabajando para ofrecer el mejor servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T18:24:00.088617Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUREOWNhUWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jimena altamirano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-10T17:40:29.681836Z",
+    "updateTime": "2024-04-10T17:40:29.681836Z",
+    "reviewReply": {
+      "comment": "Sra Jimena\nAgradecemos su calificación. Continuaremos trabajando para seguir mejorando, y ofrecerle el mejor servicio. Esperamos su visita nuevamente.",
+      "updateTime": "2024-06-03T18:26:37.335452Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURENFllcUJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Saavedra"
+    },
+    "starRating": "TWO",
+    "comment": "Atienden una isla por vez siendo varios playeros, al igual que un vehículo por vez teniendo más disponibles, tal vez es una disposición de YPF, pero lentísima la atención, no quieren cargar los puntos, si uno les pide se enojan, baños casi siempre sucios, desmejorados en comparación con el resto de las YPF\n\n(Translated by Google)\nThey service one island at a time, even though there are several attendants, and one vehicle at a time, even though more are available. Perhaps this is a YPF policy, but the service is incredibly slow. They refuse to load points, and if you ask them to, they get angry. The restrooms are almost always dirty and in worse condition compared to other YPF stations.",
+    "createTime": "2017-12-20T22:25:28.730Z",
+    "updateTime": "2024-04-09T17:37:27.752085Z",
+    "reviewReply": {
+      "comment": "Sr Facundo\nLamentamos haya tenido una mala experiencia en nuestro establecimiento. Nos comprometemos en trabajar cada punto de lo mencionado por ud. Sus sugerencias nos ayudan a mejorar. ",
+      "updateTime": "2024-06-04T12:33:15.462162Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURRX2ZiakpnEAE"
+  }]
+}

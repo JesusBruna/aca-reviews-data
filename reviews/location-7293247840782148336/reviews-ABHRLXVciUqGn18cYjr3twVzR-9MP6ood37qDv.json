@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Moreno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-10-19T13:36:33.823577Z",
+    "updateTime": "2022-10-19T13:36:33.823577Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSURlaTh2WGFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Angel Bellati"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien atendido\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-10-17T18:38:32.518392Z",
+    "updateTime": "2022-10-17T18:38:32.518392Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSURlX2ZhMUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Ponce"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-10-16T08:48:26.574235Z",
+    "updateTime": "2022-10-16T08:48:26.574235Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSURlOWFXNTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "FERMÍN SANTIAGO Bordato"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelentes servicios\n\n(Translated by Google)\nExcellent services",
+    "createTime": "2022-10-12T22:40:56.821970Z",
+    "updateTime": "2022-10-12T22:40:56.821970Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSURlc2Jub2VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mercedes Juarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención 😊 los empleados muy detallista y atentos\n\n(Translated by Google)\nExcellent service 😊 The staff were very detail-oriented and attentive.",
+    "createTime": "2022-10-11T01:01:31.610692Z",
+    "updateTime": "2022-10-11T01:01:31.610692Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSURlbnZEczFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Balcázar"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-10-02T21:49:25.093571Z",
+    "updateTime": "2022-10-02T21:49:25.093571Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSURlNUktalh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Simon"
+    },
+    "starRating": "THREE",
+    "comment": "Buenos precios y servicios, solo la dificultad para estacionar y cargar combustible\n\n(Translated by Google)\nGood prices and services, just the difficulty in parking and refueling",
+    "createTime": "2022-09-28T21:50:32.255040Z",
+    "updateTime": "2022-09-28T21:50:32.255040Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSURld0xXcDJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Abascal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-09-28T00:44:58.138585Z",
+    "updateTime": "2022-09-28T00:44:58.138585Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlMzQ3NEVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo girbau"
+    },
+    "starRating": "FOUR",
+    "comment": "Bastante bien para ser una construcción vieja, respeta los standard de YPF\n\n(Translated by Google)\nPretty good for an old building, it meets YPF standards.",
+    "createTime": "2022-09-19T11:46:20.988525Z",
+    "updateTime": "2022-09-19T11:46:20.988525Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlcGUtZm53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Arias"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-09-17T19:24:51.872903Z",
+    "updateTime": "2022-09-17T19:24:51.872903Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlNmJhR3l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carina Patiño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-09-06T10:27:46.240404Z",
+    "updateTime": "2022-09-06T10:27:46.240404Z",
+    "reviewReply": {
+      "comment": "Muchas gracias !!!",
+      "updateTime": "2022-09-06T10:42:23.171152Z"
+    },
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUNleE1Td2FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Romero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-16T21:04:09.771922Z",
+    "updateTime": "2022-08-16T21:04:09.771922Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1b28tNXN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Noelia Torres (Noe)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-16T01:38:22.226724Z",
+    "updateTime": "2022-08-16T01:38:22.226724Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1M01PTWdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Laura Rodriguez Vera"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-08-12T22:45:55.937385Z",
+    "updateTime": "2022-08-12T22:45:55.937385Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1MktXSkRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Milagros Ribas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-09T17:53:30.842374Z",
+    "updateTime": "2022-08-09T17:53:30.842374Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1bi1xeFF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ale “Chili” Ibañez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísimo la atención.\n\n(Translated by Google)\nThe service was excellent.",
+    "createTime": "2022-08-09T15:42:32.647234Z",
+    "updateTime": "2022-08-09T15:42:32.647234Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1N19YRFVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "patricia orellana"
+    },
+    "starRating": "THREE",
+    "comment": "Todo bien trankilo\n\n(Translated by Google)\nEverything is fine, calm down.",
+    "createTime": "2022-08-06T18:27:14.961586Z",
+    "updateTime": "2022-08-06T18:27:14.961586Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1Njk2S0RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Riso"
+    },
+    "starRating": "ONE",
+    "comment": "Soy cliente de YPF, doy 1 estrella como puntaje por que hace semanas que el calibrador no está funcionando, por lo cual el servicio no es integral.\nDe todas maneras la atención es excelente.\n\n(Translated by Google)\nI\u0027m an YPF customer, and I\u0027m giving it one star because the fuel gauge hasn\u0027t been working for weeks, so the service isn\u0027t comprehensive.\n\nHowever, the customer service is excellent.",
+    "createTime": "2022-08-03T23:43:53.340666Z",
+    "updateTime": "2022-08-03T23:43:53.340666Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1blliSWlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Palavecino"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-07-30T16:33:12.939761Z",
+    "updateTime": "2022-07-30T16:33:12.939761Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1a2JlRU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebas Luna"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-29T20:24:51.639299Z",
+    "updateTime": "2022-07-29T20:24:51.639299Z",
+    "name": "accounts/109853746269412609224/locations/7293247840782148336/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1Z1lPNnZ3RRAB"
+  }]
+}

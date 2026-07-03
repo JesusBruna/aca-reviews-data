@@ -1,0 +1,249 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Maria flavia Gatti"
+    },
+    "starRating": "FIVE",
+    "comment": "Zulma",
+    "createTime": "2023-05-08T15:44:23.186387Z",
+    "updateTime": "2023-05-08T15:44:23.186387Z",
+    "reviewReply": {
+      "comment": "Maria Flavia muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:39:10.205482Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4a0ltc3RBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Camaño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-05-08T14:56:19.724589Z",
+    "updateTime": "2023-05-08T14:56:19.724589Z",
+    "reviewReply": {
+      "comment": "Federico muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:39:17.983176Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4a1BLVWVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "sergio david ramirez sanchez"
+    },
+    "starRating": "THREE",
+    "comment": "Es Cómodo el servicio\n\n(Translated by Google)\nThe service is convenient",
+    "createTime": "2023-05-07T18:12:12.182586Z",
+    "updateTime": "2023-05-07T18:12:12.182586Z",
+    "reviewReply": {
+      "comment": "Sergio muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:39:26.399319Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURSXy1XRlpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leo Gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Service completo, excelente atención e información al respecto de cada paso del mismo. 100% recomendable.\n\n(Translated by Google)\nComplete service, excellent attention and information about each step of the process. 100% recommended.",
+    "createTime": "2023-05-06T16:21:14.096739Z",
+    "updateTime": "2023-05-06T16:21:24.042902Z",
+    "reviewReply": {
+      "comment": "Leo muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:39:39.750828Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURSejltTVB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "alberto ignacio gomez llull"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-05-03T14:09:43.692420Z",
+    "updateTime": "2023-05-03T14:09:43.692420Z",
+    "reviewReply": {
+      "comment": "Alberto muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:39:47.956253Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURSOC1PaEJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Medice"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-20T13:47:46.022299Z",
+    "updateTime": "2023-04-20T13:47:46.022299Z",
+    "reviewReply": {
+      "comment": "Javier muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:40:09.913193Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdkxQemF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Sapia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-18T23:54:08.502774Z",
+    "updateTime": "2023-04-18T23:54:08.502774Z",
+    "reviewReply": {
+      "comment": "Gustavo muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:40:16.914724Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSURSdElHcXZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "dario j pereyra"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-04-12T17:31:12.461977Z",
+    "updateTime": "2023-04-12T17:31:12.461977Z",
+    "reviewReply": {
+      "comment": "Dario muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:40:24.446180Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMS1qMF9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Lima"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-04-08T21:37:38.077456Z",
+    "updateTime": "2023-04-08T21:37:38.077456Z",
+    "reviewReply": {
+      "comment": "Gustavo muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:40:30.738554Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSdmQyRi1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ale Mesa Contenidos"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-03T22:13:38.774520Z",
+    "updateTime": "2023-04-03T22:13:38.774520Z",
+    "reviewReply": {
+      "comment": "Ale muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:40:37.308554Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSNGN5WmlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Panzer"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-31T00:39:59.892352Z",
+    "updateTime": "2023-03-31T00:39:59.892352Z",
+    "reviewReply": {
+      "comment": "Matias muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:40:42.716227Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdXV1SkR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Andrea Ramírez Ramírez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-26T12:37:38.389611Z",
+    "updateTime": "2023-03-26T12:37:38.389611Z",
+    "reviewReply": {
+      "comment": "Paula muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:40:47.963547Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdE1QRFVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "José Federico Prado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-23T10:27:25.269990Z",
+    "updateTime": "2023-03-23T10:27:25.269990Z",
+    "reviewReply": {
+      "comment": "Jose muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:40:54.833163Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSc1AydFhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Arqueros"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena predisposición de los playeros.\n\n(Translated by Google)\nVery good disposition of the beachgoers.",
+    "createTime": "2023-03-19T13:20:44.973572Z",
+    "updateTime": "2023-03-19T13:20:44.973572Z",
+    "reviewReply": {
+      "comment": "Mario muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:41:00.755698Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSURocDVUMXF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Angel Lardone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-13T01:17:44.189366Z",
+    "updateTime": "2023-03-13T01:17:44.189366Z",
+    "reviewReply": {
+      "comment": "Miguel muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:41:06.817486Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURoLWVTMGV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose L Arcusin"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-02-22T23:01:33.127280Z",
+    "updateTime": "2023-02-22T23:01:33.127280Z",
+    "reviewReply": {
+      "comment": "Jose muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:41:12.050219Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoMjZpNDRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "El Oscar"
+    },
+    "starRating": "THREE",
+    "comment": "Es la estación de servicio en concordia con los tanques más nuevos deben tener unos 3 años. Contras, es un lugar chico.\n\n(Translated by Google)\nIt\u0027s the gas station in Concordia with the newest tanks; they must be about 3 years old. On the downside, it\u0027s a small place.",
+    "createTime": "2023-02-21T12:48:29.518913Z",
+    "updateTime": "2023-02-21T12:48:29.518913Z",
+    "reviewReply": {
+      "comment": "Oscar muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:41:31.917148Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoazYtYWh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Roberto Exner"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-02T14:59:01.007971Z",
+    "updateTime": "2023-02-02T14:59:01.007971Z",
+    "reviewReply": {
+      "comment": "Gerardo muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:41:39.558101Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSUNob0lXcDFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Ravier"
+    },
+    "starRating": "TWO",
+    "comment": "La nafta parece adulterada,no voy más\n\n(Translated by Google)\nThe gasoline seems adulterated, I\u0027m not going anymore",
+    "createTime": "2023-01-31T05:46:20.755485Z",
+    "updateTime": "2023-01-31T05:46:20.755485Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMTVHbG9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Melo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-29T13:04:15.242038Z",
+    "updateTime": "2023-01-29T13:04:15.242038Z",
+    "reviewReply": {
+      "comment": "Fcundo muchas gracias por tu valoración",
+      "updateTime": "2023-05-15T21:42:40.823379Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/ChZDSUhNMG9nS0VJQ0FnSURCbV9tQkNBEAE"
+  }]
+}

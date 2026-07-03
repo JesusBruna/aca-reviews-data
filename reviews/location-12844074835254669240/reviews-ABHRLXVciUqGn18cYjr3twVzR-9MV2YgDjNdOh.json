@@ -1,0 +1,198 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carlos Belli"
+    },
+    "starRating": "FIVE",
+    "comment": "Estuve con mi familia y recibimos un excelente y amable servicio por parte de todos los empleados. Un lugar para volver. Felicitaciones a los responsables de esta estación de servicios\n\n(Translated by Google)\nI was there with my family and we received excellent and friendly service from all the employees. A place to return to. Congratulations to the owners of this service station.",
+    "createTime": "2022-07-05T21:45:12.951921Z",
+    "updateTime": "2022-07-05T21:45:12.951921Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por visitarnos, los esperamos nuevamente",
+      "updateTime": "2022-07-05T22:27:40.887564Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURPN29Ld013EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermina Belli"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio, muy buena variedad en los productos del full\n\n(Translated by Google)\nExcellent service, very good variety in the full products",
+    "createTime": "2022-07-05T21:41:02.992189Z",
+    "updateTime": "2022-07-05T21:41:02.992189Z",
+    "reviewReply": {
+      "comment": "Muchas gracias, por tu visita, te esperamos nuevamente",
+      "updateTime": "2022-07-05T22:31:05.174797Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURPN3J5dXJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agostina Belli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-05T21:28:33.059962Z",
+    "updateTime": "2022-07-05T21:28:33.059962Z",
+    "reviewReply": {
+      "comment": "👍",
+      "updateTime": "2022-07-05T22:29:42.784978Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURPN3N5NmRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juli Nuñez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-05T21:25:59.236564Z",
+    "updateTime": "2022-07-05T21:25:59.236564Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURPN295aTlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio Tarzia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-04T11:53:13.920919Z",
+    "updateTime": "2022-07-04T11:53:13.920919Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURPNXRMRXN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nahuel"
+    },
+    "starRating": "TWO",
+    "comment": "Una lástima que el autoservicio solo funcione de día.\n\n(Translated by Google)\nIt\u0027s a shame that the self-service only operates during the day.",
+    "createTime": "2022-06-23T13:52:00.398810Z",
+    "updateTime": "2022-06-23T13:52:00.398810Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPbjRTZmtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Eugenia Lovera"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención excelente y los empleados muy cordiales en todo\n\n(Translated by Google)\nExcellent service and very friendly staff throughout",
+    "createTime": "2022-06-14T23:31:51.083280Z",
+    "updateTime": "2022-06-14T23:31:51.083280Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPeGVYRllnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Zualet Navarro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-27T19:53:39.013561Z",
+    "updateTime": "2022-05-27T19:53:39.013561Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyMS1lc1VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Heraclio Romero"
+    },
+    "starRating": "TWO",
+    "comment": "No me gusta por el motivo que ahora no quieren cargar en bidones el combustible son pésimo\n\n(Translated by Google)\nI don\u0027t like it because now they don\u0027t want to carry the fuel in jerrycans; they\u0027re terrible.",
+    "createTime": "2022-05-24T22:49:35.284314Z",
+    "updateTime": "2022-05-24T22:49:35.284314Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyaS1xLVlREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Zulema C"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-23T05:04:54.631696Z",
+    "updateTime": "2022-05-23T05:04:54.631696Z",
+    "reviewReply": {
+      "comment": "Gracias por la puntuación estamos para hacer de una excelente experiencia . Saludos",
+      "updateTime": "2022-06-28T20:48:22.022941Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyX1lHQ1dBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "JORGE EDUARDO SERRA"
+    },
+    "starRating": "FIVE",
+    "comment": "Somos viajeros , estuvimos disfruta di dos noches , estacionados bajo techo , y realmente queremos dejar asentado el muy bien servicio , que brinda este consecionario , tanto en el servicio del servicio  de compra , cómo también , la atención tanto de los playeros , cómo también del encargado en el sector de las oficinas para socios , el cual nos dedicó su tiempo para brindarnos una importante ayuda , con un t ma de papeles de mi registro automotor .\nDesde ya muchas gracias .\n\n(Translated by Google)\nWe are travelers, we enjoyed two nights, parked indoors, and we really want to highlight the excellent service this dealership provides, both in the purchase service, as well as the attention from both the beach attendants and the manager in the member offices, who dedicated his time to provide us with important help, with a process of my vehicle registration paperwork. Thank you very much.",
+    "createTime": "2022-05-17T17:25:20.178579Z",
+    "updateTime": "2022-05-17T17:25:20.178579Z",
+    "reviewReply": {
+      "comment": "Buenas tardes,muchas gracias por sus comentarios, un gusto recibirlos . Los esperamos nuevamente por Curuzú. Saludos",
+      "updateTime": "2022-06-28T20:46:12.104234Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyc1lHSzVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ramon Ledesma"
+    },
+    "starRating": "THREE",
+    "comment": "Muy buena atencion pero tiene poco personalx lo tanto tenes mucha espera\n\n(Translated by Google)\nVery good service but they have few staff so you have a long wait",
+    "createTime": "2022-05-17T00:46:23.217083Z",
+    "updateTime": "2022-05-17T00:46:23.217083Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyb1pQa05BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "George Paul MMG"
+    },
+    "starRating": "FOUR",
+    "comment": "Una estación de servicio dentro de la ciudad\n\n(Translated by Google)\nA gas station within the city",
+    "createTime": "2022-05-15T00:40:58.822589Z",
+    "updateTime": "2022-05-15T00:40:58.822589Z",
+    "reviewReply": {
+      "comment": "Los esperamos!¡ saludos",
+      "updateTime": "2022-06-28T20:47:14.826965Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyenZTcUR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Villar"
+    },
+    "starRating": "FIVE",
+    "comment": "Estación con buena atención\n\n(Translated by Google)\nStation with good service",
+    "createTime": "2022-05-13T23:18:12.762680Z",
+    "updateTime": "2022-05-13T23:18:13.598519Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybG83UldnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Ramon Enrique"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención a tu cervicio las 24 hrs del día\n\n(Translated by Google)\nExcellent customer service 24 hours a day",
+    "createTime": "2022-05-13T01:31:26.033267Z",
+    "updateTime": "2022-05-13T01:32:45.841609Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyaG9Ual9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonella Martinez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-08T21:29:58.618233Z",
+    "updateTime": "2022-05-08T21:29:58.618233Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybktycEF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tiago Marchi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-04-06T20:51:41.581623Z",
+    "updateTime": "2022-04-06T20:51:41.581623Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdDZEMmVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Armando Franco"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-04-06T13:01:35.135717Z",
+    "updateTime": "2022-04-06T13:01:35.135717Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbDRqTUlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "oscar maciel"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-04-03T17:49:15.145452Z",
+    "updateTime": "2022-04-03T17:49:15.145452Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURXczkyYUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo los Huayras Guastavino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-03-28T15:55:19.744114Z",
+    "updateTime": "2022-03-28T15:55:19.744114Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURXbWRqQUpBEAE"
+  }]
+}

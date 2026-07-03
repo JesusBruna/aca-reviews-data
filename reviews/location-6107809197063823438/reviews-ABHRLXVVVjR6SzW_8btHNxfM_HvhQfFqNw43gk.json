@@ -1,0 +1,20 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Sebastian Flexas"
+    },
+    "starRating": "FIVE",
+    "comment": "Parada obligada\n\n(Translated by Google)\nA must-see",
+    "createTime": "2016-01-13T00:59:50.923Z",
+    "updateTime": "2016-01-13T00:59:50.923Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3cC1UZVdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2015-11-26T20:07:39.364Z",
+    "updateTime": "2015-11-26T20:07:39.364Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSURBOXJMa0hnEAE"
+  }]
+}

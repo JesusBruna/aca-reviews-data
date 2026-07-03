@@ -1,0 +1,208 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Florencia Nilo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-23T17:20:57.582743Z",
+    "updateTime": "2022-02-23T17:20:57.582743Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChRDSUhNMG9nS0VJQ0FnSUNXcXE0axAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elsa Lopez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-23T11:19:15.728113Z",
+    "updateTime": "2022-02-23T11:19:15.728113Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXeXJpOUF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Mac Kenna"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy lindo lugar, bastante bien cuidado el predio\n\n(Translated by Google)\nVery nice place, the grounds are quite well maintained",
+    "createTime": "2022-02-22T23:07:19.937163Z",
+    "updateTime": "2022-02-22T23:07:19.937163Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2022-02-23T21:50:46.896295Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXOHZMdEh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Joa R"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-22T19:40:58.255955Z",
+    "updateTime": "2022-02-22T19:40:58.255955Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXc3RHXzRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Laguna"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-02-22T19:19:21.580680Z",
+    "updateTime": "2022-02-22T19:19:21.580680Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-02-23T21:50:30.191340Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXc3VidE5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Laury Love"
+    },
+    "starRating": "FIVE",
+    "comment": "Rápida atención, sanitarios limpios e higiénicos!\n\n(Translated by Google)\nFast service, clean and hygienic restrooms!",
+    "createTime": "2022-02-21T20:13:04.094919Z",
+    "updateTime": "2022-02-21T20:13:04.094919Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-02-22T10:39:40.717417Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXb3NqTUNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Kiim Burgos"
+    },
+    "starRating": "FIVE",
+    "comment": "Precios accesibles y baños muy limpios\n\n(Translated by Google)\nAffordable prices and very clean bathrooms",
+    "createTime": "2022-02-21T13:45:50.620825Z",
+    "updateTime": "2022-02-21T13:45:50.620825Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2022-02-21T18:58:59.937438Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXZ3Q2WmZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Esandi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-20T05:25:29.500896Z",
+    "updateTime": "2022-02-20T05:25:29.500896Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXcktQYVdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Siri"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención y limpieza exelente,muy buen servicio\n\n(Translated by Google)\nExcellent service and cleanliness, very good service",
+    "createTime": "2022-02-20T02:17:41.418678Z",
+    "updateTime": "2022-02-20T02:17:41.418678Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2022-02-21T18:58:35.145349Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXck9yajBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vanessa Sofikitis"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención de los playeros. Le faltó un poco de limpieza a los baños.\n\n(Translated by Google)\nThe beach attendants were good. The restrooms could have been a bit cleaner.",
+    "createTime": "2022-02-20T02:14:55.088041Z",
+    "updateTime": "2022-02-20T02:14:55.088041Z",
+    "reviewReply": {
+      "comment": "Gracias.",
+      "updateTime": "2022-02-21T18:58:21.789675Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXcktyXzBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Buxmann"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-19T22:25:33.479766Z",
+    "updateTime": "2022-02-19T22:25:33.479766Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXekxPcHlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Sebastian Saabedra"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo lugar para hacer una parada en la ruta.\n\n(Translated by Google)\nNice place to stop along the way.",
+    "createTime": "2022-02-18T15:19:38.246253Z",
+    "updateTime": "2022-02-18T15:19:38.246253Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2022-02-18T19:11:10.551936Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXcExQSGhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adolfo ktogarci"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-18T12:52:18.511021Z",
+    "updateTime": "2022-02-18T12:52:18.511021Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXcE1MVU1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alida Costa Alvarez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-02-18T02:39:14.637991Z",
+    "updateTime": "2022-02-18T02:39:14.637991Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXaEtYTXFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vitaliy Losyev"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de playero y de personal de cafetería\n\n(Translated by Google)\nExcellent service from the beach attendant and cafe staff",
+    "createTime": "2022-02-17T19:22:26.353973Z",
+    "updateTime": "2022-02-17T19:22:26.353973Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2022-02-18T10:48:33.757640Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXLUw3VzBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Denis Bustos"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-02-17T02:17:22.797082Z",
+    "updateTime": "2022-02-17T02:17:22.797082Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXbVBTUGVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "claudia espejo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-16T02:23:50.198033Z",
+    "updateTime": "2022-02-16T02:23:50.198033Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXOElmYkpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Cecilia Gallet"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-02-16T00:32:15.332636Z",
+    "updateTime": "2022-02-16T00:32:15.332636Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXOFBtc2F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Losada"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención,esquisitos capuchino y leches chocolatada para los niños...las chicas muy atentas...\n\n(Translated by Google)\nExcellent service, delicious cappuccino and chocolate milk for the children...the staff were very attentive...",
+    "createTime": "2022-02-15T23:17:35.755011Z",
+    "updateTime": "2022-02-15T23:17:35.755011Z",
+    "reviewReply": {
+      "comment": "Los esperamos nuevamente, gracias.",
+      "updateTime": "2022-02-16T10:24:35.950141Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXOEk3NFZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lola Martinez Echeguia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-15T15:25:39.932438Z",
+    "updateTime": "2022-02-15T15:25:39.932438Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXMFBtYm5BRRAB"
+  }]
+}

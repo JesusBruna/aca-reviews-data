@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Raul Lopez"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-04-05T22:00:01.719108Z",
+    "updateTime": "2021-04-05T22:00:01.719108Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLenQzbTd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Ivana Gimenez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buenos baños, muy buena la atención, pagamos con la aplicación de ypf\n\n(Translated by Google)\nVery nice restrooms, very good service, we paid with the YPF app",
+    "createTime": "2021-04-05T12:18:34.318881Z",
+    "updateTime": "2021-04-05T12:18:48.372960Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLOXBfZ3BRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Gimenez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables, Me copa la música que ponen en los baños.\n\n(Translated by Google)\nVery friendly, I love the music they play in the bathrooms.",
+    "createTime": "2021-04-05T00:26:46.320266Z",
+    "updateTime": "2021-04-05T00:33:22.323956Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdG83dzJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio Gonzalez"
+    },
+    "starRating": "THREE",
+    "comment": "Cumple\n\n(Translated by Google)\nIt fulfills",
+    "createTime": "2021-04-02T08:26:41.607116Z",
+    "updateTime": "2021-04-02T08:26:41.607116Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLbW9mWFZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rolando Diaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-04-01T02:12:44.972609Z",
+    "updateTime": "2021-04-01T02:12:44.972609Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLaXRMLUh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-29T18:34:34.770070Z",
+    "updateTime": "2021-03-29T18:34:34.770070Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLMVBiV193RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jairo Roggiano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-29T17:10:53.605472Z",
+    "updateTime": "2021-03-29T17:10:53.605472Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLMU5UYmVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rosa Rios"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-26T02:54:20.988568Z",
+    "updateTime": "2021-03-26T02:54:20.988568Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLaVBxaEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Juarez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-24T11:30:30.607654Z",
+    "updateTime": "2021-03-24T11:30:30.607654Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLb1BEM3FnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "H. Eduardo Galante"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-23T11:37:21.208266Z",
+    "updateTime": "2021-03-23T11:37:21.208266Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5djVyU2lBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "laura palma"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2021-03-22T04:57:34.309284Z",
+    "updateTime": "2021-03-22T04:57:34.309284Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5ei1INktREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Rodolfo Aparicio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-21T20:00:12.212060Z",
+    "updateTime": "2021-03-21T20:00:12.212060Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5al82N0hBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "DLG"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-16T10:40:47.119865Z",
+    "updateTime": "2021-03-16T10:40:47.119865Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5dzhXdWNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tomas Polello"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-15T00:21:37.956690Z",
+    "updateTime": "2021-03-15T00:21:37.956690Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5MVp5cHJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "NatJim"
+    },
+    "starRating": "TWO",
+    "comment": "Tardan mucho en cargar nafta. Éramos solo tres autos y eran mas de dos empleados y así todo estuvimos mas de media hora esperando.\n\n(Translated by Google)\nThey take forever to fill up with gas. There were only three cars and more than two employees, and even so, we waited for over half an hour.",
+    "createTime": "2021-03-14T04:24:14.076216Z",
+    "updateTime": "2021-03-14T04:24:37.063953Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5cFlhQldnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "cristian ariel salinas"
+    },
+    "starRating": "THREE",
+    "comment": "Tiene y debe ser ampliada.....muy chica para tanta demanda\n\n(Translated by Google)\nIt has been and needs to be expanded... it\u0027s too small for such high demand.",
+    "createTime": "2021-03-13T00:48:43.408371Z",
+    "updateTime": "2021-03-13T00:48:43.408371Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5MlpiNjBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Fandiño"
+    },
+    "starRating": "THREE",
+    "comment": "Lenta la atención,  pocos surtidores de combustible para el tráfico que tiene la ciudad. Buenas instalaciones del Full.\n\n(Translated by Google)\nSlow service, few fuel pumps for the city\u0027s traffic. Good facilities at the Full station.",
+    "createTime": "2021-03-11T10:16:34.440738Z",
+    "updateTime": "2021-03-11T10:17:02.753373Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5OGN6cnRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tomás Arregui Bellino"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención las dos veces que fui, muy bien predispuestos\n\n(Translated by Google)\nExcellent service both times I went, very helpful",
+    "createTime": "2021-03-10T22:35:47.816582Z",
+    "updateTime": "2021-03-10T22:35:52.896045Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChRDSUhNMG9nS0VJQ0FnSUR5MGZrVBAB"
+  }, {
+    "reviewer": {
+      "displayName": "Damián Brayotta"
+    },
+    "starRating": "TWO",
+    "comment": "Incomoda para estacionar. La atencion de la gente de adentro es malisima. Parece q te hacen un favor cada vez q venden algo. Se la pasan hablando entre ellos.\nLos playeros afuera todo lo contrario, muy atentos.\n\n(Translated by Google)\nParking is difficult. The service inside is terrible. They act like they\u0027re doing you a favor every time they sell you something. They spend all their time talking amongst themselves. The attendants outside are the complete opposite; they\u0027re very attentive.",
+    "createTime": "2021-03-10T17:14:40.677943Z",
+    "updateTime": "2021-03-10T17:16:02.299827Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5a2JYdTVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Irma Cea Osses"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena variedad de productos, muy buena atención.\n\n(Translated by Google)\nGood variety of products, very good service.",
+    "createTime": "2021-03-10T16:15:15.262990Z",
+    "updateTime": "2021-03-10T16:15:15.262990Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5a1o3cTBRRRAB"
+  }]
+}

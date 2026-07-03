@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Renzo Ramirez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-10T13:16:02.133612Z",
+    "updateTime": "2023-02-10T13:16:02.133612Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoNnM2c253RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Gramajo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-09T16:29:57.825242Z",
+    "updateTime": "2023-02-09T16:29:57.825242Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoOHFLd1VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Marcelo Razzini"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-08T23:14:13.173629Z",
+    "updateTime": "2023-02-08T23:14:13.173629Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoNG9HSDNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "emmanuel gutierrez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy linda y buena atencion\n\n(Translated by Google)\nVery nice and good service",
+    "createTime": "2023-02-08T19:14:51.818473Z",
+    "updateTime": "2023-02-08T19:14:51.818473Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNob3UyRHpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston Friggioni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-08T18:59:08.601578Z",
+    "updateTime": "2023-02-08T18:59:08.601578Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNob3VYcmJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Ariel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-06T04:24:35.699559Z",
+    "updateTime": "2023-02-06T04:24:35.699559Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNobEpIN1VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adrián Bilarik"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-04T21:31:34.814353Z",
+    "updateTime": "2023-02-04T21:31:34.814353Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNodU5iVFJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Comerón"
+    },
+    "starRating": "FOUR",
+    "comment": "Como estación de servicio es completa, siempre tienen hielo, compresor de aire para las cubiertas moderno. Como negativo tiene solo 2 surtidores y es la unica estación de servicio entre santa rosa y embalse. En verano podes llegar a estar media hora para cargar.\n\n(Translated by Google)\nAs a service station, it\u0027s fully stocked; they always have ice and a modern air compressor for the tires. On the downside, it only has two pumps and is the only service station between Santa Rosa and Embalse. In summer, you can spend half an hour filling up.",
+    "createTime": "2023-02-04T17:49:42.219672Z",
+    "updateTime": "2023-02-04T17:49:42.219672Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoMlBuRmhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Campestrini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-04T12:36:01.119048Z",
+    "updateTime": "2023-02-04T12:36:01.119048Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNobU1TODh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ricardo Rodríguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-02-01T18:54:52.058577Z",
+    "updateTime": "2023-02-01T23:45:58.609494Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdjhHTDlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabiana Alicia Esquivel"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención,muy recomendable,si necesitas algo en la ruta , camino a Córdoba.\n\n(Translated by Google)\nExcellent service, highly recommended if you need anything on the road to Córdoba.",
+    "createTime": "2023-02-01T02:06:14.712554Z",
+    "updateTime": "2023-02-01T02:06:14.712554Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcjUycUJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "jro 1952"
+    },
+    "starRating": "FIVE",
+    "comment": "Espectacular!\n\n(Translated by Google)\nSpectacular!",
+    "createTime": "2023-01-31T15:49:31.444786Z",
+    "updateTime": "2023-01-31T15:49:31.444786Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURCajhhQ293RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Milagros Corzo"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-01-30T21:04:01.736048Z",
+    "updateTime": "2023-01-30T21:04:01.736048Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbDZEQThRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MIGUEL ANGEL Pisani"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-30T13:18:05.987500Z",
+    "updateTime": "2023-01-30T13:18:05.987500Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSURCeDllSmVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Dealbera"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención, tanto el personal de playa como la cafetería. Los baños impecable\n\n(Translated by Google)\nExcellent service, both from the beach staff and the cafeteria. The bathrooms were spotless.",
+    "createTime": "2023-01-28T01:01:53.058873Z",
+    "updateTime": "2023-01-28T01:01:53.058873Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMDVMVmpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jose luis fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Te atienden muy bien en la confitería y en el despacho de combustible.\n\n(Translated by Google)\nThey serve you very well at the confectionery and at the fuel station.",
+    "createTime": "2023-01-27T11:24:22.432379Z",
+    "updateTime": "2023-01-27T11:24:22.432379Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdzhmUHJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston Avendaño"
+    },
+    "starRating": "FIVE",
+    "comment": "Recomendable en todo\n\n(Translated by Google)\nHighly recommended in every way",
+    "createTime": "2023-01-26T19:58:57.465866Z",
+    "updateTime": "2023-01-26T19:58:57.465866Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdmV2RFRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "tadeo bili"
+    },
+    "starRating": "FIVE",
+    "comment": "YPF PERTENECE AL A.C.A MUCHA DEMANDA DE NAFTA HAY MUCHA COLA\n\n(Translated by Google)\nYPF belongs to the A.C.A. High demand for gasoline, long lines.",
+    "createTime": "2023-01-26T01:52:35.957517Z",
+    "updateTime": "2023-01-26T01:52:35.957517Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURCcmI3SXRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martinristorto@hotmail.com Ristorto"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-11-29T13:46:56.006284Z",
+    "updateTime": "2023-01-25T02:33:54.055357Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSURpZ3V6MUdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pamela Pervieux"
+    },
+    "starRating": "FIVE",
+    "comment": "Súper\n\n(Translated by Google)\nSuper",
+    "createTime": "2023-01-25T00:51:16.862103Z",
+    "updateTime": "2023-01-25T00:51:16.862103Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbGUtc3RRRRAB"
+  }]
+}

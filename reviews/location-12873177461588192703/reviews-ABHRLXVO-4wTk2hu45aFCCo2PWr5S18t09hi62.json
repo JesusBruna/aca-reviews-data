@@ -1,0 +1,198 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Martin Gianini"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buenos los baños. Muy limpios. Excelente atencion de todo el personal.\n\n(Translated by Google)\nThe restrooms were very nice and very clean. The staff provided excellent service.",
+    "createTime": "2025-07-31T15:31:08.353774Z",
+    "updateTime": "2025-07-31T15:31:08.353774Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wdlptMHdjRXBZZGt4b1JWbHBiRUkzUWtSVFdGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa M"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-07-27T01:58:36.962297Z",
+    "updateTime": "2025-07-27T01:58:36.962297Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkaFNuRkpVbVF5ZWpWSFRXNDJaWGR5V0RSM2MwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Alfredo VITTOR"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelentes instalaciones, limpieza y atención! Impecable!!\n\n(Translated by Google)\nExcellent facilities, cleanliness, and service! Impeccable!!",
+    "createTime": "2025-07-25T15:59:02.417991Z",
+    "updateTime": "2025-07-25T15:59:02.417991Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita Carlos, saludos cordiales.\nAtte Patricio ",
+      "updateTime": "2025-07-25T16:50:21.983327Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWbFUwaHBXWE5ZYzFoS2RrWXplWFJvVm5SRmJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Chomyszyn"
+    },
+    "starRating": "FIVE",
+    "comment": "La estación está impecable. Los baños son nuevos y muy limpios. La atención del personal se destaca por la amabilidad.\n\n(Translated by Google)\nThe station is spotless. The restrooms are new and very clean. The staff\u0027s service is outstanding for its friendliness.",
+    "createTime": "2025-07-24T14:04:31.529995Z",
+    "updateTime": "2025-07-24T14:04:31.529995Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita Andrea. Saludos cordiales.\nAtte Patricio ",
+      "updateTime": "2025-07-24T23:58:48.842170Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWTVNHRTRhVGxxTFhsWlZHaHBURlJuUWpWRVJsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sol"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísima la atención! El baño impecable\n\n(Translated by Google)\nExcellent service! The bathroom was spotless.",
+    "createTime": "2025-07-23T18:26:06.147194Z",
+    "updateTime": "2025-07-23T18:26:06.147194Z",
+    "reviewReply": {
+      "comment": "Muchas sol por su visita estamos trabajando para brindar un mejor servicio.\nAtte Patricio ",
+      "updateTime": "2025-07-23T18:46:44.112999Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4Zk1EWkVjVTlsWVRoS0xVNDVNWEpIVmtkdWFGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Aparicio"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar para parar, los baños super limpios, muy buena atención del personal. Atrás hay unas mesitas para hacer una pausa, comer algo bajo los árboles y seguir.\n\n(Translated by Google)\nA great place to stop, the restrooms are spotless, and the staff is very helpful. There are some tables out back where you can take a break, have something to eat under the trees, and then continue on your way.",
+    "createTime": "2025-07-19T01:33:06.813176Z",
+    "updateTime": "2025-07-19T01:33:06.813176Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZNVRYTm1SVXhGVTJjM1VFbFhlVkl4ZDFWbWRrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julieta Gonzalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y la limpieza del lugar 👏🏼\n\n(Translated by Google)\nExcellent service and the place was very clean 👏🏼",
+    "createTime": "2025-07-18T13:31:18.073785Z",
+    "updateTime": "2025-07-18T13:31:18.073785Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wUFJuSXRZVmxOWms1S1l6TkNVRXRqWlhOWWFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diana clara Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y servicio de baños!!!\n\n(Translated by Google)\nExcellent service and restroom facilities!!!",
+    "createTime": "2025-07-16T18:39:17.520465Z",
+    "updateTime": "2025-07-16T18:39:17.520465Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita Daiana. Estamos trabajando para brindar un mejor servicio. Saludos cordiales.",
+      "updateTime": "2025-07-16T21:32:58.841718Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGUGQzZzJaRjl0YmpkVFZIVXRWRVJOU1VwUmFHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Caloia"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente Ypf. Muy buena predisposición del encargado y playero Victor. Hacemos noche y mañana partimos.. baños de primera. Muchas gracias muchachos.. sin ninguna duda pasaremos de nuevo\n\n(Translated by Google)\nExcellent YPF. Victor, the manager and attendant, was very helpful. We\u0027re staying overnight and leaving tomorrow. The restrooms are top-notch. Thanks a lot, guys. We\u0027ll definitely be back.",
+    "createTime": "2025-07-12T00:37:20.278846Z",
+    "updateTime": "2025-07-12T00:37:20.278846Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGaWFFTnJkMVpGWjI0eU0ycHJWMFZyYmpjd1NHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Gomez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención llegamos de noche y el playero se mostró muy atento , los baños impecables , faltaría más señalizacion en la ruta , gracias a la gente del pueblo encontramos la estación,  muy amables , hermoso Hualfin\n\n(Translated by Google)\nExcellent service; we arrived at night and the attendant was very helpful. The restrooms were spotless. More signage along the route would be helpful. Thanks to the locals, we found the station; they were very kind. Beautiful Hualfin!",
+    "createTime": "2025-07-11T23:51:38.669804Z",
+    "updateTime": "2025-07-11T23:54:56.078259Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita Patricia. Estamos para brindar lo mejor de nuestros servicios.saludos cordiales.\nAtte Patricio.",
+      "updateTime": "2025-07-12T00:04:56.785920Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3eFEwNXlkME5FU0hnd1kzVkpZekJYVGpaMFVtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elsa"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion...👏👏👏👏\n\n(Translated by Google)\nExcellent service...👏👏👏👏",
+    "createTime": "2025-06-26T01:06:24.073233Z",
+    "updateTime": "2025-06-26T01:06:24.073233Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMmRGZGtNVXBaTjBWaVRsWkZhMFZhYkZFellYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Carrizo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-06-20T23:53:10.207803Z",
+    "updateTime": "2025-06-20T23:53:10.207803Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKcVdEbFljazFIUkZSM1NrVmZWM054VlV4QmRXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "erik uni"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-06-20T01:48:19.272784Z",
+    "updateTime": "2025-06-20T01:48:19.272784Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSNGMxZFlNamRzTW1aSVVYQnFSemN3U0dvNVgzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jacobo Leguizamón"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-06-19T11:55:36.187222Z",
+    "updateTime": "2025-06-19T11:55:36.187222Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT210ZlN6VnlhSE5mU0ZjMlNsbDRZa0pEVkRWT00yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Einer Isasmendi"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!!!\n\n(Translated by Google)\nExcellent service!!!",
+    "createTime": "2025-06-18T23:34:57.720199Z",
+    "updateTime": "2025-06-18T23:34:57.720199Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWa2RrOHlkVWxNTUZWS2NHVkhXRXA1VFhVd2VFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Angelquias"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!💪🏻👊🏻\n\n(Translated by Google)\nExcellent service! 💪🏻👊🏻",
+    "createTime": "2025-06-18T22:26:37.658595Z",
+    "updateTime": "2025-06-18T22:26:37.658595Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNVQxWlZVSEJtU2pndFYydERVbnBTVkhKclYzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cintia Lagoria"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-06-18T20:27:18.701214Z",
+    "updateTime": "2025-06-18T20:27:18.701214Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT25STVdsWkhVVEU0WXpsVVNrZFZZWE5TVjNOQ1FVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalhi Reales"
+    },
+    "starRating": "FIVE",
+    "comment": "Extraordinaria atención.\nLa limpieza es  impecable..!!!\nHermoso lugar😊\n\n(Translated by Google)\nExcellent service.\nThe cleanliness is impeccable!\nBeautiful place 😊",
+    "createTime": "2025-06-17T18:21:12.035675Z",
+    "updateTime": "2025-06-18T10:02:52.849118Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkSFVqRlFRbG81Um5CQ2NtNXdUV3c1VFhsdk0yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luz Ailen Figueroa"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo. Recomendado\n\n(Translated by Google)\nVery nice. Recommended.",
+    "createTime": "2025-06-18T01:17:03.103138Z",
+    "updateTime": "2025-06-18T01:17:03.103138Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWRU5ITnhUMVZHTURFNVVuSkNkbTVXVVRZdFZXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Moreno"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, amable, proactiva y rápida.\n\n(Translated by Google)\nExcellent service, friendly, proactive and fast.",
+    "createTime": "2025-06-18T00:12:01.167962Z",
+    "updateTime": "2025-06-18T00:12:01.167962Z",
+    "name": "accounts/109853746269412609224/locations/12873177461588192703/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5dlVVTkdSREJVZVUxcVdFWjBhSGMzZFc1VFFYYxAB"
+  }]
+}

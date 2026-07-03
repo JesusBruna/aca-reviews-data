@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Susana Penedo"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-09-27T22:21:05.681481Z",
+    "updateTime": "2019-09-27T22:21:05.681481Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwbnVfNHl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Sarno"
+    },
+    "starRating": "THREE",
+    "comment": "Bien surtido\n\n(Translated by Google)\nWell stocked",
+    "createTime": "2019-09-27T13:44:28.162260Z",
+    "updateTime": "2019-09-27T13:44:28.162260Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwN3ZYa2p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Case"
+    },
+    "starRating": "FOUR",
+    "comment": "Atenden muy rápido y bien\n\n(Translated by Google)\nThey provide very fast and good service",
+    "createTime": "2019-09-20T00:56:43.633875Z",
+    "updateTime": "2019-09-20T00:56:43.633875Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwb3VxMHFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Rosa Veroiza"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-09-15T18:23:40.992298Z",
+    "updateTime": "2019-09-15T18:23:40.992298Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwbFBMX1NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "makarena aguilera"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-09-15T16:28:06.508339Z",
+    "updateTime": "2019-09-15T16:28:06.508339Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwNU5lZzZRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "GABRIELA ACUÑA"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-09-15T12:52:53.923939Z",
+    "updateTime": "2019-09-15T12:52:53.923939Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwNU1UYXNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina Elgueta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-14T15:41:02.889901Z",
+    "updateTime": "2019-09-14T15:41:02.889901Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwLU0zdmhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Edgardo Cesar Flores"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-13T13:53:00.821927Z",
+    "updateTime": "2019-09-13T13:53:00.821927Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwNk5YZm9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sole Chiffel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-09T18:19:54.741760Z",
+    "updateTime": "2019-09-09T18:19:54.741760Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVdi1DMjh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eva M C"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-09-09T03:40:47.630461Z",
+    "updateTime": "2019-09-09T03:40:47.630461Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVNzU3RHBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2019-09-06T01:38:43.446787Z",
+    "updateTime": "2019-09-06T01:38:43.446787Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURVLTdxVkl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Alberto Aracena"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre bien dispuestos los despachante, baños limpios....\n\n(Translated by Google)\nThe dispatchers were always helpful, the bathrooms were clean....",
+    "createTime": "2019-09-05T14:03:17.077448Z",
+    "updateTime": "2019-09-05T14:03:17.077448Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVMl9uTWtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miriam Geldres"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los playeros y muy completo el shop\n\n(Translated by Google)\nExcellent service from the beach attendants and a very well-stocked shop",
+    "createTime": "2019-09-03T12:05:52.726215Z",
+    "updateTime": "2019-09-03T12:05:52.726215Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVMC1uSW9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Moretti"
+    },
+    "starRating": "FIVE",
+    "comment": "Te atienden bien y descansar un rato\n\n(Translated by Google)\nThey treat you well and you can rest for a while",
+    "createTime": "2019-09-02T15:30:40.826210Z",
+    "updateTime": "2019-09-02T15:30:40.826210Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVbzlhYmxnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mc-madero@hotmail.com Madero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-31T01:15:03.135163Z",
+    "updateTime": "2019-08-31T01:15:03.135163Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVOVpEQzhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Alejandra Segovia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente parador .Tiene Sanwich de miga para celíacos .\n\n(Translated by Google)\nExcellent place to stop. They have gluten-free sandwiches.",
+    "createTime": "2019-08-31T00:24:59.938197Z",
+    "updateTime": "2019-08-31T00:24:59.938197Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVdGJ2S3h3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Grismann"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor atención y súper serios.\n\n(Translated by Google)\nExcellent service and very professional.",
+    "createTime": "2019-08-29T23:17:43.166220Z",
+    "updateTime": "2019-08-29T23:17:43.166220Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVcFliUXFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Schorb"
+    },
+    "starRating": "TWO",
+    "createTime": "2019-08-27T03:45:01.034822Z",
+    "updateTime": "2019-08-27T03:45:01.034822Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSURVOGUyczNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Martínez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-08-25T07:39:07.124438Z",
+    "updateTime": "2019-08-25T07:39:07.124438Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURVZ2RTS01nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Humberto Quartarolo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-19T19:16:04.071758Z",
+    "updateTime": "2019-08-19T19:16:04.071758Z",
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChZDSUhNMG9nS0VJQ0FnSURVeXFDRFRREAE"
+  }]
+}

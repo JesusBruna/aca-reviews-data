@@ -1,0 +1,181 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Lautaro Retamal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-07-11T03:33:00.635717Z",
+    "updateTime": "2021-07-11T03:33:00.635717Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxNGNpZjhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Fernandez"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo bien\n\n(Translated by Google)\nAll good",
+    "createTime": "2021-07-10T22:23:58.714563Z",
+    "updateTime": "2021-07-10T22:23:58.714563Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxb1piVjdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patry Lopez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-07-10T21:19:56.408737Z",
+    "updateTime": "2021-07-10T21:19:56.408737Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChZDSUhNMG9nS0VJQ0FnSURxb2R6WVV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "jorge alberto. rastelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Perfecta atención\n\n(Translated by Google)\nPerfect service",
+    "createTime": "2021-07-09T22:53:41.993229Z",
+    "updateTime": "2021-07-09T22:53:41.993229Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxdnJMUDFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Manuel Vargas"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2021-07-09T17:15:45.771546Z",
+    "updateTime": "2021-07-09T17:15:45.771546Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxM3VTYmpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yamil Balduzzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-07-09T10:15:10.891377Z",
+    "updateTime": "2021-07-09T10:15:10.891377Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChZDSUhNMG9nS0VJQ0FnSURxN3BtUlpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Videle"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-07-09T02:29:05.821163Z",
+    "updateTime": "2021-07-09T02:29:05.821163Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxcnY2YzVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alexis ezequiel mendez suriani"
+    },
+    "starRating": "FOUR",
+    "comment": "Estación de servicio en general buena. Parece que falta gente en la playa\n\n(Translated by Google)\nThe gas station is generally good. It seems like there aren\u0027t many people on the beach.",
+    "createTime": "2021-07-06T12:16:02.907348Z",
+    "updateTime": "2021-07-06T12:16:02.907348Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxLXBhZTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar M Ares"
+    },
+    "starRating": "THREE",
+    "comment": "Todo muylento\n\n(Translated by Google)\nEverything is very slow",
+    "createTime": "2021-07-05T21:26:03.200838Z",
+    "updateTime": "2021-07-05T21:26:03.200838Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su reseña! L@ esperamos nuevamente para mejorar la experiencia",
+      "updateTime": "2025-06-06T22:02:30.610674Z"
+    },
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxMnNyNzdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Fontana"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-07-03T22:05:28.260253Z",
+    "updateTime": "2021-07-03T22:05:28.260253Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChZDSUhNMG9nS0VJQ0FnSURxMHFPaUZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Denis"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños impecables lo ame.me molesto que nada tenga precio\n\n(Translated by Google)\nThe bathrooms were spotless, I loved it. I\u0027m annoyed that nothing has a price.",
+    "createTime": "2021-07-03T19:21:19.704583Z",
+    "updateTime": "2021-07-03T19:21:19.704583Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChZDSUhNMG9nS0VJQ0FnSURxMHVLOUNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Coca"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion y liempieza siempre\n\n(Translated by Google)\nGood service and always cleanliness",
+    "createTime": "2021-07-03T14:22:39.648589Z",
+    "updateTime": "2021-07-03T14:22:39.648589Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChZDSUhNMG9nS0VJQ0FnSURxa3NMX2Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Gomez"
+    },
+    "starRating": "THREE",
+    "comment": "La atención es buena,el baño estaba limpió.\n\n(Translated by Google)\nThe service is good, the bathroom was clean.",
+    "createTime": "2021-07-02T02:11:13.245911Z",
+    "updateTime": "2021-07-02T02:11:13.245911Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChZDSUhNMG9nS0VJQ0FnSURxdkk2QWZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lilian Gramajo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-28T17:55:46.182983Z",
+    "updateTime": "2021-06-28T17:55:46.182983Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxaEpyQTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Olaechea"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-26T21:40:16.322909Z",
+    "updateTime": "2021-06-26T21:40:16.322909Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSURxeUxLbnJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Horodeski"
+    },
+    "starRating": "ONE",
+    "comment": "Me estafaron me duplicaron la venta en más de 12000$ me cansé de ir a reclamar y llamar por teléfono ladrones\n\n(Translated by Google)\nThey scammed me, they doubled the sale by more than $12,000, I got tired of complaining and calling thieves on the phone.",
+    "createTime": "2021-06-25T18:26:24.315964Z",
+    "updateTime": "2021-06-25T18:26:24.315964Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChZDSUhNMG9nS0VJQ0FnSURxa1BPOEJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Clau Flores :"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-06-24T15:45:10.446097Z",
+    "updateTime": "2021-06-24T15:45:10.446097Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxXzlQUWhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Deangel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-06-24T14:23:18.980074Z",
+    "updateTime": "2021-06-24T14:23:33.734270Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxXzVhX3NRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Dal Maso"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien servicio y excelente atención personal.\n\n(Translated by Google)\nVery good service and excellent personal attention.",
+    "createTime": "2021-06-24T13:27:56.373723Z",
+    "updateTime": "2021-06-24T13:27:56.373723Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su reseña y comentario! Hasta Pronto",
+      "updateTime": "2025-06-06T21:53:17.222901Z"
+    },
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxXzZ5YnFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Flor Belluzzo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-06-23T05:11:27.241576Z",
+    "updateTime": "2021-06-23T05:11:27.241576Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/ChdDSUhNMG9nS0VJQ0FnSUNxcjZESm9nRRAB"
+  }]
+}

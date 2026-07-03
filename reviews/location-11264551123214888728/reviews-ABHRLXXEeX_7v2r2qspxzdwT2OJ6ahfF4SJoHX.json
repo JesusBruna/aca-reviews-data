@@ -1,0 +1,180 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Mirko Beros"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-29T12:15:43.313876Z",
+    "updateTime": "2024-04-29T12:15:43.313876Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURqeE55VjhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Deleon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-28T12:41:03.832805Z",
+    "updateTime": "2024-04-28T12:41:03.832805Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURqOE5pODdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Ferrero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-04-27T13:55:52.425405Z",
+    "updateTime": "2024-04-27T13:55:52.425405Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqbjczSkhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniela Alives"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio e instalaciones. La estación tiene todo lo necesario para quien viaja: Agua caliente gratis, baños impecables, estacionamiento propio, lavado de auto y shop. 100% RECOMENDABLE. 10 PUNTOS!\n\n(Translated by Google)\nExcellent service and facilities. The station has everything a traveler needs: free hot water, spotless restrooms, on-site parking, car wash, and a convenience store. 100% RECOMMENDED. 10 OUT OF 10!",
+    "createTime": "2024-04-20T21:01:41.959575Z",
+    "updateTime": "2024-04-20T21:01:41.959575Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su opinión Daniela, solo una aclaración, servicio de Lavado de Vehiculos no poseemos. \nSaludos\nEquipo YPF-ACA Villa del Dique",
+      "updateTime": "2024-06-07T15:49:49.136559Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqeG9tdWN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Adrian Cufre"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, baños excelente.\n\n(Translated by Google)\nVery good service, excellent bathrooms.",
+    "createTime": "2024-04-20T17:14:23.604813Z",
+    "updateTime": "2024-04-20T17:14:23.604813Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqLXJleU5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Gutierrez"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención del kiosko deja mucho que desear\n\n(Translated by Google)\nThe service at the kiosk leaves much to be desired.",
+    "createTime": "2024-04-18T20:31:39.765709Z",
+    "updateTime": "2024-04-18T20:31:39.765709Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqbktPSmtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo orlando gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-11T02:04:23.468512Z",
+    "updateTime": "2024-04-11T02:04:23.468512Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUREc1oybmp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gabriela pomba"
+    },
+    "starRating": "FIVE",
+    "comment": "Destacó la atención!!\n\n(Translated by Google)\nThe service was outstanding!",
+    "createTime": "2024-04-08T02:38:28.422359Z",
+    "updateTime": "2024-04-08T02:38:28.422359Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUREcXZmNEJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Junquera"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena y rapida atención\n\n(Translated by Google)\nGood and fast service",
+    "createTime": "2024-04-02T03:32:36.901646Z",
+    "updateTime": "2024-04-02T06:56:59.891673Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMjhfdGFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "inu ribes"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-04-02T00:31:47.992050Z",
+    "updateTime": "2024-04-02T00:31:47.992050Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMjR6b0VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Nemer"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2024-03-30T20:20:25.219949Z",
+    "updateTime": "2024-03-30T20:20:25.219949Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEMWVpWVV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Flowerpower"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-26T05:30:38.339531Z",
+    "updateTime": "2024-03-26T05:30:38.339531Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNENHBEYUxBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alexis"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-24T21:29:22.444195Z",
+    "updateTime": "2024-03-24T21:29:22.444195Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEMU95SHpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Bouzas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-20T23:08:47.275318Z",
+    "updateTime": "2024-03-20T23:08:47.275318Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5ODQzSHFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Rubio"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amable la atencion.\n\n(Translated by Google)\nVery kind attention.",
+    "createTime": "2024-03-16T19:00:18.043680Z",
+    "updateTime": "2024-03-16T19:00:18.043680Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5anB1TG5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adalberto Tarulli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-16T16:46:02.762001Z",
+    "updateTime": "2024-03-16T16:46:02.762001Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5anZEckdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Medina"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-03-16T13:23:22.927125Z",
+    "updateTime": "2024-03-16T13:23:22.927125Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ5dHNLRFVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "GUSTAVO CONTRERAS"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención. Baños limpios. Agua para el termo gratis!\n\n(Translated by Google)\nGreat service. Clean restrooms. Free hot water for your thermos!",
+    "createTime": "2024-03-10T10:43:13.743314Z",
+    "updateTime": "2024-03-10T10:43:13.743314Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5LThMY2Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Clara Cabral"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-29T12:50:24.841204Z",
+    "updateTime": "2024-02-29T12:50:24.841204Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5ME02T3NnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Master Sky"
+    },
+    "starRating": "FIVE",
+    "comment": "Una estación YPF que se destaca por su patio con mesas muy bien mantenido y su limpieza en general, la atención del personal es excelente, los baños en óptimas condiciones.\n\n(Translated by Google)\nA YPF station that stands out for its well-maintained patio with tables and its overall cleanliness; the staff\u0027s attention is excellent, and the bathrooms are in optimal condition.",
+    "createTime": "2024-02-27T01:13:56.477369Z",
+    "updateTime": "2024-02-27T01:14:18.191897Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias por su calificación, saludos y lo esperamos pronto.\nEquipo de YPF- ACA Villa del Dique",
+      "updateTime": "2024-06-03T13:27:34.875370Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSURkMDY3RkVnEAE"
+  }]
+}

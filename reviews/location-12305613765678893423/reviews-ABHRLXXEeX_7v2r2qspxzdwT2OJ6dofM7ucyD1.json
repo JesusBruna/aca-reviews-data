@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-13T15:17:56.241960Z",
+    "updateTime": "2023-08-13T15:17:56.241960Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwdi1tZ1VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Alecci"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-08-12T21:43:41.469278Z",
+    "updateTime": "2023-08-12T21:43:41.469278Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwcl9DcHB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Rodriguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-05T20:50:58.243909Z",
+    "updateTime": "2023-08-05T20:50:58.243909Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwOFkzcm5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "lilyana corenman"
+    },
+    "starRating": "FOUR",
+    "comment": "muy buena atencion, re amables\n\n(Translated by Google)\nExcellent service, very friendly",
+    "createTime": "2020-01-19T19:04:55.200576Z",
+    "updateTime": "2023-08-05T20:50:07.914577Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzOEkyR1lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "David Ajalla"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-02T10:30:28.560849Z",
+    "updateTime": "2023-08-02T10:30:28.560849Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwLXBUdThRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Rabetino"
+    },
+    "starRating": "THREE",
+    "comment": "Floja atención, lugar reducido y muchos autos, producto de que esta cerrado por reformas ACA I\n\n(Translated by Google)\nPoor service, small space and many cars, due to the fact that it is closed for renovations.",
+    "createTime": "2023-08-01T10:08:20.757366Z",
+    "updateTime": "2023-08-01T10:08:20.757366Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwaXVUUTJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Gil (EXTINCENTER)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-31T01:03:53.872579Z",
+    "updateTime": "2023-07-31T01:03:53.872579Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwX0tMbktnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natacha Cinelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2023-07-30T23:39:34.146669Z",
+    "updateTime": "2023-07-30T23:39:34.146669Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwX0tDUE9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Perazzo"
+    },
+    "starRating": "ONE",
+    "createTime": "2023-07-27T22:08:22.295566Z",
+    "updateTime": "2023-07-27T22:08:29.465699Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNk9xbkNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Profe Axel Fernández"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-25T16:44:27.202909Z",
+    "updateTime": "2023-07-25T16:44:27.202909Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURKbjZMTEtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Panno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-24T14:10:07.205687Z",
+    "updateTime": "2023-07-24T14:10:07.205687Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURKbC16am5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Alberto Campos"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-07-23T13:00:04.771613Z",
+    "updateTime": "2023-07-23T13:00:04.771613Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURKMl9iT3dBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Racciatti"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención de los playeros!\n\n(Translated by Google)\nExcellent service from the beach attendants!",
+    "createTime": "2023-07-17T13:17:56.329655Z",
+    "updateTime": "2023-07-17T13:17:56.329655Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURKN3ZHTXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Garcia"
+    },
+    "starRating": "THREE",
+    "comment": "La atención es buena\n\n(Translated by Google)\nThe service is good.",
+    "createTime": "2023-07-14T20:09:10.386348Z",
+    "updateTime": "2023-07-14T20:09:10.386348Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURKcXJhdnl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Carricato"
+    },
+    "starRating": "THREE",
+    "comment": "Muy complicado cargar dado q está en reparación la otra estación y se amontonan muchos autos\n\n(Translated by Google)\nIt\u0027s very difficult to refuel because the other station is under repair and there are many cars piled up.",
+    "createTime": "2023-07-12T14:07:23.533929Z",
+    "updateTime": "2023-07-12T14:07:23.533929Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURKN1A3WEJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Cáceres"
+    },
+    "starRating": "FIVE",
+    "comment": "Ágil y rápido el servicio, lo bueno que tiene dos entradas para cargar combustible, de un lado solo super y del otro lado premium\n\n(Translated by Google)\nThe service is quick and efficient, and it\u0027s great that it has two fuel pumps, one for super and the other for premium.",
+    "createTime": "2023-07-10T13:22:30.276168Z",
+    "updateTime": "2023-07-10T13:22:30.276168Z",
+    "reviewReply": {
+      "comment": "Hola Graciela Caceres:\nGracias por tu comentario. Lamentamos tu calificación, reforzaremos este punto para verte nuevamente en nuestra estación.\n ATT: Acceso Norte ll",
+      "updateTime": "2024-06-20T03:27:54.987423Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURKMkxubDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge José Caselli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-09T14:52:32.353237Z",
+    "updateTime": "2023-07-09T14:52:32.353237Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSURKOEk3cFpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Campos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-07-07T20:59:57.038684Z",
+    "updateTime": "2023-07-07T20:59:57.038684Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKbl9qN1JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Salma"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-07-06T09:39:28.396305Z",
+    "updateTime": "2023-07-06T09:39:28.396305Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeDRmVWdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Bejarano"
+    },
+    "starRating": "FIVE",
+    "comment": "Aguante el aca\n\n(Translated by Google)\nHang in there",
+    "createTime": "2023-07-02T18:24:11.179574Z",
+    "updateTime": "2023-07-02T18:24:11.179574Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKcmIzbjhRRRAB"
+  }]
+}

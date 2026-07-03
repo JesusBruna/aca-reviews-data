@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Rafael Heraclito"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-01-11T00:24:11.120398Z",
+    "updateTime": "2023-01-11T00:24:11.120398Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMk1TRF9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hector Colares"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-08T23:52:36.053771Z",
+    "updateTime": "2023-01-08T23:52:36.053771Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSURCZ01mbGZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Ruzycki"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion tanto del playero de la noche como el de la mañana\n\n(Translated by Google)\nExcellent service from both the night and morning attendants.",
+    "createTime": "2023-01-04T02:03:08.140594Z",
+    "updateTime": "2023-01-04T02:03:08.140594Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCOF9pTXZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Isabel Silva"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención de los depachadores de combustible.\n\n(Translated by Google)\nThe service from the fuel attendants was very good.",
+    "createTime": "2023-01-03T17:44:42.591414Z",
+    "updateTime": "2023-01-03T17:44:42.591414Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCMDZ5MExnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Barco"
+    },
+    "starRating": "ONE",
+    "comment": "El viejo verso de No hay sistema para no aceptar tarjetas y no cargar los puntos Serviclub y encima representa al ACA\n\n(Translated by Google)\nThe old saying \"There\u0027s no system to not accept cards and not load Serviclub points\" and on top of that, it represents the ACA (Argentine Automobile Club).",
+    "createTime": "2022-12-28T11:20:56.478108Z",
+    "updateTime": "2022-12-28T11:20:56.478108Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCMGF1ek9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Gonzalez"
+    },
+    "starRating": "THREE",
+    "comment": "Normal",
+    "createTime": "2022-12-28T02:04:43.929241Z",
+    "updateTime": "2022-12-28T02:04:43.929241Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCa2VpMllBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Antonio Solla"
+    },
+    "starRating": "FIVE",
+    "comment": "En nuestro viaje desde Trelew a Esquel, fue la única estación de servicio con combustible antes de llegar a Tecka. El ACA todo muy cuidado y limpio, la atención del personal fue excelente.\n\n(Translated by Google)\nOn our trip from Trelew to Esquel, it was the only gas station with fuel before reaching Tecka. The ACA was very well maintained and clean, and the staff was excellent.",
+    "createTime": "2022-12-16T11:33:49.665637Z",
+    "updateTime": "2022-12-16T11:36:35.763469Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCbVA2NFN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro ñancufil"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención. Las torta fritas imperdibles. Un clásico.\n\n(Translated by Google)\nExcellent service. The fried cakes are a must-try. A classic.",
+    "createTime": "2022-12-11T01:58:13.843651Z",
+    "updateTime": "2022-12-11T01:58:13.843651Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaF9hSVJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Gigena"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-10T01:39:28.700370Z",
+    "updateTime": "2022-12-10T01:39:28.700370Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNi1hQ01nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Camila Spagnuolo"
+    },
+    "starRating": "ONE",
+    "comment": "Pésima atención, media hora para atenernos, por un auto que no adelantaba porque no podía pagar porque no les andaba el sistema para pagar con tarjetas, no me hicieron factura A. Pleno fin de semana largo, para arrancarlo alunada\n\n(Translated by Google)\nTerrible service, it took half an hour to get through, and my car wouldn\u0027t move because I couldn\u0027t pay since their card payment system was down. They didn\u0027t even give me an invoice. It was a long weekend, and I was in a terrible mood to start it off.",
+    "createTime": "2022-12-09T19:31:12.125952Z",
+    "updateTime": "2022-12-09T19:31:12.125952Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcTRxZzRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Stella"
+    },
+    "starRating": "FIVE",
+    "comment": "Instalaciones impecables, excelente atención y los precios del servicompras totalmente coherentes!\n\n(Translated by Google)\nImpeccable facilities, excellent service, and the prices at the convenience store are completely reasonable!",
+    "createTime": "2022-12-03T17:04:25.629509Z",
+    "updateTime": "2022-12-03T17:04:25.629509Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtNlpPUmpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ana abregu"
+    },
+    "starRating": "FIVE",
+    "comment": "MUY BUENA LA ATENCION\n\n(Translated by Google)\nVERY GOOD SERVICE",
+    "createTime": "2022-12-03T02:08:59.006269Z",
+    "updateTime": "2022-12-03T02:08:59.006269Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaVozcVlREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Imprenta Almafuerte"
+    },
+    "starRating": "FIVE",
+    "comment": "Para nosotros excelente!!!...buena predisposicion los empleados!!!...hicimos noche ahí!!!...y enfrente el comedor de Emanuel,el mejor pan casero y pizzas que ge comido!!!...\n\n(Translated by Google)\nFor us, it was excellent!!!...the staff were very helpful!!!...we even stayed overnight!!!...and across the street is Emanuel\u0027s restaurant, the best homemade bread and pizzas I\u0027ve ever had!!!",
+    "createTime": "2022-12-03T01:53:00.930772Z",
+    "updateTime": "2022-12-03T01:53:00.930772Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaWZXWWRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Salazar"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención!!!!!!\n\n(Translated by Google)\nGreat service!",
+    "createTime": "2022-12-01T14:33:00.356290Z",
+    "updateTime": "2022-12-01T14:33:00.356290Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtd1lHLXl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Marcos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-22T21:55:50.411009Z",
+    "updateTime": "2022-11-22T21:55:50.411009Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtak9xMGR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "vivi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-19T02:56:47.660289Z",
+    "updateTime": "2022-11-19T02:56:47.660289Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtME1yUGt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Salas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-17T13:03:51.278596Z",
+    "updateTime": "2022-11-17T13:03:51.278596Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtMzdMV013EAE"
+  }, {
+    "reviewer": {
+      "displayName": "raul hector leiva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-10T17:51:35.016830Z",
+    "updateTime": "2022-11-10T17:51:35.016830Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtN2JUU2FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Stella Maris Pereyra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-11-10T01:15:54.491963Z",
+    "updateTime": "2022-11-10T01:15:54.491963Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtOWMyd1pnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Elena Buonanotte"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-11-07T22:32:42.520235Z",
+    "updateTime": "2022-11-07T22:32:42.520235Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtMmFpY0FREAE"
+  }]
+}

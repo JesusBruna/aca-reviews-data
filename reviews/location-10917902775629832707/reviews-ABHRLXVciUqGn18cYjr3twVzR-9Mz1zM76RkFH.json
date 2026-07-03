@@ -1,0 +1,188 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Guajardo"
+    },
+    "starRating": "FIVE",
+    "comment": "Un lugar para descansar y después seguir el viaje\n\n(Translated by Google)\nA place to rest and then continue the journey",
+    "createTime": "2023-11-03T14:16:36.163544Z",
+    "updateTime": "2023-11-03T14:16:36.163544Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGeDZuNERnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Gaston Escudero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-11-02T20:12:49.110141Z",
+    "updateTime": "2023-11-02T20:12:49.110141Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGbTRucGxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Ruiz"
+    },
+    "starRating": "THREE",
+    "comment": "Bien los chicos que atienden. Pero falta infraestructura, mejorar los baños, dar internet, etc..\n\n(Translated by Google)\nThe staff are good. But there\u0027s a lack of infrastructure, the bathrooms need improvement, internet access is lacking, etc.",
+    "createTime": "2023-10-30T14:14:33.071188Z",
+    "updateTime": "2023-10-30T14:14:33.071188Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGdFlibDBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lidia Isabel Yañez"
+    },
+    "starRating": "THREE",
+    "comment": "Atentos y cordiales\n\n(Translated by Google)\nAttentive and cordial",
+    "createTime": "2023-10-22T07:35:23.899417Z",
+    "updateTime": "2023-10-22T07:35:23.899417Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1OHJhOXRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Sebastián Pereyra Robles"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-18T17:36:39.453750Z",
+    "updateTime": "2023-10-18T17:36:39.453750Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1a0pqci1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Karime Adaro"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-10-18T02:51:56.365568Z",
+    "updateTime": "2023-10-18T02:51:56.365568Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1cl8zM0JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victor Oscar Meglioli"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-17T00:01:14.979409Z",
+    "updateTime": "2023-10-17T00:01:14.979409Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1a19lYlZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Ferreyra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-15T13:56:59.716472Z",
+    "updateTime": "2023-10-15T13:56:59.716472Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1eWYzb0tBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Rosa Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-10-15T02:24:44.120692Z",
+    "updateTime": "2023-10-15T02:24:44.120692Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1MFpfV2ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "raul Castro"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion y muy cordiales todo el personal\n\n(Translated by Google)\nExcellent service and all the staff were very friendly",
+    "createTime": "2023-10-14T02:15:58.299908Z",
+    "updateTime": "2023-10-14T02:15:58.299908Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1X3RfdUh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "German Hachin"
+    },
+    "starRating": "ONE",
+    "comment": "Malísima atención dos horas esperando,los baños deplorables,si tienen algo de combustible sigan de largo.\n\n(Translated by Google)\nTerrible service, two hours waiting, deplorable bathrooms, if you have any fuel keep going.",
+    "createTime": "2023-10-13T19:17:44.565201Z",
+    "updateTime": "2023-10-13T19:17:44.565201Z",
+    "reviewReply": {
+      "comment": "La demora en la atención está Dada principalmente por los pagos electrónicos y depende de la recepción que tenga el propio cliente en sus dispositivos. Nuestras bombas funcionan con caudal regulado, normado y verificado por INTI. la playa cuenta con una isla, dos surtidores, dos vías de ingresos con dos operadores. Por otro lado, su visita ha Sido durante un feriado largo dónde la cantidad de clientes es mucho mayor, con un evento de exposición de autos y otros de motos en las ciudades cercanas. El contigente es eventual, no constante.",
+      "updateTime": "2023-10-13T20:29:56.239677Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1M3NpbHRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Iwakawa"
+    },
+    "starRating": "ONE",
+    "comment": "Muuy lenta, un solo playero para la única estación en 300km, mas de 20 autos esperando\n\n(Translated by Google)\nVery slow, only one beachcomber for the only station in 300km, more than 20 cars waiting",
+    "createTime": "2023-10-13T17:28:38.066801Z",
+    "updateTime": "2023-10-13T17:28:38.066801Z",
+    "reviewReply": {
+      "comment": "La demora en la atención al público está Dada principalmente por los pagos realizados con medios electrónicos y depende de la recepción que posea el cliente en sus dispositivos. La playa cuánta con una isla, dos vías de ingresos y dos operadores de bombas, las cuales cuentan con un caudal regulado y controlado por INTI.",
+      "updateTime": "2023-10-13T20:32:38.335971Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1bm9DYTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marianela Quevedo"
+    },
+    "starRating": "TWO",
+    "comment": "Los baños están demasiado sucios.\n\n(Translated by Google)\nThe bathrooms are too dirty.",
+    "createTime": "2023-10-11T02:07:53.043300Z",
+    "updateTime": "2023-10-11T02:07:53.043300Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario Marianela. La alta contingencia dificulta el aseo permanente de los baños pero le aseguramos que hay un operador exclusivo para la limpieza de los mismos.",
+      "updateTime": "2023-10-13T20:34:17.300747Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1MU1PSjJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Vazquez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-10-07T20:54:54.217177Z",
+    "updateTime": "2023-10-07T20:54:54.217177Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURaaTVyMTRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Bergamasco (THE.CRISTIAN.12)"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención y ubicación.\nAcepta pagos con la app de YPF\n\n(Translated by Google)\nExcellent service and location.\nAccepts payments with the YPF app.",
+    "createTime": "2023-10-07T20:34:13.007398Z",
+    "updateTime": "2023-10-07T20:34:13.007398Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURaaTZqVjh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Edgardo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-07T18:58:10.892544Z",
+    "updateTime": "2023-10-07T18:58:10.892544Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURacy1fN1ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Walter Mori"
+    },
+    "starRating": "FOUR",
+    "comment": "Es como un oasis en medio de la nada. Lindo montecito al lado.\n\n(Translated by Google)\nIt\u0027s like an oasis in the middle of nowhere. Lovely little hill nearby.",
+    "createTime": "2023-10-05T21:09:03.915138Z",
+    "updateTime": "2023-10-05T21:09:03.915138Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURaOWFEWTlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Keila Ormeño"
+    },
+    "starRating": "FIVE",
+    "comment": "Son unos genios, gracias por la buena onda!\n\n(Translated by Google)\nThey\u0027re geniuses, thanks for the good vibes!",
+    "createTime": "2023-10-05T03:07:43.076846Z",
+    "updateTime": "2023-10-05T03:07:43.076846Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURaeFotU3hRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "GUSTAVO ALEJANDRO BOBADILLA"
+    },
+    "starRating": "FIVE",
+    "comment": "Rápida y amable atención , Luis el playero un capo !!!\n\n(Translated by Google)\nQuick and friendly service, Luis the beach attendant is a pro!!!",
+    "createTime": "2023-10-05T01:19:18.882443Z",
+    "updateTime": "2023-10-05T01:19:18.882443Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChdDSUhNMG9nS0VJQ0FnSURaeGVXczh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "carlos gaivironsky"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-04T20:00:57.010541Z",
+    "updateTime": "2023-10-04T20:00:57.010541Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURaaFlYZ1ZBEAE"
+  }]
+}

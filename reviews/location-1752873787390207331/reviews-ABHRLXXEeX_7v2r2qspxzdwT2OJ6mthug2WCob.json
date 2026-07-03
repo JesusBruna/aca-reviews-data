@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Pablo Jorge Mitre"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-18T20:12:19.178870Z",
+    "updateTime": "2023-01-18T20:12:19.178870Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMXViMmdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Acevedo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención gente preparada para atender\n\n(Translated by Google)\nGood service, people who are well-trained to help.",
+    "createTime": "2023-01-18T14:09:33.831814Z",
+    "updateTime": "2023-01-18T14:09:33.831814Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURCNW8yVFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariadna Barreiro"
+    },
+    "starRating": "FIVE",
+    "comment": "Recomiendo\n\n(Translated by Google)\nI recommend",
+    "createTime": "2023-01-17T23:16:29.084386Z",
+    "updateTime": "2023-01-17T23:16:29.084386Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCaHV2X3JBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Eduardo Brest"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-17T02:41:52.200152Z",
+    "updateTime": "2023-01-17T02:41:52.200152Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURCNnRlZ0FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Gabriel"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-01-16T23:43:07.751412Z",
+    "updateTime": "2023-01-16T23:43:07.751412Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCNnNhd2lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Marquez"
+    },
+    "starRating": "FOUR",
+    "comment": "Falta mantenimiento. Muy cara la nafta respecto a pueblos cercanos. No me podían emitir factura a mi nombre si pagaba en efectivo\n\n(Translated by Google)\nIt needs maintenance. Gasoline is very expensive compared to nearby towns. They couldn\u0027t issue a receipt in my name if I paid in cash.",
+    "createTime": "2023-01-16T20:25:23.264869Z",
+    "updateTime": "2023-01-16T20:25:23.264869Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcXJPWWJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "carlos armando pérez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-16T15:25:15.605444Z",
+    "updateTime": "2023-01-16T15:25:15.605444Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURCeXBIalhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Dutescu"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-15T21:22:07.100075Z",
+    "updateTime": "2023-01-15T21:22:07.100075Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCc3ZETHRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manu PERSONA"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena gasolinera\n\n(Translated by Google)\nVery good gas station",
+    "createTime": "2023-01-14T18:00:33.866208Z",
+    "updateTime": "2023-01-14T18:00:33.866208Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURCZ3BiWklnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Groppoli"
+    },
+    "starRating": "FIVE",
+    "comment": "Es cara la nafta a comparación de otra ypf\n\n(Translated by Google)\nGasoline is expensive compared to other YPF stations.",
+    "createTime": "2023-01-14T14:39:57.977466Z",
+    "updateTime": "2023-01-14T14:39:57.977466Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURCX0ltWkNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Olivera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-14T03:13:23.641430Z",
+    "updateTime": "2023-01-14T03:13:23.641430Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCM05MVXJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Daniel Casale"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-01-12T15:06:33.584517Z",
+    "updateTime": "2023-01-12T15:06:33.584517Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMUtYbzl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Ar"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-12T13:26:13.368099Z",
+    "updateTime": "2023-01-12T13:26:13.368099Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMUt5bW5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Carabajal"
+    },
+    "starRating": "THREE",
+    "comment": "Mucha demora para cargarte.\n\n(Translated by Google)\nIt takes a long time to load.",
+    "createTime": "2023-01-12T04:25:19.717192Z",
+    "updateTime": "2023-01-12T04:25:19.717192Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCNUx6ZXV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "LUCAS JAVIER NEGRETE"
+    },
+    "starRating": "ONE",
+    "comment": "Un desastre no pude cargar porque no funcionaba el posnet\n\n(Translated by Google)\nIt was a disaster; I couldn\u0027t load anything because the POS terminal wasn\u0027t working.",
+    "createTime": "2023-01-12T02:45:29.948517Z",
+    "updateTime": "2023-01-12T02:45:29.948517Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCcEotZWhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Gil"
+    },
+    "starRating": "THREE",
+    "comment": "Vinimos después de las 22:00 un solo empleado y cola para cargar, contraten empleados, algún franquero, facturan muchísimo, podrían esmerarse en brindar un mejor servicio. Son ACA.\n\n(Translated by Google)\nWe came after 10 PM, there was only one employee and a line to load up. Hire more staff, maybe a shift worker. You\u0027re making a lot of money, you could really focus on providing better service. You\u0027re ACA.",
+    "createTime": "2023-01-12T01:28:59.001678Z",
+    "updateTime": "2023-01-12T01:30:24.338010Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCcE1PUnlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Attonaty"
+    },
+    "starRating": "THREE",
+    "comment": "Tardan bastante en atender pero  bueno es una ciudad turística y había mucha gente en enero\n\n(Translated by Google)\nThe service is quite slow, but it\u0027s a tourist city and there were a lot of people in January.",
+    "createTime": "2023-01-11T19:08:18.452460Z",
+    "updateTime": "2023-01-11T19:08:18.452460Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCeExHOHd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ALEJANDRO CARLOS de BERUTI"
+    },
+    "starRating": "FOUR",
+    "comment": "La atención del personal es buena y los precios son los\nMás bajos de la zona el combustible es bueno eso si casi siempre hay demoras por lo que conviene ir de mañana temprano o a la noche. Tienen la YPF aplicación para el descuento al cargar.\n\n(Translated by Google)\nThe staff is friendly and the prices are the lowest in the area. The fuel is good, but there are almost always delays, so it\u0027s best to go early in the morning or at night. They have the YPF app for discounts when you fill up.",
+    "createTime": "2023-01-10T23:57:13.721990Z",
+    "updateTime": "2023-01-10T23:57:13.721990Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMlBEUEJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Maldonado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-10T12:33:27.327637Z",
+    "updateTime": "2023-01-10T12:33:27.327637Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURCeUplb1RnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ceci"
+    },
+    "starRating": "FIVE",
+    "comment": "Una atención personalizada,impecable!\n\n(Translated by Google)\nPersonalized, impeccable service!",
+    "createTime": "2023-01-10T07:51:32.329480Z",
+    "updateTime": "2023-01-10T07:51:32.329480Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURCaU1XdXdRRRAB"
+  }]
+}

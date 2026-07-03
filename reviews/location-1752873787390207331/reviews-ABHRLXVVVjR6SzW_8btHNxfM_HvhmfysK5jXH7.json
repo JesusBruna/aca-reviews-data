@@ -1,0 +1,55 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Francisco Mendonça"
+    },
+    "starRating": "ONE",
+    "comment": "Siempre hay cola para cargar\n\n(Translated by Google)\nThere\u0027s always a queue to load",
+    "createTime": "2016-01-13T13:50:39.573Z",
+    "updateTime": "2016-01-13T13:50:39.573Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMmZLcUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Diego Steinbaum"
+    },
+    "starRating": "THREE",
+    "comment": "Como todo ACA, atención regular y en temporada mucha gente.\n\n(Translated by Google)\nLike all ACAs, the service is average and very crowded during peak season.",
+    "createTime": "2016-01-03T21:01:04.979Z",
+    "updateTime": "2016-01-03T21:02:00.048Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURBb2F5ck5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Tiralongo"
+    },
+    "starRating": "FOUR",
+    "comment": "Tiene de todo siempre bueno cuando necesitas algo.\n\n(Translated by Google)\nIt always has everything you need when you need something.",
+    "createTime": "2016-01-01T23:09:35.813Z",
+    "updateTime": "2016-01-01T23:10:06.282Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURRaTUyUkt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alexander Alonso"
+    },
+    "starRating": "THREE",
+    "createTime": "2015-12-17T04:32:11.891Z",
+    "updateTime": "2015-12-17T04:32:11.891Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnZ19tYThBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Sanchez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención, como la mayoría de las estaciones del ACA.\nNormalmente en temporada o fines de semana largos, hay que esperar haciendo fila, ya que hay mucha demanda.\n\n(Translated by Google)\nExcellent service, like most ACA stations.\nNormally during peak season or long weekends, you have to wait in line due to high demand.",
+    "createTime": "2015-12-08T00:10:02.808Z",
+    "updateTime": "2015-12-08T00:13:24.088Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChdDSUhNMG9nS0VJQ0FnSURRdnVfOWdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tincho97 Martinez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2015-11-17T19:25:42.333Z",
+    "updateTime": "2015-11-17T19:25:42.333Z",
+    "name": "accounts/109853746269412609224/locations/1752873787390207331/reviews/ChZDSUhNMG9nS0VJQ0FnSURnc1k3cWR3EAE"
+  }]
+}

@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Lucas"
+    },
+    "starRating": "FIVE",
+    "comment": "El buffet, bárbaro y accesible. Muy recomendable.\n\n(Translated by Google)\nThe buffet was fantastic and affordable. Highly recommended.",
+    "createTime": "2017-07-19T16:23:07.288Z",
+    "updateTime": "2017-07-19T16:23:34.896Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBN191UXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "laura corregi"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar. Higiénico y amigable\n\n(Translated by Google)\nGood place. Hygienic and friendly.",
+    "createTime": "2017-07-19T04:28:23.150Z",
+    "updateTime": "2017-07-19T04:28:42.608Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3bmNMVlp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Cardelli"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-07-16T17:21:31.523Z",
+    "updateTime": "2017-07-16T17:21:31.523Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSURRLUxXTi1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Teptiuch"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-07-15T22:18:29.096Z",
+    "updateTime": "2017-07-15T22:18:29.583Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMnVXY21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "El otro"
+    },
+    "starRating": "FOUR",
+    "comment": "Lindo\n\n(Translated by Google)\nNice",
+    "createTime": "2017-07-15T16:37:10.283Z",
+    "updateTime": "2017-07-15T16:37:27.758Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSURBLTlMb2tBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Mendoza"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar para abastecerse en la ruta.\n\n(Translated by Google)\nGood place to stock up on supplies along the route.",
+    "createTime": "2017-07-11T01:50:48.354Z",
+    "updateTime": "2017-07-11T01:51:28.987Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBNE1IOExBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Alberto Fredes"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-07-10T21:29:15.951Z",
+    "updateTime": "2017-07-10T21:29:20.131Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRX2RxRjJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Ferher"
+    },
+    "starRating": "ONE",
+    "comment": "Ni se les ocurra bajar a comprar algo que les arrancan la cabeza ! Y ni hablar de la suciedad que hay en los baños !\n\n(Translated by Google)\nDon\u0027t even think about going down to buy anything or they\u0027ll rip you off! And don\u0027t even get me started on how filthy the bathrooms are!",
+    "createTime": "2017-07-10T17:40:58.550Z",
+    "updateTime": "2017-07-10T17:42:45.239Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBdV9tX2lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Stutz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-07-10T01:12:09.713Z",
+    "updateTime": "2017-07-10T01:12:09.713Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3d1lub29RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrés Julián Bembihy"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-07-08T12:31:10.759Z",
+    "updateTime": "2017-07-08T12:31:10.759Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSURRLXEzb2p3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Ortiz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables y atentos\n\n(Translated by Google)\nVery kind and attentive",
+    "createTime": "2017-07-07T11:38:24.819Z",
+    "updateTime": "2017-07-07T11:39:40.328Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSURRMU1pNjBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Sanchez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-07-07T00:02:42.582Z",
+    "updateTime": "2017-07-07T00:02:42.582Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURnaWRteWRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Rearte"
+    },
+    "starRating": "TWO",
+    "createTime": "2017-07-05T19:28:33.142Z",
+    "updateTime": "2017-07-05T19:28:33.142Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBNzllZjhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emilio S. Carranza"
+    },
+    "starRating": "TWO",
+    "comment": "Muy poco lugar para estacionar. Una estación de servicio muy incómoda y chica para la cantidad de gente que maneja\n\n(Translated by Google)\nVery little parking. A very inconvenient and small gas station for the number of people who drive.",
+    "createTime": "2017-03-02T12:41:06.919Z",
+    "updateTime": "2017-07-05T10:42:38.973Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRby1EOWVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabi Bornia"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar de parada\n\n(Translated by Google)\nGood place to stop",
+    "createTime": "2017-07-04T14:26:45.511Z",
+    "updateTime": "2017-07-04T14:27:04.361Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnNklLajd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Lamas"
+    },
+    "starRating": "THREE",
+    "comment": "No tiene GNC\n\n(Translated by Google)\nIt does not have CNG.",
+    "createTime": "2017-07-01T01:47:53.142Z",
+    "updateTime": "2017-07-01T01:48:15.771Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSURBdy1mdkl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Sanchez"
+    },
+    "starRating": "FOUR",
+    "comment": "Parador obligado para el viajero, sea quien viene del norte o va a esos destinos. Lugar cómodo para hospedarse, asearse o simplemente comer algo y seguir viaje. Gente cordial y sencilla. Buen clima.\n\n(Translated by Google)\nA must-stop for travelers, whether they\u0027re coming from the north or heading to those destinations. A comfortable place to stay, freshen up, or simply grab a bite to eat before continuing your journey. Friendly and down-to-earth people. Pleasant weather.",
+    "createTime": "2017-06-29T23:09:02.332Z",
+    "updateTime": "2017-06-29T23:14:02.951Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnM01UUEJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Bertomeu"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-06-29T01:57:01.032Z",
+    "updateTime": "2017-06-29T01:57:01.032Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNReE9HY0lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Anabel Baez"
+    },
+    "starRating": "FIVE",
+    "comment": "Un buen lugar para el turista de paso.\n\n(Translated by Google)\nA good place for tourists passing through.",
+    "createTime": "2017-02-02T17:47:41.368Z",
+    "updateTime": "2017-06-29T01:19:34.213Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRNFktOGZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Castillo"
+    },
+    "starRating": "THREE",
+    "comment": "No tiene serviclub.\nSin comida rápida. Tiene otras opciones .\n\n(Translated by Google)\nIt doesn\u0027t have a convenience store.\nNo fast food. It has other options.",
+    "createTime": "2017-06-27T22:18:41.312Z",
+    "updateTime": "2017-06-27T22:19:42.648Z",
+    "name": "accounts/109853746269412609224/locations/5022790591955098090/reviews/ChdDSUhNMG9nS0VJQ0FnSURBcHQ3bWxnRRAB"
+  }]
+}

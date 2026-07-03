@@ -1,0 +1,178 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "jorge zmirak"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-12-15T01:10:58.649804Z",
+    "updateTime": "2019-12-15T01:10:58.649804Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURNcU16Sk9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Muñoz"
+    },
+    "starRating": "FIVE",
+    "comment": "Genial!!!\n\n(Translated by Google)\nBrilliant!!!",
+    "createTime": "2019-12-14T13:50:25.231584Z",
+    "updateTime": "2019-12-14T13:50:25.231584Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURNaUtyR0JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Amancay Elizaga"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2019-12-14T13:23:20.781403Z",
+    "updateTime": "2019-12-14T13:23:20.781403Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2019-12-14T14:24:24.176064Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURNaVB5aE1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Paterno"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención en la playa. Adentro es muy lerdo para q te atiendan.\n\n(Translated by Google)\nGood service on the beach. Inside, it\u0027s very slow to get served.",
+    "createTime": "2019-12-14T12:18:50.310011Z",
+    "updateTime": "2019-12-14T12:18:50.310011Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURNaU5EOUl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Ariel Moreno"
+    },
+    "starRating": "FOUR",
+    "comment": "Completo limpio y buena atención.\n\n(Translated by Google)\nCompletely clean and with good service.",
+    "createTime": "2019-12-14T11:53:41.214667Z",
+    "updateTime": "2019-12-14T11:53:41.214667Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURNOEotNlB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Alberto Rubio Salman"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-12-13T14:17:54.466272Z",
+    "updateTime": "2019-12-13T14:17:54.466272Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURNa0t2dmNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nilda Rengel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-12-13T10:14:26.877146Z",
+    "updateTime": "2019-12-13T10:14:26.877146Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURNNE8tWWRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Cesar Properzi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-12-12T16:16:14.151745Z",
+    "updateTime": "2019-12-12T16:16:14.151745Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURNd0xXOElREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Nartallo"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy lindo, renovado. No deja de ser un motel de ruta, pera agradable. Es una excelente opcion de paso.\n\n(Translated by Google)\nVery nice, recently renovated. It\u0027s still a roadside motel, but a pleasant one. It\u0027s an excellent option for a stopover.",
+    "createTime": "2019-12-11T20:25:57.412216Z",
+    "updateTime": "2019-12-11T20:25:57.412216Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNdi11aUtBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nona Anyjo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2019-12-11T15:25:50.903525Z",
+    "updateTime": "2019-12-11T15:25:50.903525Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNM19lcER3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gloria Bianchi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-12-11T11:19:32.473937Z",
+    "updateTime": "2019-12-11T11:19:32.473937Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNMzlDN1FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano Ziguencio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-12-10T08:41:22.711226Z",
+    "updateTime": "2019-12-10T08:41:22.711226Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNejdUQUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Valeria Marjovsky"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen motel\n\n(Translated by Google)\nVery good motel",
+    "createTime": "2019-12-10T00:54:53.888434Z",
+    "updateTime": "2019-12-10T00:54:53.888434Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNOThTR29BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "carlos de glymes"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar\n\n(Translated by Google)\nExcellent place",
+    "createTime": "2019-12-09T13:55:50.617177Z",
+    "updateTime": "2019-12-09T13:55:50.617177Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNMS1uUEpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Enrique Mocetti"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-12-09T13:18:17.249077Z",
+    "updateTime": "2019-12-09T13:18:17.249077Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNMTk3RER3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Casas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-12-09T12:07:07.097874Z",
+    "updateTime": "2019-12-09T12:07:07.097874Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNMTVLc3dBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "María Alejandra Salazar"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2019-12-08T19:38:06.894308Z",
+    "updateTime": "2019-12-08T19:38:06.894308Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNNTZLRzNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Moreno"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar.\n\n(Translated by Google)\nVery good place.",
+    "createTime": "2019-12-08T15:40:53.171213Z",
+    "updateTime": "2019-12-08T15:40:53.171213Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNcDRuY3d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Sosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Una parada excelente, buena atención y lugar\n\n(Translated by Google)\nAn excellent stop, good service and a great place",
+    "createTime": "2019-12-07T13:41:34.452990Z",
+    "updateTime": "2019-12-07T13:41:34.452990Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNdTY3VkhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Veloso"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-12-07T11:31:23.184788Z",
+    "updateTime": "2019-12-07T11:31:23.184788Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNNdTRpWlRnEAE"
+  }]
+}

@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Carlos"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2022-07-11T13:49:52.214291Z",
+    "updateTime": "2022-07-11T13:49:52.214291Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPemZmV01BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julia Gamarra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-11T11:19:03.383031Z",
+    "updateTime": "2022-07-11T11:19:03.383031Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPemF5dVJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Paula Gay"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre buena atención\n\n(Translated by Google)\nAlways good service",
+    "createTime": "2022-07-10T12:48:58.222870Z",
+    "updateTime": "2022-07-10T12:48:58.222870Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPbFpDeVJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Mendoza"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo lugar para merendar !!!\n\n(Translated by Google)\nA very nice place for a snack!",
+    "createTime": "2022-01-07T18:33:21.129798Z",
+    "updateTime": "2022-07-09T22:06:22.915075Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtbzZ5Ymd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Montanelli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-09T00:51:54.720618Z",
+    "updateTime": "2022-07-09T00:51:54.720618Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURPNlkzd2xRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Olivares"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena ubicación y atención del personal, en momentos de alta demanda toca esperar.\n\n(Translated by Google)\nGood location and staff service, but you may have to wait during peak times.",
+    "createTime": "2022-07-08T14:46:34.260260Z",
+    "updateTime": "2022-07-08T14:46:34.260260Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURPeWM3X3BBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Angela Coronel"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-07T22:03:00.568675Z",
+    "updateTime": "2022-07-07T22:03:00.568675Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURPc1lLaThRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Felipe Heyde"
+    },
+    "starRating": "THREE",
+    "comment": "Servicio boxes pésimo\n\n(Translated by Google)\nTerrible service at the box office",
+    "createTime": "2022-06-15T07:18:56.248220Z",
+    "updateTime": "2022-07-07T10:38:53.512097Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPcFp2OXlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Re"
+    },
+    "starRating": "THREE",
+    "comment": "(Translated by Google) comfortable\n\n(Original)\ncomodo",
+    "createTime": "2022-07-06T20:43:10.933981Z",
+    "updateTime": "2022-07-06T20:43:10.933981Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZ2JIWmFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian morinico"
+    },
+    "starRating": "FOUR",
+    "comment": "El estacionamiento es chico, tiene todos los servicios\n\n(Translated by Google)\nThe parking lot is small, it has all the services",
+    "createTime": "2022-07-06T03:04:12.986034Z",
+    "updateTime": "2022-07-06T03:04:12.986034Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURPbnFMTmdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "SEBASTIAN DALLADEA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-06T01:10:05.288789Z",
+    "updateTime": "2022-07-06T01:10:05.288789Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURPN3VQSTN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Iglesias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-04T16:41:15.398013Z",
+    "updateTime": "2022-07-04T16:41:15.398013Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPbG9uSU1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Manuel Campo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-03T23:24:54.363433Z",
+    "updateTime": "2022-07-03T23:24:54.363433Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURPaHZlSWxRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Toñanez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-03T21:13:52.273204Z",
+    "updateTime": "2022-07-03T21:13:52.273204Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPaHNtZVdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Gonzalez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy completo\n\n(Translated by Google)\nVery complete",
+    "createTime": "2022-07-03T12:12:13.928820Z",
+    "updateTime": "2022-07-03T12:12:13.928820Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPdXBhclFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paul Ronco"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar diferente pero como todos los ACA. Personal siempre atento.\nSshh siempre limpios\n\n(Translated by Google)\nA different kind of place, but like all ACAs. The staff is always attentive. Restrooms are always clean.",
+    "createTime": "2022-07-02T23:41:02.595557Z",
+    "updateTime": "2022-07-02T23:41:02.595557Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURPbXFUTHN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jime Col"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-01T15:17:26.433768Z",
+    "updateTime": "2022-07-01T15:17:26.433768Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPMHNyMFVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ALBERTO MARIANO YASTRUBNI"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, soy cliente, y vivo en la ciudad, hace años cerca de la estación\n\n(Translated by Google)\nGood service, I\u0027m a customer, and I live in the city, near the station for years.",
+    "createTime": "2022-06-30T23:19:39.916279Z",
+    "updateTime": "2022-06-30T23:19:39.916279Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPd3Uzb0NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Rey"
+    },
+    "starRating": "FIVE",
+    "comment": "Ofrece un servicio completísimo para el viajero, hasta posee zona de esparcimiento\n\n(Translated by Google)\nIt offers a complete service for travelers, and even has a recreation area.",
+    "createTime": "2022-06-30T18:57:57.066212Z",
+    "updateTime": "2022-06-30T18:57:57.066212Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZ3F2X1p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "roberto lopez"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-29T18:08:51.961650Z",
+    "updateTime": "2022-06-29T18:08:51.961650Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURPN1ByS19nRRAB"
+  }]
+}

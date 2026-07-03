@@ -1,0 +1,201 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Luis"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion rapidez en atender\n\n(Translated by Google)\nExcellent service, quick response time",
+    "createTime": "2023-05-26T13:20:42.278678Z",
+    "updateTime": "2023-05-26T13:20:42.278678Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Luis. saludos!!",
+      "updateTime": "2023-11-30T19:33:39.428410Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4Ni1idVdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Gimenez"
+    },
+    "starRating": "THREE",
+    "comment": "Bueno. Debería tener mas presonal para agilizar los tiempos.\n\n(Translated by Google)\nOkay. I should have more staff to speed things up.",
+    "createTime": "2023-05-21T11:43:29.219463Z",
+    "updateTime": "2023-05-21T11:43:29.219463Z",
+    "reviewReply": {
+      "comment": "hola Diego, gracias por tus comentarios",
+      "updateTime": "2023-11-30T19:34:27.603813Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4dVlMTkZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Dario Zecchin"
+    },
+    "starRating": "FOUR",
+    "comment": "Nos despacharon combustible rápido muy cordiales y atentos\n\n(Translated by Google)\nThey served us fuel quickly, very friendly and attentive.",
+    "createTime": "2023-05-12T20:17:05.488348Z",
+    "updateTime": "2023-05-12T20:17:05.488348Z",
+    "reviewReply": {
+      "comment": "Muchas garcias por la puntuacion.",
+      "updateTime": "2023-11-30T19:34:46.097050Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4M0lhWWh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco ceresa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-05-10T14:25:39.377667Z",
+    "updateTime": "2023-05-10T14:25:39.377667Z",
+    "reviewReply": {
+      "comment": "Hola Franco. Muchas garcias por la puntuacion.",
+      "updateTime": "2023-11-30T19:34:55.388102Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4aEx6bFVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "jorge ruben Maiza"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-05-09T15:11:57.498740Z",
+    "updateTime": "2023-05-09T15:11:57.498740Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4cU5tQ01REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lisandro Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-05-05T16:28:53.228989Z",
+    "updateTime": "2023-05-05T16:28:53.228989Z",
+    "reviewReply": {
+      "comment": "Hola Lisandro. Muchas garcias por tu valoracion.",
+      "updateTime": "2023-11-30T19:35:22.171969Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNTUtd1JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rocio Ferreyra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-05-02T13:46:46.321650Z",
+    "updateTime": "2023-05-02T13:46:46.321650Z",
+    "reviewReply": {
+      "comment": "Hola Rocio, Muchas garcias por la puntuacion.",
+      "updateTime": "2023-11-30T19:35:43.209694Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdy1YNmZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Aide Rojas"
+    },
+    "starRating": "FIVE",
+    "comment": "Agil en la atencion\n\n(Translated by Google)\nQuick service",
+    "createTime": "2023-04-20T20:43:33.499861Z",
+    "updateTime": "2023-04-20T20:43:33.499861Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURSZ3FlbU9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Velázquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-17T21:42:37.901596Z",
+    "updateTime": "2023-04-17T21:42:37.901596Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURSaE83R1RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-04-13T22:17:55.938078Z",
+    "updateTime": "2023-04-13T22:17:55.938078Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSNzhtOTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos raul Carreras"
+    },
+    "starRating": "FIVE",
+    "comment": "Espectacular atención!!! Todo ,todo limpito haci que lo recomiendo\n\n(Translated by Google)\nSpectacular service!!! Everything was spotless, so I highly recommend it.",
+    "createTime": "2023-04-10T11:29:59.958593Z",
+    "updateTime": "2023-04-10T11:29:59.958593Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSODVEY0p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juampa Jacobo - Cocinero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-09T22:21:57.097485Z",
+    "updateTime": "2023-04-09T22:21:57.097485Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSa19LVnF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel Suarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los playeros... Muy rápidos y atentos a todo... Y excelente la señora que estaba en el YPF FULL... Por favor una mujer increíble y amorosa no la pierdan nunca un gran abrazo a ella y los cafés artes hace un puema son...\n\n(Translated by Google)\nExcellent service from the gas station attendants... Very quick and attentive to everything... And the lady at the YPF Full was excellent... Please, she\u0027s an incredible and loving woman, never lose her. A big hug to her and the artisan cafes...",
+    "createTime": "2023-04-09T04:39:15.194819Z",
+    "updateTime": "2023-04-09T04:39:15.194819Z",
+    "reviewReply": {
+      "comment": "Hola Ezequiel, gracias por tu observación, siempre es bueno contar con personas como ella, y clientes que lo valoren, te esperamos nuevamente, gracias saludos",
+      "updateTime": "2024-01-12T13:04:50.036533Z"
+    },
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSX2MtaUV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martiin Ge"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-29T14:50:40.649654Z",
+    "updateTime": "2023-03-29T14:50:40.649654Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSOHQ3MWJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Analia Meza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-17T17:10:45.409756Z",
+    "updateTime": "2023-03-17T17:10:45.409756Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURoaTZXZktBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Bovino Maciel"
+    },
+    "starRating": "FOUR",
+    "comment": "Siempre cargo en YPF en rutas. No me arriesgo con otras marcas que desconozco.\n\n(Translated by Google)\nI always fill up at YPF on the highways. I don\u0027t risk it with other brands I\u0027m unfamiliar with.",
+    "createTime": "2023-03-15T22:55:01.170027Z",
+    "updateTime": "2023-03-15T22:55:01.170027Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURoX2RLckRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "juan almada"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-13T15:32:07.497315Z",
+    "updateTime": "2023-03-13T15:32:07.497315Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChZDSUhNMG9nS0VJQ0FnSURocGZhMk1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Susana “Susy” Sanchez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena su atención rápido y servicial los chicos que atiende\n\n(Translated by Google)\nVery good service, fast and helpful, the guys who serve",
+    "createTime": "2023-03-09T10:12:13.333159Z",
+    "updateTime": "2023-03-09T10:12:13.333159Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURoN3BhMjV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Geronimo Rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-06T05:09:34.507768Z",
+    "updateTime": "2023-03-06T05:09:34.507768Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeXRMWTNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Insaurralde"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-03-04T10:57:18.827358Z",
+    "updateTime": "2023-03-04T10:57:18.827358Z",
+    "name": "accounts/109853746269412609224/locations/12844074835254669240/reviews/ChdDSUhNMG9nS0VJQ0FnSURoX0wzVDZ3RRAB"
+  }]
+}

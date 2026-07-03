@@ -1,0 +1,204 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Emanuel Salazar"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-16T17:53:28.125602Z",
+    "updateTime": "2023-04-16T17:53:28.125602Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURScU55NzdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Santos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-16T14:58:41.380369Z",
+    "updateTime": "2023-04-16T14:58:41.380369Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURSeUo2M1R3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "mario alberto albar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-16T11:47:42.777152Z",
+    "updateTime": "2023-04-16T11:47:42.777152Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURSaUtYNW93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Ricardo Ulloa"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo fue muy rápido. Buena predisposición para hacerme una factura\n\n(Translated by Google)\nEverything was very quick. They were very helpful in giving me an invoice.",
+    "createTime": "2023-04-16T00:54:54.986641Z",
+    "updateTime": "2023-04-16T00:54:54.986641Z",
+    "reviewReply": {
+      "comment": "Sr José\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades, y de esta manera seguir mejorando. Lo esperamos nuevamente.",
+      "updateTime": "2023-04-30T16:27:39.151054Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSURSc1BtWTFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "D F"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-15T13:29:24.628075Z",
+    "updateTime": "2023-04-15T13:29:24.628075Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURSNE92ZEtnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Osvaldo Diaz"
+    },
+    "starRating": "ONE",
+    "comment": "Falta personal en atención. En shoppin\n\n(Translated by Google)\nStaff shortage at customer service. In shopping",
+    "createTime": "2023-04-14T23:39:53.979290Z",
+    "updateTime": "2023-04-14T23:39:53.979290Z",
+    "reviewReply": {
+      "comment": "Sr Osvaldo\nLamentamos haya tenido una mala experiencia en nuestro establecimiento. Su opinión nos ayuda a mejorar. Trabajaremos al respecto.",
+      "updateTime": "2023-05-01T02:17:19.339563Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSURSd01TeGV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Pogost"
+    },
+    "starRating": "THREE",
+    "comment": "Bastante completo, pero muy caro\n\n(Translated by Google)\nQuite comprehensive, but very expensive",
+    "createTime": "2023-04-13T23:09:45.566749Z",
+    "updateTime": "2023-04-13T23:09:45.566749Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSNzUydVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "monica molina"
+    },
+    "starRating": "FIVE",
+    "comment": "Genial un oasis en el desierto\n\n(Translated by Google)\nAmazing, an oasis in the desert",
+    "createTime": "2023-04-13T12:57:59.089618Z",
+    "updateTime": "2023-04-13T12:57:59.089618Z",
+    "reviewReply": {
+      "comment": "Sra Monica \nLe agradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer todas sus necesidades y seguir mejorando. La esperamos nuevamente.",
+      "updateTime": "2023-04-30T16:29:13.489464Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSejhUOUJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Luis Morelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Me gusto su limpieza y la atención.\n\n(Translated by Google)\nI liked its cleanliness and the service.",
+    "createTime": "2023-04-13T11:09:22.800318Z",
+    "updateTime": "2023-04-13T11:10:44.546536Z",
+    "reviewReply": {
+      "comment": "Sr Gustavo \nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades y de esta manera seguir mejorando. Lo esperamos nuevamente.",
+      "updateTime": "2023-04-30T16:30:07.589254Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSai1XNzRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "german caitru"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-13T08:49:57.162395Z",
+    "updateTime": "2023-04-13T08:49:57.162395Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSajlpYnp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Zetineb"
+    },
+    "starRating": "ONE",
+    "comment": "Pésimo servicio\n\n(Translated by Google)\nTerrible service",
+    "createTime": "2023-04-12T18:11:46.031860Z",
+    "updateTime": "2023-04-12T18:11:46.031860Z",
+    "reviewReply": {
+      "comment": "Sr Mauricio \nLamentamos haya tenido una mala experiencia en nuestro establecimiento. Nos interesaría conocer cuales fueron los detalles que hicieron que obtuviésemos la más baja calificación, ya que de esta manera nos ayudaría a mejorar. ",
+      "updateTime": "2023-05-01T02:01:58.368794Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMTVLVl9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana Shantal Zárate"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-12T17:53:42.031036Z",
+    "updateTime": "2023-04-12T17:53:42.031036Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMTh5ZW5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Catalan"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-12T11:30:53.539847Z",
+    "updateTime": "2023-04-12T11:30:53.539847Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSNTRTc3FRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JavierQ"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-04-11T23:55:07.924883Z",
+    "updateTime": "2023-04-11T23:55:07.924883Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSaDdPNUpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Veronica"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-11T12:54:23.711440Z",
+    "updateTime": "2023-04-11T12:54:23.711440Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMjZIRnRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Ines Garzon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-11T07:11:01.597208Z",
+    "updateTime": "2023-04-11T07:11:01.597208Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSNi0yLU1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rocio Maidana"
+    },
+    "starRating": "FIVE",
+    "comment": "Si recomendable\n\n(Translated by Google)\nIf recommended",
+    "createTime": "2023-04-11T03:06:44.668126Z",
+    "updateTime": "2023-04-11T03:06:44.668126Z",
+    "reviewReply": {
+      "comment": "Sra Roció\nLe agradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades, y seguir mejorando. La esperamos nuevamente.",
+      "updateTime": "2023-04-30T16:31:09.264065Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChdDSUhNMG9nS0VJQ0FnSUNScTV1RF93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mony chek"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2023-04-11T03:05:22.540894Z",
+    "updateTime": "2023-04-11T03:05:22.540894Z",
+    "reviewReply": {
+      "comment": "Sra Monica\nLe agradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer sus necesidades, y de esta manera seguir mejorando. La esperamos nuevamente.",
+      "updateTime": "2023-04-30T16:32:13.842406Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScS11UFh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa Arteaga"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-10T23:00:07.578613Z",
+    "updateTime": "2023-04-10T23:00:07.578613Z",
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScS1TbENBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jaime Bahamondes"
+    },
+    "starRating": "FIVE",
+    "comment": "Muchos vehículos para cargar combustible.pero hay buena cantidad de operarios para atender.entonces es rápido\n\n(Translated by Google)\nMany vehicles need refueling, but there are plenty of attendants to help, so it\u0027s quick.",
+    "createTime": "2023-04-10T22:39:12.007443Z",
+    "updateTime": "2023-04-10T22:39:12.007443Z",
+    "reviewReply": {
+      "comment": "Sr Jaime\nAgradecemos mucho su calificación y comentario. Continuaremos trabajando para satisfacer y seguir mejorando. Esperamos su visita nuevamente.",
+      "updateTime": "2023-04-30T16:36:27.800611Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4946581049957260491/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScS1qbk93EAE"
+  }]
+}

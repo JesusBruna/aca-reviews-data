@@ -1,0 +1,38 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Gabriela Pochettino"
+    },
+    "starRating": "FIVE",
+    "comment": "Soy socia y de Capital federal. Me fue muy útil encontrar este estacionamiento. Está en una excelente ubicación. Gracias a los empleados por su amabilidad.\n\n(Translated by Google)\nI\u0027m a member and I live in Buenos Aires. Finding this parking lot was very helpful. It\u0027s in an excellent location. Thank you to the staff for their kindness.",
+    "createTime": "2018-01-25T17:57:42.227Z",
+    "updateTime": "2018-01-25T18:00:15.005Z",
+    "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBcjVYV0ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Meyer"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente estacionamiento del Automovil Club Argentino. Personal capacitado Muy buen servicio lavado autos\n\n(Translated by Google)\nExcellent parking at the Automóvil Club Argentino. Trained staff. Very good car wash service.",
+    "createTime": "2017-10-25T23:14:42.923Z",
+    "updateTime": "2017-10-25T23:15:33.844Z",
+    "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBbGVDTlVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Campi"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar para guardar el auto,cerca de todo en el centro de Rosario\n\n(Translated by Google)\nGreat place to park your car, close to everything in downtown Rosario",
+    "createTime": "2017-07-24T20:53:19.352Z",
+    "updateTime": "2017-07-24T20:54:55.141Z",
+    "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/ChZDSUhNMG9nS0VJQ0FnSURnLU5qaUNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Garagiola"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-12-17T14:39:18.278Z",
+    "updateTime": "2016-12-17T14:39:18.278Z",
+    "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3bFpPUVlREAE"
+  }]
+}
