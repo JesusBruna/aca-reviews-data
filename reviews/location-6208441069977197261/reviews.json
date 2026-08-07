@@ -1,6 +1,82 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Rocio Heinrich"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-02T16:28:41.908641Z",
+    "updateTime": "2026-08-02T16:28:41.908641Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2todk1FTk1jWGsxVVVocldWcFFZMGxzVW1nMFJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina C"
+    },
+    "starRating": "FIVE",
+    "comment": "ACA = Automóvil Club Argentino, Full Kiosco y cafeteria",
+    "createTime": "2026-08-02T15:37:52.951610Z",
+    "updateTime": "2026-08-02T15:37:52.951610Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paZmVuYzRkSHBHVlY5S2QyMWxjV05qZDBwMVMxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo"
+    },
+    "starRating": "THREE",
+    "comment": "Muy buena atención, se recomienda, Felicitaciones\n\n(Translated by Google)\nExcellent service, highly recommended. Congratulations!",
+    "createTime": "2019-05-26T19:48:53.782413Z",
+    "updateTime": "2026-07-31T14:51:25.280763Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/ChdDSUhNMG9nS0VJQ0FnSURZdDR1ZHZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tatiana Sosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-28T14:38:48.906658Z",
+    "updateTime": "2026-07-28T14:38:48.906658Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oVWNtUk9TbHBTWTNWemJGWlZiRmRCYW1kSU4xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauricio Civardi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-24T00:51:16.181480Z",
+    "updateTime": "2026-07-24T00:51:16.181480Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWcmMxZExVSG81VGkxc2NYcHNaMVZFV1Rsb1QzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico"
+    },
+    "starRating": "ONE",
+    "comment": "Muy muy lenta la atención\n\n(Translated by Google)\nThe service is very, very slow.",
+    "createTime": "2026-07-17T15:18:43.407208Z",
+    "updateTime": "2026-07-17T15:18:43.407208Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT205VFFWSkRkbkZ5UkZOVE1UWmxSRlpuT0VoRFduYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "gaston PS"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-15T19:58:20.970567Z",
+    "updateTime": "2026-07-15T19:58:20.970567Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCbGJrVjNXRkphT0Mwd1pXaDVPSGN3TlhGZk4yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Muniz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-14T13:59:50.001700Z",
+    "updateTime": "2026-07-14T13:59:50.001700Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGTE5rbHVibUpDWkdkRllXSldOSGRzTTJjMmRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mexatino"
+    },
+    "starRating": "ONE",
+    "comment": "La peor estación de servicio de la isla. Evítenla. El personal más perezoso trabaja acá. Vayan a la YPF de fadul, del pipo, de perito o de la entrada. Acá solo van a regalar su tiempo.\n\n(Translated by Google)\nThe worst gas station on the island. Avoid it. The laziest staff works here. Go to the YPF stations in Fadul, Pipo, Perito, or at the entrance. You\u0027ll just be wasting your time here.",
+    "createTime": "2026-07-11T16:55:33.259497Z",
+    "updateTime": "2026-07-11T16:55:33.259497Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jd2NVSlhNekprUjFKd2JFMDNXa1ptWWtKbk0yYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Paulo Peixoto"
     },
     "starRating": "TWO",
@@ -93,84 +169,5 @@
     "createTime": "2025-12-18T22:29:17.822752Z",
     "updateTime": "2026-05-18T22:14:25.859778Z",
     "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVlEzRkdUSE5sYVVwbU5FZFZSbHA0U21OQmJtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Manuel Merlos"
-    },
-    "starRating": "TWO",
-    "comment": "Un embole, hay dos pibes para 8 surtidores y estan los dos en el mismo, no te vas nunca\n\n(Translated by Google)\nIt\u0027s a drag, there are two guys for 8 pumps and they\u0027re both at the same one, you never get anywhere",
-    "createTime": "2026-05-08T21:38:19.032210Z",
-    "updateTime": "2026-05-08T21:38:19.032210Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWV2VUWkVkVU5SU0Y5eVlubHFhekp1ZVRaUmJGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alfredo Moyano"
-    },
-    "starRating": "ONE",
-    "comment": "No hay buena atención de los playeros, son lentos. Los autos se acumulan esperando que los atiendan. Además es la única estación de servicio que cobra el aire. Para inflar las cubiertas te cobran AR$500.- y solamente en efectivo (no aceptan ningún otro medio de pago) Lo peor: a los 4 minutos se corta el aire. Si hay que inflar más de un neumático no te alcanza. No vengan a esta estación de servicio, es la peor de la ciudad.\n\n(Translated by Google)\nThe attendants are terrible and slow. Cars pile up waiting to be served. Plus, it\u0027s the only gas station that charges for air. Inflating tires costs AR$500, and only in cash (they don\u0027t accept any other form of payment). The worst part: the air stops working after 4 minutes. If you need to inflate more than one tire, you won\u0027t have enough. Don\u0027t come to this gas station; it\u0027s the worst in the city.",
-    "createTime": "2026-05-03T16:11:08.179251Z",
-    "updateTime": "2026-05-03T16:11:08.179251Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xdldpMXBTa2x3Ym1SV1IwdEhjMVIzYm5sbWNFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Conrado Frias"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención de los playeros.\n\n(Translated by Google)\nExcellent attention from the beach attendants.",
-    "createTime": "2026-05-02T04:05:53.957337Z",
-    "updateTime": "2026-05-02T04:05:53.957337Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVVkydDJkREppY2pFMlUxbENUME5IWlVwS1IxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniel M. Bonassin"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-05-01T14:44:01.705757Z",
-    "updateTime": "2026-05-01T14:44:01.705757Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkdFNuTjVNa0Z4U0RsSVFrMUpXRE55Vm1kQmRWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Anabel Ceñal"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atencion. Lugar calentito y barato para un café, unas hamburguesas. Limpio y agradable.\n\n(Translated by Google)\nExcellent service. A cozy and inexpensive place for coffee and burgers. Clean and pleasant.",
-    "createTime": "2026-04-29T13:11:58.957331Z",
-    "updateTime": "2026-04-29T13:11:58.957331Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sWFRXVlFhekpCVkVsWVFrWnRkMnMyU1dRM01HYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lorena Gori"
-    },
-    "starRating": "TWO",
-    "comment": "Estamos parados al lado del surtidor hace 10 min y aún no nos atienden. Malísima la atención.\n\n(Translated by Google)\nWe\u0027ve been standing by the pump for 10 minutes and no one has helped us yet. The service is terrible.",
-    "createTime": "2026-04-24T18:08:14.709841Z",
-    "updateTime": "2026-04-24T18:08:14.709841Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGR1JTMVRTRjlNUkhGUmRHWTVRUzFuVUhORGJrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Bussolini"
-    },
-    "starRating": "ONE",
-    "comment": "Playeros sin ganas de trabajar y nosotros los socios les pagamos el sueldo. Mala atención!\n\n(Translated by Google)\nLazy staff, and we, the members, pay their salaries. Terrible service!",
-    "createTime": "2026-04-23T00:01:36.541944Z",
-    "updateTime": "2026-04-23T00:01:36.541944Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KVWNTMUhjRU5oTjBoWVZrNDFOUzF3Umw5VlNrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "José Carisio"
-    },
-    "starRating": "ONE",
-    "comment": "Como recurrente cliente de YPF socio del ACA cargué combustible un par de veces y siempre bien.\nAproveché para sacar turno en boxes por la app de YPF para hacer service a mi auto.\nCuando voy a mi turno, el concesionario de Boxes (Raúl) me dice que no trabaja con la app 😳👎🏻\nPero que igual vuelva en un par de horas y me lo hacía…\nCuando le pregunto precio, le recuerdo que como socio del ACA tengo descuento en lubricantes oficiales Elaion. No sólo me dice que el no trabaja con el ACA tampoco, sino que tampoco usa ese aceite, sino otra marca. 😳👎🏻\nA propósito, el precio que me pasa es precio turista (entiendo, aunque no hace falta que se abusen).\nAl retirar el vehículo todo bien, hasta nos quedamos charlando.\nLe pedí que me cambie las escobillas limpiaparabrisas y no lo hizo. 👎🏻\nAl medir el aceite el día siguiente (ya en viaje), noto que está por encima del máximo, aunque no alcanzo a leer cuánto.\nUnos km más adelante (ACA Esquel, excelentes!) lo hago revisar por un ruido que empezó a aparecer.\nResulta que tenía al menos 1,5 ltr de aceite de más, lo cual es muy perjudicial para el motor y sus componentes en el circuito de aceite! 👎🏻\nEl chico del ACA Esquel, Hernán, un genio, nota que el tapón del carter estaba sellado con pegamento, ya que ambas roscas (macho del tapón y hembra del carter) estaban lastimadas. 👎🏻\nAún si el de Boxes Ushuaia no produjo el daño él, lo menos que tendría que haber hecho es comentarme de la situación ya que iba a recorrer casi 10.000 km mas antes de llegar a casa. 👎🏻\n\n(Translated by Google)\nAs a regular YPF customer and ACA member, I\u0027ve filled up a couple of times at the station and it\u0027s always been fine.\n\nI took the opportunity to book an appointment at the service bay through the YPF app to get my car serviced.\nWhen I arrived for my appointment, the service bay attendant (Raúl) told me he didn\u0027t work with the app 😳👎🏻\nBut that I should come back in a couple of hours and he\u0027d do it…\nWhen I asked him the price, I reminded him that as an ACA member I get a discount on official Elaion lubricants. Not only did he tell me he didn\u0027t work with the ACA either, but that he didn\u0027t use that oil either, but a different brand. 😳👎🏻\nBy the way, the price he quoted me was the tourist price (I understand, but there\u0027s no need to take advantage).\nWhen I picked up the car, everything was fine, we even chatted for a while.\nI asked him to change the windshield wiper blades and he didn\u0027t. 👎🏻\nWhen I checked the oil the next day (already on the road), I noticed it was above the maximum mark, although I couldn\u0027t see by how much.\nA few kilometers later (at ACA Esquel, excellent service!), I had it checked because of a noise that had started.\nIt turns out I had at least 1.5 liters of oil too much, which is very harmful to the engine and its components in the oil circuit! 👎🏻\nThe guy at ACA Esquel, Hernán, a genius, noticed that the oil drain plug was sealed with glue, since both threads (the male thread on the plug and the female thread on the oil pan) were damaged. 👎🏻\nEven if the guy at Boxes Ushuaia didn\u0027t cause the damage himself, the least he could have done was tell me about the situation, since I was going to drive almost 10,000 km more before getting home. 👎🏻",
-    "createTime": "2026-04-22T11:59:56.541013Z",
-    "updateTime": "2026-04-22T11:59:56.541013Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pobFpUUmliRzlWVFcxMlVsVjNabWRpVEVvMlQyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Elizabeth Bianchini"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-04-22T03:53:58.154819Z",
-    "updateTime": "2026-04-22T03:53:58.154819Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT25velFWWkRNSGhuVW1aVE9WQm1NM2xXUmtwaWRFRRAB"
   }]
 }

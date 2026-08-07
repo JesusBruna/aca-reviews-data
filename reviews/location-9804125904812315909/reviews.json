@@ -1,6 +1,41 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Maria Ester Vilan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-31T12:48:13.052912Z",
+    "updateTime": "2026-07-31T12:48:13.052912Z",
+    "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xremRFaE1NR2hVY2tJdFNtWmliMVZWVWxkWmQwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "OSCAR VALDIVIA"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente  atención del cajero del servi-compras el resto muy irrespetuoso estaban juntos los de la playa de expendio de combustible salude y nada de su parte...  Excelente  por ese empleado del servi-compras ( 29/7/26)\n\n(Translated by Google)\nExcellent service from the convenience store cashier; the rest were very disrespectful. They were all together at the gas station; I greeted them and they didn\u0027t respond... Excellent work by that convenience store employee (29/7/26)",
+    "createTime": "2026-07-30T00:35:56.851032Z",
+    "updateTime": "2026-07-30T00:35:56.851032Z",
+    "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aaGVVdEdWVVY0U0hkdWEybzNVMDkyU0hCTGJFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Ledesma"
+    },
+    "starRating": "FIVE",
+    "comment": "El personal muy cordial y solidario.\n\n(Translated by Google)\nThe staff were very friendly and helpful.",
+    "createTime": "2026-07-24T17:01:42.223949Z",
+    "updateTime": "2026-07-24T17:01:42.223949Z",
+    "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kSVlXb3pOR1pITlhoRlNYa3RRa0ZWUVZoYVkyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Urreta"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención muy amables toda la gente que trabaja ahí.\n\n(Translated by Google)\nExcellent service, everyone who works there is very friendly.",
+    "createTime": "2026-07-16T15:11:43.369885Z",
+    "updateTime": "2026-07-16T15:11:43.369885Z",
+    "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT204MmFIVktNV3hwVG5abVoyOW5VMHB0WTJodFMxRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Mari Rial"
     },
     "starRating": "FOUR",
@@ -137,40 +172,5 @@
     "createTime": "2026-04-21T20:34:12.614701Z",
     "updateTime": "2026-04-21T20:34:12.614701Z",
     "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4MmVGUkdhRnB5ZEhaSU5YZDNkM2d6V1hoU01YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Claudio Alejandro Poggi"
-    },
-    "starRating": "FIVE",
-    "comment": "Exelente atencion y amabilidad les recomiendo probar el capuchino con coco es una delicia y las media lunas mortales\n\n(Translated by Google)\nExcellent service and friendliness. I recommend trying the coconut cappuccino, it\u0027s delicious, and the croissants are amazing.",
-    "createTime": "2026-04-09T11:39:58.770033Z",
-    "updateTime": "2026-04-09T11:39:58.770033Z",
-    "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xScVVFOXlabUZST1U5WVowWlhMVXhPUzAxck5sRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Hernandez"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
-    "createTime": "2026-03-27T14:27:56.775460Z",
-    "updateTime": "2026-03-27T14:27:56.775460Z",
-    "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOSVNXcFFWbEZoVUhrMU15MUphR1EyWTNCRE1XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "marcelo alejandro zappa"
-    },
-    "starRating": "THREE",
-    "comment": "Muy lento el servicio. Tardaron demasiado solo en despachar nafta.\n\n(Translated by Google)\nThe service was very slow. It took them far too long just to pump the gas.",
-    "createTime": "2026-03-27T02:23:10.419126Z",
-    "updateTime": "2026-03-27T02:23:10.419126Z",
-    "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKTloycGFkR2w1VTJreWJEVnBUblZPY1hKSGMwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alejandra Opazo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-26T00:38:38.714375Z",
-    "updateTime": "2026-03-26T00:38:38.714375Z",
-    "name": "accounts/109853746269412609224/locations/9804125904812315909/reviews/Ci9DQUlRQUNvZENodHljRjlvT201T2FGSmlZV0ZmZFZaaFZVRXRTVkpHTFhGTk0yYxAB"
   }]
 }

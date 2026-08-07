@@ -1,0 +1,251 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Dani Martinez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-28T11:59:34.079179Z",
+    "updateTime": "2025-10-28T11:59:34.079179Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2025-10-28T13:03:57.972173Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WNWJUVXhaR05OYjJWZlNHSXdUbFpJTkRrd0xVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana de las Ermitas MALASPINA"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, muy buenos precios y todo muy limpio\n\n(Translated by Google)\nExcellent service, very good prices and everything very clean",
+    "createTime": "2025-10-27T17:42:37.493106Z",
+    "updateTime": "2025-10-27T17:42:37.493106Z",
+    "reviewReply": {
+      "comment": "Muy amable, gracias.",
+      "updateTime": "2025-10-27T19:01:52.745896Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOUlprcDJabVZGTkRoRFlrNXpTREpuYlZKVmRVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Martinelli"
+    },
+    "starRating": "THREE",
+    "createTime": "2025-10-24T11:24:17.453962Z",
+    "updateTime": "2025-10-24T11:24:17.453962Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2025-10-24T11:56:21.272808Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWdFgwMHlWMFl4VHpkeWQyWXlSWGg1VG1SSVNFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "romina belen baraona"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-22T22:25:11.226447Z",
+    "updateTime": "2025-10-22T22:25:11.226447Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2025-10-23T11:44:06.021931Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKdFVrSk5Oa1p5WTNZMlNXZFhjMU5hTldaM1VFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gaston muzas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-13T01:56:19.325650Z",
+    "updateTime": "2025-10-13T01:56:19.325650Z",
+    "reviewReply": {
+      "comment": "Muy amable GASTON, gracias.",
+      "updateTime": "2025-10-13T18:52:40.550325Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxNlNtcE9UVFpNWjBKVVJsZDZSRlZoUWs1VE0wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "CNN RADIO LAS GRUTAS FM92.1 PATAGONIA ARGENTINA"
+    },
+    "starRating": "FIVE",
+    "comment": "Calida atencion, inmejorable servicio. En el ACA de Choele Choel valoran la visita de periodistas.\n\n(Translated by Google)\nWarm attention, unbeatable service. At the ACA in Choele Choel, they appreciate visits from journalists.",
+    "createTime": "2025-10-08T16:12:46.506571Z",
+    "updateTime": "2025-10-08T16:12:46.506571Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su opinión.",
+      "updateTime": "2025-10-08T17:18:56.820550Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT205c2VreHNPVzFVWDBGNVR6ZHRWVmxUZFdjNVkyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yamila Orellana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-06T23:54:43.342323Z",
+    "updateTime": "2025-10-06T23:54:43.342323Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos.",
+      "updateTime": "2025-10-07T11:33:26.694282Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT25weFpVSmxXbDgzTlUweWFVNVBXblpTVldsblduYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Astorga"
+    },
+    "starRating": "THREE",
+    "createTime": "2025-10-03T17:04:37.977162Z",
+    "updateTime": "2025-10-03T17:04:37.977162Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos.",
+      "updateTime": "2025-10-03T17:51:56.949680Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT25acU5WVlVPRXAyWW5keGFrRnNVbTR4YWpCMU4wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tamara Sandoval"
+    },
+    "starRating": "ONE",
+    "comment": "Quise entrar al baño con un caniche en los brazos a cargar un vaso de agua y un sr poco simpático no me dejó entrar... Tendrían que educar a los empleados respecto a los animales. Estación... Que de servicio tiene poco. Lamentable\n\n(Translated by Google)\nI tried to go into the restroom with a poodle in my arms to get a glass of water, and a rather unfriendly man wouldn\u0027t let me in... They really need to train their employees regarding animals. This station... it\u0027s hardly a service. Disgraceful.",
+    "createTime": "2025-10-03T15:07:12.323908Z",
+    "updateTime": "2025-10-03T15:07:12.323908Z",
+    "reviewReply": {
+      "comment": "Muy amable gracias.",
+      "updateTime": "2025-10-03T16:05:33.084139Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GRGVGWnVhazlGUTI1Vk5FMXRXR2g0UTAxM2MyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leo Herlein"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno. Pasó obligado.\n\n(Translated by Google)\nVery good. It was a must-see.",
+    "createTime": "2025-10-02T02:48:48.564782Z",
+    "updateTime": "2025-10-02T02:48:48.564782Z",
+    "reviewReply": {
+      "comment": "Muy amable, gracias.",
+      "updateTime": "2025-10-02T14:14:43.428148Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oSVNrZ3pWbVJNVm01T1VYSkpaMGhPT1VSMldWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabio Melloni"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-09-30T18:48:55.415597Z",
+    "updateTime": "2025-09-30T18:48:55.415597Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2025-10-01T10:08:01.651391Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT200NU1EZHNVWEZwVFVaRlRuSmhkV1F4Vld4bWJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "verónica mort"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-25T18:25:58.961300Z",
+    "updateTime": "2025-09-25T18:25:58.961300Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos.",
+      "updateTime": "2025-09-25T19:33:29.841648Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCcGFVVjBNa2wyTVhCR1RVNDNTM2RKWWxoSmRHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Machado"
+    },
+    "starRating": "FIVE",
+    "comment": "Definitivamente paro por las burgers\n\n(Translated by Google)\nI definitely stop for the burgers",
+    "createTime": "2025-09-24T09:10:36.582766Z",
+    "updateTime": "2025-09-24T09:10:36.582766Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2025-09-24T15:07:43.529010Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKQk5WTnBSazAwVG5CaGFUUmFOVWMzVlRWTWFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo F."
+    },
+    "starRating": "FOUR",
+    "comment": "Tiene lo que necesita el viajero, combustible, baños y un lugar para descansar a la sombra.\n\n(Translated by Google)\nIt has what the traveler needs: fuel, restrooms, and a place to rest in the shade.",
+    "createTime": "2025-09-22T13:40:23.049618Z",
+    "updateTime": "2025-09-22T13:40:23.049618Z",
+    "reviewReply": {
+      "comment": "Muchas gracias.",
+      "updateTime": "2025-09-22T19:22:59.503496Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jd2JuUjNWbEpVYzJWaVdtMTFXVXR2ZVRGdWRHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "joaquin loverde"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-19T12:02:38.007166Z",
+    "updateTime": "2025-09-19T12:02:38.007166Z",
+    "reviewReply": {
+      "comment": "Gracias",
+      "updateTime": "2025-09-19T15:26:07.523783Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psMVlrOXdOamxTVW5adGVFWTBjbWN5U1ZacE0xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Ramos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-18T15:44:00.558469Z",
+    "updateTime": "2025-09-18T15:44:00.558469Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos.",
+      "updateTime": "2025-09-18T17:32:42.958168Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWVmFVVkxWMHREVmpGeGRWTTJXbmRXTkZGWFFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Ressel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-12T10:51:32.551350Z",
+    "updateTime": "2025-09-12T10:51:32.551350Z",
+    "reviewReply": {
+      "comment": "Muchas gracias HECTOR.",
+      "updateTime": "2025-09-15T20:20:41.279983Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FNFlrNUlWemR6YVVkME1WbENjSGt0TjBKaWIxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Barbosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-11T17:18:23.669128Z",
+    "updateTime": "2025-09-11T17:18:23.669128Z",
+    "reviewReply": {
+      "comment": "Muy amable, gracias.",
+      "updateTime": "2025-09-11T18:48:57.290668Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sVWN5MVpTVFJDTldaVFduZDZja3hSTUdKekxYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Daniel Rossi"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio como en casi rodos los ACA\n\n(Translated by Google)\nGood service, as in almost all ACAs",
+    "createTime": "2021-09-16T16:45:30.628425Z",
+    "updateTime": "2025-09-09T14:10:41.055124Z",
+    "reviewReply": {
+      "comment": "Gracias RICARDO su opinion nos ayuda a mejorar, proximamente se notaran cambios.",
+      "updateTime": "2021-09-20T18:48:53.899661Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/ChdDSUhNMG9nS0VJQ0FnSUM2bjZINWx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Antonio “Bazz” Fraga"
+    },
+    "starRating": "FIVE",
+    "comment": "El setvi, es excelente. Muy buena atención, personal muy atento. El lugar está muy bien cuidado. Todo limpio.\n\n(Translated by Google)\nThe service is excellent. Very good, very attentive staff. The place is very well maintained. Everything is clean.",
+    "createTime": "2025-09-02T17:41:33.783429Z",
+    "updateTime": "2025-09-02T17:41:33.783429Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos.",
+      "updateTime": "2025-09-02T19:44:32.735396Z"
+    },
+    "name": "accounts/109853746269412609224/locations/656140726491061597/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCTGFqQldaRGxhUTE5UGNVVkliMHcxUld0c0xWRRAB"
+  }]
+}

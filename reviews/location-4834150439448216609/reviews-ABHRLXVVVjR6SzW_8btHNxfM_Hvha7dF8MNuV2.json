@@ -1,0 +1,183 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Martin B"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2026-01-12T01:03:02.181058Z",
+    "updateTime": "2026-01-12T01:03:02.181058Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taaVFsVmtRbE5NUlhreFV6Wm9RMVZyTkd0cVZIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Contreras"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-01-11T10:46:17.238731Z",
+    "updateTime": "2026-01-11T10:46:17.238731Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GcmRUSTRlVFZXVVZaTE1pMTNRWFpMUXpKMk4yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "AUTONAVI SRL"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio brindan realmente una estación de servicio muy amables gracias\n\n(Translated by Google)\nExcellent service, they really provide a very friendly service station, thank you",
+    "createTime": "2025-02-10T02:43:02.106273Z",
+    "updateTime": "2026-01-10T18:32:51.896312Z",
+    "reviewReply": {
+      "comment": "Buen dia!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2025-02-13T12:06:35.542942Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChZDSUhNMG9nS0VJQ0FnTURBeVpYSlBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sonia Gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-09T21:08:38.543987Z",
+    "updateTime": "2026-01-09T21:08:38.543987Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xReFpEVjFVWFp6U0RkbGJUaG5WMFpvTlhkTU9VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando DAngelo"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-01-09T17:39:17.686757Z",
+    "updateTime": "2026-01-09T17:39:17.686757Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oRlFsQjJNa28zV0UxcFFrcHJUa0poUTBKbWNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Yakoupian"
+    },
+    "starRating": "FIVE",
+    "comment": "Como siempre excelente la atención. Me atendieron Rocío y Miguel. Muy amables. Los baños siempre limpios y el Full impecable.\n\n(Translated by Google)\nAs always, the service was excellent. Rocío and Miguel helped me. They were very friendly. The restrooms were always clean and the Full was spotless.",
+    "createTime": "2026-01-08T19:27:02.026934Z",
+    "updateTime": "2026-01-08T19:27:02.026934Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkeWNETTNWRmMxUVhNM01sOTBVMDh0WjAxcVRFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Carvajal"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio siempre\n\n(Translated by Google)\nAlways great service",
+    "createTime": "2026-01-08T19:26:57.247107Z",
+    "updateTime": "2026-01-08T19:26:57.247107Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSU2VFWklVMkoxZVVoVmFrcHZkMnRLWlhOdk9IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guido Zabala Toledo"
+    },
+    "starRating": "FIVE",
+    "comment": "El lugar super comodo y las medialunas riquisimass\n\n(Translated by Google)\nThe place was super comfortable and the croissants were delicious.",
+    "createTime": "2026-01-08T18:57:24.824909Z",
+    "updateTime": "2026-01-08T18:57:24.824909Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GTU9IRkNhbE5QWjNoWFRIVTJXR05MWldsNVNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Celeste Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Tuve una atención e información sobre la dinámica laboral con paciencia y dedicación con la área Socio: Rocío\n\n(Translated by Google)\nI received patient and dedicated attention and information about the work dynamics from the Socio area: Rocío",
+    "createTime": "2026-01-08T16:07:05.543031Z",
+    "updateTime": "2026-01-08T16:07:05.543031Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SbFoyTTJTbFl6U3pSdFZtcFJZakpUY0RoMFpYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Solana Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Rocio que me dio información sobre hacerme socio,  muchas gracias!!! Los baños de 10\n\n(Translated by Google)\nRocio provided excellent service and gave me information about becoming a member, thank you so much!!! The restrooms are fantastic!",
+    "createTime": "2026-01-08T16:06:00.557950Z",
+    "updateTime": "2026-01-08T16:06:00.557950Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tONGRIbE5kM0ZmYkhwMFIydGZYM2hYYXpkSU9GRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Dagostino"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en la oficina. El personal muy resolutivo y atento.\n\n(Translated by Google)\nExcellent service at the office. The staff was very helpful and attentive.",
+    "createTime": "2026-01-08T15:37:53.191549Z",
+    "updateTime": "2026-01-08T15:37:53.191549Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT25nNVJFOWhURGd5TnpCUVZXZHVVRWREY1c4eFkxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonella Espinoza"
+    },
+    "starRating": "FIVE",
+    "comment": "Quiero dejar una buena reseña ora rocio que es muy amable , recomendable!!\n\n(Translated by Google)\nI want to leave a good review for Rocío, who is very kind and highly recommended!",
+    "createTime": "2026-01-08T14:57:16.989025Z",
+    "updateTime": "2026-01-08T14:57:16.989025Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzdFNqTkpjVXBJWVRGRWEyVlFWelZxVWpVMFNVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "asmel avariano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenisima la atención de Ariel, Ricardo y Rocío, muchas gracias. Volveré !\n\n(Translated by Google)\nAriel, Ricardo, and Rocío provided excellent service, thank you so much. I\u0027ll be back!",
+    "createTime": "2026-01-08T14:50:08.261501Z",
+    "updateTime": "2026-01-08T14:50:08.261501Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kTE9YZEhTMU5YVGtRdFMzSjJXVE5sYXkxVWNHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Giron"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-08T13:01:20.134224Z",
+    "updateTime": "2026-01-08T13:01:20.134224Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVWRtd3hUbGRqV210eGRrUlROSFU1Tm5aRloyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "crazy-ducks garage"
+    },
+    "starRating": "FIVE",
+    "comment": "Rocio\n\n(Translated by Google)\nDew",
+    "createTime": "2026-01-08T12:50:59.623263Z",
+    "updateTime": "2026-01-08T12:50:59.623263Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSM1VITkJlbEkxVEV4WE9IaHZWelo1T1VkTmNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Osvaldo Julian Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "l 5% de descuento.\nMuy buena atención de Lucas y Rocío\n\n(Translated by Google)\n5% discount.\nExcellent service from Lucas and Rocío.",
+    "createTime": "2021-04-29T22:09:30.788135Z",
+    "updateTime": "2026-01-07T19:33:45.865152Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSURLaE9EWXpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Ferrufino"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena atención. de todos!\n\n(Translated by Google)\nExcellent service from everyone!",
+    "createTime": "2026-01-07T19:28:08.985725Z",
+    "updateTime": "2026-01-07T19:28:08.985725Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwTWNWWk9PRXBMYjJ0YVZGcEJkelpRZW5kUVQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maximo Diego Pujol"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención. Lo mejor. Lucas y Rocío son lo mejor.\n\n(Translated by Google)\nExcellent service. The best. Lucas and Rocío are the best.",
+    "createTime": "2026-01-07T19:14:38.438888Z",
+    "updateTime": "2026-01-07T19:14:38.438888Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnMmMyaGZaM1owU1RGTFFVcG5jR1IzVG01MVZuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Alfonzo"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buen atendido por rocio y lucas\n\n(Translated by Google)\nExcellent service from Rocio and Lucas",
+    "createTime": "2026-01-07T19:08:59.684699Z",
+    "updateTime": "2026-01-07T19:08:59.684699Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKYVkxbEJPV3Q2Y0hkRGVqRXpTWGxZVkhwbmNGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alex Marassi"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-01-07T18:35:01.353471Z",
+    "updateTime": "2026-01-07T18:35:32.736028Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FMWIzTlZjRGRqYVdjNGVVSmFOUzFzUTJsUlNFRRAB"
+  }]
+}

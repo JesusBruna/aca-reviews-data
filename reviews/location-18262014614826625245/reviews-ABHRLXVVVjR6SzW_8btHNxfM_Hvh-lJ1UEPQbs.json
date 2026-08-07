@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carolina Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-01-23T22:47:21.867458Z",
+    "updateTime": "2021-01-23T22:47:21.867458Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5b28yNnJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa Casal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-01-23T16:34:40.177256Z",
+    "updateTime": "2021-01-23T16:34:40.177256Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5dk16eEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabio Marchione"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-01-23T16:32:56.609162Z",
+    "updateTime": "2021-01-23T16:32:56.609162Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5dkl5ZjFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Facu Bateado"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-01-22T15:25:32.310723Z",
+    "updateTime": "2021-01-22T15:25:32.310723Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5ck1mSVhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Bautista Ventura"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-01-22T11:51:05.393627Z",
+    "updateTime": "2021-01-22T11:51:05.393627Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5ckpLc0JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "angel emilio fracchia"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención, algo desprolijo el lugar\n\n(Translated by Google)\nGood service, but the place is a bit messy.",
+    "createTime": "2021-01-22T01:42:43.710550Z",
+    "updateTime": "2021-01-22T01:42:46.521546Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5ek5qTFJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "mario german muñoz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-01-21T21:04:26.944125Z",
+    "updateTime": "2021-01-21T21:04:26.944125Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5aklId2RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Gustavo MAGRA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-01-21T11:59:53.278753Z",
+    "updateTime": "2021-01-21T11:59:53.278753Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5dE1PNldBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Barlesi"
+    },
+    "starRating": "FOUR",
+    "comment": "Rapidez.. Buena atención\n\n(Translated by Google)\nFast.. Good service",
+    "createTime": "2021-01-21T04:36:12.520963Z",
+    "updateTime": "2021-01-21T04:36:12.520963Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5MVBPenB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mirian Diana Chaves"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-01-20T15:22:09.010868Z",
+    "updateTime": "2021-01-20T15:22:09.010868Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5NU5Pb2FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Karina Carbone"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-01-19T16:51:50.262301Z",
+    "updateTime": "2021-01-19T16:51:50.262301Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5aExhUlpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabio Bastian"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencionn\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-01-19T15:29:17.910708Z",
+    "updateTime": "2021-01-19T15:29:17.910708Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5aEpUYWt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Vignogna"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-01-19T01:56:02.836173Z",
+    "updateTime": "2021-01-19T01:56:02.836173Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5dU5pYjFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ALEXANDRA AGUIRRE"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-01-19T01:09:05.808562Z",
+    "updateTime": "2021-01-19T01:10:13.735722Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5dU9Ea193RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Luna"
+    },
+    "starRating": "TWO",
+    "comment": "Los baños muy sucios\n\n(Translated by Google)\nThe bathrooms were very dirty",
+    "createTime": "2021-01-18T17:32:21.630928Z",
+    "updateTime": "2021-01-18T17:32:21.630928Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5bUxQbTN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anibal Cordoba"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2021-01-18T02:19:49.044539Z",
+    "updateTime": "2021-01-18T02:19:58.571165Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5cU5uVHlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ceteris paribus"
+    },
+    "starRating": "FOUR",
+    "comment": "Hermoso barrio!!!\n\n(Translated by Google)\nBeautiful neighborhood!!!",
+    "createTime": "2021-01-17T15:49:23.600249Z",
+    "updateTime": "2021-01-17T15:49:23.600249Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5eVBEV3VBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cecilia Bosso"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-01-17T13:39:01.197555Z",
+    "updateTime": "2021-01-17T13:39:01.197555Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5aU8zVWZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Nicolari"
+    },
+    "starRating": "THREE",
+    "comment": "Lento el proceso\n\n(Translated by Google)\nThe process is slow.",
+    "createTime": "2021-01-17T00:02:10.946327Z",
+    "updateTime": "2021-01-17T00:02:10.946327Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5c01mc3NnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Valeria Calçada"
+    },
+    "starRating": "THREE",
+    "comment": "Muy mala atención, el del servi compras muy maleducado,  grita que no mascotas, EL es un animal sueltoy desagradable, mi perra de minitoy de 1,800 arriba mio más educada que el personal de ahi.\nObvio y por suerte mo compré.\nPero lamentablemente tenes que cargar nafta ahí POR ESO SE ABUSAN\n\n(Translated by Google)\nTerrible service. The service clerk was incredibly rude, yelling that pets weren\u0027t allowed. He was a stray, unpleasant animal himself. My 1.8 kg (4.2 lb) miniature toy dog ​​was much better behaved than the staff there.\nObviously, and luckily, I didn\u0027t buy anything.\n\nBut unfortunately, you have to get gas there, which is why they take advantage of you.",
+    "createTime": "2021-01-16T23:41:15.266833Z",
+    "updateTime": "2021-01-16T23:45:14.106997Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5c0p1c2tRRRAB"
+  }]
+}

@@ -1,6 +1,41 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Raul Armando Carrasco"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo muy bien, rápido , excelente\n\n(Translated by Google)\nEverything was great, fast, excellent",
+    "createTime": "2026-07-28T22:47:24.191792Z",
+    "updateTime": "2026-07-28T22:47:24.191792Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aWlFrUjJlQzB4U25oUE5rTkZkMHhUYmtZMmJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "GusG N"
+    },
+    "starRating": "FOUR",
+    "comment": "Podría mejorar las instalaciones de la playa. El resto parece bien. A veces resulta un poco incómodo entrar y salir, dependiendo de qué o para qué lado tenga que ir uno.\n\n(Translated by Google)\nThe beach facilities could be improved. The rest seems fine. Sometimes it\u0027s a little inconvenient to get in and out, depending on what you need to do or which way you need to go.",
+    "createTime": "2026-07-27T01:56:25.935655Z",
+    "updateTime": "2026-07-27T01:56:25.935655Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swMGMxQnlURU16YzFWWmN6UXllbUo1ZW5aNWVVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Racciatti"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención de los playeros!\n\n(Translated by Google)\nExcellent service from the beach attendants!",
+    "createTime": "2023-07-17T13:17:56.329655Z",
+    "updateTime": "2026-07-18T22:16:14.748550Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURKN3ZHTXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Bignone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-13T01:59:49.514902Z",
+    "updateTime": "2026-07-13T01:59:49.514902Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKa2MwbDJla0pwVUdObVRGQjROWGR5TlZoME1rRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Oscar Barbarotta"
     },
     "starRating": "FOUR",
@@ -24,6 +59,10 @@
     "comment": "Nunca más voy a ir. En la playa un camión estacionado ( no permitía utilizar dos surtidores)  del otro lado de un surtidor estacionado el auto de la encargada.....xq llovía lo dejo en el techo...el cono lo puso la playera cuando me dijo que de toda la vuelta para ir a la otra parte de la estación de servicio. Por supuesto, que me fui sin cargar combustible\n\n(Translated by Google)\nI\u0027m never going back. At the gas station, a truck was parked (blocking two pumps). On the other side of one of the pumps, the manager\u0027s car was parked... because it was raining, she left it on the roof. The cone was put there by the attendant when she told me to go all the way around to get to the other side of the station. Of course, I left without filling up.",
     "createTime": "2026-06-19T18:47:02.561251Z",
     "updateTime": "2026-06-19T18:47:02.561251Z",
+    "reviewReply": {
+      "comment": "Buenos Días. Le pedimos disculpas por lo ocurrido. Ese día esa isla no estaba operativa y por eso se cerro, no se podía despachar combustible. El jefe de estación estaciono ahí por ese motivo.\nLamentamos que se haya tenido que retirar sin poder esperar en el otro surtidor y esperamos regrese pronto .",
+      "updateTime": "2026-07-03T11:59:08.594018Z"
+    },
     "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poUE1tMWZjVUpZWVV0bVZHeFBZM2sxU2tsMFpWRRAB"
   }, {
     "reviewer": {
@@ -135,40 +174,5 @@
     "createTime": "2026-04-18T16:38:06.642343Z",
     "updateTime": "2026-04-18T16:39:03.867833Z",
     "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT204NU16bEdaRTFEWkdzM1lUZGtPVWhoTUVvMldVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Eduardo Gimenez"
-    },
-    "starRating": "FOUR",
-    "comment": "Un descanso a tu paso\n\n(Translated by Google)\nA break along your path",
-    "createTime": "2019-03-11T16:44:29.735885Z",
-    "updateTime": "2026-04-17T18:42:01.676765Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChdDSUhNMG9nS0VJQ0FnSURvdUxPUGtnRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rama Navarro"
-    },
-    "starRating": "FOUR",
-    "comment": "Buen servicio de cafetería y restaurante\n\n(Translated by Google)\nGood cafeteria and restaurant service",
-    "createTime": "2020-02-13T19:18:09.282131Z",
-    "updateTime": "2026-04-12T05:04:35.789192Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/ChZDSUhNMG9nS0VJQ0FnSUNzczdXeWVBEAE"
-  }, {
-    "reviewer": {
-      "displayName": "Julio Sposito"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-26T16:59:32.011875Z",
-    "updateTime": "2026-03-26T16:59:32.011875Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JNVpXbEhVVTFPY2sxeVMzUlFaRU5TYzFkZk9WRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Pereira"
-    },
-    "starRating": "THREE",
-    "comment": "Las mesas de afuera re sucias\n\n(Translated by Google)\nThe tables outside were really dirty.",
-    "createTime": "2026-03-26T15:10:32.706025Z",
-    "updateTime": "2026-03-26T15:10:32.706025Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wUlZ6aE1hVlU1WVRGcmRuaGpTSE5OZERCeVptYxAB"
   }]
 }

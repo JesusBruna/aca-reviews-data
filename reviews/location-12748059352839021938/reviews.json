@@ -1,6 +1,40 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Fabian Ricciardelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena YPF..\n\n(Translated by Google)\nVery good YPF.",
+    "createTime": "2026-07-31T22:10:03.214299Z",
+    "updateTime": "2026-07-31T22:10:03.214299Z",
+    "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWFFVZG9jMVEyY0dvMVptUkpha0ZMUXpNMVVrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin L. A."
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. No me funcionó el descuento de modo icbc, es la primera vez que me pasa en una ypf y confirmé que está incluida en la promoción. No sé si fue un problema de modo o si generaron mal el QR.\n\n(Translated by Google)\nGood service. The ICBC discount didn\u0027t work for me; it\u0027s the first time this has happened at a YPF station, and I confirmed it\u0027s included in the promotion. I don\u0027t know if it was a problem with the mode or if they generated the QR code incorrectly.",
+    "createTime": "2026-07-22T18:52:54.175226Z",
+    "updateTime": "2026-07-22T18:52:54.175226Z",
+    "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FMWNIaGhXWFJXUm1wRWIyUTJYMHRoTFRaYVZtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Javier Ratner"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-02-13T14:28:31.968628Z",
+    "updateTime": "2026-07-17T17:29:23.464390Z",
+    "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/ChZDSUhNMG9nS0VJQ0FnSURtNzl1T0h3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Sasiain"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-10T18:07:49.067Z",
+    "updateTime": "2026-07-11T07:33:45.183366Z",
+    "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eFpuY1V3EAE"
+  }, {
+    "reviewer": {
       "displayName": "Andrea Guadalupe Montenegro"
     },
     "starRating": "TWO",
@@ -82,7 +116,7 @@
       "displayName": "Ruben Salellas"
     },
     "starRating": "FIVE",
-    "comment": "Buen trato de los playeros\n\n(Translated by Google)\nGood treatment of the beachgoers",
+    "comment": "Buen trato de los playeros\n\n(Translated by Google)\nGood service from the beach staff",
     "createTime": "2026-04-23T22:34:03.428189Z",
     "updateTime": "2026-04-23T22:34:03.428189Z",
     "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paNWVYQkJXREV4UjFCRmJWOUNVVWxhV0ZKVlFuYxAB"
@@ -137,41 +171,5 @@
     "createTime": "2026-04-10T20:53:12.101424Z",
     "updateTime": "2026-04-10T20:53:12.101424Z",
     "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/Ci9DQUlRQUNvZENodHljRjlvT214bFJETmpZazlmUzNZNGFVZDJVa3hWVkV3MFdVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alfredo Sgariglia"
-    },
-    "starRating": "THREE",
-    "comment": "Mucho por mejorar, por ejemplo el inflador de neumáticos, elemento muy utilizado en lugares con arena. La señora que me atendió en el bar ese día desayunó vinagre, tanto cuesta dejar los problemas en la puerta y atender amablemente, al menos  con quien lo es.\n\n(Translated by Google)\nMuch room for improvement, for example, the tire inflator, a very useful item in sandy areas. The woman who served me at the bar that day had vinegar for breakfast; is it really so hard to leave your problems at the door and be polite, at least to those who are polite?",
-    "createTime": "2026-04-09T12:55:52.855229Z",
-    "updateTime": "2026-04-09T12:55:52.855229Z",
-    "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaeFdqbE5UVWxrYTJkRWRYWlVNbVJzY2xGak0zYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Roberto Giagnolo"
-    },
-    "starRating": "FIVE",
-    "comment": "Execelente carga de combustible, muy atentos\n\n(Translated by Google)\nExcellent fuel delivery, very attentive",
-    "createTime": "2026-04-07T23:18:03.953653Z",
-    "updateTime": "2026-04-07T23:18:03.953653Z",
-    "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrdGVsUktVR1JaVWxsd1ZHbGZXVGsxWjFGemFsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alberto Chialli"
-    },
-    "starRating": "FOUR",
-    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-04-06T21:08:10.490Z",
-    "updateTime": "2026-04-06T21:08:10.490Z",
-    "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paQ1NWZHBNWEJwY0VOVVUwRlJiVTlzUVRsSVdVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Cecilia Bietti"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención y servicio. Es mi estación de servicio de confianza en la villa\n\n(Translated by Google)\nExcellent service and attention. It\u0027s my go-to gas station in town.",
-    "createTime": "2026-04-05T16:46:38.350791Z",
-    "updateTime": "2026-04-05T16:46:38.350791Z",
-    "name": "accounts/109853746269412609224/locations/12748059352839021938/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xV1Z6ZFhUbEpLU2tGMlJUUTJSR1kxVEZkSloyYxAB"
   }]
 }

@@ -1,6 +1,31 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Educación Tic Educación Tic"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar para parar, comer algo y descansar un poco\n\n(Translated by Google)\nGood place to stop, have something to eat and rest a bit",
+    "createTime": "2026-07-25T10:41:57.923395Z",
+    "updateTime": "2026-07-25T10:41:57.923395Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su valoración! Buen viaje",
+      "updateTime": "2026-07-26T12:04:39.681003Z"
+    },
+    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sTlZVMW9la0ZwTkdWTVFqSlFZM0l0VVRKVU1rRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Russmann"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-12T02:47:41.609307Z",
+    "updateTime": "2026-07-12T02:47:41.609307Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su valoración!!",
+      "updateTime": "2026-07-20T11:52:17.756264Z"
+    },
+    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkR1NFMWpaMWRmVFdGWE5rZFNNRTVCU1UxRVlVRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Alejandra Asis"
     },
     "starRating": "FOUR",
@@ -228,31 +253,5 @@
       "updateTime": "2026-03-01T19:02:32.956066Z"
     },
     "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5cGNtazFRbTFKUmt4YWRWZFdWR2t5VVZwNmQyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Andres Lobos"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
-    "createTime": "2026-02-28T16:20:35.426050Z",
-    "updateTime": "2026-02-28T16:20:35.426050Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su valoración!! Buen viaje",
-      "updateTime": "2026-03-01T19:03:33.652802Z"
-    },
-    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ka2RtRktiems0VGtRNVR6ZDRMWHBNVlhaUWJuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lucas Maximiliano Guajardo"
-    },
-    "starRating": "FIVE",
-    "comment": "Lugar clave, para el cruce y armarte de combustible bebida y comida para continuar tu viaje\n\n(Translated by Google)\nKey location for crossing and stocking up on fuel, drinks, and food to continue your journey",
-    "createTime": "2026-02-28T14:51:28.199984Z",
-    "updateTime": "2026-02-28T14:51:28.199984Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su valoración!!lo esperamos cuando guste!! Buen viaje",
-      "updateTime": "2026-03-01T19:10:35.864232Z"
-    },
-    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWGQyMTNjVlU0Tkd0c1dHYzVURFExT0dKbFNtYxAB"
   }]
 }

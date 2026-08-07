@@ -1,0 +1,176 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "ricardo saracho"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-22T16:45:05.412924Z",
+    "updateTime": "2026-02-22T16:45:05.412924Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1T1dsTkNOSEJuVFZCU2R6UlpORU5uWVRkWFpYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier AM"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-02-17T21:23:00.746703Z",
+    "updateTime": "2026-02-17T21:23:00.746703Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkWVkwSTBTelZ2VFRSSVEwNVNOSEpSV0hsc1MwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fermin Daniel Kern"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-15T20:06:06.103500Z",
+    "updateTime": "2026-02-15T20:06:06.103500Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SWlIxZ3RWRFJSTkZKT1dIWmtRVE16U2paWlNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carla Brunetti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-02-15T10:45:20.100116Z",
+    "updateTime": "2026-02-15T10:45:20.100116Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGcmFGWnpRbkpDUkdwd2FpMUpXRGhhYjJOMWFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Vega"
+    },
+    "starRating": "FIVE",
+    "comment": "Un desastre... Llegué de noche y estaba cerrada\n\n(Translated by Google)\nA disaster... I arrived at night and it was closed",
+    "createTime": "2026-02-08T17:26:33.321144Z",
+    "updateTime": "2026-02-08T17:26:33.321144Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wQ2NqWnlhbTVIWTFaVVIxTm1lVTFzVGpsUWVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vicente Galarza"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención baños muy limpios\n\n(Translated by Google)\nExcellent service, very clean bathrooms",
+    "createTime": "2026-02-07T23:07:39.983964Z",
+    "updateTime": "2026-02-07T23:07:39.983964Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prd1RGYzVSek0zUm5sMWJuUTBiVTA1WVUxYVoxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Gretter"
+    },
+    "starRating": "THREE",
+    "comment": "Cerrado de noche\n\n(Translated by Google)\nClosed at night",
+    "createTime": "2026-02-03T02:11:08.900459Z",
+    "updateTime": "2026-02-03T02:11:08.900459Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxMVoxcE5jVVJPWVdkNU1HUmlRbFJwZDBvME1YYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano José Pugliese"
+    },
+    "starRating": "FOUR",
+    "comment": "Falta agua caliente en las duchas para el público en general, después de las 1930 dicen que hay\n\n(Translated by Google)\nThere is a lack of hot water in the showers for the general public; they say there is hot water after 7:30 PM.",
+    "createTime": "2026-02-01T00:59:50.656390Z",
+    "updateTime": "2026-02-01T00:59:50.656390Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNNGNFUTVVRjk0WldSWGVHRkNZbkpzYldOS1kxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Cabrera"
+    },
+    "starRating": "FOUR",
+    "comment": "Lugar lindo y pintoresco muy buena atención, pero tengan cuidado no siempre está abierto\n\n(Translated by Google)\nLovely and picturesque place, very good service, but be aware that it\u0027s not always open",
+    "createTime": "2026-01-31T03:38:40.957545Z",
+    "updateTime": "2026-01-31T03:38:40.957545Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oTFRFUlZja1ZFTFhaV01rdHNOM0JFTmtKRE0xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "SI Pablo Bonaldi"
+    },
+    "starRating": "THREE",
+    "comment": "Solo combustible y poco más.. buena atención\n\n(Translated by Google)\nJust fuel and little else... good service",
+    "createTime": "2026-01-22T16:08:14.034459Z",
+    "updateTime": "2026-01-22T16:08:14.034459Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poTFNWbHhXWEUwTm5acVIydG9WVTlyU0dwclNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Debora soledad Aguirre"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-01-15T18:55:47.525508Z",
+    "updateTime": "2026-01-15T18:55:47.525508Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KQmNsZFRibDkyYTNKMVNGTnBUMnBCUlVKVmVWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "el fraude rock"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-01-12T23:05:41.195907Z",
+    "updateTime": "2026-01-12T23:05:41.195907Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT214TWJtcEtSRWN3UVVKR1ZuVkVaSFZDVVVWTmVHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Consuelo Virasoro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-10-23T01:29:27.616798Z",
+    "updateTime": "2026-01-12T22:48:56.532900Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KcGNVSlpjamh3VkZSWExVaGxXbEpSWVdSUWIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Contreras"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención lástima que no hay un minimercado\n\n(Translated by Google)\nExcellent service, it\u0027s a shame there\u0027s no mini-market",
+    "createTime": "2026-01-09T19:55:19.673061Z",
+    "updateTime": "2026-01-09T19:55:19.673061Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT25STmJWQnRWalpPYjBaUFNYbHlkVlpyV25oeFpuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "patricia Arias"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-01-07T18:09:07.430568Z",
+    "updateTime": "2026-01-07T18:09:07.430568Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSUFFrTm5NMVpVUWtoc01qUldWbXRPT0VGb1kwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Viviana Lynn"
+    },
+    "starRating": "ONE",
+    "comment": "No se si esto lo lee alguna autoridad responsable . Ayer lunes x la tarde tuvimos que esperar muchísimo mientras le cargaban combustible a 2 motos ninguna llevaba casco y una de ella con 2 menores que sin duda eran conocidos de la persona que despachaba; cua do le consulte x la responsabilidad de su actitud mee respondió que nadie se lo había observado....estará espeta do qué vaya el gobernador a decirle que esta prohibido.\nEvidentemente las reglas no están para ser cumplidas en este país.\n\n(Translated by Google)\nI don\u0027t know if any responsible authority reads this. Yesterday afternoon, we had to wait a very long time while two motorcycles were being refueled. Neither of them was wearing a helmet, and one of them had two minors on it who were undoubtedly acquaintances of the person at the pump. When I asked him about his behavior, he replied that no one had noticed... Is he waiting for the governor to come and tell him it\u0027s prohibited?\nClearly, the rules aren\u0027t meant to be followed in this country.",
+    "createTime": "2026-01-06T10:45:30.811985Z",
+    "updateTime": "2026-01-06T10:45:30.811985Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT210VmRGUnBUMFF6YUY4MWVEUTNMWGM0V0Vad1VHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dra. Susana B. Canelo"
+    },
+    "starRating": "FOUR",
+    "comment": "Atención en playa, OK. Lástima q esté cerrado el kiosko. Tenía hambre y no pude comer nada\n\n(Translated by Google)\nThe service on the beach was OK. It\u0027s a shame the kiosk was closed. I was hungry and couldn\u0027t get anything to eat.",
+    "createTime": "2026-01-02T21:44:14.139545Z",
+    "updateTime": "2026-01-02T21:44:14.139545Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paSFpreEZOVTUwZG1wVExXSmhjakZrT0d3NE9FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Joaquin Schulze"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-10-14T00:08:35.372157Z",
+    "updateTime": "2026-01-02T02:06:40.995450Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwdDZpeDhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vero Bechi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-01-01T16:55:09.197699Z",
+    "updateTime": "2026-01-01T16:55:09.197699Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkNExWTnlhRGxOWjFSelFtOUlaMWxzVTBkb1YzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "carlos bustos potenzo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, odria ser mejor el que ngresi y egreso a la YPF\n\n(Translated by Google)\nGood service, it could be better if the one that enters and exits the YPF",
+    "createTime": "2025-12-30T07:58:15.483956Z",
+    "updateTime": "2025-12-30T07:58:15.483956Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RMFNqZEthV0ZvVEcxSVRYQkxXalJ6YmxCcFJsRRAB"
+  }]
+}

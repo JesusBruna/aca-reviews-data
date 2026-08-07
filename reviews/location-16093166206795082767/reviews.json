@@ -1,196 +1,236 @@
 {
   "reviews": [{
     "reviewer": {
-      "displayName": "Daniel Isman"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-07-03T00:28:57.488109Z",
-    "updateTime": "2026-07-03T00:28:57.488109Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGaFZGRnBhMUJ4TW5wNVV6VlRUVjlhWHpsd2JGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alicia Ibañez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-30T12:11:41.486074Z",
-    "updateTime": "2026-06-30T12:11:41.486074Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOdGFVNTFSbXRRWjBrelEwSk1ia2RpY1RoRFFsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "victor guillermo roberts"
-    },
-    "starRating": "FOUR",
-    "comment": "Una buena estación de servicio a la entrada de san Pedro, para parar mirar el paisaje y degustar un cafe\n\n(Translated by Google)\nA good service station at the entrance to San Pedro, a great place to stop, admire the scenery, and enjoy a coffee.",
-    "createTime": "2026-06-30T10:48:28.451044Z",
-    "updateTime": "2026-06-30T10:48:28.451044Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xORExUTjZTSFpxZVc1SVlYRkJlRWhMVUdvNVVFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniel C"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-28T00:50:18.282029Z",
-    "updateTime": "2026-06-28T00:50:18.282029Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oQ2NqbFJWR3huWVdoRGFWRlVWV1JZT0ZZd2JHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rober"
-    },
-    "starRating": "FOUR",
-    "comment": "Se podría mejorar el bar\n\n(Translated by Google)\nThe bar could be improved.",
-    "createTime": "2026-06-27T22:28:19.929729Z",
-    "updateTime": "2026-06-27T22:28:19.929729Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sRlJIbzNXbVp4VEd4RFJYRk9VbVoyZDFOV1JVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mariana Rey"
-    },
-    "starRating": "FIVE",
-    "comment": "Las mejores ensaimadas que comí en la vida . Riquísima al igual que toda la  pastelería . Impecable los baños 🚻 👏\n\n(Translated by Google)\nThe best ensaimadas I\u0027ve ever had. Delicious, as was all the pastry. The restrooms were spotless 🚻 👏",
-    "createTime": "2026-06-27T21:41:26.265761Z",
-    "updateTime": "2026-06-27T21:41:26.265761Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGSExUVlhaRUp0YVdKb2NreDNXbk51WDB0V1owRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rosana Campos"
-    },
-    "starRating": "FIVE",
-    "comment": "Hola. Estoy planificando ir hacia rosario. Ustedes cuentan con GNC? Gracias\n\n(Translated by Google)\nHello. I\u0027m planning a trip to Rosario. Do you have CNG stations? Thanks",
-    "createTime": "2026-06-24T11:53:44.547340Z",
-    "updateTime": "2026-06-24T11:53:44.547340Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwalEwMTZhMGRFWVV4bFlWVkRhRWxuVW5CSFVsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "ALE ARIES"
-    },
-    "starRating": "FIVE",
-    "comment": "Perfecto 💯\n\n(Translated by Google)\nPerfect 💯",
-    "createTime": "2026-06-22T22:38:09.344389Z",
-    "updateTime": "2026-06-22T22:38:09.344389Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkSVlXTnFjRGRuWlcwNWVETlhURXRKVDNwU01tYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Debora Florentin"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-06-21T21:48:05.934238Z",
-    "updateTime": "2026-06-21T21:48:05.934238Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KM1MxbEhkMjVQTjJJNGJUUk1Vbk16U0VNdGVsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Eduardo Gonzalez Cesario"
-    },
-    "starRating": "TWO",
-    "createTime": "2026-06-20T13:35:45.752494Z",
-    "updateTime": "2026-06-20T13:35:45.752494Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xVE5GVnJWVmhxU1dOQ1QyczNkVTB6VjFaWE1WRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Omar Exposito"
-    },
-    "starRating": "FOUR",
-    "comment": "Buen lugar. Tiene todos los servicios\n\n(Translated by Google)\nGood place. It has all the amenities.",
-    "createTime": "2026-06-19T20:27:14.354504Z",
-    "updateTime": "2026-06-19T20:27:14.354504Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWMmQycFFhRmxaZFhndFlUUnVkbTE0VjNONGRWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Roberto Domingo Santamaria"
+      "displayName": "Ana Lucia Ferreyra"
     },
     "starRating": "ONE",
-    "comment": "El bar YPF full no acepta para pagar App de YPF, internet no funciona, pedí 2 café con leche para tomar en el lugar, me dieron vasos descartables, ni un vaso de agua con el servicio, deberían tener mejor trato con los socios.\n\n(Translated by Google)\nThe YPF Full bar doesn\u0027t accept YPF App payments, the internet doesn\u0027t work, I ordered two coffees with milk to drink there, they gave me disposable cups, not even a glass of water with the service, they should treat members better.",
-    "createTime": "2026-06-18T12:28:18.794305Z",
-    "updateTime": "2026-06-18T12:28:18.794305Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aUmIxbzVhMWM0WVVKdWJHVlBVRTh3Vms5b1ZYYxAB"
+    "comment": "Pesima atencion de la cajera ... no solo no me hizo descuento por cliente ACA sino que me decia que mi tarjeta necesitaba autorizacion!\n\n(Translated by Google)\nTerrible service from the cashier... not only did she not give me the ACA customer discount, but she kept saying my card needed authorization!",
+    "createTime": "2026-08-01T21:33:28.399399Z",
+    "updateTime": "2026-08-01T21:33:28.399399Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKaVp6QXhMV2RsV1ZFNU5WRTNUVFV6TjIxNFJHYxAB"
   }, {
     "reviewer": {
-      "displayName": "Santiago hilgenberg"
+      "displayName": "Luis Fernández"
     },
     "starRating": "FIVE",
-    "comment": "Muy buen servicio, se destaca la buena onda de la cajera del mini mercado\n\n(Translated by Google)\nExcellent service, the cashier at the mini-market was particularly friendly.",
-    "createTime": "2026-06-18T00:33:56.730004Z",
-    "updateTime": "2026-06-18T00:33:56.730004Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVd2JGaERZbmN0ZG5CQ2IwdEJkR1YyYWtaNVZWRRAB"
+    "createTime": "2026-08-01T21:01:32.755147Z",
+    "updateTime": "2026-08-01T21:01:32.755147Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkd01GQjViVGh5UjJsRE1VdzFaV3R1WlcxWlIyYxAB"
   }, {
     "reviewer": {
-      "displayName": "Emma Macchi"
+      "displayName": "Daniela Ortega"
     },
-    "starRating": "FIVE",
-    "comment": "Me encanto q tienen varias opciones sin tacc. Les recomiendo el panini sin tacc, es riquisimo !!!\n\n(Translated by Google)\nI loved that they have several gluten-free options. I highly recommend the gluten-free panini, it\u0027s delicious!",
-    "createTime": "2026-06-15T17:04:40.419587Z",
-    "updateTime": "2026-06-15T17:04:40.419587Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSemRFazRaazVGUlMwNU1GcENTbkJ4VGxreFFXYxAB"
+    "starRating": "ONE",
+    "comment": "Carismo para lo que te dan, no vale la pena gastar tanto por tan poco, compramos un lomito SIN papas, acompañado de bebida 32mil pesos, una coca de 600ml 14mil y ni estan exhibidos los precios, mal nosotras por no preguntarlo antes, definitivamente no volveriamos\n\n(Translated by Google)\nIt\u0027s expensive for what you get; it\u0027s not worth spending so much for so little. We bought a steak sandwich WITHOUT fries, with a drink, for 32,000 pesos, and a 600ml Coke for 14,000 pesos. The prices weren\u0027t even displayed; it was our mistake not to ask beforehand. We definitely wouldn\u0027t go back.",
+    "createTime": "2026-08-01T02:28:41.833093Z",
+    "updateTime": "2026-08-01T02:28:41.833093Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWE9IUkRhV1pTUzFOR1FYUm5OMHR3ZEdvM2IzYxAB"
   }, {
     "reviewer": {
-      "displayName": "Miguel Angel Mansilla"
+      "displayName": "Maria Laura Gomez"
     },
     "starRating": "FOUR",
-    "createTime": "2026-06-15T09:17:30.216379Z",
-    "updateTime": "2026-06-15T09:17:30.216379Z",
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVWMxcENVM3BGZEVReGFrTlZaVkpWVW5Wbk0xRRAB"
+    "createTime": "2026-07-31T13:04:20.352306Z",
+    "updateTime": "2026-07-31T13:04:20.352306Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Oc1JYUlRMWGxUY0dkQmFuUkZlbGxUWWxadFJIYxAB"
   }, {
     "reviewer": {
-      "displayName": "alberto abad"
+      "displayName": "Cintia Danchuk"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-11T04:54:40.494776Z",
-    "updateTime": "2026-06-11T04:54:40.494776Z",
-    "reviewReply": {
-      "comment": "Gracias por puntuarnos, los esperamos nuevamente ",
-      "updateTime": "2026-06-11T10:30:03.996295Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poYU4ybHpXVFY0Ym1Vd2NUSnVOVkpxTW5JeVMxRRAB"
+    "createTime": "2026-07-30T01:42:36.231092Z",
+    "updateTime": "2026-07-30T01:42:36.231092Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ1puZHRkMDl2UVhoVmRGZE1OMTlTVUVWdVNrRRAB"
   }, {
     "reviewer": {
-      "displayName": "Marcos Morales"
+      "displayName": "Clau Pelle"
     },
     "starRating": "FIVE",
-    "comment": "Excelente atención y productos.\n\n(Translated by Google)\nExcellent service and products.",
-    "createTime": "2026-06-09T22:40:37.069645Z",
-    "updateTime": "2026-06-09T22:40:37.069645Z",
+    "comment": "Siempre todo muy limpio y los baños IMPERMEABLES!!!✨gracias\n\n(Translated by Google)\nEverything is always very clean and the bathrooms are WATERPROOF!!! ✨ Thank you",
+    "createTime": "2026-07-29T19:59:31.581342Z",
+    "updateTime": "2026-07-29T19:59:31.581342Z",
     "reviewReply": {
-      "comment": "Gracias por su comentario los esperamos nuevamente ",
-      "updateTime": "2026-06-10T16:00:54.690627Z"
+      "comment": "Gracias por su comentario y los esperamos nuevamente ",
+      "updateTime": "2026-07-29T22:20:44.230686Z"
     },
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twWVozTnVSMVJZTkZkekxXeGZjMVpwYzIxM2RGRRAB"
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT214SVFVMHhibkpMZVd0VE5USTVMV2RWZG14QlJFRRAB"
   }, {
     "reviewer": {
-      "displayName": "Ana María Trepat"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-09T01:16:01.301854Z",
-    "updateTime": "2026-06-09T01:16:01.301854Z",
-    "reviewReply": {
-      "comment": "Gracias por su comentario los esperamos nuevamente ",
-      "updateTime": "2026-06-10T16:01:04.183729Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KWFVWWnBWbWhtVHpOaVdtTXlNblJ3V21FeE1HYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Bandresh"
+      "displayName": "MIGUEL ANGEL ABREGO"
     },
     "starRating": "THREE",
-    "comment": "Buena atencion desayuno normal limpieza mut buena en todo predio e instalaciones\n\n(Translated by Google)\nGood service, average breakfast, very good cleanliness throughout the property and facilities",
-    "createTime": "2021-10-05T19:33:13.392809Z",
-    "updateTime": "2026-06-08T18:42:07.335886Z",
+    "comment": "Muy sencilla y limpia buenos baños, el shop no acepta pagos con apps ypf\n\n(Translated by Google)\nVery simple and clean, good restrooms, the shop does not accept payments with YPF apps.",
+    "createTime": "2017-12-18T09:35:10.315Z",
+    "updateTime": "2026-07-28T14:32:04.311935Z",
     "reviewReply": {
-      "comment": "Gracias por evaluar su paso por la estacion ",
-      "updateTime": "2026-05-25T19:20:17.168169Z"
+      "comment": "Miguel en el shop se hace el 10% de descuento al socio del ACA,la app no es posible utilizarla ya que no es full. Los esperamos",
+      "updateTime": "2026-07-10T19:53:41.242148Z"
     },
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ2cGZidnBnRRAB"
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURRM3VMNDB3RRAB"
   }, {
     "reviewer": {
-      "displayName": "Fernando Barroso"
+      "displayName": "Rodolfo Caballero"
     },
-    "starRating": "TWO",
-    "comment": "Decadente\n\n(Translated by Google)\nDecadent",
-    "createTime": "2022-11-11T12:14:29.181114Z",
-    "updateTime": "2026-06-08T15:59:16.753557Z",
+    "starRating": "FOUR",
+    "comment": "Siempre paro en ACA Rio Tala\n\n(Translated by Google)\nI always stop at ACA Rio Tala",
+    "createTime": "2017-09-12T20:05:51.727Z",
+    "updateTime": "2026-07-26T21:34:03.270358Z",
     "reviewReply": {
-      "comment": ".",
-      "updateTime": "2026-02-25T10:26:54.146437Z"
+      "comment": "Gracias por su comentario ",
+      "updateTime": "2026-07-27T23:21:54.734493Z"
     },
-    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtdllXSEJREAE"
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNReGF2RklBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gaby"
+    },
+    "starRating": "FIVE",
+    "comment": "Paramos de Camino a Campana para ir al baño y csrgar los termos.\n\n(Translated by Google)\nWe stopped on the way to Campana to go to the bathroom and recharge the thermoses.",
+    "createTime": "2026-07-26T20:52:37.809708Z",
+    "updateTime": "2026-07-26T20:52:37.809708Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:22:04.821253Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OUVVWRXhZbFZ1VnpCM09HcGpMVWRKTTNGbFNsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Jose Juliano"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-07-24T14:03:34.071759Z",
+    "updateTime": "2026-07-24T14:03:34.071759Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:21:41.708368Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWU9HUmpkM1F5WW5OSmNIVllWeTAwTjNneFRHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y sobre todo los baños los mejores baños que conozco siempre impecable\n\n(Translated by Google)\nGreat service and above all the bathrooms, the best bathrooms I know, always spotless",
+    "createTime": "2020-11-23T05:10:39.772110Z",
+    "updateTime": "2026-07-23T22:09:40.421676Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:22:14.113207Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURpeUpUUnB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Pedro"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente muy limpio\n\n(Translated by Google)\nExcellent, very clean",
+    "createTime": "2026-07-23T18:55:39.426938Z",
+    "updateTime": "2026-07-23T18:55:39.426938Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:22:22.561863Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTmFVRlZNblZ5UjFsUFNrUnZOMTl3UkV4V2JtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "StreetViewStalker"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-02-01T03:17:02.004519Z",
+    "updateTime": "2026-07-18T14:27:44.167517Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:22:32.858264Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0Njh2V3B3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monalisa Rayada"
+    },
+    "starRating": "FIVE",
+    "comment": "Parada obligada en nuestros viajes a Córdoba, excelente café, panificacion y punto de venta de los alfajores estancia el rosario\n\n(Translated by Google)\nA must-stop on our trips to Córdoba, excellent coffee, bakery and point of sale for Estancia El Rosario alfajores",
+    "createTime": "2026-07-16T15:15:49.058900Z",
+    "updateTime": "2026-07-16T15:15:49.058900Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:22:42.277219Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkTWNVZG5jVWRCVGtwTlkzRnFUbk5SYVRrelkzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leopoldo Lopez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-14T16:26:25.301414Z",
+    "updateTime": "2026-07-14T16:26:25.301414Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:22:51.759198Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT200eVlWQTVVM1ZzV20wMFppMXBMVFpJYW1SbWVsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "FURIA SALVAJE"
+    },
+    "starRating": "FIVE",
+    "comment": "Impecable instalaciones\n\n(Translated by Google)\nImpeccable facilities",
+    "createTime": "2026-07-13T22:18:06.973Z",
+    "updateTime": "2026-07-13T22:18:06.973Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:23:02.389026Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xM1lXOUJaSEI1V25ORVFraE5NVU5SWDA1NlFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Romanello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-13T16:09:09.950343Z",
+    "updateTime": "2026-07-13T16:09:09.950343Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:23:09.487661Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SMmQyZ3RVVlp2Y2w5aGFHdE9PV2ROWjBZd1EzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Griffin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-12T22:34:31.028117Z",
+    "updateTime": "2026-07-12T22:34:31.028117Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:23:17.118589Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSTFJXcG5ORmRwUmxSaWRVVktSVFY2V21OWFMyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Caceres"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar buenísima atención\n\n(Translated by Google)\nExcellent place, great service.",
+    "createTime": "2026-07-12T20:15:18.729793Z",
+    "updateTime": "2026-07-12T20:15:18.729793Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos ",
+      "updateTime": "2026-07-27T23:23:26.514963Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT205R1VGbzJZamgyUldsVE5VWTBOWFZMZW01RWVrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Menzella"
+    },
+    "starRating": "ONE",
+    "comment": "Mal servicio. Siempre antipáticos.\n\n(Translated by Google)\nBad service. Always unfriendly.",
+    "createTime": "2026-07-11T02:44:25.711527Z",
+    "updateTime": "2026-07-11T02:44:25.711527Z",
+    "reviewReply": {
+      "comment": ". ",
+      "updateTime": "2026-07-27T23:23:32.966554Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGSmVGSkVTR2xZZVhaUllXdzJTRTR3TTFKc1YyYxAB"
   }]
 }

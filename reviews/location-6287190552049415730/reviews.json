@@ -1,6 +1,73 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Ricardo Cardozo"
+    },
+    "starRating": "FIVE",
+    "comment": "Un capo el playero\n\n(Translated by Google)\nThe beach guy\u0027s a boss",
+    "createTime": "2026-07-30T16:07:40.372111Z",
+    "updateTime": "2026-07-30T16:07:40.372111Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poNVUwSjJVRzB4TW01VVlUUk9aMGg0VkMxWmRtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Joaquín"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-07-30T03:40:21.057490Z",
+    "updateTime": "2026-07-30T03:40:21.057490Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ReldsVnhUR2t3V1RKb1dVTldTRGQzY3pGM1JuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Eduardo Rojas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-29T00:40:25.444552Z",
+    "updateTime": "2026-07-29T00:40:25.444552Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toQ1JVbFVTakpVTldWbFkwdE9VVkZFY1hRNFVsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Comeliesi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-26T20:59:58.395379Z",
+    "updateTime": "2026-07-26T20:59:58.395379Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4cGJIZzFNMmcxVGs1cVRtaGlNMWxmTjJkYVRWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Raul Beltra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-26T13:04:56.622142Z",
+    "updateTime": "2026-07-26T13:04:56.622142Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkTlFqYzVlR2hVWjJWR1VYSnBjbEZ6VjFGVFFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Fernández"
+    },
+    "starRating": "FIVE",
+    "comment": "Precios únicos y con descuento en horarios nocturnos. Buena atención. Se aceptan tarjetas y controlan gratis el aceite y agua.\n\n(Translated by Google)\nUnique prices and discounts during nighttime hours. Good service. Credit cards accepted and free oil and water checks.",
+    "createTime": "2026-07-15T13:29:37.625406Z",
+    "updateTime": "2026-07-21T17:45:07.724068Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kMFpreHFZMFZsWldWalVYUlpja042TUd4b1lYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Moschen"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-12T18:13:18.719194Z",
+    "updateTime": "2026-07-12T18:13:18.719194Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psNGFHRjJZM0Z5YlhsYVdIZExRalk1UzJKa2FGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo SH"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo bien el lugar solo que es complicado en hora pico por el tránsito\n\n(Translated by Google)\nThe place is great, it\u0027s just complicated during rush hour due to traffic.",
+    "createTime": "2026-07-04T14:47:03.018770Z",
+    "updateTime": "2026-07-04T14:47:03.018770Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT205RlNrcFlhemw2TUZGNmFXNUZhRVJETkdsWGRHYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Rodolfo Martín Lopez"
     },
     "starRating": "FIVE",
@@ -101,74 +168,5 @@
     "createTime": "2026-05-21T19:04:49.243781Z",
     "updateTime": "2026-05-21T19:04:49.243781Z",
     "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWUGNWOVpURE5HWm5OSU1tdFJlalo1Vm5GSmFIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jose Denis Arce"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena la atención de Carlos L.\n\n(Translated by Google)\nCarlos L. provided excellent service.",
-    "createTime": "2026-05-20T22:37:53.202062Z",
-    "updateTime": "2026-05-20T22:37:53.202062Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxeFREWkhPRmxJV0dOTlVYWnpNV2xOVVRWZk1YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Emanuel Ayala Horacio"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena la atención de Carlos Lopez\n\n(Translated by Google)\nCarlos Lopez provided excellent service.",
-    "createTime": "2026-05-20T18:41:32.987995Z",
-    "updateTime": "2026-05-20T18:41:32.987995Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kbmJEVnlXbWhoWDNweWVITmpSbWh1V2tSdWNFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo Niz"
-    },
-    "starRating": "FIVE",
-    "comment": "Me atendieron espectacular Maxi, Carlos y Ariel\n\n(Translated by Google)\nMaxi, Carlos and Ariel gave me spectacular service.",
-    "createTime": "2026-05-20T18:39:20.596134Z",
-    "updateTime": "2026-05-20T18:39:20.596134Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kc04zZEtiWEEzZEcxMU5GaEpSV2g1WkZwUk1tYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alelata Seriall"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena la atención de Carlos López 👌🏼\n\n(Translated by Google)\nCarlos López provided excellent service 👌🏼",
-    "createTime": "2026-05-20T18:18:59.369578Z",
-    "updateTime": "2026-05-20T18:18:59.369578Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRNVZERlFNVzlxWmxOMGJWZ3laa2RhWVhaSlduYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Armando Montejano"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-15T13:20:43.414464Z",
-    "updateTime": "2026-05-15T13:20:43.414464Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCRlRYaEdkRmR5UlRkR05EZFRkMGRGVFRBMVJHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Horacio Brun"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención muy amable verónica\n\n(Translated by Google)\nExcellent service, very kind Veronica",
-    "createTime": "2026-05-07T22:53:44.472059Z",
-    "updateTime": "2026-05-07T22:53:44.472059Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOcWRsUnZUM051ZEVsV1ExSkllV1IyZUc5R1JuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Javier Yfran"
-    },
-    "starRating": "FIVE",
-    "createTime": "2024-10-06T15:23:17.329122Z",
-    "updateTime": "2026-04-28T19:52:01.022194Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSURud2VIdF9nRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gustavo Papini"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-26T23:32:08.435694Z",
-    "updateTime": "2026-04-26T23:32:08.435694Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5UlgyNVBjVUUwYm5Ock5FVkJjMVI0VHpBM09FRRAB"
   }]
 }

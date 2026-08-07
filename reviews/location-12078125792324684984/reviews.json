@@ -1,6 +1,82 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Noelia Natalia Figueredo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-02T15:11:55.107019Z",
+    "updateTime": "2026-08-02T15:11:55.107019Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKYU9USTNjV0pEU25oT01WbFNRM3BNVUVaS2FVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "dariana colombo"
+    },
+    "starRating": "THREE",
+    "comment": "La nafta prende el check de la camioneta, la dos veces que pase.\n\n(Translated by Google)\nThe gasoline triggers the check engine light on the truck, both times I drive past it.",
+    "createTime": "2026-07-21T22:45:08.147540Z",
+    "updateTime": "2026-07-21T22:45:08.147540Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFMmFtbzBZbUpCVHpOZlIzcExORzVhWW5aaVlrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "cristiano leao Leao"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-15T18:16:14.255196Z",
+    "updateTime": "2026-07-15T18:16:14.255196Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoM1JWSjFZVFZGTjJwU2FsZFhNR1Y2YTB4VVRuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marbella"
+    },
+    "starRating": "ONE",
+    "comment": "Parada obligatoria para cargar combustible, pero las condiciones de esta estación de servicio son realmente lamentables. El predio está lleno de barro, con pozos enormes que dificultan tanto el ingreso como la circulación, especialmente en días de lluvia.\n\nResulta sorprendente el estado de abandono de un lugar que recibe tantos vehículos a diario. Una estación de servicio debería ofrecer, además de combustible, un entorno seguro, limpio y bien mantenido. Ojalá sus responsables inviertan en mejorar la infraestructura, porque en las condiciones actuales deja una muy mala impresión. Sobre todo por ser transitada por turistas. 😥😥😥\n\n(Translated by Google)\nA mandatory stop for fuel, but the conditions at this gas station are truly deplorable. The grounds are muddy, with enormous potholes that make both entry and driving difficult, especially on rainy days.\n\nThe state of neglect of a place that receives so many vehicles daily is astonishing. A gas station should offer, in addition to fuel, a safe, clean, and well-maintained environment. Hopefully, those responsible will invest in improving the infrastructure, because in its current state it leaves a very bad impression, especially given that it\u0027s frequented by tourists. 😥😥😥",
+    "createTime": "2026-07-13T22:53:14.210538Z",
+    "updateTime": "2026-07-13T22:53:14.210538Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGRmVuSjNZemxFVEV0aWRFSkRZMk5SZFMxb09VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Carlos Paravano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-06-03T19:08:20.037Z",
+    "updateTime": "2026-07-13T08:34:51.166113Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNROWVPUmRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Alejandro Frias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-11T19:16:16.009686Z",
+    "updateTime": "2026-07-11T19:16:16.009686Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKSVgzWnpVWE0yYjNJNFoyeFhRamxoWTFWaFpuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Montoya"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar\n\n(Translated by Google)\nExcellent place",
+    "createTime": "2026-07-09T22:26:46.251313Z",
+    "updateTime": "2026-07-09T22:26:46.251313Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sRGFYTkJVamxxZGxaaWFsbFVVRkZJT0hWQlduYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "silvina almiron"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los muchachos de garayalde,y la limpieza de los baños es maravillosa\n\n(Translated by Google)\nExcellent service from the guys at Garayalde, and the cleanliness of the bathrooms is wonderful.",
+    "createTime": "2026-07-08T20:25:47.162773Z",
+    "updateTime": "2026-07-08T20:25:47.162773Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsUlRuaExTMjlmY2xWdmJXcEZPSFpuZDB4SE1YYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Ascar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-06T10:49:14.157297Z",
+    "updateTime": "2026-07-06T10:49:14.157297Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT210bmJTMTBXRFJNUW5ndE1ESmxUVWRUTXpkNVRuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Facundo Fiocchetta"
     },
     "starRating": "FIVE",
@@ -95,82 +171,5 @@
     "createTime": "2026-05-28T00:14:09.209881Z",
     "updateTime": "2026-05-28T00:14:09.209881Z",
     "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKamJtVTNTVEJ4T0Zsd05GSnFWV3hMT1ZGTGRVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Karlos Kaly"
-    },
-    "starRating": "FOUR",
-    "comment": "Bien agil y un opcion con cafeteria\n\n(Translated by Google)\nVery efficient and an option with a cafeteria",
-    "createTime": "2026-05-26T09:17:02.073054Z",
-    "updateTime": "2026-05-26T09:17:02.073054Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5c2VuVTNRV3BmT1hoV1EzSnpUSGhWWkhRNVEyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Diego T"
-    },
-    "starRating": "FOUR",
-    "comment": "Es un aestacion de servio en el medio de la nada misma, reconfortante descansar comer dormir y seguir!\nEs un lugar inesperado pero necesario!\n\n(Translated by Google)\nIt\u0027s a service station in the middle of nowhere, a comforting place to rest, eat, sleep, and keep going!\n\nIt\u0027s an unexpected but necessary place!",
-    "createTime": "2026-05-24T23:50:51.547397Z",
-    "updateTime": "2026-05-24T23:50:51.547397Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKblJYSk5ha05xWVdsSVdGZElOUzEyWVZoR1JsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Tati Taborta"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-05-19T21:47:56.665998Z",
-    "updateTime": "2026-05-19T21:47:56.665998Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdGEyeE9MVFIwZEdsVGJqbEhVVGhrYmtOc00yYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Miguel Aguirre"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-19T14:56:26.265666Z",
-    "updateTime": "2026-05-19T14:56:26.265666Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGcVQwbGxha3MyUjFKR1puZHVOek55VEVwTE1tYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fábrica de colonia menonita"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-10T22:05:42.919439Z",
-    "updateTime": "2026-05-10T22:05:42.919439Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkUlJGcDFVRTVIY0hsdk0wZEpia3BNTFZwd2NtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ivan Gillig"
-    },
-    "starRating": "THREE",
-    "comment": "Para cargar nafta va bien, los precios en el negocio son carísimos... En la full una burguer doble clásica está 8500 con oferta, acá tienen la simple a 14mil (22 con papas y bebida). El sándwich de mila 22mil\n\n(Translated by Google)\nIt\u0027s good for filling up with gas, but the prices at the station are outrageous... At the full station, a classic double burger is 8500 with a special offer, here they have a single one for 14000 (22000 with fries and a drink). The breaded cutlet sandwich is 22000.",
-    "createTime": "2026-05-08T16:02:27.281243Z",
-    "updateTime": "2026-05-08T16:02:27.281243Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWRGFGWnhhbWRyU0dGWVNWRlpNbTFIZDJKdFNtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelino Pallone"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-07T19:44:35.612803Z",
-    "updateTime": "2026-05-07T19:44:35.612803Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GR2NFaGxRbEpJTkRocE1FUnRibWxOUVRCMmNYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Patricia Viviana Perez"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención de Juan Pablo ...excelente\n\n(Translated by Google)\nJuan Pablo provided excellent service.",
-    "createTime": "2026-05-06T12:56:21.146476Z",
-    "updateTime": "2026-05-06T12:56:21.146476Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKV05sVnhlWEZRTjJob1VuTXdhVEZOZW1FeFgyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Transporte Stella Auxilio,Grua, Remolque."
-    },
-    "starRating": "FIVE",
-    "comment": "La atencion de Juan Carlos y de un compañero que no se su nombre, es mas que excelente,un placer cada vez que paso por el aca una atencion al cliente muu destacable\n\n(Translated by Google)\nThe service from Juan Carlos and a colleague whose name I don\u0027t know is beyond excellent; it\u0027s a pleasure every time I stop by. Their customer service is truly outstanding.",
-    "createTime": "2026-05-04T18:59:36.887189Z",
-    "updateTime": "2026-05-04T18:59:36.887189Z",
-    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VlFYVmlWUzFVUWw5NlJsVTJkRGxuYXpGdlMxRRAB"
   }]
 }

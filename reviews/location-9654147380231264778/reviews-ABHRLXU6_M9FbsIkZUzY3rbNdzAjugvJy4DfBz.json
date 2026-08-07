@@ -1,0 +1,232 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Fabian Petruzzi"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-07-16T18:11:51.655325Z",
+    "updateTime": "2022-07-16T18:11:51.655325Z",
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPOS15N21BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Cerletti"
+    },
+    "starRating": "FIVE",
+    "comment": "Me siento muy bien atendida....muy buen full service\n\n(Translated by Google)\nI feel very well taken care of....very good full service",
+    "createTime": "2022-07-16T00:18:21.582549Z",
+    "updateTime": "2022-07-16T00:18:21.582549Z",
+    "reviewReply": {
+      "comment": "muchas gracias Mirta!",
+      "updateTime": "2022-08-03T14:21:07.318279Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPNThDYlJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Osvaldo Beccari"
+    },
+    "starRating": "FIVE",
+    "comment": "Es del ACA , muy buen servicio.\n\n(Translated by Google)\nIt\u0027s from the ACA, very good service.",
+    "createTime": "2022-07-15T20:38:57.459377Z",
+    "updateTime": "2022-07-15T20:38:57.459377Z",
+    "reviewReply": {
+      "comment": "muchas gracias Osvaldo!",
+      "updateTime": "2022-08-03T14:21:26.998156Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPcDRySEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "CARLOS GONZÁLEZ"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-13T17:29:33.516129Z",
+    "updateTime": "2022-07-13T17:29:33.516129Z",
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPODRDb2tnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anibal Chicco"
+    },
+    "starRating": "FIVE",
+    "comment": "Cálido, buen servicio!\n\n(Translated by Google)\nWarm, good service!",
+    "createTime": "2022-07-12T15:43:19.848253Z",
+    "updateTime": "2022-07-12T15:43:19.848253Z",
+    "reviewReply": {
+      "comment": "muchas gracias Anibal!",
+      "updateTime": "2022-08-03T14:22:15.825270Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZzVYWVN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Samoel Ibramovich"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente servicio\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-07-12T15:32:49.629943Z",
+    "updateTime": "2022-07-12T15:32:49.629943Z",
+    "reviewReply": {
+      "comment": "muchas gracias Samoel!",
+      "updateTime": "2022-08-03T14:22:39.184897Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZzVtYkN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Camino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-11T11:21:10.920280Z",
+    "updateTime": "2022-07-11T11:21:10.920280Z",
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPemV6MXR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "familia valenti"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente como siempre.\n\n(Translated by Google)\nExcellent as always.",
+    "createTime": "2022-07-11T02:52:40.087281Z",
+    "updateTime": "2022-07-11T02:52:40.087281Z",
+    "reviewReply": {
+      "comment": "muchas gracias!",
+      "updateTime": "2022-08-03T14:25:59.659573Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPOVpLLXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro GONZALEZ ZARZA"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-11T00:14:56.173012Z",
+    "updateTime": "2022-07-11T00:14:56.173012Z",
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPdGZPSEtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Osvaldo D\u0027Alessandro"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-07-10T03:13:31.070074Z",
+    "updateTime": "2022-07-10T03:13:31.070074Z",
+    "reviewReply": {
+      "comment": "muchas gracias Osvaldo!",
+      "updateTime": "2022-08-03T14:26:24.358532Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPeFoybXN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Notar"
+    },
+    "starRating": "FOUR",
+    "comment": "Amable atención.\n\n(Translated by Google)\nKind attention.",
+    "createTime": "2022-07-07T23:25:37.982045Z",
+    "updateTime": "2022-07-07T23:25:37.982045Z",
+    "reviewReply": {
+      "comment": "muchas gracias Rubén!",
+      "updateTime": "2022-08-03T14:26:58.714763Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPc1o3NjR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kelly Uribe"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-07T01:49:08.595085Z",
+    "updateTime": "2022-07-07T01:49:08.595085Z",
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPd1pYN3lnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susi M"
+    },
+    "starRating": "FOUR",
+    "comment": "Son muy atentos\n\n(Translated by Google)\nThey are very attentive",
+    "createTime": "2022-07-06T22:46:45.075120Z",
+    "updateTime": "2022-07-06T22:46:45.075120Z",
+    "reviewReply": {
+      "comment": "muchas gracias Susi!",
+      "updateTime": "2022-08-03T14:27:23.435916Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZ2QtYUhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "felix barañano"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.  Llevé un toallero x problemas de encendido y lo repararon en el momento y sin cargo. Habría recibido una sobrecarga de tensión q quemó la tecla. Son recomendables\n\n(Translated by Google)\nExcellent service. I took in a towel warmer with a problem turning it on, and they repaired it on the spot, free of charge. It must have received a power surge that burned out the switch. I highly recommend them.",
+    "createTime": "2022-07-06T02:37:55.463420Z",
+    "updateTime": "2022-07-06T02:37:55.463420Z",
+    "reviewReply": {
+      "comment": "Nos encontramos siempre a tu disposición. gracias por tu comentatios. Te esperamos nuevamente!",
+      "updateTime": "2022-08-08T17:30:20.819396Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPN3ZfOHhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "elizabeth villavicencio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-05T20:39:35.744694Z",
+    "updateTime": "2022-07-05T20:39:35.744694Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Elizabeth !!!",
+      "updateTime": "2022-08-04T14:47:07.129280Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPN3VDdGFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Carrizo"
+    },
+    "starRating": "ONE",
+    "comment": "Porque está sin arreglar el acceso para discapacitados cuando uno quiere realizar una pregunta en el ACÁ\n\n(Translated by Google)\nBecause the access for disabled people is not fixed when one wants to ask a question at the ACA",
+    "createTime": "2022-07-05T18:59:50.098486Z",
+    "updateTime": "2022-07-05T19:12:42.862151Z",
+    "reviewReply": {
+      "comment": "Lamentamos los inconvenientes ocasionados. Estamos trabajando para solucionarlo a la brevedad.",
+      "updateTime": "2022-08-03T15:02:18.448380Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPcm9XbDJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Fita"
+    },
+    "starRating": "FIVE",
+    "comment": "Quedó súper!\n\n(Translated by Google)\nIt turned out great!",
+    "createTime": "2022-07-05T18:35:33.136167Z",
+    "updateTime": "2022-07-05T18:35:33.136167Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Andres, te esperamos para que puedas probar todas nuestras instalaciones.",
+      "updateTime": "2022-08-08T17:42:40.790662Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSURPcnVHVjBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "HAROL PEREZ MANRRIQUE"
+    },
+    "starRating": "FIVE",
+    "comment": "M encanto y buena atencion\n\n(Translated by Google)\nMy charm and good service",
+    "createTime": "2022-07-03T21:14:07.818Z",
+    "updateTime": "2022-07-03T21:14:07.818Z",
+    "reviewReply": {
+      "comment": "Gracias por tu comentario!, te esperamos nuevamente",
+      "updateTime": "2022-08-08T17:43:42.518021Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPaHNuUkNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Titi Allan"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-02T17:48:05.551155Z",
+    "updateTime": "2022-07-02T17:48:05.551155Z",
+    "reviewReply": {
+      "comment": "Agradecemos tu valoracion. Te esperamos nuevamente",
+      "updateTime": "2022-08-08T17:44:19.578556Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPcXZfcFhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucio Scalzo"
+    },
+    "starRating": "FIVE",
+    "comment": "Atencion  excelente\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-06-30T15:58:10.784955Z",
+    "updateTime": "2022-06-30T15:58:10.784955Z",
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZ3BDQk53EAE"
+  }]
+}

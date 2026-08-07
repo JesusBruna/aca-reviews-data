@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "diego marino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-12T03:39:12.178029Z",
+    "updateTime": "2022-12-12T03:39:12.178029Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtdDZyUXBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "martin martin"
+    },
+    "starRating": "FOUR",
+    "comment": "Lugar limpio y cómodo\n\n(Translated by Google)\nClean and comfortable place",
+    "createTime": "2022-12-11T22:13:31.964384Z",
+    "updateTime": "2022-12-11T22:13:31.964384Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtMTlEWWRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel Claudia Colle"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!!\n\n(Translated by Google)\nExcellent service!!",
+    "createTime": "2022-12-11T20:16:11.950171Z",
+    "updateTime": "2022-12-11T20:16:11.950171Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtbC1Xcjl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Racero"
+    },
+    "starRating": "FIVE",
+    "comment": "Los mejores pastelitos de membrillo.\n\n(Translated by Google)\nThe best quince pastries.",
+    "createTime": "2022-12-11T15:30:23.771793Z",
+    "updateTime": "2022-12-11T15:30:23.771793Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNTY3cEJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-11T09:50:21.218129Z",
+    "updateTime": "2022-12-11T09:50:21.218129Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUQteC0tUnpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Duhagon"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-11T09:39:35.171493Z",
+    "updateTime": "2022-12-11T09:39:35.171493Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUQteDdlMnNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Reyes"
+    },
+    "starRating": "TWO",
+    "comment": "Buen lugar para realizar una parada pero precios elevados en ciertos productos y calidad baja por ejemplo en el sandwich de pollo y tomate, que deberia llamarse de mayonesa y tomate, porque el pollo nunca lo encontre\n\n(Translated by Google)\nGood place to stop, but high prices on certain products and low quality, for example, the chicken and tomato sandwich, which should be called mayonnaise and tomato, because I never found any chicken.",
+    "createTime": "2022-12-11T02:24:54.581867Z",
+    "updateTime": "2022-12-11T02:24:54.581867Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaDRIYmJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lida Cardozo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-12-11T01:43:02.394593Z",
+    "updateTime": "2022-12-11T01:43:02.394593Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtaDhiZUNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Dominguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-10T22:08:46.779138Z",
+    "updateTime": "2022-12-10T22:08:46.779138Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtLV8yRVRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Carlos Aguilar Malave"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-10T19:20:29.958934Z",
+    "updateTime": "2022-12-10T19:20:29.958934Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtLTVqQVFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Tito Coppola"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-12-09T19:21:37.832018Z",
+    "updateTime": "2022-12-09T19:21:37.832018Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcS1LbFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Stein"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-12-09T01:02:31.207284Z",
+    "updateTime": "2022-12-09T01:02:31.207284Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtczdyc0lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Ismael Gaetan"
+    },
+    "starRating": "FOUR",
+    "comment": "Precios caros, buena atención y el agua para el termo es grátis.\n\n(Translated by Google)\nExpensive prices, good service, and the water for the thermos is free.",
+    "createTime": "2022-12-08T23:41:08.481600Z",
+    "updateTime": "2022-12-08T23:41:08.481600Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcy1TNnNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Sabina Oliva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-08T13:16:19.274437Z",
+    "updateTime": "2022-12-08T13:16:19.274437Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtNDRPcURREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Blanco"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y servicio\n\n(Translated by Google)\nExcellent attention and service",
+    "createTime": "2022-12-08T02:17:08.096792Z",
+    "updateTime": "2022-12-08T02:17:08.096792Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtdzVtMjlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lore Gil"
+    },
+    "starRating": "FIVE",
+    "comment": "Espectacular\n\n(Translated by Google)\nSpectacular",
+    "createTime": "2022-12-08T02:13:23.872119Z",
+    "updateTime": "2022-12-08T02:13:23.872119Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtdzZuX0ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Salmaso"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-12-08T01:45:39.982894Z",
+    "updateTime": "2022-12-08T01:45:39.982894Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtdzRIU0p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marta Graciela Valdez"
+    },
+    "starRating": "FOUR",
+    "comment": "Sería mejor su hubiese más sombra para parar con el auto\n\n(Translated by Google)\nIt would be better if there was more shade to stop the car in.",
+    "createTime": "2022-12-07T21:15:11.294806Z",
+    "updateTime": "2022-12-07T21:15:11.294806Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtZy0yRl9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Podmoguilnye"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2022-12-07T14:08:50.855051Z",
+    "updateTime": "2022-12-07T14:08:50.855051Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtdmJQV2VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "graciela zurdo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar\n\n(Translated by Google)\nVery good place",
+    "createTime": "2022-12-06T13:15:10.771771Z",
+    "updateTime": "2022-12-06T13:15:10.771771Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtemJiRlhnEAE"
+  }]
+}

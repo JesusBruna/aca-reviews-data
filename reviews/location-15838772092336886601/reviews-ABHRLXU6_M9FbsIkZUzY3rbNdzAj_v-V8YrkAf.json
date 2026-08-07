@@ -1,0 +1,89 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Elia Herrera"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-11-22T22:12:35.648Z",
+    "updateTime": "2016-11-22T22:12:35.648Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnOTgzNURREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Audisio"
+    },
+    "starRating": "THREE",
+    "comment": "Tiene los servicios necesarios para una parada intermedias entre La Rioja y Córdoba\n\n(Translated by Google)\nIt has the necessary services for an intermediate stop between La Rioja and Córdoba",
+    "createTime": "2016-11-21T23:24:11.563Z",
+    "updateTime": "2016-11-21T23:41:15.269Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBdjhqMVpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Oliva"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2016-11-14T03:15:33.799Z",
+    "updateTime": "2016-11-14T03:15:49.983Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChdDSUhNMG9nS0VJQ0FnSUNndWNLVGtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Araoz"
+    },
+    "starRating": "ONE",
+    "comment": "La demora en la estación , estaba solo en la playa de carga y el playero tomando.mate adentro me.hizo esperar más.de.20 minutos para atenderme\n\n(Translated by Google)\nThe delay at the station, I was alone in the loading area and the attendant drinking mate inside made me wait more than 20 minutes to serve me",
+    "createTime": "2016-08-09T17:47:50.832Z",
+    "updateTime": "2016-08-09T17:50:33.938Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMFphZTJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Estevão Oliveira"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-05-30T03:08:24.018Z",
+    "updateTime": "2016-05-30T03:08:25.726Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChZDSUhNMG9nS0VJQ0FnSURBM3VPWUNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "danielbenedetti1812"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-04-12T14:17:10.984Z",
+    "updateTime": "2016-04-12T14:17:10.984Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnMmFUcTlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Bravo"
+    },
+    "starRating": "FIVE",
+    "comment": "Ubicación estratégica cuando uno viaja al norte.\nLos baños y todos los servicios de primera\n\n(Translated by Google)\nStrategically located for those traveling north.\nThe restrooms and all amenities are top-notch.",
+    "createTime": "2016-01-16T15:49:21.624Z",
+    "updateTime": "2016-01-16T15:50:28.835Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBLUxIc0R3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge M. Noya"
+    },
+    "starRating": "FOUR",
+    "comment": "Café renovador. Baños limpios. Muy buena atención.!\n\n(Translated by Google)\nRefreshing coffee. Clean restrooms. Excellent service!",
+    "createTime": "2015-12-19T19:15:24.355Z",
+    "updateTime": "2015-12-19T19:16:13.890Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChdDSUhNMG9nS0VJQ0FnSURBLUxpR3RBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Morales"
+    },
+    "starRating": "FOUR",
+    "createTime": "2015-11-14T15:03:04.578Z",
+    "updateTime": "2015-11-14T15:03:04.578Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBOUxtSnd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fredy Fre BOCA"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion y  la mejor higiene en sus instalaciones.\n\n(Translated by Google)\nExcellent service and the best hygiene in their facilities.",
+    "createTime": "2015-02-05T09:04:19.274Z",
+    "updateTime": "2015-02-05T09:04:19.274Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3dS15eFlREAE"
+  }]
+}

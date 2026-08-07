@@ -1,0 +1,28 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Daniel Araujo de Andrade"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-07-26T19:30:40.496Z",
+    "updateTime": "2016-07-26T19:30:40.496Z",
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3X2JDSFpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Mendez"
+    },
+    "starRating": "THREE",
+    "comment": "Parada indispensable, pues no hay otra alternativa en 200 km\n\n(Translated by Google)\nAn essential stop, as there is no other alternative for 200 km",
+    "createTime": "2016-07-20T13:20:00.532Z",
+    "updateTime": "2016-07-20T13:20:00.532Z",
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/ChdDSUhNMG9nS0VJQ0FnSURBZ2JLYnRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "DARIO MINNOZZI"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-05-31T13:48:05.255Z",
+    "updateTime": "2016-05-31T13:48:05.255Z",
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/ChdDSUhNMG9nS0VJQ0FnSUNna2ZqY2tBRRAB"
+  }]
+}

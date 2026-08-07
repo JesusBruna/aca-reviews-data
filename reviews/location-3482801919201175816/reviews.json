@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Gonzalo Tortosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Cómoda, bien ubicada y con muy buen servicio\n\n(Translated by Google)\nComfortable, well located and with very good service",
+    "createTime": "2026-07-22T14:35:10.183293Z",
+    "updateTime": "2026-07-22T14:35:10.183293Z",
+    "name": "accounts/109853746269412609224/locations/3482801919201175816/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKUlVITnVOVkpvWTJWR1FqTXpUVWxtWjBVd01tYxAB"
+  }, {
+    "reviewer": {
       "displayName": "N"
     },
     "starRating": "FIVE",
@@ -227,18 +236,5 @@
       "updateTime": "2026-03-20T15:37:09.449775Z"
     },
     "name": "accounts/109853746269412609224/locations/3482801919201175816/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CSmN6bFVkWFpWVDAxWVJ6UnBlVWhuYUdWV2IwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Cuando podemos Viajamos!! Y algo más"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención!! Pasamos a cargar nafta durante la madrugada viajábamos en ruta e ingresamos a la ciudad y el playero fue muy amable con nosotros.\nAccesible el ingreso a la estación y muy bien iluminada\n\n(Translated by Google)\nExcellent service! We stopped to fill up in the early morning hours while traveling on the highway and entering the city, and the attendant was very friendly. The station entrance is easy to access and very well lit.",
-    "createTime": "2026-02-24T18:30:40.360552Z",
-    "updateTime": "2026-02-24T18:30:40.360552Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por visitarnos y dejarnos tu experiencia en la visita. Esperamos que vuelvan pronto. Saludos!! ",
-      "updateTime": "2026-03-20T15:19:14.946832Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3482801919201175816/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSRmVtVkpZMnBXYm5oVllrdFVNVFJIU0MxSlNHYxAB"
   }]
 }

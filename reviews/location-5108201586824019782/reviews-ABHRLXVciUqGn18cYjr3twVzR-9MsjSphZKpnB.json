@@ -1,0 +1,225 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Alejandro Daniel"
+    },
+    "starRating": "ONE",
+    "comment": "Precios del Buffet desorbitados. Carísimo.\n\n(Translated by Google)\nBuffet prices are outrageous. Extremely expensive.",
+    "createTime": "2021-12-28T13:23:05.411520Z",
+    "updateTime": "2021-12-28T13:23:05.411520Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtOXZfWkNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carly V."
+    },
+    "starRating": "THREE",
+    "createTime": "2021-12-27T21:44:26.330679Z",
+    "updateTime": "2021-12-27T21:44:26.330679Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtMXFLMEh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Golf"
+    },
+    "starRating": "FOUR",
+    "comment": "Está ubicada en un lugar muy bello. Le falta modernizarse un poco.\n\n(Translated by Google)\nIt\u0027s located in a very beautiful place. It needs a bit of modernization.",
+    "createTime": "2021-12-27T10:24:25.577838Z",
+    "updateTime": "2021-12-27T10:32:25.377795Z",
+    "reviewReply": {
+      "comment": "Fernando, hemos logrado contar con Internet para agilizar los medios de pago incorporando la app YPF. Por lo demás, la estacion es de 1940 y no estamos muy convrncidos de modernizarla, el entorno no admitiría un adefezio de plástico y metal. Hay que disfrutarla como es.",
+      "updateTime": "2022-01-18T22:17:22.198421Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtcHZPTnNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dionisio Gadano"
+    },
+    "starRating": "TWO",
+    "comment": "Baños sucios y meados\n\n(Translated by Google)\nDirty and urine-covered bathrooms",
+    "createTime": "2021-12-26T16:10:12.064231Z",
+    "updateTime": "2021-12-26T16:10:12.064231Z",
+    "reviewReply": {
+      "comment": "Dionisio, nos esforzamos para mantener los baños limpios y pata que las personas orinen en los orificios adecuados para tal necesidad, pero no hay caso...",
+      "updateTime": "2022-01-18T22:19:56.394700Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtaHV5N2l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Micaela B"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-23T17:05:02.086080Z",
+    "updateTime": "2021-12-23T17:05:02.086080Z",
+    "reviewReply": {
+      "comment": "Gracias Micaela !",
+      "updateTime": "2022-01-18T22:33:23.252760Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtc3BxNnh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrián Sorrentino"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente, impecable y muy bien atendido!!!\n\n(Translated by Google)\nExcellent, impeccable, and very well attended to!!!",
+    "createTime": "2021-12-21T19:55:36.010526Z",
+    "updateTime": "2021-12-21T19:55:36.010526Z",
+    "reviewReply": {
+      "comment": "Gracias Adrián !",
+      "updateTime": "2022-01-18T22:34:01.576400Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtdktHal9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ethel Loscalzo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena onda. Limpio y tienen proveeduría\n\n(Translated by Google)\nGood vibes. Clean and they have a supply store.",
+    "createTime": "2021-12-18T14:33:01.039799Z",
+    "updateTime": "2021-12-18T14:33:02.610937Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtaEl1d1N3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Osvaldo Banegas"
+    },
+    "starRating": "FIVE",
+    "comment": "Está estacion de servicio está ubicada en el lugar justo para hacer ese hermoso recorrido...\n\n(Translated by Google)\nThis gas station is located in the perfect spot for that beautiful drive...",
+    "createTime": "2021-12-17T23:59:48.534774Z",
+    "updateTime": "2021-12-17T23:59:48.534774Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdVA2TEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian A Blanco"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-16T12:29:57.564937Z",
+    "updateTime": "2021-12-16T12:29:57.564937Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtOE8taEhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Gastón Funes"
+    },
+    "starRating": "THREE",
+    "comment": "No está abierto el drugstore, está media dejada la estación en general. Pero por lo menos siguen vendiendo nafta a pesar de los incidentes.\n\n(Translated by Google)\nThe drugstore isn\u0027t open, and the station is generally run down. But at least they\u0027re still selling gas despite the incidents.",
+    "createTime": "2021-12-15T09:38:14.201034Z",
+    "updateTime": "2021-12-15T09:38:14.201034Z",
+    "reviewReply": {
+      "comment": "Gracias Pablo. Efectivamente seguimos vendiendo combustibles de la mejor calidad, abrimos la tienda y un espacio al aire libre, nos bancamos los incidentes y contentos de continuar con esta estación que data de 1940, es decir no está dejada, tiene una vejez digna y hoy es un simbolo del ACA como pionero de las rutas argentinas. Gracias por tu comentario.",
+      "updateTime": "2022-01-18T22:40:03.925587Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtb0xmWW1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Varela"
+    },
+    "starRating": "FIVE",
+    "comment": "Me hizo recordar las estaciones de gasolinera de las películas. Muy buena atención\n\n(Translated by Google)\nIt reminded me of gas stations in movies. Excellent service.",
+    "createTime": "2021-12-13T04:55:09.579576Z",
+    "updateTime": "2021-12-13T04:55:09.579576Z",
+    "reviewReply": {
+      "comment": "Gracias Alejandra. Si pasás en verano me verás hablando solo como Jack Nicholson en esa película que se compraba la gasolinera frente a un lago.",
+      "updateTime": "2022-01-18T22:42:29.970027Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURHajVPQlZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Lucero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente! En un lugar que solo el ACA puede estar.\n\n(Translated by Google)\nExcellent! In a place that only the ACA can be.",
+    "createTime": "2021-12-13T02:26:45.187020Z",
+    "updateTime": "2021-12-13T02:26:46.709834Z",
+    "reviewReply": {
+      "comment": "Gracias Sebastián. Vos sabés !",
+      "updateTime": "2022-01-18T22:43:48.039051Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURHal9hS3dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Di Marco"
+    },
+    "starRating": "ONE",
+    "comment": "No atiende nadie...el playero haciendo un pozo..ni pelota t dan\n\n(Translated by Google)\nNobody answers...the beach attendant is digging a hole...they don\u0027t even pay attention to you",
+    "createTime": "2021-12-12T19:07:22.180860Z",
+    "updateTime": "2021-12-12T19:07:22.180860Z",
+    "reviewReply": {
+      "comment": "Ehhh Gustavo ! Cómo no te van a dar pelota ! El playero estaría enterrando algo y además es medio sordo pero si se hubiera percatado de tu presencia, claramente te hubiera atendido, si es que no lo hizo en su momento. Mil perdones por la mala experiencia.",
+      "updateTime": "2022-01-18T22:48:00.132260Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURHOTdLSElnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Banegas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-10T22:45:26.727644Z",
+    "updateTime": "2021-12-10T22:45:26.727644Z",
+    "reviewReply": {
+      "comment": "Gracias Santiago !",
+      "updateTime": "2022-01-18T22:48:32.546874Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURHLThiZVZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Sperandini"
+    },
+    "starRating": "FIVE",
+    "comment": "Servicios básicos y correctos. Pero que buena ubicación!!\n\n(Translated by Google)\nBasic and adequate services. What a great location!",
+    "createTime": "2021-12-10T11:34:11.585154Z",
+    "updateTime": "2021-12-10T11:34:11.585154Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURHMjRqMG1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anibal Lavagnino"
+    },
+    "starRating": "ONE",
+    "createTime": "2021-12-08T22:27:06.801677Z",
+    "updateTime": "2021-12-08T22:27:06.801677Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURHczdha0hBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Almada"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-06T10:48:54.612269Z",
+    "updateTime": "2021-12-06T10:48:54.612269Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURHcmQyd0t3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "german alberto ochoa tejeda"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy atentos\n\n(Translated by Google)\nVery attentive",
+    "createTime": "2021-12-03T22:18:33.603628Z",
+    "updateTime": "2021-12-03T22:18:33.603628Z",
+    "reviewReply": {
+      "comment": "Gracias German !",
+      "updateTime": "2022-01-18T22:49:07.386222Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURHaGFfTmJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Di Castelnuovo"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor ypf con la mejor vista\n\n(Translated by Google)\nThe best YPF with the best view",
+    "createTime": "2021-12-02T18:00:53.541559Z",
+    "updateTime": "2021-12-02T18:00:53.541559Z",
+    "reviewReply": {
+      "comment": "Gracias Javier !",
+      "updateTime": "2022-01-18T22:49:43.937312Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURHbWZqNUZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "marcos barroca"
+    },
+    "starRating": "THREE",
+    "comment": "Es más lindo el entorno que la estación. Solo combustible. Estaría bueno que el ACA se ocupe de la estación y le de bola. Quizá no lo hacen por las razones que todos conocemos.\n\n(Translated by Google)\nThe surroundings are nicer than the station itself. It\u0027s just fuel. It would be great if the ACA (Automobile Club of Argentina) took responsibility for the station and paid attention to it. Perhaps they don\u0027t for the reasons we all know.",
+    "createTime": "2021-11-30T16:07:29.886301Z",
+    "updateTime": "2021-11-30T16:07:31.335880Z",
+    "reviewReply": {
+      "comment": "Hola Marcos. Al contrario, justamente por esas razones, ampliamos la cantidad de personal, el horario de atención, incorporamos wifi,  pago electrónico y la tienda brinda du servicio. Te esperamos de nuevo.",
+      "updateTime": "2022-01-18T22:52:44.080394Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURHNGZUeWN3EAE"
+  }]
+}

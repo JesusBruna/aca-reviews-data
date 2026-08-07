@@ -1,11 +1,109 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Gustavo"
+    },
+    "starRating": "FIVE",
+    "comment": "Linda estación de servicio. Muy buena atención del playero nocturno, cordial y atento. Lugar limpio y tranquilo.\n\n(Translated by Google)\nNice gas station. Excellent service from the night attendant, friendly and attentive. Clean and quiet place.",
+    "createTime": "2026-07-30T18:59:47.132283Z",
+    "updateTime": "2026-07-30T18:59:47.132283Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GV1VGODJObU5xT0ZCSlQySnJNR1J6UTNwM2MxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Erika Haustein"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-29T15:02:52.627683Z",
+    "updateTime": "2026-07-29T15:02:52.627683Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWTGNIaHVXRFU1TjJSelRFNVRXVmhMY21VdGRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariana Oliveira"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-29T11:16:18.776223Z",
+    "updateTime": "2026-07-29T11:16:18.776223Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tadlptTmljRUpxT0VveFozSkpjM2hNV0U1S2VGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hugo fabio"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, muy amable y atentos. Tienen una gran variedad de sándwich y otras opciones de comida.\nLos baños impecables.\n\n(Translated by Google)\nExcellent service, very friendly and attentive. They have a great variety of sandwiches and other food options.\nThe restrooms are spotless.",
+    "createTime": "2026-07-28T15:33:35.093201Z",
+    "updateTime": "2026-07-28T15:33:35.093201Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FeU9IbzJPRk41Y1RWa2JVeDRhV3MyYTA1eFIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pili Lanzillotto"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio! Las chicas del kiosko unas genias❤️\n\n(Translated by Google)\nExcellent service! The girls at the kiosk are amazing ❤️",
+    "createTime": "2026-07-24T17:23:13.863947Z",
+    "updateTime": "2026-07-24T17:23:13.863947Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJNE9WZHZRMngxWkZaaFkwTlVVRVJ2V1hOMlgwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "s s"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo impecable! Lo recomiendo\n\n(Translated by Google)\nEverything was perfect! I highly recommend it.",
+    "createTime": "2026-07-24T16:19:51.931602Z",
+    "updateTime": "2026-07-24T16:19:51.931602Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCSFpWcFRjV3hRTVZORFpFUkNVRzA0V2tjNVJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Lombardi"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy linda estación, excelente atención del personal.  Café riquísimo.\n\n(Translated by Google)\nVery nice station, excellent staff service. Delicious coffee.",
+    "createTime": "2026-07-24T03:36:49.519021Z",
+    "updateTime": "2026-07-24T03:36:49.519021Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0eVVVTjRWbWwyTUVRM1IzQmFZVkUzTVUxbldXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Zuqueli"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-16T23:30:15.525716Z",
+    "updateTime": "2026-07-16T23:30:15.525716Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSd1pFTXdTVk0zWTNGdFVFWXpYMEYxWDBJM1ZrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo daniel Giovenali"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo en combustibles, lubricantes y exelente atención y tienda full shoop\n\n(Translated by Google)\nEverything in fuels, lubricants, and excellent service and a full shop.",
+    "createTime": "2022-06-04T10:08:41.768301Z",
+    "updateTime": "2026-07-12T02:56:36.458699Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario, nos pone muy contentos, esperamos verte pronto!",
+      "updateTime": "2026-01-08T13:55:42.277082Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPM0lqTTJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agus D"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-06-25T12:34:15.195217Z",
+    "updateTime": "2026-07-03T11:59:20.622751Z",
+    "reviewReply": {
+      "comment": "¡Hola, Agus! Muchas gracias por tu puntuación. Trabajamos día a día para brindarte el mejor servicio y llegar a las 5 estrellas en tu próxima visita.",
+      "updateTime": "2026-07-06T12:40:28.965390Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1dmRGaDFjRWhTUWpGZllYWXRSMjFsUlRCVmFuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Gaston Millicay"
     },
     "starRating": "FIVE",
     "createTime": "2026-06-29T04:16:02.784409Z",
     "updateTime": "2026-06-29T04:16:02.784409Z",
+    "reviewReply": {
+      "comment": "¡Hola, Gastón! Muchísimas gracias por tu confianza y tu calificación. Es un placer recibirte siempre en nuestra estacion!",
+      "updateTime": "2026-07-06T12:41:25.142653Z"
+    },
     "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rMlkyOUtPVWR4ZVRKNlRIZzRaMDlNZFRZNWFVRRAB"
   }, {
     "reviewer": {
@@ -14,28 +112,11 @@
     "starRating": "FIVE",
     "createTime": "2026-06-28T22:06:28.264933Z",
     "updateTime": "2026-06-28T22:06:28.264933Z",
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taVmJUQm1kVWM0U1Vab1VqWmZNbFF4T0ZNNVNGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Agus D"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-06-25T12:34:15.195217Z",
-    "updateTime": "2026-06-25T12:34:15.195217Z",
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1dmRGaDFjRWhTUWpGZllYWXRSMjFsUlRCVmFuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Hugo daniel Giovenali"
-    },
-    "starRating": "FOUR",
-    "comment": "Todo en combustibles y lubricantes y en la tienda full\n\n(Translated by Google)\nEverything in fuels and lubricants and in the full store",
-    "createTime": "2022-06-04T10:08:41.768301Z",
-    "updateTime": "2026-06-02T02:06:29.198724Z",
     "reviewReply": {
-      "comment": "Gracias por su comentario, nos pone muy contentos, esperamos verte pronto!",
-      "updateTime": "2026-01-08T13:55:42.277082Z"
+      "comment": "¡Alcides! Muchas gracias por tu puntuación. Te esperamos en tu próxima parada para seguir acompañándote.",
+      "updateTime": "2026-07-06T12:42:41.302460Z"
     },
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPM0lqTTJnRRAB"
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taVmJUQm1kVWM0U1Vab1VqWmZNbFF4T0ZNNVNGRRAB"
   }, {
     "reviewer": {
       "displayName": "Claudio arias"
@@ -124,102 +205,5 @@
       "updateTime": "2026-05-16T13:51:17.221663Z"
     },
     "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VMFoyRlRkemRaYVdzNVFWTXljbFp2WnpaYVZYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Andrea"
-    },
-    "starRating": "FOUR",
-    "comment": "Buenas tardes! Me podrían decir si puedo armar carpa para pasar la noche?\n\n(Translated by Google)\nGood afternoon! Could you tell me if I can set up a tent to spend the night?",
-    "createTime": "2026-04-17T20:41:51.726261Z",
-    "updateTime": "2026-04-17T20:41:51.726261Z",
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FMVpIQmxTV2xWY1dsclZHNHhZMGx3WHpsdU5IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Bocko"
-    },
-    "starRating": "FIVE",
-    "comment": "Gracias a Google maps lo encontré, está muy cerquita de la ruta 34, de fácil acceso y una opción más para recargar combustible\n\n(Translated by Google)\nThanks to Google Maps I found it; it\u0027s very close to Route 34, easily accessible, and another option for refueling.",
-    "createTime": "2026-04-10T12:15:52.057630Z",
-    "updateTime": "2026-04-10T13:16:59.385458Z",
-    "reviewReply": {
-      "comment": "¡Qué bueno que te sirvió la ubicación! Trabajamos para ser una parada  cómoda y accesible sobre la Ruta 34. Nos pone contentos que nos hayas elegido para recargar energías y seguir viaje. ¡Te esperamos de vuelta pronto!",
-      "updateTime": "2026-04-10T13:50:21.350667Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xabFRrdGhMVmMwWVhKRWJFRmFlazkxYUc1R1NXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "diego haberkorn"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-04-01T19:28:15.224851Z",
-    "updateTime": "2026-04-01T19:28:15.224851Z",
-    "reviewReply": {
-      "comment": "¡Hola! Gracias por puntuarnos. Nos gustaría saber qué nos faltó para que tu experiencia fuera excelente y así poder mejorar. Saludos!",
-      "updateTime": "2026-04-10T13:51:43.208950Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxVU1HVkpNSEkyVlVoMlgyWm1hMFJsY1ZsQkxXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mariela Galeano"
-    },
-    "starRating": "FIVE",
-    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
-    "createTime": "2026-03-20T20:46:27.352603Z",
-    "updateTime": "2026-03-20T20:46:27.352603Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por elegirnos y por tu calificación! Nos pone muy contentos saber que quedaste conforme con el servicio. ¡Te esperamos de nuevo en tu próximo viaje para seguir dándote la mejor atención!",
-      "updateTime": "2026-04-10T13:52:59.698376Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sRVZERkhNVGhEVjIwd1UzUTFZVGxhV1VGVmRWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Manuel Jose Peralta"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-03-17T23:26:24.196544Z",
-    "updateTime": "2026-03-17T23:26:24.196544Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu comentario! Nos alegra mucho saber que recibiste una buena atención, es nuestra prioridad que te sientas cómodo cada vez que nos visitás.",
-      "updateTime": "2026-04-10T13:53:40.332025Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poZlNtbzBRVGsxT1VOM0xXMHdTa3hEYzBSNVdHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "pablo villarreal"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-08T01:43:20.419723Z",
-    "updateTime": "2026-03-08T01:43:20.419723Z",
-    "reviewReply": {
-      "comment": " ¡Qué bueno que nos hayas elegido! Gracias por tu calificación, trabajamos todos los días para darles lo mejor. ¡Nos vemos pronto para otro café! ☕😊",
-      "updateTime": "2026-03-10T20:31:53.697524Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKeVEyWk5PVzVsWDFsaVVuVkpZWFV4T0hOdFRtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Agustina Ruth"
-    },
-    "starRating": "FIVE",
-    "comment": "No tiene Gnc, pero se ve muy linda la estación\n\n(Translated by Google)\nIt doesn\u0027t have CNG, but the station looks very nice.",
-    "createTime": "2026-03-01T13:19:44.773634Z",
-    "updateTime": "2026-03-01T13:19:44.773634Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por decir que la estación se ve linda! Nos esforzamos mucho por mantenerla impecable para ustedes. Sobre el GNC, te cuento que lamentablemente no hay disponibilidad en toda esta zona y al rededores por falta de infraestructura (el más cercano está a 250 km), ¡es un dato clave para los viajeros! Ojalá vuelvas a visitarnos pronto para descansar un rato del camino. ¡Saludos!",
-      "updateTime": "2026-04-10T13:59:22.110623Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CcGRsODBXVzVTWkhoQ1NIaDBNVEJFTVhKSWRuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Flor Loker"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-02-27T17:24:03.870368Z",
-    "updateTime": "2026-02-27T17:24:03.870368Z",
-    "reviewReply": {
-      "comment": " ¡Muchísimas gracias por el apoyo! Valoramos mucho que te hayas tomado el tiempo de puntuarnos. ¡Que tengas un excelente día! 🙌⛽",
-      "updateTime": "2026-03-10T20:32:23.150593Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taVmFuSnNWa3N3TUc1NUxVazBWRWMwTWtWSU5rRRAB"
   }]
 }

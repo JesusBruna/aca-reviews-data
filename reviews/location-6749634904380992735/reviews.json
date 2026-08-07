@@ -1,6 +1,31 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Jorge GAZZERA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-18T01:24:35.106220Z",
+    "updateTime": "2026-07-18T01:24:35.106220Z",
+    "reviewReply": {
+      "comment": "Hola Jorge muchas gracias por tu calificación, te esperamos como siempre para seguir mejorando día a día\nSaludos cordiales",
+      "updateTime": "2026-07-20T13:54:21.703424Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCMlNWTkVUWHAzUVRKNlV6TmhkMGxOVkhoaWVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Denis G. Almanza Rojas"
+    },
+    "starRating": "ONE",
+    "comment": "Nunca tiene internet o sistema para pagar con qr o tarjeta.\nSolo piden que pagues en efectivo. Y ni te dan ticket.\n\n(Translated by Google)\nThey never have internet access or a system for paying with a QR code or card. They only accept cash. And they don\u0027t even give you a receipt.",
+    "createTime": "2026-07-04T13:39:10.181016Z",
+    "updateTime": "2026-07-04T13:39:10.181016Z",
+    "reviewReply": {
+      "comment": "Hola Denis, lamentamos este caso puntual con tu carga, estamos resolviendo los problemas de conexión para mejorar las modalidades de pago, los tickets se encuentran a disposición, pero como responsable de la estación, haré hincapié en tu observación y esperamos tenerte pronto con nosotros nuevamente.\nSaludos cordiales\n",
+      "updateTime": "2026-07-04T17:16:22.389682Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZNVNtdFVVazl2UzFkQ1Nub3RielpVYXpob1JYYxAB"
+  }, {
+    "reviewer": {
       "displayName": "pablo bareiro"
     },
     "starRating": "FIVE",
@@ -185,23 +210,5 @@
     "createTime": "2026-02-01T12:53:27.535917Z",
     "updateTime": "2026-02-01T12:53:27.535917Z",
     "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WR2JURlBTV041U2xwRlRrUmFUMmcxY21aQldFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gaston Rodriguez"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención,muy educados y atentos los playeros.💪\n\n(Translated by Google)\nExcellent service, the beach staff were very polite and attentive. 💪",
-    "createTime": "2026-01-30T14:29:19.355920Z",
-    "updateTime": "2026-01-30T14:29:19.355920Z",
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WUmNrcDVkMDFSVm14aldtRXpRbEpNZDNGT1JFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Ines Cejas"
-    },
-    "starRating": "FIVE",
-    "comment": "Hola estoy feliz de cargar nafta recargo el mejor muy bien atendida\n\n(Translated by Google)\nHi, I\u0027m happy to fill up with gas. It\u0027s the best, very well served.",
-    "createTime": "2026-01-30T13:35:01.607537Z",
-    "updateTime": "2026-01-30T13:35:01.607537Z",
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taaGIxTnJVVkJyTUVoZlMxTllXRUpYWjFwTmFYYxAB"
   }]
 }

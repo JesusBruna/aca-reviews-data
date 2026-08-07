@@ -1,6 +1,78 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Veronica Castoldi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-30T19:45:53.484074Z",
+    "updateTime": "2026-07-30T19:45:53.484074Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZNGNVVkhNbmM1WlVRM1RTMDBWVkpIZEZkMU9VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Esteban"
+    },
+    "starRating": "FIVE",
+    "comment": "Atenncion las 24 horas con café bar, atención en Boxex\n\n(Translated by Google)\n24-hour service with coffee bar, service at Boxex",
+    "createTime": "2026-07-30T08:30:55.600699Z",
+    "updateTime": "2026-07-30T08:30:55.600699Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu reseña Hugo ! ",
+      "updateTime": "2026-07-30T12:15:02.605284Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psaVVYTjFUVVZGTTNaS2VUWm9WV3hETmtkSVpWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Bistacco"
+    },
+    "starRating": "TWO",
+    "comment": "Pésima atención en tienda Full\n\n(Translated by Google)\nTerrible service at Full store",
+    "createTime": "2026-07-24T18:48:19.419935Z",
+    "updateTime": "2026-07-24T18:48:19.419935Z",
+    "reviewReply": {
+      "comment": "Pablo como estas? lamentamos tu experiencia y te invitamos a contactarnos por privado para mas detalle de lo sucedido. ",
+      "updateTime": "2026-07-24T22:08:09.831905Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSV2VISkJTbmxvWmtzelJHeEVjWFExUmtoRk5VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Federico Rosso"
+    },
+    "starRating": "THREE",
+    "comment": "Sin minimercado\n\n(Translated by Google)\nWithout a minimarket",
+    "createTime": "2026-07-13T20:43:19.548333Z",
+    "updateTime": "2026-07-13T20:43:19.548333Z",
+    "reviewReply": {
+      "comment": "Hola Gustavo! Estamos en remodelacion. Esta semana volvemos a abrir con una imagen totalmente renovada y que les va a encantar. Te esperamos. ",
+      "updateTime": "2026-07-13T20:57:42.111989Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKaGJIZEZRM05VVDB0bWNtZDNkQzFoYkU1dGFsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrés Albrecht"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, muy ejecutiva, muy buena disposición, actitud y aptitud.\n\n(Translated by Google)\nExcellent service, very efficient, very good disposition, attitude and aptitude.",
+    "createTime": "2026-07-06T19:28:00.859768Z",
+    "updateTime": "2026-07-06T19:28:00.859768Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Andres! 🤝",
+      "updateTime": "2026-07-06T19:38:41.514722Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tONlZrbHZNbmhVWDFZd05EaFdNVGhSUzFCc1NGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustín González"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-05T20:57:29.792416Z",
+    "updateTime": "2026-07-05T20:57:29.792416Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu reseña Agu! ",
+      "updateTime": "2026-07-05T21:14:51.436180Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT25odlVFUmpSbkJzWHkxNFdHbDRiV2hSVG1zMVZYYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Hugo Raúl Poggi"
     },
     "starRating": "FIVE",
@@ -174,83 +246,5 @@
       "updateTime": "2026-04-19T17:59:40.914596Z"
     },
     "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSS1VrbFllR3h2ZFd4VmJsSmhXRGN3V2pSTGRXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "bdjd bdjdjdkdi"
-    },
-    "starRating": "ONE",
-    "comment": "Uno de los trabajadores (Cristian) se propasaba con las chicas.\n\n(Translated by Google)\nOne of the workers (Cristian) was taking liberties with the girls.",
-    "createTime": "2026-03-12T19:58:40.486074Z",
-    "updateTime": "2026-03-12T19:58:40.486074Z",
-    "reviewReply": {
-      "comment": "Lamentamos leer tu comentario y tomamos muy en serio este tipo de situaciones.\n\nA raíz de lo que mencionás, realizamos una revisión interna y consultamos con nuestro equipo, sin haber encontrado antecedentes ni situaciones similares vinculadas a esta persona. Asimismo, contamos con numerosas valoraciones positivas sobre su desempeño y trato hacia los clientes.\n\nDe todas maneras, no avalamos bajo ningún concepto conductas inapropiadas, por lo que nos gustaría que puedas contactarte de forma privada para brindarnos más detalles y poder analizar el caso con mayor profundidad.\n\nQuedamos a disposición y agradecemos que nos lo hayas hecho saber.",
-      "updateTime": "2026-04-08T15:55:59.674437Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwQlZGTkNhWEIzTkdSSlEyVnlSRTVoTFdKRmQzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Tuni Robledo"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente la atención de Cristian,el mejor!!!👌\n\n(Translated by Google)\nCristian\u0027s service was excellent, the best!!! 👌",
-    "createTime": "2026-03-03T13:59:15.559474Z",
-    "updateTime": "2026-03-03T13:59:15.559474Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Ernesto! 🥳🥳🥳",
-      "updateTime": "2026-04-19T18:10:46.824817Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CSVIzQXpaMUJCYVU5R05HcHZRVEppZFVzMFVYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pamela Lorenzetti"
-    },
-    "starRating": "FIVE",
-    "comment": "Cristian\nExecelente servicio y muy buena atencion\n\n(Translated by Google)\nCristian\nExcellent service and very good attention",
-    "createTime": "2026-02-26T15:06:22.426835Z",
-    "updateTime": "2026-02-26T15:06:22.426835Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Pamela! 👏👏",
-      "updateTime": "2026-04-19T18:11:04.587201Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kRWNGZzJPVXRLUVVoUVEwc3hieTFHUkVGd1YyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Anghy Dominino"
-    },
-    "starRating": "FIVE",
-    "comment": "Cristian.. excelente atencion!\n\n(Translated by Google)\nCristian... excellent service!",
-    "createTime": "2026-02-24T14:52:34.729617Z",
-    "updateTime": "2026-02-24T14:52:34.729617Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu reseña ❤️",
-      "updateTime": "2026-04-19T18:11:26.187393Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ2JERndUakUyUkVST1MzUTJZamhMUTJSeU4yYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Oscar Chaparro"
-    },
-    "starRating": "FIVE",
-    "comment": "La atención  de Cristian siempre muy atento y eficaz\n\n(Translated by Google)\nCristian\u0027s service was always very attentive and efficient.",
-    "createTime": "2026-02-24T13:36:27.861266Z",
-    "updateTime": "2026-02-24T13:36:27.861266Z",
-    "reviewReply": {
-      "comment": "Gracias por tu reseña Oscar 🥳🥳🥳",
-      "updateTime": "2026-04-19T18:11:48.460916Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WYWVrZ3lSbGN5UzJOeFVITkpVMjVMZWkxWlkzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Paola Pagliero"
-    },
-    "starRating": "FIVE",
-    "comment": "Cristian: Excelente atencion super recomendable. Soluciono todos mis inconvenientes en el auto\n\n(Translated by Google)\nCristian: Excellent service, highly recommended. He solved all my car problems.",
-    "createTime": "2026-02-21T12:03:32.793380Z",
-    "updateTime": "2026-02-21T12:03:32.793380Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu reseña Paola ❤️",
-      "updateTime": "2026-04-19T18:12:04.455909Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsb2VUUjJaakJ6VEdWaWNHUjVUVE4xTVV4VWFWRRAB"
   }]
 }

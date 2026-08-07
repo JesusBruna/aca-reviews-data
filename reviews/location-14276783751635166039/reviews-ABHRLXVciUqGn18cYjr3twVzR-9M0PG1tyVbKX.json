@@ -1,0 +1,187 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Rony Carballo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-03-13T02:00:30.885973Z",
+    "updateTime": "2023-03-13T02:00:30.885973Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURoLWFLRC1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Giovana Delfino"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-03-13T01:21:12.925932Z",
+    "updateTime": "2023-03-13T01:21:12.925932Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURoLVpURldnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "roberto Hector Lizaur"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención en combustibles y buena variedad en la tienda, aunque en la atención demoran demasiado, las hamburguesas bárbaras\n\n(Translated by Google)\nExcellent service at the fuel station and a good variety in the store, although the service is very slow, the hamburgers are fantastic.",
+    "createTime": "2023-03-12T20:20:48.697777Z",
+    "updateTime": "2023-03-12T20:20:48.697777Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURodWJ6X293RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Seco"
+    },
+    "starRating": "ONE",
+    "createTime": "2023-03-12T01:36:41.788084Z",
+    "updateTime": "2023-03-12T01:36:44.544698Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeWIybmd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos De Risio"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-03-12T01:32:12.648076Z",
+    "updateTime": "2023-03-12T01:32:12.648076Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURoeWQyRVhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Pardo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-11T03:56:30.983020Z",
+    "updateTime": "2023-03-11T03:56:30.983020Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T01:25:56.383563Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURoa2FQdXpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "patricia monica belizan"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-03-11T03:56:22.885212Z",
+    "updateTime": "2023-03-11T03:56:22.885212Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURoa2FQR1FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leticia Soria"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-11T00:37:55.749540Z",
+    "updateTime": "2023-03-11T00:37:55.749540Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURoa1p6Q2d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Oscar Martìnez Mirau"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-03-10T22:12:43.434938Z",
+    "updateTime": "2023-03-10T22:12:43.434938Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURoNGJQU3BRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jose luis ordoñez"
+    },
+    "starRating": "FIVE",
+    "comment": "UN lugar ideal\n\n(Translated by Google)\nAn ideal place",
+    "createTime": "2023-03-04T23:48:32.945562Z",
+    "updateTime": "2023-03-04T23:48:32.945562Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURob3F2Q2dnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego España"
+    },
+    "starRating": "FOUR",
+    "comment": "Suele haber combustible...cuando pase si no quise pagar con la app pero no andaba...\n\n(Translated by Google)\nThere\u0027s usually fuel...when I went by, I didn\u0027t want to pay with the app, but it wasn\u0027t working...",
+    "createTime": "2023-03-04T22:32:33.125845Z",
+    "updateTime": "2023-03-04T22:32:33.125845Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURob3BtbkJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "fernando fogliatti"
+    },
+    "starRating": "THREE",
+    "comment": "Malisima nunca tiene combustible, mala atención, es mejor hacer 30 km e ir a la YPF de Catriel.\n\n(Translated by Google)\nTerrible, never has fuel, bad service, it\u0027s better to go 30 km and go to the YPF in Catriel.",
+    "createTime": "2023-03-04T16:45:55.557456Z",
+    "updateTime": "2023-03-04T16:45:55.557456Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURod3BMUll3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "marce salazar"
+    },
+    "starRating": "ONE",
+    "comment": "Pasamos a cargar y el playero que estaba en ese momento con muy poca predisposición para atender quisimos pagar con QR y no funcionaba el cartón de pago  de muy mala gana para contestar y solucionar las cosas !no era su día !\n\n(Translated by Google)\nWe went to refuel, and the attendant who was there at the time was very unwilling to help. We wanted to pay with a QR code, but the payment card wasn\u0027t working. He was very reluctant to answer and resolve things; it wasn\u0027t his day!",
+    "createTime": "2023-03-04T12:48:32.300444Z",
+    "updateTime": "2023-03-04T12:48:32.300444Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURoZ3N5eFJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gato Luna"
+    },
+    "starRating": "FIVE",
+    "comment": "Cómo toda YPF full garantía de calidad y conoces los precios antes de bajar\n\n(Translated by Google)\nLike all YPF products, it offers a full quality guarantee and you know the prices before you get off.",
+    "createTime": "2023-03-03T12:15:44.808724Z",
+    "updateTime": "2023-03-03T12:15:44.808724Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURock5PRnB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-03T00:25:49.403571Z",
+    "updateTime": "2023-03-03T00:25:49.403571Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURoakw3c1dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Serpa"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio, cómo todos los ACA.\nVale la pena parar y descansar, está junto al río\n\n(Translated by Google)\nGood service, like all ACAs. It\u0027s worth stopping and resting; it\u0027s right by the river.",
+    "createTime": "2023-03-01T16:56:01.896780Z",
+    "updateTime": "2023-03-01T16:56:01.896780Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURoeEwyS1J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Coronel"
+    },
+    "starRating": "THREE",
+    "comment": "Linda estación de SV.tiene restaurante y mini mercado.\nLindos baños,todo limpio y prolijo.\n\n(Translated by Google)\nNice station in San Vicente. It has a restaurant and a mini-market.\nNice restrooms, everything clean and tidy.",
+    "createTime": "2023-03-01T15:59:17.293715Z",
+    "updateTime": "2023-03-01T15:59:17.293715Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeEo3bHlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Tejerina"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención.  Aceptan la app de YPF pero no hay cobertura 3G\n\n(Translated by Google)\nGood service. They accept the YPF app but there\u0027s no 3G coverage.",
+    "createTime": "2023-03-01T09:54:08.976370Z",
+    "updateTime": "2023-03-01T09:54:08.976370Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURoLU51Ukh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Gonzalez"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy concurrido el lugar parada clave para cargar combustible\n\n(Translated by Google)\nVery busy place, key stop for refueling",
+    "createTime": "2023-03-01T03:37:35.568116Z",
+    "updateTime": "2023-03-01T03:37:35.568116Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T21:54:16.256459Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURodUpYVnVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cba Ledesma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-28T10:43:43.983466Z",
+    "updateTime": "2023-02-28T10:43:43.983466Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T01:26:11.679877Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURocUpIbmd3RRAB"
+  }]
+}

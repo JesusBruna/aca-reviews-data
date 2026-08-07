@@ -1,0 +1,178 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Natanael Rojas"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buenas atención Jésica\n\n(Translated by Google)\nVery good service, Jessica.",
+    "createTime": "2026-05-23T14:38:16.689113Z",
+    "updateTime": "2026-05-23T14:38:16.689113Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trdFlsZ3pYM1pKUkhCUlpYZEtkREJOUlUxWFNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Araceli Ferreyra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-23T14:37:53.420727Z",
+    "updateTime": "2026-05-23T14:37:53.420727Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5NmJVRlNTMDkyVTJwRVFUaDJOVFZ5VlV0RWRrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Rios"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención de Maxi\n\n(Translated by Google)\nMaxi provided excellent service.",
+    "createTime": "2026-05-23T14:36:02.424388Z",
+    "updateTime": "2026-05-23T14:36:02.424388Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trd1dsRmpNbmR4VW5wWFlqWlZOVkExZFRGNmNXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Florencia Thomas"
+    },
+    "starRating": "FIVE",
+    "comment": "Maxi, excelente atención\n\n(Translated by Google)\nMaxi, excellent service",
+    "createTime": "2026-05-23T14:31:38.005383Z",
+    "updateTime": "2026-05-23T14:31:38.005383Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4dGRUSnFiM0ZrTFVsMk5HZzVNMFJsY3pkek9IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tamara Barchuk"
+    },
+    "starRating": "FIVE",
+    "comment": "excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2026-05-22T15:29:44.549528Z",
+    "updateTime": "2026-05-22T15:29:44.549528Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJeFdGWTFTaTFJTldWdFdGRnlSVE51WldSaFJGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Fabian Closs"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención aca bernardo de irigoyen señor padilla jorge muy buena atención\n\n(Translated by Google)\nExcellent service here, Bernardo de Irigoyen, Mr. Padilla Jorge, very good service",
+    "createTime": "2026-05-22T10:57:21.544048Z",
+    "updateTime": "2026-05-22T10:57:21.544048Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pONE9HWmxPWE0xVVRObk5IQjNTa1EyTVhaNk5FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Kevin Diaz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención acá bernardo de Yrigoyen del señor padilla jorge\n\n(Translated by Google)\nExcellent service here at Bernardo de Yrigoyen from Mr. Jorge Padilla",
+    "createTime": "2026-05-22T10:02:42.040326Z",
+    "updateTime": "2026-05-22T10:02:42.040326Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsZlRHTXhObTl0TW5CUVMyOXFSRmxzWkV3eldYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos saucedo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio del señor padilla\n\n(Translated by Google)\nExcellent service from Mr. Padilla",
+    "createTime": "2026-05-22T00:29:01.855954Z",
+    "updateTime": "2026-05-22T00:29:01.855954Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCMVpuWXRYMlV3Y0daT1NqSTJUMkZKVkRKRlRtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romy Kinetz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio de señor Padilla\n\n(Translated by Google)\nExcellent service from Mr. Padilla",
+    "createTime": "2026-05-22T00:26:59.681327Z",
+    "updateTime": "2026-05-22T00:28:12.692723Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UGVreDVObHB3VG1OUlIzSTJPWEJpZFcweFpWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Caceres"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención ACÁ Bernardo de Irigoyen Padilla Jorge\n\n(Translated by Google)\nExcellent service here, Bernardo de Irigoyen Padilla Jorge",
+    "createTime": "2026-05-22T00:09:30.048431Z",
+    "updateTime": "2026-05-22T00:09:30.048431Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jeVZuWnJNRE16U1hSVVRFRllkRlJtU0RKbGIyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "edgar bordon"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención ACA Bernardo de Irigoyen . Sr. Padilla Jorge\n\n(Translated by Google)\nExcellent service at ACA Bernardo de Irigoyen. Mr. Jorge Padilla",
+    "createTime": "2026-05-22T00:08:06.540663Z",
+    "updateTime": "2026-05-22T00:08:06.540663Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkVGRIbEljWEZwVjNSa2FuTTFPSEpqVmxkRFdrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Dargas"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenas atención de parte de Renato\n\n(Translated by Google)\nRenato provided excellent service.",
+    "createTime": "2026-05-21T15:20:24.922230Z",
+    "updateTime": "2026-05-21T15:20:24.922230Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tacWRtdFpWREpvZVZGV1FsbDFZelJETXpaTGRIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrés Budjinski"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención de parte de Renato!!\n\n(Translated by Google)\nGreat service from Renato!!",
+    "createTime": "2026-05-21T15:18:22.476604Z",
+    "updateTime": "2026-05-21T15:18:22.476604Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4dFIyUkNWbXhYUkVjemVVVmpZa2h5YkdSM05tYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Toloza"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente la atención de Renato!\n\n(Translated by Google)\nRenato\u0027s service was excellent!",
+    "createTime": "2026-05-21T14:39:41.297265Z",
+    "updateTime": "2026-05-21T14:39:41.297265Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGMlNWb3hkV1JMYWpoSVlWcFpUak5ITjJvM1ZuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis daniel Teles"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-21T14:18:15.717860Z",
+    "updateTime": "2026-05-21T14:18:15.717860Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT21veldtbDFiMFJHTVd4RWFEbFVVMVF4U0c5S1pHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Santaclara"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención. De parte de todo  los playeros y de René\n\n(Translated by Google)\nExcellent service. From all the beach staff and René.",
+    "createTime": "2026-05-21T14:04:06.686502Z",
+    "updateTime": "2026-05-21T14:04:06.686502Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnMFdIbFZTSHAwUVdKRFdFWmFSblpPVERkcmFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eliseo Sanchez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención del sr renato\n\n(Translated by Google)\nGood service from Mr. Renato",
+    "createTime": "2026-05-21T13:47:17.978928Z",
+    "updateTime": "2026-05-21T13:47:17.978928Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JNWVXaDVRVkZ5VVd4QlFrUnNibk0zV21aVmRtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Wilfriedo Glesmann"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-21T13:43:09.251316Z",
+    "updateTime": "2026-05-21T13:43:09.251316Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWb1Z6UTFTSFpOUlcxNGNqZHVhMlJzWDB3MGVsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Orlando Jara"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-20T22:47:09.021267Z",
+    "updateTime": "2026-05-20T22:47:09.021267Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOc0xWSTBlV1JOUTJOa1pGUnRORWRHVkhwVU9YYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sonia Sosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-20T22:22:58.074556Z",
+    "updateTime": "2026-05-20T22:22:58.074556Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0U2FtaDJjMDFGYjNWa1N6WmFkVjlCVDE5SVkxRRAB"
+  }]
+}

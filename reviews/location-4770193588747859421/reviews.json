@@ -1,6 +1,56 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Jorge Juarez Sanchez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion y muy buena ubicación.muy limpia\n\n(Translated by Google)\nExcellent service and a great location. Very clean.",
+    "createTime": "2021-05-09T17:31:40.830842Z",
+    "updateTime": "2026-07-20T21:03:41.994452Z",
+    "reviewReply": {
+      "comment": "Jorge ¡Muchas gracias por tu comentario! Nos alegra saber que valorás la atención y la limpieza. Trabajamos todos los días para brindar el mejor servicio. ¡Te esperamos nuevamente!\nSaludos",
+      "updateTime": "2026-03-26T15:47:20.800392Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSURLeG9LdzJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Cagliero"
+    },
+    "starRating": "ONE",
+    "comment": "Ni ganas de atenderbl! Pedí para la limpiar el parabrisas y me dijo “ahí está “ senalando el agua. Fue aproximadamente 18:30 del viernes 17-7 y podrán ver ustedes en sus cámaras quien me atendió, tengo una hilux y no había ningún otro vehiculo en otra isla q lo estuvieran atendiendo\n\n(Translated by Google)\nThey didn\u0027t even want to help me! I asked them to clean my windshield and they just said, \"There it is,\" pointing to the water. It was around 6:30 PM on Friday, July 17th, and you can see on your security cameras who helped me. I have a Hilux, and there wasn\u0027t a single other vehicle on any other island being serviced.",
+    "createTime": "2026-07-17T21:35:19.292049Z",
+    "updateTime": "2026-07-20T12:22:39.584583Z",
+    "reviewReply": {
+      "comment": "Hola Javier lamentamos lo ocurrido, por favor nos podrás indicar quién atendió o algún dato que nos sirva para revisar el caso. \nMuchas gracias",
+      "updateTime": "2026-07-19T17:35:02.112089Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbE9VUkNTbTF3TFc1ME9ERlphSFJCYnpkdmJXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agostina Relañez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-14T01:42:06.492181Z",
+    "updateTime": "2026-07-14T01:42:06.492181Z",
+    "reviewReply": {
+      "comment": "Agostina gracias por las estrellas que nos diste\nSaludos",
+      "updateTime": "2026-07-19T17:35:38.264882Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pneFVWQlJXSEJyVURWc2FXcHlSbGhSYkU5emQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "LEONARDO LEIVA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-06T20:26:22.064203Z",
+    "updateTime": "2026-07-06T20:26:22.064203Z",
+    "reviewReply": {
+      "comment": "Leonardo gracias por las estrellas otorgadas\nSaludos",
+      "updateTime": "2026-07-19T17:36:05.438984Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNMmJVZzRVekJuY2tGeVIwUnRVall4VVZobGMwRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Pablo InKiu"
     },
     "starRating": "ONE",
@@ -49,19 +99,6 @@
       "updateTime": "2026-06-30T12:18:34.947494Z"
     },
     "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKV2JXNXpVbEl0VUdkd2VWaG5TRmxHYzNGZmNtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jorge Juarez Sanchez"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atencion y muy limpia\n\n(Translated by Google)\nExcellent service and very clean",
-    "createTime": "2021-05-09T17:31:40.830842Z",
-    "updateTime": "2026-06-23T14:48:27.456594Z",
-    "reviewReply": {
-      "comment": "Jorge ¡Muchas gracias por tu comentario! Nos alegra saber que valorás la atención y la limpieza. Trabajamos todos los días para brindar el mejor servicio. ¡Te esperamos nuevamente!\nSaludos",
-      "updateTime": "2026-03-26T15:47:20.800392Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSURLeG9LdzJnRRAB"
   }, {
     "reviewer": {
       "displayName": "Mercedes Figueroa"
@@ -210,42 +247,5 @@
       "updateTime": "2026-04-17T16:30:45.206512Z"
     },
     "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/Ci9DQUlRQUNvZENodHljRjlvT201UlZIQkdjalkyZFdacmVuTmxWVGw0ZEVwMFNsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Molina Roxana Molina"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-08T19:38:19.356419Z",
-    "updateTime": "2026-04-08T19:38:19.356419Z",
-    "reviewReply": {
-      "comment": "Roxana gracias por las estrellas que nos diste...\nSaludos",
-      "updateTime": "2026-04-08T22:26:32.870370Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GalJqVnVSVGd3YmtSQlN6VjFlbU5CYkZkVFlXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "alejandro man"
-    },
-    "starRating": "TWO",
-    "comment": "Los empleados andan de mal caracter.... para inflar las ruedas... el pico destruido mal para el aca\n\n(Translated by Google)\nThe employees are in a bad mood... to inflate the tires... the nozzle is broken, bad for the here",
-    "createTime": "2017-02-28T23:04:13.816Z",
-    "updateTime": "2026-04-07T11:03:01.814504Z",
-    "reviewReply": {
-      "comment": "Alejandro lamentamos lo ocurrido, el pico fue reemplazado en el momento que lo detectamos dañado.-\nSaludos...",
-      "updateTime": "2026-04-07T18:47:33.519982Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBbkk3elVREAE"
-  }, {
-    "reviewer": {
-      "displayName": "Analia Peiretti"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-02T20:36:52.218720Z",
-    "updateTime": "2026-04-02T20:36:52.218720Z",
-    "reviewReply": {
-      "comment": "Analia gracias por calificarnos...\n\nSaludos...",
-      "updateTime": "2026-04-07T18:45:50.115378Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oeGFuVktURVJVZVdwcFpYZENkM2hwTTNZMVYwRRAB"
   }]
 }

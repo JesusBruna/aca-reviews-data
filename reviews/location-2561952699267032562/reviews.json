@@ -1,6 +1,192 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Ihor Nystorowycz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención. Ignacio me ayudó a qué me hicieran un descuento que ni sabía que estába en la app de YPF.\n\n(Translated by Google)\nExcellent service. Ignacio helped me get a discount I didn\u0027t even know was available on the YPF app.",
+    "createTime": "2026-07-31T22:17:04.693459Z",
+    "updateTime": "2026-07-31T22:17:04.693459Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xreFJVZHlTSGN4YzI1R2NVaGxjVVUyU2psRGNVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hèctor bussana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-30T21:16:22.643543Z",
+    "updateTime": "2026-07-30T21:16:22.643543Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por tu calificación de 5 estrellas! Nos alegra saber que tu experiencia en YPF ACA Sabattini fue excelente. Valoramos mucho tu apoyo y trabajamos todos los días para brindar la mejor atención y el mejor servicio. ¡Esperamos volver a recibirte muy pronto!",
+      "updateTime": "2026-07-31T13:53:42.756358Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSeGMyMWpkSFpYTFVaNWJtUmtPRUZYYWtGUlIxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "El Loquendero Facha"
+    },
+    "starRating": "ONE",
+    "comment": "EL BAR NO ES 24HS ESPECIFIQUE SEÑOR\n\n(Translated by Google)\nTHE BAR IS NOT OPEN 24 HOURS, PLEASE SPECIFY, SIR.",
+    "createTime": "2026-07-30T02:57:28.059642Z",
+    "updateTime": "2026-07-30T02:57:28.059642Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario. Queremos aclarar que en la información publicada especificamos que el servicio de bar no funciona las 24 horas. Lamentamos cualquier confusión y agradecemos su observación, ya que nos permite seguir mejorando la comunicación con nuestros clientes. Esperamos poder recibirlo nuevamente.\n",
+      "updateTime": "2026-07-31T13:55:10.461219Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGdmQzUmhhVGhpWDJGTWNXaFhOM3BUV1RGNE5IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Auad"
+    },
+    "starRating": "ONE",
+    "comment": "Poca gente atiende en horarios pico y es muy lento. El wifi hace dias que no funciona y no lo arreglan.\n\n(Translated by Google)\nFew people are on duty during peak hours and it\u0027s very slow. The Wi-Fi hasn\u0027t worked for days and they haven\u0027t fixed it.",
+    "createTime": "2026-07-28T11:10:15.946937Z",
+    "updateTime": "2026-07-28T11:10:15.946937Z",
+    "reviewReply": {
+      "comment": "Gracias por compartir su experiencia. Lamentamos los inconvenientes que tuvo durante su visita. Estamos trabajando para mejorar la atención en los horarios de mayor demanda y revisaremos el inconveniente con el servicio de Wi-Fi para solucionarlo a la mayor brevedad. Valoramos mucho sus comentarios, ya que nos ayudan a seguir mejorando. Esperamos tener la oportunidad de brindarle una mejor experiencia en su próxima visita.",
+      "updateTime": "2026-07-31T13:55:27.135411Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWMFF6VjNSbFZVVmtkeVowWlhlRUo2TjBodVZsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Juan Dargoltz"
+    },
+    "starRating": "FIVE",
+    "comment": "Impecable YPF, felicitaciones\n\n(Translated by Google)\nImpeccable YPF, congratulations!",
+    "createTime": "2026-07-25T03:16:11.307505Z",
+    "updateTime": "2026-07-25T03:16:11.307505Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por su calificación de 5 estrellas! Nos alegra saber que tuvo una buena experiencia en YPF ACA Sabattini. Agradecemos su apoyo y confianza, y esperamos volver a recibirlo muy pronto para seguir brindándole la mejor atención.",
+      "updateTime": "2026-07-31T13:55:45.558439Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5bmNYUm5ZMnRaVlRWbk5VbFdiM001TldKUFRYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-21T15:43:57.052188Z",
+    "updateTime": "2026-07-21T15:43:57.052188Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por su calificación de 4 estrellas! Agradecemos que haya elegido YPF ACA Sabattini y que se haya tomado el tiempo de valorarnos. Seguiremos trabajando para mejorar cada día y lograr que su próxima visita sea una experiencia de 5 estrellas. ¡Lo esperamos nuevamente!",
+      "updateTime": "2026-07-31T13:56:00.784776Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Fd1IzUnlTV2hvTXpaYWNUVnBXbUV4YnpWVFpYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Alberto Marcarian"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-19T00:19:04.031236Z",
+    "updateTime": "2026-07-19T00:19:04.031236Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu calificación de 5 estrellas. Valoramos mucho tu apoyo y nos alegra saber que tu visita fue una buena experiencia. Esperamos volver a recibirte muy pronto.",
+      "updateTime": "2026-07-20T19:33:08.551023Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OTGFESllOMkZ2VG1oZmFEQlpXRlpsU1dGaVJWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "LUCAS C."
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-14T16:26:01.234334Z",
+    "updateTime": "2026-07-14T16:26:01.234334Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu calificación de 5 estrellas. Para nosotros es muy importante contar con tu confianza. Esperamos tener el placer de recibirte nuevamente en YPF ACA Sabattini.",
+      "updateTime": "2026-07-20T19:33:33.997963Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWbWRFRlpPRzB3T1RNdE5HVmFlR3hVUWxVdFNFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Planells"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy limpio, cuidado y de ambiente muy agradable\n\n(Translated by Google)\nVery clean, well-maintained and with a very pleasant atmosphere",
+    "createTime": "2026-07-14T11:20:12.426423Z",
+    "updateTime": "2026-07-14T11:20:12.426423Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu comentario. Nos alegra saber que disfrutaste de un lugar limpio, cuidado y con un ambiente agradable. Trabajamos todos los días para brindar la mejor experiencia a quienes nos visitan. ¡Te esperamos nuevamente en YPF ACA Sabattini!",
+      "updateTime": "2026-07-20T19:33:58.314084Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT204eldXdFNZMFZxWmxGYWVtZEphMkoyV0UwM1VVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gardini Carlos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-13T00:48:07.795978Z",
+    "updateTime": "2026-07-13T00:48:07.795978Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu calificación de 5 estrellas. Nos alegra saber que tu experiencia fue satisfactoria. Será un placer volver a recibirte en YPF ACA Sabattini.",
+      "updateTime": "2026-07-20T19:34:21.465446Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5aGNXcDRWVlV5Y1ZkeVZtcHVUVUl0U0ZkblNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jeliel Romano"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de los chicos de la full y muy amables y predispuestos los  playeros, gracias\n\n(Translated by Google)\nExcellent service from the staff at the resort, and the beach attendants were very friendly and helpful. Thank you.",
+    "createTime": "2026-07-11T20:33:56.544751Z",
+    "updateTime": "2026-07-11T20:33:56.544751Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu comentario. Nos alegra saber que recibiste una muy buena atención tanto de nuestro equipo de la Tienda Full como de los playeros. Compartiremos tus palabras con ellos, ya que este tipo de reconocimiento nos motiva a seguir brindando el mejor servicio. ¡Gracias por elegirnos y te esperamos nuevamente en YPF ACA Sabattini!",
+      "updateTime": "2026-07-20T19:34:43.572666Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kUFluWk5RVlIwYmxvM09XYzVXRTlMUkdSWmFtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "mario agüero"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy Buenas atención en playa, apenas buena en bar; el aire de neumáticos no funciona.\n\n(Translated by Google)\nVery good service on the beach, barely good at the bar; the tire inflator doesn\u0027t work.",
+    "createTime": "2026-07-07T15:33:39.129588Z",
+    "updateTime": "2026-07-07T15:33:39.129588Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por compartir tu experiencia y por destacar la atención recibida en nuestra playa de combustible.\n\nLamentamos que tu experiencia en el bar no haya estado a la misma altura y te pedimos disculpas por los inconvenientes con el inflador de neumáticos. Tomamos tu comentario para revisar ambos puntos y trabajar en las mejoras necesarias.\n\nEsperamos poder recibirte nuevamente muy pronto y brindarte una experiencia excelente en todos nuestros servicios. ¡Gracias por elegirnos!",
+      "updateTime": "2026-07-08T21:33:53.859744Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5UVRtZEZTR3MxY2xCaE1VRjBlRGN4WDBKT2RHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mary Torres"
+    },
+    "starRating": "FIVE",
+    "comment": "FUI AL NEGOCIO HACE 2 MESES  Y ME ATENDIO UNA CHICA DE PELO OSCURO LARGO CON OJOS CLAROS...RE AMABLE REBUENA PERSONA LA VERDAD REBIEN ATENDIDA NUNCA FUI TAN BIEN ATENDIDA COMO ME ATENDIO ESA CHICA...ES TAN COMODO SENTIR QUE TE AN ATENDIDO TAN BIEN QUE TE DAN GANAS DE VOLVER SIEMPRE SI ES ASI...GRACIAS MUY BIEN ATENDIDA POR ESA GRAN PERSONITA\n\n(Translated by Google)\nI went to the store two months ago and was served by a girl with long dark hair and light eyes... She was so kind, a really good person. I was truly treated exceptionally well; I\u0027ve never been treated as well as I was by that girl. It\u0027s so comforting to feel like you\u0027ve been treated so well that it makes you want to come back every time. If that\u0027s the case... Thank you so much for the wonderful service from that amazing person.",
+    "createTime": "2026-07-03T19:53:16.139493Z",
+    "updateTime": "2026-07-03T19:53:16.139493Z",
+    "reviewReply": {
+      "comment": "¡Muchísimas gracias por tu hermoso comentario!\n\nNos llena de alegría saber que tuviste una experiencia tan positiva y que la atención de nuestra colaboradora dejó una impresión tan especial. Comentarios como el tuyo son una gran motivación para todo nuestro equipo.\n\nLe haremos llegar tu reconocimiento, ya que estamos seguros de que le alegrará saber el impacto positivo que tuvo con su atención.\n\nEsperamos volver a recibirte muy pronto y seguir brindándote la misma calidez y dedicación en cada visita. ¡Gracias por elegirnos! 😊",
+      "updateTime": "2026-07-08T21:35:07.485500Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oNmRuZDZjbEV0WWxSdWRFVjBSVGx4TjBsU2NsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Liendo Almadriz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente calidad en sus combustibles, acites y productos de panificacion. Se puede almorzar. Los empleados playeros son atentos y muy eficientes, las chicas de cafeteria muy amables  y colaborativas. Local reformado y en muy buen estado.\n\n(Translated by Google)\nExcellent quality fuels, oils, and baked goods. Lunch is available. The gas station attendants are attentive and very efficient, and the cafeteria staff are very friendly and helpful. The premises are renovated and in very good condition.",
+    "createTime": "2026-07-03T19:52:00.943383Z",
+    "updateTime": "2026-07-03T19:52:00.943383Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por tu excelente reseña!\n\nNos alegra saber que valorás la calidad de nuestros combustibles, lubricantes y productos de panificación, así como la atención de nuestros playeros y del equipo de cafetería. También nos pone muy contentos que hayas disfrutado de nuestras instalaciones renovadas.\n\nComentarios como el tuyo nos motivan a seguir trabajando para brindar la mejor experiencia a cada cliente.\n\n¡Te esperamos nuevamente muy pronto!",
+      "updateTime": "2026-07-08T21:35:44.007142Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVE9GZExkWGRUWnpoM1JuQjNXbk51YVcwMVRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Nahas"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-10-13T06:32:11.125Z",
+    "updateTime": "2026-07-03T08:31:02.641300Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por tu calificación de 4 estrellas! ⭐⭐⭐⭐ Nos alegra saber que tu experiencia fue positiva. Seguimos trabajando para mejorar cada día y esperamos que en tu próxima visita podamos brindarte una experiencia de 5 estrellas. ¡Te esperamos nuevamente! 🚗⛽😊",
+      "updateTime": "2026-06-26T22:36:11.519635Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3OHRpa2VnEAE"
+  }, {
+    "reviewer": {
       "displayName": "Marina V"
     },
     "starRating": "FOUR",
@@ -62,197 +248,5 @@
       "updateTime": "2026-06-26T22:35:49.835188Z"
     },
     "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKdU9HaElaVGhDYkZoQ2NIQldiM2hPTFdONU1YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alejandra Nahas"
-    },
-    "starRating": "FOUR",
-    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
-    "createTime": "2017-10-13T06:32:11.125Z",
-    "updateTime": "2026-06-24T14:44:02.666938Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu calificación de 4 estrellas! ⭐⭐⭐⭐ Nos alegra saber que tu experiencia fue positiva. Seguimos trabajando para mejorar cada día y esperamos que en tu próxima visita podamos brindarte una experiencia de 5 estrellas. ¡Te esperamos nuevamente! 🚗⛽😊",
-      "updateTime": "2026-06-26T22:36:11.519635Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3OHRpa2VnEAE"
-  }, {
-    "reviewer": {
-      "displayName": "Constanza Carunchio ambasch"
-    },
-    "starRating": "FIVE",
-    "comment": "A IRINA le tendrían que pagar el triple, ella es lo mejor de este lugar\n\n(Translated by Google)\nIrina should be paid triple, she\u0027s the best thing about this place.",
-    "createTime": "2026-06-23T08:31:04.058949Z",
-    "updateTime": "2026-06-23T08:31:04.058949Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu comentario y por destacar el trabajo de Irina! 😊 Nos pone muy contentos saber que su atención hizo una diferencia en tu experiencia. Le haremos llegar tu reconocimiento, ya que comentarios como el tuyo son una gran motivación para todo el equipo. ¡Esperamos verte nuevamente muy pronto y seguir brindándote la atención que te merecés! ⭐🚗⛽",
-      "updateTime": "2026-06-26T22:36:45.021464Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCMmVUWk9NamRNUlZoM2VWUjFOMjVQU1cxaWJWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Roxana Carunchio"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena la atención sobre todo las chicas del full\n\n(Translated by Google)\nThe service was very good, especially from the girls at the full-service counter.",
-    "createTime": "2026-06-23T01:29:14.797807Z",
-    "updateTime": "2026-06-23T01:29:14.797807Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu comentario y por tu calificación! 😊 Nos alegra mucho saber que tuviste una buena experiencia y, especialmente, que destacás la atención de las chicas del Full. Les haremos llegar tu reconocimiento, que sin dudas será una gran motivación para todo el equipo. ¡Te esperamos nuevamente muy pronto!",
-      "updateTime": "2026-06-26T22:37:06.789646Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wb2JtWm1iRkpGUzJSWWJsRm9XQzFyY0VJd1dYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "R L DIEGO"
-    },
-    "starRating": "FIVE",
-    "comment": "Cargo siempre ahi porque es garantia.\n\n(Translated by Google)\nI always charge there because it\u0027s a guarantee.",
-    "createTime": "2020-03-15T13:36:49.816580Z",
-    "updateTime": "2026-06-23T01:25:54.033593Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu confianza y por elegirnos siempre! ⭐ Nos alegra saber que nos elegís porque encontrás garantía y seguridad en nuestro servicio. Comentarios como el tuyo nos motivan a seguir trabajando con el mismo compromiso y calidad de siempre. ¡Te esperamos en tu próxima visita!",
-      "updateTime": "2026-06-26T22:37:30.087702Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjbWF6MFR3EAE"
-  }, {
-    "reviewer": {
-      "displayName": "Jonathan Brua"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-17T00:38:29.990224Z",
-    "updateTime": "2026-06-17T00:38:29.990224Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu calificación de 5 estrellas! ⭐⭐⭐⭐⭐ Nos alegra mucho saber que tu experiencia fue excelente. Seguiremos trabajando con el mismo compromiso para brindarte la mejor atención y servicio en cada visita. ¡Te esperamos nuevamente muy pronto!",
-      "updateTime": "2026-06-26T22:37:49.834757Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VM2NsZGZRMVk0TTFaRVEya3pjSFF0UjJGNE1YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gabriel Mongi"
-    },
-    "starRating": "FIVE",
-    "comment": "Me gustó mucho la atención y la buena onda que tienen, luego de la remodelación ha quedado más lindo aún lo súper recomiendo\n\n(Translated by Google)\nI really liked the service and the friendly atmosphere; after the renovation, it\u0027s even nicer. I highly recommend it.",
-    "createTime": "2026-06-13T14:16:30.369281Z",
-    "updateTime": "2026-06-13T14:16:30.369281Z",
-    "reviewReply": {
-      "comment": "¡Muchísimas gracias por tu excelente comentario y por recomendarnos! ⭐⭐⭐⭐⭐ Nos llena de alegría saber que disfrutaste la atención de nuestro equipo y que la remodelación fue de tu agrado. Trabajamos con mucho esfuerzo para brindar un espacio más cómodo y una atención de calidad, por eso comentarios como el tuyo nos motivan a seguir mejorando cada día. ¡Será un placer recibirte nuevamente muy pronto! 🚗⛽😊",
-      "updateTime": "2026-06-26T22:38:14.764981Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKRFR6QlRla3M1WVhsd2FGWk9ibVE1YTNWSE9WRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alfredo Zapata"
-    },
-    "starRating": "ONE",
-    "comment": "Venia a comer una hamburguesa..y se me ocurrio pasar primero al baño..muy muy mal estado..se mw fueron las canas de comer..tome solo un cafe y de mal humor..no se corresponde con lo que el big boss Marin pregona..una lastima..quiero ser fan de YPF, pero ayudenme un poquito..gracias.\n\n(Translated by Google)\nI came to eat a hamburger...and it occurred to me to go to the bathroom first...very, very bad condition...I got gray hairs from eating it...I only had a coffee and was in a bad mood...it doesn\u0027t correspond with what the big boss Marin preaches...a shame...I want to be a fan of YPF, but help me a little...thanks.",
-    "createTime": "2026-06-10T22:17:11.326065Z",
-    "updateTime": "2026-06-10T22:17:11.326065Z",
-    "reviewReply": {
-      "comment": "Hola, muchas gracias por tomarte el tiempo de compartir tu experiencia.\n\nLamentamos sinceramente el estado en que encontraste los baños durante tu visita. Entendemos perfectamente que la limpieza y el mantenimiento de nuestras instalaciones son aspectos fundamentales para brindar una buena experiencia, y sentimos que en esta oportunidad no hayamos estado a la altura de tus expectativas.\n\nNos gustaría poder investigar lo ocurrido y tomar las medidas correspondientes. Si es posible, te agradeceríamos que nos indiques la fecha y el horario aproximado de tu visita para identificar a los responsables del turno y revisar qué pudo haber sucedido.\n\nTrabajamos diariamente para ofrecer un servicio de calidad y comentarios como el tuyo nos ayudan a detectar oportunidades de mejora. Esperamos que nos des una nueva oportunidad para demostrarte el nivel de atención y las instalaciones que buscamos brindar a nuestros clientes.\n\nTe pedimos disculpas nuevamente por las molestias ocasionadas y quedamos a la espera de tu respuesta. ¡Ojalá podamos recibirte nuevamente muy pronto! Saludos.",
-      "updateTime": "2026-06-11T16:27:55.256079Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FMU1uVlhTMnBzVjNjd1ptRktNV1pzT0VwS1UwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "mauricio ferreyra"
-    },
-    "starRating": "TWO",
-    "comment": "Malísima la atención del Shop de ypf acá ! Muy mala ganas de atender y trabajar la chica de ojos claros que está en turno tarde (hoy 09/06/2026\n\n(Translated by Google)\nThe service at the YPF shop here is terrible! The girl with light eyes on the afternoon shift (today 09/06/2026) was very unwilling to help and work.",
-    "createTime": "2026-06-09T23:16:21.194782Z",
-    "updateTime": "2026-06-09T23:16:21.194782Z",
-    "reviewReply": {
-      "comment": "Hola, lamentamos mucho que tu experiencia en nuestro Full no haya sido la esperada.\n\nLa atención al cliente es uno de los aspectos que más valoramos y nos preocupa recibir comentarios como el tuyo. Te pedimos disculpas por la impresión que te llevaste durante tu visita.\n\nAgradecemos que nos hayas indicado la fecha de lo sucedido, ya que nos permitirá revisar internamente la situación con el personal del turno correspondiente y reforzar los estándares de atención que buscamos brindar todos los días.\n\nEsperamos que nos des una nueva oportunidad para ofrecerte la experiencia que merecés y cambiar esta percepción. Gracias por hacernos llegar tu comentario, ya que nos ayuda a seguir mejorando.\n\nSaludos.\n",
-      "updateTime": "2026-06-11T16:29:24.683888Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRM05rMTBNSGhUUWtOblltVkVYM2xHWXpGV2JFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Angelo Angelo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-04T13:08:31.553811Z",
-    "updateTime": "2026-06-04T13:08:31.553811Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu calificación de 5 estrellas! ⭐⭐⭐⭐⭐\n\nAgradecemos tu valoración y la confianza que depositás en nosotros. Seguiremos esforzándonos para brindarte la mejor atención y servicio en cada visita.\n\n¡Te esperamos nuevamente!",
-      "updateTime": "2026-06-05T16:28:37.891856Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wbkxUaEZUWEJRZHpWNFprUXdNVmhHZDAxb1ZtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lucas Jalil"
-    },
-    "starRating": "FIVE",
-    "comment": "Una estación impecable tanto en el full como en la playa son  súper atentos y ágiles para atender, otra cosa que destaco son los baños que siempre se encuentran en buen estado.\n\n(Translated by Google)\nThe service is impeccable, both at the full resort and on the beach. The staff are super attentive and efficient. Another thing I want to highlight is that the restrooms are always in good condition.",
-    "createTime": "2026-06-04T01:58:21.987028Z",
-    "updateTime": "2026-06-04T01:58:21.987028Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu comentario! Nos alegra saber que valorás la atención de nuestro equipo, tanto en el Full como en la playa. Trabajamos cada día para brindar un servicio ágil y de calidad, y nos satisface que también destaques el estado y la limpieza de nuestros baños. ¡Te esperamos nuevamente en tu próxima visita!",
-      "updateTime": "2026-06-05T16:26:28.039391Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OTFVVZGtkV1ZsT0VGV1YzaEVOVVZNVUdwcU1FRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gonzalo Mauricio Rodriguez"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención, muy buena varidad de comestibles, baños nuevos y limpios. Todo muy bueno la verdad.\n\n(Translated by Google)\nExcellent service, a very good variety of groceries, and new and clean restrooms. Everything was really great.",
-    "createTime": "2026-06-03T21:47:16.662098Z",
-    "updateTime": "2026-06-03T21:47:16.662098Z",
-    "reviewReply": {
-      "comment": "¡Muchísimas gracias, Gonzalo, por tu excelente reseña! ⭐⭐⭐⭐⭐\n\nNos alegra enormemente saber que destacás la atención recibida, la variedad de comestibles y la limpieza de nuestros nuevos baños. Comentarios como el tuyo son una gran satisfacción para todo nuestro equipo, ya que reflejan el esfuerzo diario que ponemos para brindar la mejor experiencia posible a quienes nos visitan.\n\nGracias por tomarte el tiempo de compartir tu experiencia y por tus tan lindas palabras. ¡Esperamos verte nuevamente muy pronto y seguir ofreciéndote un servicio de excelencia!\n\n¡Te esperamos, Gonzalo! 😊🚗⛽",
-      "updateTime": "2026-06-03T21:50:42.474605Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RMlptcFJiMVpzYnpaMFMzRkxPRkpSY25sdGRGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Viviana Cisneros"
-    },
-    "starRating": "ONE",
-    "createTime": "2019-01-30T20:09:38.005661Z",
-    "updateTime": "2026-05-31T19:45:56.850924Z",
-    "reviewReply": {
-      "comment": "Hola. Lamentamos que tu experiencia no haya sido la esperada. Nos gustaría conocer qué inconveniente tuviste para poder analizarlo y encontrar una solución. Valoramos mucho la opinión de nuestros clientes y estamos comprometidos a mejorar cada día.\n\nTe invitamos a contarnos más detalles sobre lo sucedido. Estaremos encantados de ayudarte y trabajar para que, en una próxima visita, podamos ganarnos tus 5 estrellas.\n\n¡Esperamos tu comentario! Muchas gracias.",
-      "updateTime": "2026-06-02T18:40:52.645512Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvd09fbEtnEAE"
-  }, {
-    "reviewer": {
-      "displayName": "Agustin Rodriguez"
-    },
-    "starRating": "TWO",
-    "comment": "Despues de las 23 hs hay un playero que te dice que no hay sistema para cobrar qr (justo un dia de promo) SOLO EFECTIVO. Raro no?\n\n(Translated by Google)\nAfter 11 PM, there\u0027s a gas station attendant who tells you there\u0027s no QR code payment system (on a promotional day, no less!), CASH ONLY. Weird, right?",
-    "createTime": "2026-05-31T01:23:58.033538Z",
-    "updateTime": "2026-05-31T01:23:58.033538Z",
-    "reviewReply": {
-      "comment": "Hola. Lamentamos los inconvenientes que hayas tenido. Queremos aclarar que cuando el pago con QR no está disponible, suele deberse exclusivamente a inconvenientes técnicos ajenos a nuestra voluntad. De hecho, para nosotros también es una situación negativa, ya que afecta la experiencia de nuestros clientes y nuestras ventas.\n\nSi volvés a tener algún inconveniente de este tipo, te invitamos a solicitar hablar con el encargado de turno para que podamos ayudarte y buscar una solución en el momento.\n\nGracias por compartir tu experiencia y esperamos poder brindarte una mejor atención en tu próxima visita.",
-      "updateTime": "2026-06-02T18:45:28.285612Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GeVVrSmxYMnRrVHpKVFpUSXhaVVJMU1RWSk9FRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jimena Minoli"
-    },
-    "starRating": "ONE",
-    "comment": "Me vendieron un aceite para el auto qué no es el correcto, y no quisieron devolverme el dinero( ya que el que el aceite que yo necesitaba no lo tenian). Tengo entendido que los empleados tienen capacitaciones para aprender sobre combustibles... él debería saber que el que me vendía no era para mi auto. Que hubiera pasado si poníamos ese aceite en el auto? No vuelvo a cargar ni comprar más en esa sucursal... no me parecen serios.\n\n(Translated by Google)\nThey sold me the wrong car oil and refused to give me a refund (since they didn\u0027t have the oil I needed). I understand that employees receive training on fuels... he should have known that the oil he was selling me wasn\u0027t for my car. What would have happened if we had put that oil in the car? I\u0027m never filling up or buying anything at that branch again... they\u0027re not professional.",
-    "createTime": "2026-05-29T15:15:02.467458Z",
-    "updateTime": "2026-05-29T15:15:02.467458Z",
-    "reviewReply": {
-      "comment": "Hola. Lamentamos sinceramente lo ocurrido y la mala experiencia que esta situación te generó.\n\nNos preocupa especialmente lo que comentás, ya que nuestro objetivo es brindar un asesoramiento responsable y una atención de calidad. Si bien nuestros colaboradores reciben capacitación, pueden producirse errores, y por eso tomamos este tipo de comentarios con total seriedad para revisarlos internamente.\n\nRespecto a la devolución, nos gustaría analizar en detalle lo sucedido, ya que existen procedimientos específicos para estos casos. También nos interesa conocer qué producto te fue ofrecido y en qué fecha ocurrió el inconveniente para poder investigar lo ocurrido con el personal involucrado.\n\nTe invitamos a acercarte nuevamente a la estación y solicitar hablar con el encargado, o bien comunicarte con nosotros por un canal directo para que podamos revisar tu caso y encontrar una solución adecuada.\n\nTe pedimos disculpas por las molestias ocasionadas y agradecemos que nos hayas hecho llegar tu experiencia, ya que nos ayuda a mejorar. Esperamos tener la oportunidad de recuperar tu confianza.",
-      "updateTime": "2026-06-02T18:47:04.081251Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toTVNGWkxXR3RXYUVjMlEzSnBObTl2VG5GTVptYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Miguel Andrés de Embalse"
-    },
-    "starRating": "FIVE",
-    "comment": "Una buena estación de servicio con un lindo local Full.\n\n(Translated by Google)\nA good gas station with a nice Full store.",
-    "createTime": "2026-05-25T14:13:45.149885Z",
-    "updateTime": "2026-05-25T14:13:45.149885Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu comentario y por calificarnos con 5 estrellas! ⭐\nNos alegra saber que disfrutaste de la estación y de nuestro Full. Trabajamos todos los días para brindar el mejor servicio y un espacio cómodo para quienes nos visitan. ¡Te esperamos nuevamente pronto!",
-      "updateTime": "2026-05-26T13:52:46.558417Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKb01GSk5WMUUxUnpaNWVFbHdhVGhQUjNNd1NHYxAB"
   }]
 }

@@ -1,6 +1,68 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Gerardo Daniel Novak"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención,  de Julio Cesar y toda la estacion\n\n(Translated by Google)\nExcellent service from Julio Cesar and the entire station",
+    "createTime": "2026-07-10T17:48:16.935262Z",
+    "updateTime": "2026-07-10T17:48:16.935262Z",
+    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5SFR6UmhWbmcwUTNCcE0xOXZlR1l4TUVocE5FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "CARLOS ALEJANDRO MINOURA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-09T17:53:15.398628Z",
+    "updateTime": "2026-07-09T17:53:15.398628Z",
+    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSNkxXODJTMHhsTkZob2JWcDNXbFp4Ym5CM1VWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Fabian Leon"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de los muchachos, muy amables y cordiales. Un placer cada de vez q tengo el gusto de pasar.\n\n(Translated by Google)\nExcellent service from the guys, very kind and friendly. A pleasure every time I have the pleasure of stopping by.",
+    "createTime": "2026-07-08T22:08:08.768962Z",
+    "updateTime": "2026-07-08T22:08:08.768962Z",
+    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rNGFDMVVlVkpVTlV4NmIzRndPV0pCUVdzM2FYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Florentin"
+    },
+    "starRating": "FIVE",
+    "comment": "Un genio Julio Cesar! Un gran atendiendo\n\n(Translated by Google)\nJulio Cesar is a genius! A great customer serviceman.",
+    "createTime": "2026-07-07T11:44:33.989733Z",
+    "updateTime": "2026-07-07T11:44:33.989733Z",
+    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trdFRqTk1iM0JZVlV0TmJFbE9aMjFsYnpCSGNrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gladis Sanabria"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, Playero, Julio Cesar\n\n(Translated by Google)\nExcellent service, Julio Cesar Beach",
+    "createTime": "2026-07-03T14:38:29.723546Z",
+    "updateTime": "2026-07-03T14:38:29.723546Z",
+    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzdE9FczJaM0ZDZEZCaWJ6Qm9Sa0Z2WXpkdVRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ramon Arrua"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísimo julio cesar\n\n(Translated by Google)\nExcellent, Julio Cesar",
+    "createTime": "2026-07-03T11:40:07.717744Z",
+    "updateTime": "2026-07-03T11:40:07.717744Z",
+    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZdGVreGFibXBWVm1rd2NqSldaMFpvZEhSRFRVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Franco"
+    },
+    "starRating": "FIVE",
+    "comment": "Julito excelente atencion.\n\n(Translated by Google)\nJulito provided excellent service.",
+    "createTime": "2026-07-03T11:31:49.042042Z",
+    "updateTime": "2026-07-03T11:31:49.042042Z",
+    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkWk5qSnpaRXN5UVd4RmEwUlFTM1pZT1ZCSlYxRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Flavia Ines Romanciuc"
     },
     "starRating": "THREE",
@@ -124,96 +186,5 @@
       "updateTime": "2026-02-23T22:08:05.870132Z"
     },
     "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWMVVraHNWVzlQTkVKcWVGQTBPV3g1UkZSR1dtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fabián Stumszseski"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención de Julio verón un crack .. destacó los baños en excelentes condiciones...!!\n\n(Translated by Google)\nJulio Verón provided excellent service, he\u0027s a star! I especially appreciated the excellent condition of the bathrooms!",
-    "createTime": "2026-02-08T17:21:44.968919Z",
-    "updateTime": "2026-02-08T17:21:44.968919Z",
-    "reviewReply": {
-      "comment": "Hola Fabian, Agradecemos su visita al ACA Oberá, su calificación es fundamental para seguir brindando un servicio de excelencia y hacer que cada visita sea única. Lo esperamos nuevamente.-",
-      "updateTime": "2026-02-23T22:09:58.629928Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVE9GcFdOM05MVG05RlkwWnJjbVpwYm5Gak5uYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos Hernán Vizgarra"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención y servicio\n\n(Translated by Google)\nExcellent attention and service",
-    "createTime": "2026-02-03T23:26:33.056608Z",
-    "updateTime": "2026-02-03T23:26:33.056608Z",
-    "reviewReply": {
-      "comment": "Hola Carlos, Agradecemos si visita al ACA Oberá, su calificación es fundamental para seguir brindando un servicio de excelencia y hacer que cada visita sea única. Lo esperamos nuevamente.-",
-      "updateTime": "2026-02-23T22:11:36.078291Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sTFJHcFhPR0ZXV1hsaFdHNUhka0p1YURsdlNsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mauricio Germán Do Santos"
-    },
-    "starRating": "FIVE",
-    "comment": "Exelente atención, Germán, Ariel\n\n(Translated by Google)\nExcellent service, Germán, Ariel",
-    "createTime": "2026-01-27T21:15:22.093022Z",
-    "updateTime": "2026-01-27T21:16:23.520027Z",
-    "reviewReply": {
-      "comment": "Hola Mauricio, Agradecemos su visita al ACA Oberá, su calificación es fundamental para seguir brindando un servicio de excelencia y hacer que cada visita sea única. Lo esperamos nuevamente.-",
-      "updateTime": "2026-02-23T22:13:07.724324Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taRVRuZExTVXh2VVV0WGVWaFFTVlZYVjNSa2EzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lizet Kokil"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente el servicio, muy amables los playeros en especial Daniel!!\n\n(Translated by Google)\nExcellent service, the beach attendants were very friendly, especially Daniel!",
-    "createTime": "2026-01-27T17:53:56.371196Z",
-    "updateTime": "2026-01-27T17:53:56.371196Z",
-    "reviewReply": {
-      "comment": "Hola Lizet, agradecemos su visita por el ACA Oberá, su calificación es fundamental para seguir brindando un servicio de excelencia y hacer que cada visita sea única. La esperamos nuevamente.-",
-      "updateTime": "2026-02-23T22:14:40.572912Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKM1R6QnFjV1Y2U2pCQlYwUlViblJZYXkxRE1FRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Julio Lopez"
-    },
-    "starRating": "FIVE",
-    "comment": "Buenisimo muy atento el playero\n\n(Translated by Google)\nExcellent, the beach attendant was very attentive.",
-    "createTime": "2026-01-26T13:02:36.735193Z",
-    "updateTime": "2026-01-26T13:02:36.735193Z",
-    "reviewReply": {
-      "comment": "Gracias Julio por calificarnos en Tu visita por el ACA Oberá; trabajamos para que cada día Ustedes los clientes se sientan mejores atendidos; Te esperamos pronto",
-      "updateTime": "2026-01-26T22:07:27.226557Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SRE5XUlRORXcxVkVGWFdHeFBVSEIzYnpWRWNFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "dj tomiii"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención de los muchachos los playeros le felicito no dejo de venir al haca gracias Nahuel y julio ahí\n\n(Translated by Google)\nExcellent service from the guys at the beach, congratulations! I keep coming back to Haca. Thanks Nahuel and Julio!",
-    "createTime": "2019-10-08T11:44:25.845570Z",
-    "updateTime": "2026-01-22T00:55:45.132559Z",
-    "reviewReply": {
-      "comment": "Hola Dj Tomiii, Gracias por calificarnos en Tu visita por el ACA Oberá, valoramos mucho tu opinión y Nos pone contento saber que fuiste bien atendido; Te esperamos pronto!!!",
-      "updateTime": "2026-01-26T22:10:48.333215Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/ChZDSUhNMG9nS0VJQ0FnSUMwZzdPNk53EAE"
-  }, {
-    "reviewer": {
-      "displayName": "pato hop"
-    },
-    "starRating": "FIVE",
-    "comment": "Exelente atención de Pato.. Julio\n\n(Translated by Google)\nExcellent service from Pato.. Julio",
-    "createTime": "2026-01-21T17:15:44.483466Z",
-    "updateTime": "2026-01-21T17:15:44.483466Z",
-    "reviewReply": {
-      "comment": "Hola Pato Hop, gracias por calificarnos en Tu visita por el ACA Oberá; Nos pone contento saber que fuiste bien atendido; Te esperamos pronto!!!",
-      "updateTime": "2026-01-26T22:11:45.172713Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5372606000038803063/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMlYzaHBValV6VEZaNVNXMVlOVWhFUVZVMldFRRAB"
   }]
 }

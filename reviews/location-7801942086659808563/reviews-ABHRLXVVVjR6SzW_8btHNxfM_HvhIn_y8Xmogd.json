@@ -33,15 +33,6 @@
     "name": "accounts/109853746269412609224/locations/7801942086659808563/reviews/ChdDSUhNMG9nS0VJQ0FnSURZczZQV3NRRRAB"
   }, {
     "reviewer": {
-      "displayName": "A Google User"
-    },
-    "starRating": "FOUR",
-    "comment": "Muy buen servicio\n\n(Translated by Google)\nVery good service",
-    "createTime": "2019-05-06T07:23:13.114216Z",
-    "updateTime": "2019-05-06T07:23:13.114216Z",
-    "name": "accounts/109853746269412609224/locations/7801942086659808563/reviews/ChZDSUhNMG9nS0VJQ0FnSURZc3JMOE93EAE"
-  }, {
-    "reviewer": {
       "displayName": "Omar andres Orozco"
     },
     "starRating": "FOUR",
@@ -165,5 +156,13 @@
     "createTime": "2019-03-15T15:11:52.301795Z",
     "updateTime": "2019-03-15T15:11:58.121601Z",
     "name": "accounts/109853746269412609224/locations/7801942086659808563/reviews/ChZDSUhNMG9nS0VJQ0FnSURvMXN2R0VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nan Alejandra Sparrow"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-03-15T05:28:49.548612Z",
+    "updateTime": "2019-03-15T05:28:49.548612Z",
+    "name": "accounts/109853746269412609224/locations/7801942086659808563/reviews/ChZDSUhNMG9nS0VJQ0FnSURvbXVxR1Z3EAE"
   }]
 }

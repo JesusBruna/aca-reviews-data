@@ -1,0 +1,176 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Domingo Medina"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion ,bien cuidado y siempre muy limpio\n\n(Translated by Google)\nExcellent service, well maintained and always very clean",
+    "createTime": "2023-07-21T19:56:34.565185Z",
+    "updateTime": "2023-07-21T19:56:34.565185Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURKamJQUmR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Chirino"
+    },
+    "starRating": "FIVE",
+    "comment": "Antención con excelencia\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-07-21T02:43:41.060282Z",
+    "updateTime": "2023-07-21T02:43:41.060282Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSURKNWFQV1NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Lorenzo"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atencion en boxes\n\n(Translated by Google)\nGood service in the pits",
+    "createTime": "2023-07-09T15:27:27.932720Z",
+    "updateTime": "2023-07-09T15:27:27.932720Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSURKOE9YOHF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernanda Artola"
+    },
+    "starRating": "FIVE",
+    "comment": "Un servicio excelente!!\n\n(Translated by Google)\nExcellent service!!",
+    "createTime": "2023-07-05T11:12:26.966371Z",
+    "updateTime": "2023-07-05T11:12:26.966371Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChRDSUhNMG9nS0VJQ0FnSUNKNl9NOBAB"
+  }, {
+    "reviewer": {
+      "displayName": "federico corinaldesi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-06-29T15:04:13.730872Z",
+    "updateTime": "2023-06-29T15:04:13.730872Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKOGVDMzJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Mallemaci"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-27T12:17:31.327467Z",
+    "updateTime": "2023-06-27T12:17:31.327467Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKenR1R3VnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "gregorio julián viguera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-23T17:12:46.389035Z",
+    "updateTime": "2023-06-23T17:12:46.389035Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKb3NheVF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Camila Batista"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-17T18:47:05.551142Z",
+    "updateTime": "2023-06-17T18:47:05.551142Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4bjU2TGNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "OMAR ALEXIS MOYA"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención.. sin WiFi.. y los baños como siempre sucios\n\n(Translated by Google)\nGood service... no WiFi... and the bathrooms were dirty as always.",
+    "createTime": "2023-06-14T01:13:18.272069Z",
+    "updateTime": "2023-06-14T01:13:18.272069Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4dllpeWNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana González"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2023-06-13T01:40:23.404167Z",
+    "updateTime": "2023-06-13T01:40:23.404167Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4OWVMdXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Laura Swanston"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy servicial todo el personal\n\n(Translated by Google)\nAll the staff were very helpful.",
+    "createTime": "2023-06-09T22:46:29.035988Z",
+    "updateTime": "2023-06-09T22:46:29.035988Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4NGM2RjVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Teo"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-06-07T01:07:40.374648Z",
+    "updateTime": "2023-06-07T01:07:40.374648Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUR4aHQyZjlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Vargas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-02T19:46:29.471377Z",
+    "updateTime": "2023-06-02T19:46:29.471377Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4dE52dGVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Stella Maris Bustos"
+    },
+    "starRating": "FOUR",
+    "comment": "Fui a cargar combustible. Muy buena atención. Los playeros son lo MAS!!!  muy amables!!\n\n(Translated by Google)\nI went to get gas. Excellent service. The attendants are the best!!! Very friendly!!",
+    "createTime": "2023-05-31T12:15:05.495917Z",
+    "updateTime": "2023-05-31T12:23:10.277115Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4aUo2VE1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lince NTL"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo\n\n(Translated by Google)\nVery pretty",
+    "createTime": "2023-05-29T16:43:24.710085Z",
+    "updateTime": "2023-05-29T16:43:24.710085Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4MzhiYUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nadia Sandoval"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2023-05-28T15:43:00.951629Z",
+    "updateTime": "2023-05-28T15:43:00.951629Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4OTZEbjR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Coco Ceci"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien, un lugar completo\n\n(Translated by Google)\nOkay, a complete place",
+    "createTime": "2023-05-27T00:00:34.679844Z",
+    "updateTime": "2023-05-27T00:02:15.993654Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4dV9ENEVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-05-24T10:47:10.739256Z",
+    "updateTime": "2023-05-24T10:47:10.739256Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4X2VHRk1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marta Bordon"
+    },
+    "starRating": "FIVE",
+    "comment": "Me encantó el Bolsón , paramos y cargamos  combustible ⛽  muy buena atención\n\n(Translated by Google)\nI loved El Bolsón, we stopped and refueled ⛽ very good service",
+    "createTime": "2023-05-22T01:35:10.412571Z",
+    "updateTime": "2023-05-22T01:35:10.412571Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4eFlYQUdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "lourdes herrera"
+    },
+    "starRating": "THREE",
+    "comment": "20 minutos para q nos atiendan en la playa. Muy malo y somos socios.\n\n(Translated by Google)\nIt took 20 minutes to get service on the beach. Very bad, and we\u0027re members.",
+    "createTime": "2023-05-20T19:18:05.357991Z",
+    "updateTime": "2023-05-20T19:18:05.357991Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4cWV1XzFRRRAB"
+  }]
+}

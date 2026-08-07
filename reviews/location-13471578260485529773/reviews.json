@@ -1,6 +1,23 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "marcelo barrera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-02T01:09:54.572572Z",
+    "updateTime": "2026-08-02T01:09:54.572572Z",
+    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xQmIwd3pWSGw0U1VVNFNGOWhjVzFzTkhKRWJsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Lorna Calvi"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelentes instalaciones, muy buena atención!! Baños impecables... realmente muy limpios!!! Gracias!!!\n\n(Translated by Google)\nExcellent facilities, great service!! Spotless bathrooms... really very clean!!! Thank you!!!",
+    "createTime": "2026-07-10T13:54:01.663926Z",
+    "updateTime": "2026-07-10T13:54:01.663926Z",
+    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paUlpsOUhRMDlOYTE5SllWQlVYMnRvUkhFMFltYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Franco Romano"
     },
     "starRating": "FIVE",
@@ -223,31 +240,5 @@
       "updateTime": "2026-06-15T00:34:16.192061Z"
     },
     "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kUVdHeFpSM2x3VlhNdFkyeDROR2hVU1dkMFRIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alejandra Aguero"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buen servicio,!! Hermosa atención ..la mejor Parada para hacer una pausa, ya sea ciclista,motociclista o un curioso de los paisajes bellos de las sierras chicas!:)\n\n(Translated by Google)\nExcellent service! Wonderful attention...the best stop to take a break, whether you\u0027re a cyclist, motorcyclist, or simply curious about the beautiful landscapes of the Sierras Chicas! :)",
-    "createTime": "2026-06-12T19:25:46.868030Z",
-    "updateTime": "2026-06-12T19:25:46.868030Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su visita y sus comentarios, nos alegra saber que disfruta de nuestra estación, la esperamos nuevamente.",
-      "updateTime": "2026-06-15T00:35:10.557348Z"
-    },
-    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKc2RsTnpVRGRpY2xGeGFWcFhTMUowY0VoSVVuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Franco Vaca"
-    },
-    "starRating": "FIVE",
-    "comment": "Exelente atención como así  también las instalaciones!\n\n(Translated by Google)\nExcellent service and facilities!",
-    "createTime": "2026-06-12T19:12:08.402940Z",
-    "updateTime": "2026-06-12T19:13:15.974108Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su visita y sus comentarios, lo esperamos nuevamente.",
-      "updateTime": "2026-06-15T00:35:32.270071Z"
-    },
-    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWYVEzbDJWaTFGYzJOVFZHMVlTVWRJZG5neE1WRRAB"
   }]
 }

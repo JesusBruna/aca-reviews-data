@@ -1,0 +1,253 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Augusto Cappuccio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-01-27T13:33:53.855397Z",
+    "updateTime": "2025-01-27T13:33:53.855397Z",
+    "reviewReply": {
+      "comment": "Gracias augusto por tu comentario saludos .",
+      "updateTime": "2025-01-27T14:39:56.229969Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSURfLThMMnZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Pellegrini"
+    },
+    "starRating": "FIVE",
+    "comment": "Un Clásico, siempre buen atención. Un poco de espera.\n\n(Translated by Google)\nA classic, always good service. A bit of a wait.",
+    "createTime": "2025-01-27T13:33:25.008848Z",
+    "updateTime": "2025-01-27T13:33:25.008848Z",
+    "reviewReply": {
+      "comment": "Gracias nicola por tu comentario saludos ",
+      "updateTime": "2025-01-27T14:37:11.838965Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSURfLTRLYkN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mamba Negra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-24T14:45:36.641986Z",
+    "updateTime": "2025-01-24T14:45:36.641986Z",
+    "reviewReply": {
+      "comment": "Gracias por tu comentario saludos ",
+      "updateTime": "2025-01-24T19:02:43.621961Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSURfdnBPc1RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "C EM"
+    },
+    "starRating": "FOUR",
+    "comment": "Mucha cola para combustible\n\n(Translated by Google)\nLong queue for fuel",
+    "createTime": "2022-12-13T10:43:35.268169Z",
+    "updateTime": "2025-01-24T13:05:55.548251Z",
+    "reviewReply": {
+      "comment": "Gracias por momentos tenemos mucha demanda saludos",
+      "updateTime": "2025-01-24T19:03:09.047439Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtMy1DcWtnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mateo Di Maggio"
+    },
+    "starRating": "TWO",
+    "comment": "Mucha tiempo de espera para cargar combustible, incluso tarde por la noche, había 4 autos y estuve más de 15 minutos esperando, no le ponen ganas, siempre es similar.\n\n(Translated by Google)\nLong wait times to refuel, even late at night, there were 4 cars and I was waiting for more than 15 minutes, they don\u0027t put any effort into it, it\u0027s always the same.",
+    "createTime": "2025-01-23T04:24:30.015169Z",
+    "updateTime": "2025-01-23T04:24:30.015169Z",
+    "reviewReply": {
+      "comment": "Ok",
+      "updateTime": "2025-01-23T05:24:47.442899Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSURfc29YNU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Gacal"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-21T12:36:45.173182Z",
+    "updateTime": "2025-01-21T12:36:45.173182Z",
+    "reviewReply": {
+      "comment": "Gracias sergio muy amable saludos ",
+      "updateTime": "2025-01-21T14:01:35.483226Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSURfdVBPdFp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emmanuel Retamozo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2025-01-16T02:58:57.271477Z",
+    "updateTime": "2025-01-16T02:58:57.271477Z",
+    "reviewReply": {
+      "comment": "Gracias emanuel muy amable saludos ",
+      "updateTime": "2025-01-16T03:21:48.977135Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfOW9DYmV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gery Zucal"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-01-15T13:36:23.703585Z",
+    "updateTime": "2025-01-15T13:36:23.703585Z",
+    "reviewReply": {
+      "comment": "Gracias gery muy amable saludos ",
+      "updateTime": "2025-01-15T14:06:53.791029Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfaHFEWlp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa Ohannesian"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-15T01:21:20.889864Z",
+    "updateTime": "2025-01-15T01:21:20.889864Z",
+    "reviewReply": {
+      "comment": "Gracias vanearon por tu comentario saludos ",
+      "updateTime": "2025-01-15T02:11:54.293861Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfeXRfTWx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Perez"
+    },
+    "starRating": "FOUR",
+    "comment": "Acá se puede cargar bien\n\n(Translated by Google)\nYou can charge it well here",
+    "createTime": "2025-01-14T21:07:11.083382Z",
+    "updateTime": "2025-01-14T21:07:11.083382Z",
+    "reviewReply": {
+      "comment": "Gracias horacio muy amable un placer atenderlo ",
+      "updateTime": "2025-01-15T02:12:20.712388Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfaW96T0hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Palma"
+    },
+    "starRating": "FIVE",
+    "comment": "Cada vez.  Más prepotentes no existe respecto al socio\n\n(Translated by Google)\nEvery time. There\u0027s no one more arrogant towards their partner.",
+    "createTime": "2022-05-13T22:53:47.852899Z",
+    "updateTime": "2025-01-14T20:41:53.511606Z",
+    "reviewReply": {
+      "comment": "Le pedimos disculpas y tomaremos las medidas  necesarias gracias ",
+      "updateTime": "2023-01-26T23:08:59.083890Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybHNicEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Denis Chambre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-03-18T21:11:56.509862Z",
+    "updateTime": "2025-01-14T18:56:23.942472Z",
+    "reviewReply": {
+      "comment": "Gracias Denise por tu comentario saludos ",
+      "updateTime": "2025-01-15T02:13:17.857914Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSURvOFpXNVlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauri Rivas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-13T22:26:44.389719Z",
+    "updateTime": "2025-01-13T22:26:44.389719Z",
+    "reviewReply": {
+      "comment": "Gracias por tu comentario saludos. ",
+      "updateTime": "2025-01-14T14:43:10.057980Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfbktfM0dREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nadia Cantero"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Exceptional service!! Very good quality fuel!! Clean showers.\n\n(Original)\nAtendimento excepcional!! Combustível de muita boa qualidade!! Banhos limpos.",
+    "createTime": "2025-01-11T18:47:43.966410Z",
+    "updateTime": "2025-01-11T18:47:43.966410Z",
+    "reviewReply": {
+      "comment": "Muito obrigado Nadia un placer atenderlo gracias ",
+      "updateTime": "2025-01-11T19:28:11.835427Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfd0pHa2tnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Abelardo Sanchez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-11T12:41:56.937070Z",
+    "updateTime": "2025-01-11T12:41:56.937070Z",
+    "reviewReply": {
+      "comment": "Gracias ablando muy amable saludos ",
+      "updateTime": "2025-01-11T16:46:22.736634Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdi1EODJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vicky"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-10T13:10:49.662924Z",
+    "updateTime": "2025-01-10T13:10:49.662924Z",
+    "reviewReply": {
+      "comment": "Gracias virginia por tu comentario saludos ",
+      "updateTime": "2025-01-10T13:30:47.429250Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSURmMl82TThBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vasile Gheorghiu"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion. Por eso vamos siempre.\n\n(Translated by Google)\nExcellent service. That\u0027s why we always go there.",
+    "createTime": "2025-01-09T10:55:29.468153Z",
+    "updateTime": "2025-01-09T10:55:29.468153Z",
+    "reviewReply": {
+      "comment": "Gracias por tu comentario saludos. ",
+      "updateTime": "2025-01-10T03:35:00.279081Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSURmN2VfaHpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Vigliero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-01-07T15:03:24.807863Z",
+    "updateTime": "2025-01-07T15:03:24.807863Z",
+    "reviewReply": {
+      "comment": "Gracias carlos muy amable ",
+      "updateTime": "2025-01-07T15:55:18.742288Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChdDSUhNMG9nS0VJQ0FnSURmc2ZUNzhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Damonte"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención del Sr Daniel Ferreyra es óptima.\n\n(Translated by Google)\nMr. Daniel Ferreyra\u0027s service is excellent.",
+    "createTime": "2025-01-05T21:01:06.228475Z",
+    "updateTime": "2025-01-05T21:01:06.228475Z",
+    "reviewReply": {
+      "comment": "Gracias muy amable estamos p servirle saludos .",
+      "updateTime": "2025-01-06T13:44:22.176571Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSURmLXU3dkRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "La vida es un viaje"
+    },
+    "starRating": "FIVE",
+    "comment": "Las estaciones del ACA son mi debilidad, esta en particular es hermosa. Atención rápida y organizada. Si tenés tiempo el museo de automóviles es lindisimo.\n\n(Translated by Google)\nACA service stations are my weakness, and this one in particular is beautiful. The service is quick and organized. If you have time, the car museum is lovely.",
+    "createTime": "2024-12-30T15:32:52.360091Z",
+    "updateTime": "2024-12-30T15:32:52.360091Z",
+    "reviewReply": {
+      "comment": "Gracias silvia muy amable",
+      "updateTime": "2025-01-05T01:55:45.954498Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmbWQtemZnEAE"
+  }]
+}

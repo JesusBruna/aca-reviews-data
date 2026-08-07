@@ -1,0 +1,54 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carlos Dagorret"
+    },
+    "starRating": "THREE",
+    "comment": "Muy buen servicio y excelente calidad de las naftas\n\n(Translated by Google)\nVery good service and excellent quality gasoline",
+    "createTime": "2017-06-06T14:50:13.838Z",
+    "updateTime": "2017-06-06T14:50:41.866Z",
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndkt5dERnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Revelli"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-06-04T16:02:03.380Z",
+    "updateTime": "2017-06-04T16:02:03.380Z",
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSUNncnJtLUZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Juan Cena"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-05-25T17:05:20.731Z",
+    "updateTime": "2017-05-25T17:05:20.731Z",
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSURRLU03WjBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Oggier"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen combustible y precio\n\n(Translated by Google)\nGood fuel and price",
+    "createTime": "2017-05-25T12:51:01.406Z",
+    "updateTime": "2017-05-25T12:51:28.304Z",
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRNV8yS2xBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Torres"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención, aunque tiene pocos surtidores.\n\n(Translated by Google)\nVery good service, although it has few pumps.",
+    "createTime": "2017-03-17T17:33:04.362Z",
+    "updateTime": "2017-03-17T17:33:04.362Z",
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChdDSUhNMG9nS0VJQ0FnSUNReUpuNXZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Héctor C. Maldonado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-02-21T18:58:59.987Z",
+    "updateTime": "2017-02-21T18:58:59.987Z",
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/ChZDSUhNMG9nS0VJQ0FnSURnOVpXUUt3EAE"
+  }]
+}

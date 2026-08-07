@@ -1,0 +1,252 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Maria Guebara"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-30T01:49:32.777784Z",
+    "updateTime": "2023-07-30T01:49:32.777784Z",
+    "reviewReply": {
+      "comment": "Muchas gracias María.",
+      "updateTime": "2023-07-30T04:02:30.997536Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwek5TNDF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ara Hernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-27T22:24:28.857665Z",
+    "updateTime": "2023-07-27T22:24:28.857665Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Ara !",
+      "updateTime": "2023-07-28T01:23:41.739528Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwNk9hbTF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JUAN MIYARES"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-27T18:34:25.818962Z",
+    "updateTime": "2023-07-27T18:34:25.818962Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Juan !",
+      "updateTime": "2023-07-28T01:24:09.446779Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwcUlyejB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gastón Szucs"
+    },
+    "starRating": "ONE",
+    "comment": "Te tratan terriblemente mal, cobran el agua solo en efectivo, es más caro que en la YPF de la ciudad, la señora que atiende dentro es un perro rabioso\n\n(Translated by Google)\nThey treat you terribly badly, they only charge for water in cash, it\u0027s more expensive than at the YPF in the city, the lady who serves inside is a rabid dog",
+    "createTime": "2023-07-27T18:26:32.279248Z",
+    "updateTime": "2023-07-27T18:26:32.279248Z",
+    "reviewReply": {
+      "comment": "Es evidente que algo salió mal, le pedimos nuestras sinceras disculpas por tan mala experiencia.",
+      "updateTime": "2023-08-01T15:54:19.225361Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwcU9MR1d3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Arecco"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-07-27T10:56:48.859550Z",
+    "updateTime": "2023-07-27T10:56:48.859550Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Martin.",
+      "updateTime": "2023-08-01T15:54:34.076821Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwOE43LTVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Danna Amarfil"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-22T19:09:18.718678Z",
+    "updateTime": "2023-07-26T04:07:53.251250Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Danna.",
+      "updateTime": "2023-07-25T13:41:13.037575Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURKeTdpZk5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Alberto Gomez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-07-25T23:23:23.754366Z",
+    "updateTime": "2023-07-25T23:23:23.754366Z",
+    "reviewReply": {
+      "comment": "Muchas graciad Juan Alberto.",
+      "updateTime": "2023-08-01T15:54:53.453501Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURKdi1iaTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Fagnan"
+    },
+    "starRating": "ONE",
+    "comment": "Una lástima, cada temporada que paso cada vez peor, nada para desayunar,  ni agua para el mate tienen .\nEsto sucedió ayer sábado alrededor de las 10hs, una señora nos comento que no tenían café, que facturas tampoco porque no le funcionaba el horno, y que el agua para los termos no era posible porque estaban congeladas las cañerías.\n\n(Translated by Google)\nIt\u0027s a shame, it gets worse every season. They don\u0027t have anything for breakfast, not even hot water for mate.\n\nThis happened yesterday, Saturday, around 10 a.m. A woman told us they had no coffee, no pastries because their oven wasn\u0027t working, and that they couldn\u0027t get hot water for thermoses because the pipes were frozen.",
+    "createTime": "2023-07-24T22:14:52.527573Z",
+    "updateTime": "2023-07-25T01:01:23.964103Z",
+    "reviewReply": {
+      "comment": "Solicitaremos el pertinente descargo a la sra que lo atendió a efectos de tomar los recaudos necesarios para que este episodio, de ser tal como usted lo detalla, no vuelva a ocurrir.",
+      "updateTime": "2023-08-02T17:29:29.431516Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURKdDl1Nm13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Ariel Vazquez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buenos baños. Atención hospitalaria y una vista del lago soñada. Lo malo es el horario restringido, no cuente cómo punto de recarga último...\n\n(Translated by Google)\nNice restrooms. Hospitality and a dreamy lake view. The downside is the restricted hours; don\u0027t count as a last resort charging point...",
+    "createTime": "2023-07-25T00:10:01.415243Z",
+    "updateTime": "2023-07-25T00:10:01.415243Z",
+    "reviewReply": {
+      "comment": "Pablo gracias por tu opinión. El horario está restringido no solo en función de la demanda sino atento a la conflictividad en la zona.",
+      "updateTime": "2023-07-25T13:40:39.732083Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURKOTZxdlhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "juan espindola"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo lugar\n\n(Translated by Google)\nBeautiful place",
+    "createTime": "2023-07-23T16:58:36.733787Z",
+    "updateTime": "2023-07-23T16:58:36.733787Z",
+    "reviewReply": {
+      "comment": "Gracias Juan.",
+      "updateTime": "2023-07-23T17:09:44.857148Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURKdThQTnVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Brenda Micaela Correa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-07-22T20:39:05.602244Z",
+    "updateTime": "2023-07-22T20:39:05.602244Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Brenda.",
+      "updateTime": "2023-07-23T17:09:20.663700Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURKeTdIQ1RnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Victorio Cándido Fontana"
+    },
+    "starRating": "FOUR",
+    "comment": "Soy fanático del ACA y de YPF.\nEntiendo que por la ubicación existen algunas limitaciones en las comunicaciones, deberán mejorar las facilidades de acceso a las aplicaciones. El entorno es muy impactante. Buena temporada. Gracias\n\n(Translated by Google)\nI\u0027m a big fan of ACA and YPF.\nI understand that the location has some limitations in communications; they should improve access to the apps. The surroundings are stunning. Have a great season. Thanks",
+    "createTime": "2023-07-13T20:16:02.400244Z",
+    "updateTime": "2023-07-22T14:24:37.297827Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Sr Victorio, sería de.mucha ayuda que nos ampliara su comentario para evaluar especificamente en donde no logramos satisfacer su expectativa.",
+      "updateTime": "2023-07-13T20:48:20.115936Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURKa3FDZWZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Deviluka"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy linda y hermosa vista hacia el lago\n\n(Translated by Google)\nVery nice and beautiful view towards the lake",
+    "createTime": "2023-07-04T16:01:35.647912Z",
+    "updateTime": "2023-07-04T16:01:35.647912Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Norberto.",
+      "updateTime": "2023-07-04T16:45:07.562439Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKczlmbW93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Dasso"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-06-29T20:04:22.729180Z",
+    "updateTime": "2023-06-29T20:04:22.729180Z",
+    "reviewReply": {
+      "comment": "Gracias Ana.",
+      "updateTime": "2023-09-12T00:29:10.822943Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKaWNuUWhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Paracchini"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-06-26T21:06:26.342997Z",
+    "updateTime": "2023-06-26T21:06:26.342997Z",
+    "reviewReply": {
+      "comment": "Gracias Claudio.",
+      "updateTime": "2023-09-12T00:29:21.970395Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKdHVMNDZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Noemí Severino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-22T02:04:19.597282Z",
+    "updateTime": "2023-06-22T02:04:19.597282Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Silvia.",
+      "updateTime": "2023-06-22T04:27:21.209522Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKOU9lNGhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Zura"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-21T16:08:03.511258Z",
+    "updateTime": "2023-06-21T16:08:03.511258Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Diego.",
+      "updateTime": "2023-06-22T19:47:59.344233Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKMU1xVGZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "mariana rojas"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención, y la vista única!! Como para descansar un rato estirar las piernas con esa vista y seguir. Tienen cafetería!!\n\n(Translated by Google)\nExcellent service, and the view is amazing!! Perfect for relaxing, stretching your legs, and enjoying the view before continuing on your way. They have a café!",
+    "createTime": "2023-06-21T00:38:00.189150Z",
+    "updateTime": "2023-06-21T00:38:38.059882Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Mariana, nos encanta que lo hayas disfrutado.",
+      "updateTime": "2023-06-21T04:44:19.077046Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKeFBMWHJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriela Touris"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-19T00:30:28.725507Z",
+    "updateTime": "2023-06-19T00:30:28.725507Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Gabriela.",
+      "updateTime": "2023-06-19T20:35:55.510482Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKa0pEZEJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gisela Mendoza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-06-18T23:23:31.786954Z",
+    "updateTime": "2023-06-18T23:23:31.786954Z",
+    "reviewReply": {
+      "comment": "Gracias Gisela !",
+      "updateTime": "2023-06-19T20:36:17.511012Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKNE51MFpnEAE"
+  }]
+}

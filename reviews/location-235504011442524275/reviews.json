@@ -1,6 +1,74 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Ivan Gonzalez"
+    },
+    "starRating": "ONE",
+    "comment": "el hotel masomenos bien pero el restaurante y su servicio es pesimo\n\n(Translated by Google)\nThe hotel is so-so, but the restaurant and its service are terrible.",
+    "createTime": "2026-08-01T00:53:15.502932Z",
+    "updateTime": "2026-08-01T00:53:15.502932Z",
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kbFlVMXhNV2g1ZFV0V1RucEtkREpJTFdwMVgzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Denis Scolari"
+    },
+    "starRating": "ONE",
+    "comment": "Me cobraron una chocolatada marca cualquiera como un submarino , dos cafés intomables que los terminé tirando , no probé la comida y el lugar estaba limpio.\n\n(Translated by Google)\nThey charged me for a random brand of chocolate milk as much as a submarine, two undrinkable coffees that I ended up throwing away, I didn\u0027t try the food and the place was clean.",
+    "createTime": "2026-07-28T19:04:48.817724Z",
+    "updateTime": "2026-07-28T19:04:48.817724Z",
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKWmFURXhVRVp0TTBkQ2N6RTFaR3hOUlhvNGVXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Arriegui"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-27T23:17:37.569426Z",
+    "updateTime": "2026-07-27T23:17:37.569426Z",
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWRFJqTjVSVVIwUTJ4Q1lVZDRlRlpJUkd0RE1GRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Riddick"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena la estación y excelente el restaurante\n\n(Translated by Google)\nThe station was very good and the restaurant was excellent.",
+    "createTime": "2026-07-27T01:04:17.923382Z",
+    "updateTime": "2026-07-27T01:04:17.923382Z",
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWlkwWmhZek55WW5wWlVITXhRMEZEV0hsR2QwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Virgili"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-30T16:54:30.703889Z",
+    "updateTime": "2026-07-24T10:43:30.563887Z",
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdGRPWUpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Valenzuela"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-20T19:53:22.399049Z",
+    "updateTime": "2026-07-20T19:53:22.399049Z",
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1ak5qbExUVmhSVG1wYVZIUjZUMUZYWm1OYVpWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Del canto"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-18T23:51:06.918819Z",
+    "updateTime": "2026-07-18T23:51:06.918819Z",
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WWVYRlRWelZJWHpRelZrTnpZVlpEUm14T1FVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2026-07-16T12:10:52.026399Z",
+    "updateTime": "2026-07-16T12:10:52.026399Z",
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvNVltaGhNVlJaVkVKS2QxSjRNMUI0UTBGdmFFRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Melisa Manzanal"
     },
     "starRating": "FIVE",
@@ -97,72 +165,5 @@
     "createTime": "2026-04-14T12:45:29.946811Z",
     "updateTime": "2026-04-14T12:45:29.946811Z",
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSelFVSlNNbGhXVkVKYU4xWklTV1ZUZFhOSWJWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Oscar Hector Lopez"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-04-12T19:03:57.971053Z",
-    "updateTime": "2026-04-12T19:03:57.971053Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkSFRuRk5OV1IxWmxsMlMxWTVORFU1WkZSTGVHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Santiago Agudiak"
-    },
-    "starRating": "ONE",
-    "comment": "EN LA MADRUGADA NUNCA TIENEN DIECEL O TE DICEN QUE ESTA CERRADO. 3 VECES ME PASO.\n\n(Translated by Google)\nThey never have diesel in the early morning, or they tell you it\u0027s closed. This has happened to me three times.",
-    "createTime": "2026-04-04T06:10:05.830934Z",
-    "updateTime": "2026-04-04T06:10:05.830934Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swNGFYUnJNUzFDT1Zwc01rTTRlR2QwYWxSblUxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maximiliano Ezequiel Schütz"
-    },
-    "starRating": "FOUR",
-    "comment": "Hamburguesas gigantes y super completas.\n\n(Translated by Google)\nGiant and fully loaded hamburgers.",
-    "createTime": "2026-03-19T18:47:51.572904Z",
-    "updateTime": "2026-03-19T18:47:51.572904Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSck5rYzVMVnBEY1d0MWFrTnpjazgxTkdwS1RFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gustavo Capezzera"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-15T14:45:31.109614Z",
-    "updateTime": "2026-03-15T14:45:31.109614Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GVU5FZGtZaTE0Y3pScWRHSkdhVVozV2pKTlVYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo Ariel Ferraro"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-02-28T02:03:17.930427Z",
-    "updateTime": "2026-02-28T02:03:17.930427Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOVGRVeEpiVGxMVWtKMVYwcG1NMmszTlhaMlVuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Agenda del día Villaguay Raquel López"
-    },
-    "starRating": "FIVE",
-    "comment": "Tiene un Restaurante\nCon comida rica y gigantes\nCómo este omelette\n\n(Translated by Google)\nIt has a restaurant\nWith delicious and giant food\nLike this omelet",
-    "createTime": "2026-02-23T17:46:58.238322Z",
-    "updateTime": "2026-02-23T17:46:58.238322Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKSmVqZDFORlJuYjJkUmVubFlPRFZXYTFGRVNVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "mayra sabrina luna"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-02-22T22:08:22.600367Z",
-    "updateTime": "2026-02-22T22:08:22.600367Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT201dGJ6ZDRja0prZG01VFVsZDVkMmhNV1c5cWIwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jimena Blanchart"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-02-20T23:48:08.274119Z",
-    "updateTime": "2026-02-20T23:48:08.274119Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ocFIxWnZWRzEwVG1Wc2JHVmlWbU5KUVRKVGVXYxAB"
   }]
 }

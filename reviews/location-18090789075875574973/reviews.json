@@ -1,6 +1,69 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "julieta gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-24T18:11:29.369494Z",
+    "updateTime": "2026-07-24T18:11:29.369494Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Julieta por tu calificación. Que tengas un excelente fin de semana. ",
+      "updateTime": "2026-07-24T18:27:04.902961Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWZlJTMVViemR5UVZoaVQwNTNYMUkyWnpFek5XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Isa Menendez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-19T14:14:47.642069Z",
+    "updateTime": "2026-07-19T14:14:47.642069Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu calificación 💪🏾🇦🇷",
+      "updateTime": "2026-07-19T14:37:07.305315Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWMmFXUklRazVLZEdKWGJFeHNlbTFOYW5NM1IzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Torres"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención ☺️\n\n(Translated by Google)\nGreat service ☺️",
+    "createTime": "2026-07-16T13:51:47.623532Z",
+    "updateTime": "2026-07-16T13:51:47.623532Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu calificación y comentarios de nuestros colaboradores!",
+      "updateTime": "2026-07-19T14:37:40.073181Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKTFZFSmxVbGhUY0hBeFNrbFdXSE5YYkY5MllrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Chuminatti"
+    },
+    "starRating": "FOUR",
+    "comment": "Increible las puestas de sol.ahii carguen tipo  19hs que esta alucinmate\n\n(Translated by Google)\nThe sunsets are incredible. Charge up there around 7 pm, it\u0027s amazing.",
+    "createTime": "2026-07-15T19:01:40.165676Z",
+    "updateTime": "2026-07-15T19:01:40.165676Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu calificación y comentarios de nuestra ciudad ",
+      "updateTime": "2026-07-15T19:21:53.549957Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaQ1JGSklOVkZyYUdnNFVHNDVaRTA1VjJkRFNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Estanislao Jaime Bejarano"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2021-07-23T20:42:40.712043Z",
+    "updateTime": "2026-07-05T14:19:49.243273Z",
+    "reviewReply": {
+      "comment": "Gracias Estanislao por tus comentarios y calificación.\nSaludos!!!",
+      "updateTime": "2024-11-21T02:16:20.938370Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhaFA3cDh3RRAB"
+  }, {
+    "reviewer": {
       "displayName": "santo pecado"
     },
     "starRating": "FIVE",
@@ -189,65 +252,5 @@
       "updateTime": "2026-06-02T19:39:59.776030Z"
     },
     "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOWFlVOWFPRUpLYUVKQk1YbFBWVXhDYjJkZmJtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Karina Albagnac"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-02T18:29:38.830573Z",
-    "updateTime": "2026-06-02T18:29:38.830573Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu calificación ",
-      "updateTime": "2026-06-02T19:38:18.300612Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoWVEyaE9helJHUTJoNVdtdG9URXRUYTBsS09FRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Claudio Baroni"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-02T17:38:46.084166Z",
-    "updateTime": "2026-06-02T17:38:46.084166Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu calificación ",
-      "updateTime": "2026-06-02T19:40:10.262725Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT205MFZrOTNlbmxMTjNSVk5qUm9XVWxOY210cGFVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alba Jungblut"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-02T16:09:40.483751Z",
-    "updateTime": "2026-06-02T16:09:40.483751Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu calificación ",
-      "updateTime": "2026-06-02T16:31:07.101839Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5T1gxWjVMVGszT1dOSFMzZGxjbXRpUTNvMFdYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ignacio Crisol"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-02T16:07:37.250126Z",
-    "updateTime": "2026-06-02T16:07:37.250126Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu calificación ",
-      "updateTime": "2026-06-02T17:15:33.361837Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKNlRtaHdWR1kwWXpjemN5MVVWbEJ1UjJ0amMxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Kiara Medina"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-02T16:04:55.690801Z",
-    "updateTime": "2026-06-02T16:04:55.690801Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu calificación ",
-      "updateTime": "2026-06-02T16:31:24.847407Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18090789075875574973/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WMk5WVlNUbWhuU2xsSmFHUkdiREk1YkdVMVJIYxAB"
   }]
 }

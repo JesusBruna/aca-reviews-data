@@ -1,6 +1,24 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Atilio Sobrecasas"
+    },
+    "starRating": "TWO",
+    "comment": "Mala atención . Llega el horario de las 22 y no atiende nadie. Hay que esperar una hora para que hagan \"cambio de turno\". Lo mismo sucede en horario matituno\n\n(Translated by Google)\nPoor service. It\u0027s 10 PM and nobody\u0027s there. You have to wait an hour for them to \"change shifts.\" The same thing happens in the morning.",
+    "createTime": "2026-07-28T01:02:13.141598Z",
+    "updateTime": "2026-07-28T01:02:13.141598Z",
+    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdlVHeEJSMmMyTUZkamFqQjFNMVYwWm1KVWVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Alfredo Cavanna"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención pero necesita. Ejirar el exterior\n\n(Translated by Google)\nGood service but needs it. [Extends]",
+    "createTime": "2026-07-13T22:24:45.405113Z",
+    "updateTime": "2026-07-13T22:24:45.405113Z",
+    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxSVdHaHBhR3g0V0ROamNVcEhhVTlCVnpNeVpYYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Christian Glencross"
     },
     "starRating": "THREE",
@@ -216,31 +234,5 @@
       "updateTime": "2026-03-25T00:12:40.915324Z"
     },
     "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jeVNtUjBRVUpFU0VJd01UUkNVbVZhYm5aNmIzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rafael Espinosa"
-    },
-    "starRating": "ONE",
-    "comment": "La atención malicima, pésimo servicio. La entrada y salida a la misma estación de servicio muy deteriorada y mal estado!\n\n(Translated by Google)\nThe service was terrible, absolutely awful. The entrance and exit to the gas station were in very poor condition!",
-    "createTime": "2026-03-20T14:51:31.257551Z",
-    "updateTime": "2026-03-20T14:51:31.257551Z",
-    "reviewReply": {
-      "comment": "Hola Rafael !! Gracias por compartir tu opinión. Sentimos mucho escuchar que tu experiencia no fue satisfactoria,vamos a trabajar para mejorar saludos.",
-      "updateTime": "2026-03-25T00:42:25.658471Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT210UlZHOTNSMFZ1Y0hNNFZXNU5MWEJtTldwb0xWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Braian Orellana"
-    },
-    "starRating": "ONE",
-    "comment": "Lamentable el ingreso ala estación\nUna vergüenza\n\n(Translated by Google)\nThe entrance to the station was deplorable.\nA disgrace.",
-    "createTime": "2026-03-20T14:47:57.680376Z",
-    "updateTime": "2026-03-20T14:47:57.680376Z",
-    "reviewReply": {
-      "comment": "Hola Braian!! Gracias por compartir tu opinión. Sentimos mucho escuchar que tu experiencia no fue satisfactoria,vamos a trabajar para mejorar saludos.",
-      "updateTime": "2026-03-25T00:42:42.390412Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZMFUwaHJaR2hMWVRkeU9URklSMUkwVXkxVVVuYxAB"
   }]
 }

@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Diego Lizarraga"
+    },
+    "starRating": "FOUR",
+    "comment": "Poca atención y muy pocas cosas en el servís compra\n\n(Translated by Google)\nLittle attention and very few things in the shopping service",
+    "createTime": "2026-07-09T01:11:20.711669Z",
+    "updateTime": "2026-07-09T01:11:20.711669Z",
+    "name": "accounts/109853746269412609224/locations/4572994797407490123/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNWNqTnBja2hJYVhoR2VsOWZPRVpYUjNWRE5VRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Oriana Carolina Arriola"
     },
     "starRating": "FIVE",
@@ -43,7 +52,7 @@
     "name": "accounts/109853746269412609224/locations/4572994797407490123/reviews/Ci9DQUlRQUNvZENodHljRjlvT25adGJFOWhhekE1Wkdsa2IycFZWMVV5WDFKc1MxRRAB"
   }, {
     "reviewer": {
-      "displayName": "Marcelo Sand"
+      "displayName": "Marcelo Elías"
     },
     "starRating": "ONE",
     "comment": "Soy cliente de YPF en mi viaje por toda Argentina, desde La Quiaca a Usuahia, Usuahia a Puerto Iguazú y esta es la primera vez que no me dejan utilizar un baño. Venía que me orinaba y el playero me obligó a que tenía que cargar primero y luego podía utilizar el baño. Terminé yendo a la otra YPF de la ciudad y me antendieron amablemente.\n\n(Translated by Google)\nI\u0027m a regular YPF customer on my trip across Argentina, from La Quiaca to Ushuaia, and from Ushuaia to Puerto Iguazú, and this is the first time they haven\u0027t let me use the restroom. I really needed to urinate, and the attendant insisted I fill up my tank first before I could use the restroom. I ended up going to the other YPF station in town, and they helped me politely.",
@@ -165,14 +174,5 @@
     "createTime": "2026-03-02T22:17:33.607794Z",
     "updateTime": "2026-03-02T22:17:33.607794Z",
     "name": "accounts/109853746269412609224/locations/4572994797407490123/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taT0xYbHhZMUJVUVZrNU1HSkVNRGxJZUY5VE5YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "antonella Vargas"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
-    "createTime": "2026-02-27T00:35:34.323526Z",
-    "updateTime": "2026-02-27T00:35:34.323526Z",
-    "name": "accounts/109853746269412609224/locations/4572994797407490123/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5clUzWk5WVWd4UTFaSGRsZDBWbXRUTkUxVWNYYxAB"
   }]
 }

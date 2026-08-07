@@ -1,6 +1,69 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Sr. X"
+    },
+    "starRating": "TWO",
+    "comment": "Un ACA que no tiene ni siquiera focos para vender, de no creer.  Y los empleados que le tenes que rogar para preguntarle algo, ni onda para atender. Aguante axion\n\n(Translated by Google)\nAn ACA that doesn\u0027t even have light bulbs to sell, unbelievable. And the employees are so friendly you practically have to beg them to ask you anything, they\u0027re so unhelpful. Long live Axion!",
+    "createTime": "2026-07-26T13:12:30.947057Z",
+    "updateTime": "2026-07-26T13:12:30.947057Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWNllXWTFVV3BxWlRVM1NuVlZkbUpLZDA1VGRIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "nestor sanchez"
+    },
+    "starRating": "ONE",
+    "comment": "Fuí el día del la final del partido argentina y España y la chica que atendía dé muy mala gana\n\n(Translated by Google)\nI went on the day of the Argentina vs. Spain final and the girl who was serving was very reluctant.",
+    "createTime": "2026-07-20T08:56:44.796965Z",
+    "updateTime": "2026-07-20T08:56:44.796965Z",
+    "reviewReply": {
+      "comment": "Buen día Néstor Gracias por tus comentarios, estamos intentando detectar la situación con las cámaras de seguridad para accionar de corresponder.\nAgradeceré si nos podés dar una franja horaria de lo sucedido y en qué constó la mala atención.\nGracias.",
+      "updateTime": "2026-07-20T14:55:51.157281Z"
+    },
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCTVZ6Tk9PWFJzWDNkZlVHTlFlV0pXU1RWelVHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Klaudia Palma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-16T15:38:09.878997Z",
+    "updateTime": "2026-07-16T15:38:09.878997Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0MldEbEJOM2hvVlVsNlkwUk1TMVZ5YWpOZlIxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo MAXPOWER"
+    },
+    "starRating": "FIVE",
+    "comment": "Aceptan la app de ypf para descuento nocturno. En la ypf de bahía blanca y perticone nunca les anda la app después de las 00, sospechoso.\n\n(Translated by Google)\nThey accept the YPF app for nighttime discounts. At the YPF stations in Bahía Blanca and Perticone, the app never works after midnight, which is suspicious.",
+    "createTime": "2026-07-15T12:09:33.848115Z",
+    "updateTime": "2026-07-15T12:09:33.848115Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMFZtUjBTVnBMVWxBdFdqRnNTamQzVHpNek1FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mir"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-10T07:52:38.563547Z",
+    "updateTime": "2026-07-10T07:52:38.563547Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rd1YyMWZTR1EzYUZCek9URjRjWGN0UldGUmFtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Herrera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-08T10:20:52.967662Z",
+    "updateTime": "2026-07-08T10:20:52.967662Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VeFl6SkpkeTFuT0ZKbFdFTXRkRE10VlRaa1VWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cabañas El Refugio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-04T13:05:40.043635Z",
+    "updateTime": "2026-07-04T13:05:40.043635Z",
+    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT201WGVFUkJkakphTmt4d00xVkJXVmRvWkZoc2VVRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Andres Vila"
     },
     "starRating": "TWO",
@@ -112,65 +175,5 @@
     "createTime": "2026-05-10T15:45:56.614844Z",
     "updateTime": "2026-05-10T15:45:56.614844Z",
     "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GMVZXb3djRGQ2ZUcxSk56WnJhMGM0UkVad1NtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Esteban Esandi"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención y servicio\n\n(Translated by Google)\nGood attention and service",
-    "createTime": "2026-05-03T16:32:44.662726Z",
-    "updateTime": "2026-05-03T16:32:44.662726Z",
-    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CM1gxcFBMV1ZpVm5CNU0xTkZhbEpYUWxSTGEwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rocio Infante"
-    },
-    "starRating": "ONE",
-    "comment": "Malisimo, me sente y al querer consumir una soda ya que x estar en ayuno no puedo consumir otra cosa. Me dijeron q para sentarme debo consumir cafe o comida.\n\n(Translated by Google)\nTerrible. I sat down and wanted to have a soda because I was fasting and couldn\u0027t have anything else. They told me that to sit down I had to have coffee or food.",
-    "createTime": "2026-04-24T15:10:48.355363Z",
-    "updateTime": "2026-04-24T15:10:48.355363Z",
-    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xbGVXNUlSVkF0YTB4eFFVVnZSRGx5TFdVeFJrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nahuel Gallo"
-    },
-    "starRating": "ONE",
-    "comment": "Una vergüenza. Cargo nafta y no tienen baño! Son unos desastre..\n\n(Translated by Google)\nIt\u0027s a disgrace. I fill up with gas and they don\u0027t have a bathroom! They\u0027re a disaster.",
-    "createTime": "2026-04-23T22:23:06.638230Z",
-    "updateTime": "2026-04-23T22:23:06.638230Z",
-    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OaE16STBhbWRKWlVsQlpYbFJOSFV5YzFweVkzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Garrido"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención de los plateros\n\n(Translated by Google)\nGood service from the silversmiths",
-    "createTime": "2021-08-05T14:22:34.187441Z",
-    "updateTime": "2026-04-23T20:27:48.570346Z",
-    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhbFpPQ3FnRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Chalten Automotores"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-22T14:17:22.527339Z",
-    "updateTime": "2026-04-22T14:17:22.527339Z",
-    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pab1UxZEhibEZaVUdWc2FWRnFZM2RmY2xoWU1GRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Kike Cuervo"
-    },
-    "starRating": "FOUR",
-    "createTime": "2020-01-07T22:22:22.293425Z",
-    "updateTime": "2026-04-16T00:30:55.852815Z",
-    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/ChdDSUhNMG9nS0VJQ0FnSURNemU3VnFnRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "jully torres"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-15T16:59:23.331952Z",
-    "updateTime": "2026-04-15T16:59:23.331952Z",
-    "name": "accounts/109853746269412609224/locations/7506649888060018425/reviews/Ci9DQUlRQUNvZENodHljRjlvT205UmQwbzFhWHBwUzJSbFMzZzVlbk16YlVsSlkxRRAB"
   }]
 }

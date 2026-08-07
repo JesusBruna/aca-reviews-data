@@ -1,0 +1,252 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Manuel Baigorria"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-08-05T23:45:33.138661Z",
+    "updateTime": "2022-08-05T23:45:33.138661Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Juan Manuel!",
+      "updateTime": "2022-08-07T15:34:07.709868Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1ODhLM19RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Calori"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-08-05T03:31:41.401945Z",
+    "updateTime": "2022-08-05T03:31:41.401945Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Jorge!",
+      "updateTime": "2022-08-07T15:33:12.196600Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1bzZIeFp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Caceres"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-05T00:03:01.064145Z",
+    "updateTime": "2022-08-05T00:03:01.064145Z",
+    "reviewReply": {
+      "comment": "Gracias Andrea",
+      "updateTime": "2022-08-05T12:42:12.957355Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dzYtakJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juanmanuel Riva"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de primera 100%recomendable\n\n(Translated by Google)\nExcellent service, 100% recommended",
+    "createTime": "2022-08-04T21:20:17.362821Z",
+    "updateTime": "2022-08-04T21:20:17.362821Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Juanmanuel!",
+      "updateTime": "2022-08-04T21:33:54.596932Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dzk2aGZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Achucarro"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente la atención!!! Gracias!\n\n(Translated by Google)\nExcellent service!!! Thank you!",
+    "createTime": "2022-08-04T21:04:08.248997Z",
+    "updateTime": "2022-08-04T21:04:08.248997Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Sebastian!",
+      "updateTime": "2022-08-04T21:06:24.890806Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dzliNXpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "karina Biekiesz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-04T21:02:23.859223Z",
+    "updateTime": "2022-08-04T21:02:23.859223Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Karina!",
+      "updateTime": "2022-08-04T21:06:58.372494Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dzVhNU1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lara Pereyra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-04T21:02:20.945746Z",
+    "updateTime": "2022-08-04T21:02:20.945746Z",
+    "reviewReply": {
+      "comment": "Gracias Lara!",
+      "updateTime": "2022-08-04T21:07:15.841802Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dzVhakxBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Iambrich"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio y atencion\n\n(Translated by Google)\nExcellent service and attention",
+    "createTime": "2022-08-04T20:59:35.900251Z",
+    "updateTime": "2022-08-04T20:59:35.900251Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Lucas!",
+      "updateTime": "2022-08-04T21:07:52.246332Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dy1hbTdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "agustina forti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-04T20:59:26.042827Z",
+    "updateTime": "2022-08-04T20:59:26.042827Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Agustina!",
+      "updateTime": "2022-08-04T21:08:28.244227Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dzZhZnZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Serena Folino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-04T20:58:54.267378Z",
+    "updateTime": "2022-08-04T20:58:54.267378Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Serena!",
+      "updateTime": "2022-08-04T21:08:53.604488Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dy1hd2NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matías Ocampo"
+    },
+    "starRating": "FIVE",
+    "comment": "Genios\n\n(Translated by Google)\nGeniuses",
+    "createTime": "2022-08-04T20:57:59.259120Z",
+    "updateTime": "2022-08-04T20:57:59.259120Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Matias!",
+      "updateTime": "2022-08-04T21:09:19.878954Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dzZhQmVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Segura"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-04T20:55:39.898081Z",
+    "updateTime": "2022-08-04T20:55:39.898081Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Pedro!",
+      "updateTime": "2022-08-04T21:09:58.492583Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dzhiYW5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ines Marchesini"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-04T20:53:15.191905Z",
+    "updateTime": "2022-08-04T20:53:15.191905Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Ines!",
+      "updateTime": "2022-08-04T21:10:30.713044Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dzRha1ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "gabriel segura"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-04T20:49:51.092273Z",
+    "updateTime": "2022-08-04T20:49:51.092273Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Gabriel!",
+      "updateTime": "2022-08-04T21:10:45.527046Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dzdyT2dBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Cano"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion, esta todo impecable, un ejemplo de estacion.\n\n(Translated by Google)\nExcellent service, everything is spotless, an exemplary station.",
+    "createTime": "2022-08-04T20:49:03.984085Z",
+    "updateTime": "2022-08-04T20:49:03.984085Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Francisco!",
+      "updateTime": "2022-08-04T21:11:13.368330Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dzdxSTd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Segura"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención excelente!\nLa mejor YPF de la zona!\n\n(Translated by Google)\nExcellent service!\nThe best YPF station in the area!",
+    "createTime": "2022-08-04T20:47:02.909212Z",
+    "updateTime": "2022-08-04T20:47:02.909212Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Adriana!",
+      "updateTime": "2022-08-04T21:11:36.338883Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dzlyUTVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fernando Paradela"
+    },
+    "starRating": "FIVE",
+    "comment": "El lugar esta muy renovado y el personal es cordial. Hace unos días Martín me ayudo a cambiar la goma...\n\n(Translated by Google)\nThe place is very renovated and the staff is friendly. A few days ago, Martín helped me change my tire...",
+    "createTime": "2022-08-04T20:41:31.842107Z",
+    "updateTime": "2022-08-04T20:41:31.842107Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Fernando!",
+      "updateTime": "2022-08-04T21:05:54.655693Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1dzZyWUdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Sayago"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-08-04T20:39:04.170593Z",
+    "updateTime": "2022-08-04T20:39:04.170593Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Rafael!",
+      "updateTime": "2022-08-04T20:40:02.617736Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dzRyRHRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Segura"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención. Rápidos y no furiosos\n\n(Translated by Google)\nExcellent service. Fast, not furious.",
+    "createTime": "2022-08-04T20:35:38.042718Z",
+    "updateTime": "2022-08-04T20:35:38.042718Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Diego!",
+      "updateTime": "2022-08-04T20:36:43.105418Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1d19MRTl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Viola"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención y servicio excelente. La mejor estación de servicio\n\n(Translated by Google)\nExcellent service and attention. The best gas station.",
+    "createTime": "2022-08-04T20:32:13.423116Z",
+    "updateTime": "2022-08-04T20:32:13.423116Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Roberto!",
+      "updateTime": "2022-08-04T20:35:40.573568Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9654147380231264778/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1dzlLSzl3RRAB"
+  }]
+}

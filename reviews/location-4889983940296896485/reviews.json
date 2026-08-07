@@ -1,6 +1,44 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "federico kahl"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-27T22:56:30.663148Z",
+    "updateTime": "2026-07-27T22:56:30.663148Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Federico, por tu valoración de 5 estrellas! ⭐⭐⭐⭐⭐ Nos alegra saber que tu experiencia fue positiva. ¡Esperamos volver a recibirte pronto!",
+      "updateTime": "2026-07-27T23:45:26.171723Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNemEyMW1SMDVMVTFoWFNGUkNaMGxrTkZaRVQwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Graziosi"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños bien limpios excelente atención al\n\n(Translated by Google)\nVery clean bathrooms, excellent service",
+    "createTime": "2026-07-25T20:33:21.148034Z",
+    "updateTime": "2026-07-25T20:33:21.148034Z",
+    "reviewReply": {
+      "comment": "¡Gracias, Marcelo, por tu excelente valoración! Nos alegra mucho que destaques la limpieza de nuestras instalaciones y la atención recibida. Comentarios como el tuyo nos motivan a seguir brindando el mejor servicio. ¡Te esperamos pronto! 😊",
+      "updateTime": "2026-07-26T10:14:04.689763Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xabVNHNXFNRzFGZW5OR2QxTlFVelF5VEUweExWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Pannunzio"
+    },
+    "starRating": "ONE",
+    "comment": "Ojo que El ticket de la carga no se puede leer … cuando te quejas te dicen que ya le avisaron al jefe … pero siguen igual … hasta que no cambien no  cargo más\n\n(Translated by Google)\nBeware, the loading receipt is unreadable… when you complain they tell you they\u0027ve already notified the manager… but things continue as they are… I won\u0027t load any more until they change.",
+    "createTime": "2026-07-14T02:25:55.213029Z",
+    "updateTime": "2026-07-14T02:25:55.213029Z",
+    "reviewReply": {
+      "comment": "Hola Eduardo, gracias por tomarte el tiempo de comentarnos lo sucedido. Queremos informarte que el inconveniente con la impresión de los tickets fue solucionado el día 4 del corriente mes, por lo que nos resulta extraño que haya ocurrido nuevamente hace apenas 14 horas.\nTe invitamos a acercarte a la estación cuando gustes para verificarlo personalmente. Para nosotros es muy importante que cada cliente reciba su comprobante de manera correcta y cualquier observación nos ayuda a seguir mejorando.\n¡Te esperamos y gracias por ayudarnos a mejorar nuestro servicio!",
+      "updateTime": "2026-07-14T17:11:16.517486Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZNGFuQlhNR2hRWVhGclpYbFhOelJvYmxOVlNXYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Franco Di Marzio"
     },
     "starRating": "FIVE",
@@ -19,6 +57,10 @@
     "starRating": "FIVE",
     "createTime": "2026-05-27T05:34:11.177263Z",
     "updateTime": "2026-05-27T05:34:11.177263Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Nicolás! ⭐⭐⭐⭐⭐ Nos pone muy contentos recibir tu valoración. Seguimos trabajando día a día para brindar siempre una excelente atención. ¡Te esperamos nuevamente!",
+      "updateTime": "2026-07-27T23:46:41.930415Z"
+    },
     "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aeVprdFBaWGxMTFhaT2JGbGpTMkp6V21sblJIYxAB"
   }, {
     "reviewer": {
@@ -27,6 +69,10 @@
     "starRating": "FOUR",
     "createTime": "2026-05-24T07:12:27.409119Z",
     "updateTime": "2026-05-24T07:12:27.409119Z",
+    "reviewReply": {
+      "comment": "¡Gracias, Ariel, por tu valoración! ⭐⭐⭐⭐ Agradecemos que hayas compartido tu experiencia y esperamos que en tu próxima visita podamos ganarnos esa quinta estrella. ¡Te esperamos!",
+      "updateTime": "2026-07-27T23:47:10.579945Z"
+    },
     "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJeFRscFlaMGxIVGxOWFIwaE1NVWxaWWpkMGFIYxAB"
   }, {
     "reviewer": {
@@ -36,6 +82,10 @@
     "comment": "Muy buena atención.  Recomendable.\n\n(Translated by Google)\nExcellent service. Highly recommended.",
     "createTime": "2026-05-12T13:53:22.306156Z",
     "updateTime": "2026-05-12T13:53:22.306156Z",
+    "reviewReply": {
+      "comment": "¡Gracias, Juan! ⭐⭐⭐⭐⭐ Saber que te llevaste una buena experiencia y que nos recomendás es la mejor devolución que podemos recibir. ¡Será un gusto volver a encontrarnos en tu próxima parada!",
+      "updateTime": "2026-07-27T23:47:53.329012Z"
+    },
     "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNk1VOW9jRFF6WlRsRFZYSndhRmhIZEhkSVExRRAB"
   }, {
     "reviewer": {
@@ -202,42 +252,5 @@
       "updateTime": "2026-02-09T12:19:29.084296Z"
     },
     "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwTVZraFFaME5wUldGMlRsY3RUbWRvU1MxV1lrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Patricia Verónica Torrent"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-01-26T19:21:51.451432Z",
-    "updateTime": "2026-01-26T19:21:51.451432Z",
-    "reviewReply": {
-      "comment": "¡Te agradecemos tu valoración! Esperamos verte pronto.",
-      "updateTime": "2026-01-26T22:58:03.055294Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT213MmRYUnJUVGR3Y21OdWMwTmFWamx5WVdwaFNYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ruben Palmieri"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-01-22T22:49:34.502358Z",
-    "updateTime": "2026-01-22T22:49:34.502358Z",
-    "reviewReply": {
-      "comment": "Nos alegra haber estado a la altura de tu visita. ¡Gracias por tu puntuación!",
-      "updateTime": "2026-01-23T07:11:25.370729Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CaGVDMXJTMUJyVjB4U09GQlNSM0JHUmpoUk5IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Estela Isabel Padula"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención!!\nNos solucionaron un problema de manera eficiente y amable!!\n\n(Translated by Google)\nExcellent service!\nThey resolved our problem efficiently and kindly!",
-    "createTime": "2026-01-19T00:23:33.300436Z",
-    "updateTime": "2026-01-19T00:23:33.300436Z",
-    "reviewReply": {
-      "comment": "¡Muchísimas gracias, Estela! 😊\nNos alegra saber que pudimos ayudarte y que te llevaste una buena experiencia. Siempre estamos para dar una mano cuando lo necesites. ¡Te esperamos de nuevo! 🙌",
-      "updateTime": "2026-01-20T13:05:22.508438Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GUU1DMTJjRUpsU2pWVlRGOVNOblZ1T0VGMlQxRRAB"
   }]
 }

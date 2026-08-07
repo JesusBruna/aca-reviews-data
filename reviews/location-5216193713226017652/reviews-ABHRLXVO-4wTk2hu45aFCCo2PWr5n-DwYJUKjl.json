@@ -1,0 +1,245 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jorge Rodriguez"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-06-08T17:22:41.381802Z",
+    "updateTime": "2026-06-08T17:22:41.381802Z",
+    "reviewReply": {
+      "comment": "Hola Jorge! Como estás? Gracias por compartir tu opinión. Me gustaría saber el motivo de las 3 estrellas para seguir mejorando",
+      "updateTime": "2026-07-27T14:59:53.875952Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WeGVWZEJjblJyT1VNelVFcEtXRXQ1ZVhsclNGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Caso"
+    },
+    "starRating": "FOUR",
+    "comment": "Eficientes, aunque pueden mejorar el agua caliente para termos, desde que cambiaron de marca sabe mal.\n\n(Translated by Google)\nEfficient, although they could improve the hot water for thermoses, since they changed brands it tastes bad.",
+    "createTime": "2024-02-08T20:13:52.254233Z",
+    "updateTime": "2026-06-03T12:17:30.880308Z",
+    "reviewReply": {
+      "comment": "Hola Sergio! Muchas gracias por compartir tu opinión!! Nos ayuda mucho a seguir mejorando",
+      "updateTime": "2026-07-27T15:00:20.338442Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0Nzd2ZTdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lo de Pitoca"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2026-06-03T01:27:09.108206Z",
+    "updateTime": "2026-06-03T01:27:09.108206Z",
+    "reviewReply": {
+      "comment": "Hola! Muchas gracias por compartir tu opinión ",
+      "updateTime": "2026-07-27T15:00:32.603699Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT210NWVIUm5YM0ZKYXpobmNsRlVkRFZMUkdOWVZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Cignacco"
+    },
+    "starRating": "FIVE",
+    "comment": "Después del peaje, una parada. Llenar el tanque y tomar un cafe\ncafésobre ruta 2.\nEn Samborombon\n\n(Translated by Google)\nAfter the tollbooth, a stop. Fill up the tank and have a coffee.\nCoffee on Route 2. In Samborombon.",
+    "createTime": "2026-06-01T13:12:40.569581Z",
+    "updateTime": "2026-06-01T13:12:40.569581Z",
+    "reviewReply": {
+      "comment": "Hola Graciela! Gracias por compartir tu opinión. La esperamos nuevamente ",
+      "updateTime": "2026-07-27T15:02:07.047182Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGaVRHZFNSMnhrWVRCVFJqWXlaazlwWkRoRWEzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Gabriela Micolaucich"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2026-05-25T20:58:29.080021Z",
+    "updateTime": "2026-05-25T20:58:29.080021Z",
+    "reviewReply": {
+      "comment": "Hola Maria! Muchas gracias por compartir tu opinión!",
+      "updateTime": "2026-07-27T15:02:16.801771Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFM2NEbE9Ra1Z6YTNkS2RFaDFkWEpyWDJFNWFYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Eduardo Bardi"
+    },
+    "starRating": "FIVE",
+    "comment": "No hay como el ACA.\nExcelente personal de la empresa. Ninguna sucursal falla.\n\n(Translated by Google)\nThere\u0027s nothing like ACA.\nThe company\u0027s staff is excellent. Every branch is reliable.",
+    "createTime": "2026-05-22T22:31:36.034274Z",
+    "updateTime": "2026-05-22T22:31:36.034274Z",
+    "reviewReply": {
+      "comment": "Hola Marcelo! Muchas gracias por compartir tu opinión. Nos ayuda muchísimo ",
+      "updateTime": "2026-07-27T15:02:31.948514Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WFJqSkVNMHQ0Vmt4RGNrTXdSR3M0Y0hkWVluYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Gerhard"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-05-20T13:01:32.823288Z",
+    "updateTime": "2026-05-20T13:01:32.823288Z",
+    "reviewReply": {
+      "comment": "Hola Juan! Muchas gracias por compartir tu opinión, nos ayuda mucho.\nQuisiera saber el motivo de las 3 estrellas para seguir mejorando.",
+      "updateTime": "2026-07-27T15:03:02.986663Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1MWIwWkVWV0pDVjNOU2FXNXlSbDlLYWt4eGFsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Amanda Paulos"
+    },
+    "starRating": "THREE",
+    "comment": "Hay 6 mesas en el barcito.\n2 estaban ocupadas con elementos de limpieza, a las 11.40 am. Y en otra sentado un empleado.\nDónde está la higiene?\nSoy socia del ACA.\n\n(Translated by Google)\nThere are 6 tables in the little bar.\n\nTwo were occupied by cleaning supplies at 11:40 am. And an employee was sitting at another one.\nWhere is the hygiene?\nI\u0027m a member of the ACA.",
+    "createTime": "2026-05-18T14:39:23.961821Z",
+    "updateTime": "2026-05-18T14:49:28.834993Z",
+    "reviewReply": {
+      "comment": "Hola Amanda! Gracias por compartir tu opinión.\nJustamente el higiene está en los elementos de limpieza y las mesas disponibles. Me comunique, el empleado estaba pasando el pedido a la otra persona que estaba presente y mientras veían que mercadería hacia falta.\nMuchas gracias",
+      "updateTime": "2026-07-27T15:05:29.493010Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FMFRIWlpNblpHZFVoVlFVaHlSMkV6WjNwdFJWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Giu"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-08T20:32:22.514947Z",
+    "updateTime": "2026-05-08T20:32:22.514947Z",
+    "reviewReply": {
+      "comment": "Hola Carlos! Gracias por compartir tu opinión!",
+      "updateTime": "2026-07-27T15:05:41.599087Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vM1RWZENPVWRWV1dOeVF6bE9UR05UYTNSWVFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Cordella"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención como todas las estaciones del acá, un orgullo pertenecer\n\n(Translated by Google)\nExcellent service, as with all the stations here; a source of pride to be a part of this community.",
+    "createTime": "2026-05-07T00:30:12.719893Z",
+    "updateTime": "2026-05-07T00:30:12.719893Z",
+    "reviewReply": {
+      "comment": "Hola Jorge! Muchas gracias por compartir tu opinión! Nos sirve demasiado",
+      "updateTime": "2026-07-27T15:05:55.833956Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oeFJXcENhV3h5Y2xwc1FVeERja3hDVFZWbk1XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Ragonese"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños limpios, estacionamientos sin problemas\n\n(Translated by Google)\nClean restrooms, easy parking",
+    "createTime": "2026-05-05T12:17:45.699808Z",
+    "updateTime": "2026-05-05T12:17:45.699808Z",
+    "reviewReply": {
+      "comment": "Hola Marcelo! Muchas gracias por compartir tu opinión!! ",
+      "updateTime": "2026-07-27T15:06:13.538090Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NM1FYQTVTMDVVUjNGWE9XNWtaVTA0UlZwdU0wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruth Rios"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-05-04T16:17:49.079941Z",
+    "updateTime": "2026-05-04T16:17:49.079941Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGTFJHZENVWE5GTjNWd1kzTXlhSGhITjAxa2IwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Samu"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención siempre paramos acá, los empleados un 10\n\n(Translated by Google)\nExcellent service, we always stop here, the employees are a 10/10",
+    "createTime": "2026-05-04T01:07:50.348420Z",
+    "updateTime": "2026-05-04T01:07:50.348420Z",
+    "reviewReply": {
+      "comment": "Hola Samu! Muchas gracias por compartir tu opinión, nos sirve mucho!",
+      "updateTime": "2026-07-27T15:06:31.915355Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOemQzTlNUbnAwVFhwTmVrWTNXbGR6T1MxVE4zYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ale Dimitruk"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso lugar para parar a \"estirar las piernas\" ♥️\n\n(Translated by Google)\nBeautiful place to stop and \"stretch your legs\" ♥️",
+    "createTime": "2026-05-03T20:38:22.710436Z",
+    "updateTime": "2026-05-03T20:38:22.710436Z",
+    "reviewReply": {
+      "comment": "Hola Ale! Como estás? Muchas gracias por compartir tu opinión! Nos ayuda muchisimo",
+      "updateTime": "2026-07-27T15:07:18.233328Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OdlZ6QnFWVXR1Uld4aFlWZEZXWHBPTlVOd1NrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alex Bon Dulich"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre descanso allí...baños limpios .sencillo y hermoso parque.\n\n(Translated by Google)\nI always relax there...clean bathrooms.simple and beautiful park.",
+    "createTime": "2023-06-22T20:23:19.065156Z",
+    "updateTime": "2026-05-02T04:28:12.447283Z",
+    "reviewReply": {
+      "comment": "Hola Alex! Muchas gracias por compartir tu opinión. Nos ayuda muchisimo!",
+      "updateTime": "2026-07-27T15:07:32.470522Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKM0xpRW9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Naturaleza"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo paseo en familia\n\n(Translated by Google)\nLovely family outing",
+    "createTime": "2026-04-21T22:28:13.130305Z",
+    "updateTime": "2026-04-29T11:07:22.787403Z",
+    "reviewReply": {
+      "comment": "Muchas gracias!!",
+      "updateTime": "2026-07-27T15:07:39.489351Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkSVREbEVURk41ZUhaV1pXVjBUell0VjNSak5WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel Isella"
+    },
+    "starRating": "ONE",
+    "createTime": "2023-10-20T23:07:16.209245Z",
+    "updateTime": "2026-04-28T13:00:59.901669Z",
+    "reviewReply": {
+      "comment": "Hola Ezequiel! Como estás? Me gustaría saber el motivo de la única estrella para seguir mejorando. Muchas gracias ",
+      "updateTime": "2026-07-27T15:08:01.959890Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1dk1mR0FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo,"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-04-27T09:29:15.053057Z",
+    "updateTime": "2026-04-27T09:29:15.053057Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GVloweGhNMVJFVEZkamRrOVlaMjV2UkZwaVRHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Verna"
+    },
+    "starRating": "FIVE",
+    "comment": "Paro siempre en ACA Samborombon, me trae recuerdos de cuando iba de chico con mis viejos a Mar del Plata.\nInstalaciones impecables como todos las ACA.\n\n(Translated by Google)\nI always stop at ACA Samborombon; it brings back memories of going there as a kid with my parents to Mar del Plata.\nThe facilities are impeccable, like all ACA locations.",
+    "createTime": "2026-04-21T11:30:25.006674Z",
+    "updateTime": "2026-04-21T11:30:25.006674Z",
+    "reviewReply": {
+      "comment": "Hola Daniel!! Muchísimas gracias por ser fiel al ACA Samborombon. \nLo esperamos siempre cuando ande por ruta 2 ",
+      "updateTime": "2026-07-27T15:09:14.196946Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WYWNUTlliWGw1TFhaRkxWTjRNRzkwTWxCVWJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "emilio lopez"
+    },
+    "starRating": "FIVE",
+    "comment": "Vo toda estsvion del ACA\nSon un lujo\n\n(Translated by Google)\nI\u0027m going to the whole ACA station.\nThey\u0027re a luxury.",
+    "createTime": "2024-06-22T09:16:36.833846Z",
+    "updateTime": "2026-04-18T13:03:16.105808Z",
+    "name": "accounts/109853746269412609224/locations/5216193713226017652/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMbmJURVdnEAE"
+  }]
+}

@@ -1,0 +1,170 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Leonardo Ciccale"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-01-27T21:59:43.923573Z",
+    "updateTime": "2022-01-27T21:59:43.923573Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdHNIa05REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ulises Senn"
+    },
+    "starRating": "THREE",
+    "comment": "Servicio acotado y medido\n\n(Translated by Google)\nLimited and measured service",
+    "createTime": "2022-01-22T19:51:02.846087Z",
+    "updateTime": "2022-01-22T19:51:03.755473Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSURtd3Vqa2pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raúl Pighin"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2022-01-22T12:54:46.488277Z",
+    "updateTime": "2022-01-22T12:54:46.488277Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSURtX00yNC1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Denis Bevilacqua"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente estación para cargar combustible! Muy recomendable!\n\n(Translated by Google)\nExcellent gas station! Highly recommended!",
+    "createTime": "2022-01-22T02:37:33.446923Z",
+    "updateTime": "2022-01-22T02:38:30.254553Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSURtdk1EUllnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Romildo G. FANTIN"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2022-01-21T14:59:00.693940Z",
+    "updateTime": "2022-01-21T14:59:00.693940Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSURtN1BlbFlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Piantino"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-18T04:03:08.809037Z",
+    "updateTime": "2022-01-18T04:03:08.809037Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMk16aE1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Fernandez"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-01-10T17:27:33.693643Z",
+    "updateTime": "2022-01-10T17:27:33.693643Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtMjZfTkNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "leonardo Leiva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-07T02:29:18.386900Z",
+    "updateTime": "2022-01-07T02:29:18.386900Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtX2RMcWtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Body Pilates Studio"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención a veces se hace cola y tenes que esperar mucho\n\n(Translated by Google)\nThe service is good, but sometimes there\u0027s a queue and you have to wait a long time.",
+    "createTime": "2022-01-05T16:41:03.027276Z",
+    "updateTime": "2022-01-05T16:42:17.882844Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtemNySS13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romi Wachendorff"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-01-05T14:56:56.388102Z",
+    "updateTime": "2022-01-05T14:56:56.388102Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtamFlZjdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Adobato"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-01-04T19:43:14.772909Z",
+    "updateTime": "2022-01-04T19:43:14.772909Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtMWZuMUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Moisés Fabián"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-03T03:19:50.317476Z",
+    "updateTime": "2022-01-03T03:19:50.317476Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtMmN2NGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Quinteros"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-12-30T19:19:53.914899Z",
+    "updateTime": "2021-12-30T19:19:53.914899Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtd1lfWVpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Anabella"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-30T00:41:09.075381Z",
+    "updateTime": "2021-12-30T00:41:09.075381Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtdnRta2FREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Mikucauskas"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-12-29T03:12:03.489781Z",
+    "updateTime": "2021-12-29T03:12:03.489781Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtcm9YZEd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "hugo hernan tacca"
+    },
+    "starRating": "FOUR",
+    "comment": "La unica YPF del ACA en la ciudad  de Santa Fe\n\n(Translated by Google)\nThe only YPF station belonging to the ACA in the city of Santa Fe",
+    "createTime": "2021-12-28T23:17:56.473902Z",
+    "updateTime": "2021-12-28T23:17:57.892363Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChRDSUhNMG9nS0VJQ0FnSUNtcnNnbxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Gaido"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-03T16:54:56.886186Z",
+    "updateTime": "2021-12-27T03:59:49.565916Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHLWI2aDR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Bernardi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-12-22T19:56:24.255188Z",
+    "updateTime": "2021-12-22T19:56:24.255188Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtb3FQY0pREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio V."
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-19T22:22:01.214007Z",
+    "updateTime": "2021-12-19T22:22:01.214007Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChdDSUhNMG9nS0VJQ0FnSUNtdEt5Y3ZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Betiana Fagnola"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-17T19:37:12.411443Z",
+    "updateTime": "2021-12-17T19:37:12.411443Z",
+    "name": "accounts/109853746269412609224/locations/4770193588747859421/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtMkpPMWNnEAE"
+  }]
+}

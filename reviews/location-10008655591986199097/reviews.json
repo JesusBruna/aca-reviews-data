@@ -1,6 +1,49 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Juan Carlos Conrado Dominguez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y rapidez,  además reciben YPF SERVICLUB\n\n(Translated by Google)\nGood and fast service, plus they accept YPF SERVICLUBS",
+    "createTime": "2017-04-25T09:58:39.247Z",
+    "updateTime": "2026-08-02T15:36:15.570215Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBX3BYaGVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Constanza Iturbe"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-02T12:57:33.638182Z",
+    "updateTime": "2026-08-02T12:57:33.638182Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xobmRWUmhla3hNWDFwMmJubzBiVFE1YkRKbVZtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Guelfo"
+    },
+    "starRating": "FIVE",
+    "comment": "Todos los combustibles, tiene Full, muy buena atención de los empleados. Muy concurrido por ser muy céntrico. YPF ES ARGENTINA.\n\n(Translated by Google)\nAll fuels available, full service, excellent customer service. Very busy due to its central location. YPF IS ARGENTINA.",
+    "createTime": "2026-08-02T00:11:46.823504Z",
+    "updateTime": "2026-08-02T00:11:46.823504Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT205QlEzbERXRE5xVVhodVlsSTBYMnBJVnpVeVVuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "pablo bernal"
+    },
+    "starRating": "TWO",
+    "comment": "Acceso muy incómodo, poco espacio y atención lenta x falta de personal. Personal amable pero hay q ir con paciencia\n\n(Translated by Google)\nVery inconvenient access, cramped space, and slow service due to staff shortages. The staff is friendly, but you need to be patient.",
+    "createTime": "2026-07-31T18:16:25.502022Z",
+    "updateTime": "2026-07-31T18:16:25.502022Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOUWVqaEJka3g0YzNwSVpWUTFRa1F3Y0VWRFUzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Benjamín Cruz"
+    },
+    "starRating": "ONE",
+    "createTime": "2026-07-24T00:00:10.452462Z",
+    "updateTime": "2026-07-24T00:00:10.452462Z",
+    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wUFdWZENiMUpZUVhKTE1tZG5UR1kyVVhsWE1HYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Mariano Carrizo"
     },
     "starRating": "FIVE",
@@ -132,47 +175,5 @@
     "createTime": "2026-05-18T22:22:27.789172Z",
     "updateTime": "2026-05-18T22:22:27.789172Z",
     "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xTloxUmlVMEUzV0VVMmVVSTFSMVJxVDBOaWRHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Graciela Machuca"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-17T08:08:10.825573Z",
-    "updateTime": "2026-05-17T08:08:10.825573Z",
-    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxWWFrNWFjMUl6Y2pKZk9YTlZkVzQzYm1abWRXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "MARCOS G. FORNI"
-    },
-    "starRating": "FOUR",
-    "comment": "Buen lugar para tomar algo mientras realizan el servicio de boxes\n\n(Translated by Google)\nGood place to have a drink while you get your car serviced.",
-    "createTime": "2026-05-15T19:08:34.528926Z",
-    "updateTime": "2026-05-15T19:08:34.528926Z",
-    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoRmRYTk1NbkI0VkhWSGVtOHdUbUphWnpkbmRHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Cintia Ortega"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-07T22:15:51.650613Z",
-    "updateTime": "2026-05-07T22:15:51.650613Z",
-    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsc1pVVkdVVFZWZURCd2VFMDRURkZGYlhkSFNtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "GREGORIO GASPAR"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-22T15:15:10.258283Z",
-    "updateTime": "2026-04-22T15:15:10.258283Z",
-    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kR1NGRjBTbWxmUTNkbllsRXpjbTFSZVU4MlYzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gustavo Balvorin"
-    },
-    "starRating": "FIVE",
-    "comment": "La mejor.atencion recibo\n\n(Translated by Google)\nThe best service I received",
-    "createTime": "2026-01-26T20:07:30.510839Z",
-    "updateTime": "2026-04-15T14:33:35.938296Z",
-    "name": "accounts/109853746269412609224/locations/10008655591986199097/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKaWIxWnFjQzFRWTB4RmRXWlNkMHhaYzB0SFMxRRAB"
   }]
 }

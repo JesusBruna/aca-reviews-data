@@ -1,0 +1,176 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Gregorio Marcial"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-22T11:33:24.981316Z",
+    "updateTime": "2021-03-22T11:33:24.981316Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5cjVuMFN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Veteri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-16T18:39:49.093531Z",
+    "updateTime": "2021-03-16T18:39:49.093531Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5czV5dHZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Valinotto"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-03-13T15:08:15.440257Z",
+    "updateTime": "2021-03-13T15:08:15.440257Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5aGY3Vk9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Quera!"
+    },
+    "starRating": "FIVE",
+    "comment": "Ricaso el café\n\n(Translated by Google)\nThe coffee was delicious.",
+    "createTime": "2021-03-09T22:35:30.602885Z",
+    "updateTime": "2021-03-09T22:35:30.602885Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5d2RINGlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norma Clara Oldani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-08T04:52:56.833916Z",
+    "updateTime": "2021-03-08T04:52:56.833916Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5cnB1eWpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jorge ledesma"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención  de los estacioneros\n\n(Translated by Google)\nGood service from parkers",
+    "createTime": "2021-03-07T23:19:24.816994Z",
+    "updateTime": "2021-03-07T23:19:24.816994Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5cnV5RXFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Joa Cámara"
+    },
+    "starRating": "THREE",
+    "comment": "Esta bastante bien\n\n(Translated by Google)\nIt\u0027s pretty good",
+    "createTime": "2021-03-07T05:08:04.202801Z",
+    "updateTime": "2021-03-07T05:08:04.202801Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5OXA2SmR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!!\n\n(Translated by Google)\nExcellent service!!",
+    "createTime": "2021-03-06T21:06:03.094208Z",
+    "updateTime": "2021-03-06T21:06:06.012966Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5dHVISWtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jose casas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-06T06:12:46.645001Z",
+    "updateTime": "2021-03-06T06:12:46.645001Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5bHNUcGx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "javier heredia"
+    },
+    "starRating": "FOUR",
+    "comment": "Siempre me atienden bien y rapido\n\n(Translated by Google)\nThey always treat me well and quickly.",
+    "createTime": "2021-03-03T01:33:37.259117Z",
+    "updateTime": "2021-03-03T01:33:37.259117Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5aXR2am5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Christian Alenzo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-02T21:38:55.883438Z",
+    "updateTime": "2021-03-02T21:38:55.883438Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5aW9hYzdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonio Roman"
+    },
+    "starRating": "THREE",
+    "comment": "Buen negocio para realizar mecánica ligera vehicular. Buena atención. Precios razonables. Buena expetiencia...\n\n(Translated by Google)\nGood business for light vehicle mechanical work. Good service. Reasonable prices. Good experience...",
+    "createTime": "2021-02-28T19:58:01.325451Z",
+    "updateTime": "2021-02-28T19:58:01.325451Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5Z3AzV29BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Bucca"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2021-02-27T17:25:47.385218Z",
+    "updateTime": "2021-02-27T17:25:47.385218Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5bkl1WGdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariana Paula Garay"
+    },
+    "starRating": "FIVE",
+    "comment": "👍👍👍",
+    "createTime": "2021-02-21T10:14:30.457482Z",
+    "updateTime": "2021-02-21T10:14:30.457482Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5c055LXJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alber M Prieto"
+    },
+    "starRating": "FIVE",
+    "comment": "Conseguí focos de repuesto para el auto.Me sacaron del apuro.\n\n(Translated by Google)\nI got replacement bulbs for the car. They got me out of a bind.",
+    "createTime": "2021-02-20T10:41:35.593641Z",
+    "updateTime": "2021-02-20T10:42:01.292242Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUR5b05mQkFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fede Verdeal"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2021-02-16T15:50:19.973605Z",
+    "updateTime": "2021-02-16T15:50:19.973605Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5MTV5anV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Eduardo Pizarro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-14T00:36:51.125684Z",
+    "updateTime": "2021-02-14T00:36:51.125684Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5bTRIdThRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eligio Pablo Zanotti"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy linda estación de servicio.\n\n(Translated by Google)\nVery nice gas station.",
+    "createTime": "2021-02-13T11:50:31.501138Z",
+    "updateTime": "2021-02-13T11:50:31.501138Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5cTlHREx3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eva Barrio Cornejo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2021-02-12T15:15:13.821216Z",
+    "updateTime": "2021-02-12T15:15:13.821216Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5ODlYS2d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Andreussi"
+    },
+    "starRating": "THREE",
+    "comment": "La atención y el estado de la estación es excelente. Si vas a cargar aire en los neumáticos es gratis, tiene Box y el bar, muy ordenado y limpios. El único tema es la app de YPF para pagar con QR, casi nunca funciona y uno pierde el 10% de descuento, ahora, no sé si es por los GB\u0027s  o los KBPS de internet contratados son bajos o porque la app de YPF se cae en todo el país.\n\n(Translated by Google)\nThe service and the station\u0027s condition are excellent. If you\u0027re getting your tires inflated, it\u0027s free. It has a service bay and a very tidy and clean bar. The only issue is the YPF app for QR code payments; it almost never works, and you lose the 10% discount. Now, I don\u0027t know if it\u0027s because the data plan or internet speed is low, or because the YPF app crashes nationwide.",
+    "createTime": "2021-02-11T23:00:58.472833Z",
+    "updateTime": "2021-02-11T23:00:58.472833Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5MDViNTNBRRAB"
+  }]
+}

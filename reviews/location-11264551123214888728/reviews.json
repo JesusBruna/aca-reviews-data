@@ -1,6 +1,116 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Vanesa Fassi"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-08-02T20:02:30.024950Z",
+    "updateTime": "2026-08-02T20:02:30.024950Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCSlJsOVVibVZZYms1NFlrZG1aMjgwZEdsMk5HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pablo Bertram"
+    },
+    "starRating": "FIVE",
+    "comment": "Vimos la semifinal contra Inglaterra. Muy amables los playeros y el personal del bar!\nLas malvinas son argentinas!\n\n(Translated by Google)\nWe watched the semi-final against England. The beach attendants and bar staff were very friendly!\nThe Falkland Islands are Argentine!",
+    "createTime": "2026-07-26T23:42:09.192629Z",
+    "updateTime": "2026-07-26T23:42:09.192629Z",
+    "reviewReply": {
+      "comment": "Asi es Juan Pablo ! Gracias x compartir tu opinion !!\n\nEquipo ACA Villa del Dique",
+      "updateTime": "2026-07-27T17:54:01.146470Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkSE0yaE5Tbkp3UVZKM01Fa3lVMEpVWm1waVQwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Gallo"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2026-07-26T15:09:47.911554Z",
+    "updateTime": "2026-07-26T15:09:47.911554Z",
+    "reviewReply": {
+      "comment": "Gracias !\n\nEquipo ACA Villa del dique",
+      "updateTime": "2026-07-27T17:54:23.933357Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT214MlUzYzVlQzA1Vmw5NVNsTjBORWd4VG5SRmJGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Flavio Cañas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-26T14:34:38.829444Z",
+    "updateTime": "2026-07-26T14:34:38.829444Z",
+    "reviewReply": {
+      "comment": "Gracias Flavio. Complacidos por tu opinion !\nEquipo ACA Villa del Dique\n",
+      "updateTime": "2026-07-27T14:57:09.791764Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT200elp6STFPVTU0VHpWUFFWSnBjSE5QWlhCQ1JWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rosana Maffiotti"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2026-07-26T14:32:25.771890Z",
+    "updateTime": "2026-07-26T14:32:25.771890Z",
+    "reviewReply": {
+      "comment": "Gracias Rosana !\n\nEquipo ACA Villa del Dique",
+      "updateTime": "2026-07-27T17:55:04.479987Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKblpGcGpPSFZVVEZKWWNGWlJkazVOTm1zNUxWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Zanutigh"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-14T22:03:07.753537Z",
+    "updateTime": "2026-07-14T22:03:07.753537Z",
+    "reviewReply": {
+      "comment": "Gracias Oscar por compartir tu opinion de nuestra estacion !\nEquipo ACA Villa del Dique",
+      "updateTime": "2026-07-15T13:31:54.986728Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT21odWRGRmlXSHBCV0RCUU1tTkVNbGhEWmpONlZIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "leandro zanon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-12T15:03:57.891721Z",
+    "updateTime": "2026-07-12T15:03:57.891721Z",
+    "reviewReply": {
+      "comment": "Gracias Leandro, por compartir tu opinion de nuestra estacion.\nEquipo ACA villa del Dique",
+      "updateTime": "2026-07-13T18:02:48.743983Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toWVNYaHBiRWRwZW1WaU4zQTFibnB6TlhsYVIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio"
+    },
+    "starRating": "FIVE",
+    "comment": "Estacion limpia, ordenada, bien ubicada. Anda TODO lo que vayas a buscar. ATENCIÓN EXCELENTE.\n\n(Translated by Google)\nClean, tidy, and well-located station. It has everything you need. Excellent service.",
+    "createTime": "2017-05-03T00:06:11.535Z",
+    "updateTime": "2026-07-05T20:50:51.854445Z",
+    "reviewReply": {
+      "comment": "Gracias Claudio ! Una satisfaccion para nosotros brindar el servicio que sostenemos !\nEquipo ACA Villa del Dique",
+      "updateTime": "2026-07-13T18:03:49.022674Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3by1PSlFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "horacio fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Cada ves que voy a la zona de calamuchita, paro con el motorhome,(estuve 3 noches)en el parque de la estacion(soy socio),siempre esta impecable, es seguro, y el personal excelente.Gracias y saludos.\n\n(Translated by Google)\nEvery time I go to the Calamuchita area, I stop with my motorhome (I stayed 3 nights) at the Parque de la Estación (I\u0027m a member). It\u0027s always spotless, safe, and the staff is excellent. Thanks and regards.",
+    "createTime": "2026-07-05T11:33:57.657833Z",
+    "updateTime": "2026-07-05T11:38:38.364209Z",
+    "reviewReply": {
+      "comment": "Pernoctar en el estacionamiento de noche, es EXCLUSIVO para socios. Gracias por valorarlo  !\nEquipo ACA Villa del Dique",
+      "updateTime": "2026-07-06T19:09:35.295734Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aQmIxQTVha050TTJRd09HdHNPWEpMYzJwNmFsRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Marcela Trubba"
     },
     "starRating": "FIVE",
@@ -138,118 +248,5 @@
       "updateTime": "2026-06-16T15:28:39.259148Z"
     },
     "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwdVNuSlNTbEpWTm5kM01YRk1hSGxNZFZsMWFFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rodrigo Criscenti"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención del personal\n\n(Translated by Google)\nExcellent service from the staff",
-    "createTime": "2021-02-02T16:09:57.708349Z",
-    "updateTime": "2026-06-10T02:20:41.120225Z",
-    "reviewReply": {
-      "comment": "Muy agradecidos por tu opinion !\nEquipo ACA Villa del dique",
-      "updateTime": "2026-06-16T15:31:17.386056Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5NGRYMlp3EAE"
-  }, {
-    "reviewer": {
-      "displayName": "Joaquín Rodríguez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-07T15:51:53.230559Z",
-    "updateTime": "2026-06-07T15:51:53.230559Z",
-    "reviewReply": {
-      "comment": "Gracias Joaquin. Valoramos tu opinion.\nEquipo ACA Villa del dique",
-      "updateTime": "2026-06-08T15:25:07.457006Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsbllqWnpVREpzYmxkV2RqVkNVekpLTm1wWlVXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rodrigo Rodriguez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-07T15:48:18.536633Z",
-    "updateTime": "2026-06-07T15:48:18.536633Z",
-    "reviewReply": {
-      "comment": "Gracias Rodrigo. Tu calificacion nos motiva.\nEquipo ACA Villa del Dique",
-      "updateTime": "2026-06-08T15:28:00.007674Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aVmNrRjJNREpsVjFVNVpEbGpjaTA1UWtka2EyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Alberto De Franco"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención!!!,  un lugar para pasarla bien. Da ganas de volver\n\n(Translated by Google)\nExcellent service! A great place to have fun. Makes you want to come back.",
-    "createTime": "2026-06-07T01:02:07.154974Z",
-    "updateTime": "2026-06-07T01:02:07.154974Z",
-    "reviewReply": {
-      "comment": "Gracias Juan Alberto. Comentarios positivos que ayudan a seguir en este rumbo\nEquipo ACA Villa del Dique",
-      "updateTime": "2026-06-08T15:29:07.952516Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWamJUZ3lkbWQwWldScGRXTjRYemg0WTFkTWVYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "alex"
-    },
-    "starRating": "FIVE",
-    "comment": "me gusta el servicio, salut de canada!\n\n(Translated by Google)\nI like the service, greetings from Canada!",
-    "createTime": "2026-06-06T23:56:37.905379Z",
-    "updateTime": "2026-06-06T23:57:00.577461Z",
-    "reviewReply": {
-      "comment": "Alex, gracias. Nos alienta tu opinion\nEquipo ACA Villa del Dique",
-      "updateTime": "2026-06-08T15:29:44.356462Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkNFMwMUZTRnA2YkZCdWRGOHlTa2d4UTBnd1VHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelino Manuel Álvarez"
-    },
-    "starRating": "FIVE",
-    "comment": "Las mejores medialunas de la comarca y un excelente cafe!!\n\nAtención de Valeria 10 puntos.\n\n(Translated by Google)\nThe best croissants in the region and excellent coffee!!\n\nValeria\u0027s service is top-notch.",
-    "createTime": "2026-06-06T20:53:10.555501Z",
-    "updateTime": "2026-06-06T20:53:10.555501Z",
-    "reviewReply": {
-      "comment": "Gracias ! Nos complace dar este servicio\nEquipo ACA Villa del Dique",
-      "updateTime": "2026-06-08T15:30:26.449524Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FeGIzVmpaRjl5TnpBNFFtaEJiVGxMVWtOeGVFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fernanda Astrada"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-06-05T00:29:24.415021Z",
-    "updateTime": "2026-06-05T00:29:24.415021Z",
-    "reviewReply": {
-      "comment": "Gracias Fernanda por compartir tu opinion \nEquipo ACA Villa del Dique",
-      "updateTime": "2026-06-05T15:27:10.509658Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWQ2RIUTBhVXRrWkROQmRGbEJORXRsYTNsM04wRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Diego Vivas"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-01T10:25:54.206041Z",
-    "updateTime": "2026-06-01T10:25:54.206041Z",
-    "reviewReply": {
-      "comment": "Gracias Diego ! Valoramos tu opinion \nEquipo ACA Villa del Dique",
-      "updateTime": "2026-06-01T18:52:50.520049Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaWNGVkZaVWxuZG1wWE1YRm1PVUpKY2xKdU0xRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Adrian Rensini"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención fabricio\n\n(Translated by Google)\nExcellent service, Fabricio",
-    "createTime": "2026-05-28T03:04:02.156594Z",
-    "updateTime": "2026-05-28T03:04:02.156594Z",
-    "reviewReply": {
-      "comment": "Gracias Adrian. Valoramos tu opinion sobre nuestro servicio\nEquipo ACA Villa del Dique",
-      "updateTime": "2026-06-01T18:53:29.183995Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwVWQydENjakUzUWpsZmVpMU9NbmR2YlVSd1QwRRAB"
   }]
 }

@@ -1,0 +1,20 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Walter Cruz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-08-31T18:48:34.646Z",
+    "updateTime": "2016-08-31T18:48:34.646Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSURBM1B5UEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Xavier"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención de los bombistas, y el servicompras muy completo y cómodo.\n\n(Translated by Google)\nThe service from the pump operators was excellent, and the convenience store was very complete and comfortable.",
+    "createTime": "2016-07-05T12:40:49.171Z",
+    "updateTime": "2016-07-05T12:41:29.042Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBdV95WGRBEAE"
+  }]
+}

@@ -1,0 +1,29 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Santiago Balmont"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-01-03T17:04:23.384Z",
+    "updateTime": "2016-01-03T17:04:23.384Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBMHQtYlpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Trangoni"
+    },
+    "starRating": "THREE",
+    "comment": "No funcionaban los termos de agua caliente pero en el shop te calientan el agua.\n\n(Translated by Google)\nThe hot water heaters weren\u0027t working, but they heat the water for you at the shop.",
+    "createTime": "2015-11-08T03:59:04.792Z",
+    "updateTime": "2015-11-08T03:59:46.397Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBdFBLMlRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Airton Contreras"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar en clorinda lo mejor\n\n(Translated by Google)\nGreat place in Clorinda, the best",
+    "createTime": "2013-08-18T14:05:33.919728Z",
+    "updateTime": "2013-08-18T14:05:33.919728Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnbi1hQnR3RRAB"
+  }]
+}

@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Fabio Massi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-01-21T04:06:03.227Z",
+    "updateTime": "2018-01-21T04:06:03.227Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3c3VpdDdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "jose rivero"
+    },
+    "starRating": "FIVE",
+    "comment": "La comida supera muchas cadenas de comida en calidad y cantidad\n\n(Translated by Google)\nThe food surpasses many food chains in quality and quantity.",
+    "createTime": "2018-01-21T01:54:49.036Z",
+    "updateTime": "2018-01-21T01:55:26.295Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNncm8tZ1B3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Underground City"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena estación.\n\n(Translated by Google)\nGood season.",
+    "createTime": "2018-01-20T03:35:20.732Z",
+    "updateTime": "2018-01-20T03:35:32.376Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRNDRteVBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Marcos 14"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-19T21:52:45.762Z",
+    "updateTime": "2018-01-19T21:52:45.762Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRbllLZXBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Isetta"
+    },
+    "starRating": "ONE",
+    "createTime": "2018-01-19T18:05:09.464Z",
+    "updateTime": "2018-01-19T18:05:09.464Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURBb096dVZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Valeria Paredes"
+    },
+    "starRating": "ONE",
+    "comment": "Es todo muy caro\n\n(Translated by Google)\nEverything is very expensive.",
+    "createTime": "2018-01-19T17:02:56.768Z",
+    "updateTime": "2018-01-19T17:03:05.857Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURRbEpqaDFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Guerra"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-19T12:56:37.631Z",
+    "updateTime": "2018-01-19T12:56:37.631Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURRX2ZMc3NBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yessica Quinan"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-01-17T21:53:40.178Z",
+    "updateTime": "2018-01-17T21:53:40.178Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRZzlpZ013EAE"
+  }, {
+    "reviewer": {
+      "displayName": "MONICA CARBAJAL"
+    },
+    "starRating": "TWO",
+    "createTime": "2018-01-17T20:24:38.634Z",
+    "updateTime": "2018-01-17T20:24:38.634Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURRMV92OG5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Rubén Horacio Garay"
+    },
+    "starRating": "TWO",
+    "comment": "Caro!!!!!\n\n(Translated by Google)\nExpensive!!!!!",
+    "createTime": "2018-01-17T14:33:37.250Z",
+    "updateTime": "2018-01-17T14:33:55.081Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBM1lia1BBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "sara turra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-17T11:26:45.569Z",
+    "updateTime": "2018-01-17T11:26:45.569Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBOHJQaE5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Guzman"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-15T12:56:15.620Z",
+    "updateTime": "2018-01-15T12:56:15.620Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSURnZzd5N1hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rosa Sanchez"
+    },
+    "starRating": "TWO",
+    "comment": "Lugar pequeño\n\n(Translated by Google)\nSmall place",
+    "createTime": "2018-01-15T11:39:14.240Z",
+    "updateTime": "2018-01-15T11:40:07.359Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBZ2F2TlRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Garrido"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio y profesionalismo\n\n(Translated by Google)\nGood service and professionalism",
+    "createTime": "2017-12-27T23:36:43.386Z",
+    "updateTime": "2018-01-14T20:10:01.851Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnemJlN05BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Derlich"
+    },
+    "starRating": "FOUR",
+    "comment": "Mejoro en relacion a como era antes.\nPero podria estar mucho mejor, deberia ser una ypf full con comida y demas, mejores mesas y sillas, una segunda caja de atencion,  y ahi si le daria 5 estrellas. Es una Estacion de renombre y considerando que es una parada obligada y concurre mucha gente, tanto locales como turistas.\nLa ultima vez que estuve (enero/2018) el cafe estaba malo y no tenian alfajores simples de la marca de color \u0027lila\u0027, solo triples. Muchos empleados y sin embargo un solo empleado atendiendo una larga cola de clientes.\nTampoco tenian ciertos combustibles.\nLo mejor que tienen son los baños.\nOjala mejoren aun mas. Aguante Garayalde!\n\n(Translated by Google)\nIt\u0027s an improvement over how it used to be.\n\nBut it could be much better. It should be a full-service YPF with food and other amenities, better tables and chairs, a second checkout lane, and then I\u0027d give it 5 stars. It\u0027s a well-known station, and considering it\u0027s a must-stop and frequented by many people, both locals and tourists.\n\nThe last time I was there (January 2018), the coffee was bad, and they didn\u0027t have the plain \u0027lilac\u0027 brand alfajores, only triple-layered ones. There were many employees, yet only one was serving a long line of customers. They also didn\u0027t have certain fuels.\nThe best thing about it is the restrooms.\nI hope they improve even more. Long live Garayalde!",
+    "createTime": "2018-01-14T01:35:36.544Z",
+    "updateTime": "2018-01-14T01:48:00.686Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURRMWFEbzNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "paola villagra"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-01-14T00:30:40.523Z",
+    "updateTime": "2018-01-14T00:30:40.523Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnbE5pSTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Alfonso"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, ubicada estratégicamente.\n\n(Translated by Google)\nGood service, strategically located.",
+    "createTime": "2018-01-12T18:09:18.696Z",
+    "updateTime": "2018-01-12T18:10:02.061Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBN3VDYlpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Damian Quintieri"
+    },
+    "starRating": "FIVE",
+    "comment": "Genial\n\n(Translated by Google)\nBrilliant",
+    "createTime": "2018-01-12T15:06:01.483Z",
+    "updateTime": "2018-01-12T15:06:06.730Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3LU1TaE1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Elizondo"
+    },
+    "starRating": "TWO",
+    "createTime": "2018-01-12T10:31:18.226Z",
+    "updateTime": "2018-01-12T10:31:18.226Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndmNDRmJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Daniel Batista Nuñez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-01-12T00:40:02.304Z",
+    "updateTime": "2018-01-12T00:40:14.094Z",
+    "name": "accounts/109853746269412609224/locations/12078125792324684984/reviews/ChdDSUhNMG9nS0VJQ0FnSURRNVA3bGdRRRAB"
+  }]
+}

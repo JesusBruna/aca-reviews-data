@@ -26,14 +26,6 @@
     "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyOGFIS3NBRRAB"
   }, {
     "reviewer": {
-      "displayName": "INVIERNO ESTUDIO MDQ"
-    },
-    "starRating": "FIVE",
-    "createTime": "2022-04-23T20:29:41.621429Z",
-    "updateTime": "2022-04-23T20:29:41.621429Z",
-    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChdDSUhNMG9nS0VJQ0FnSUMyOGRqZ2x3RRAB"
-  }, {
-    "reviewer": {
       "displayName": "Oscar Bucchieri"
     },
     "starRating": "FIVE",
@@ -166,5 +158,14 @@
     "createTime": "2022-04-19T11:52:06.016892Z",
     "updateTime": "2022-04-19T11:52:06.016892Z",
     "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyeHJ1WEZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adrián Eduardo Gimenez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2022-04-18T14:00:01.876606Z",
+    "updateTime": "2022-04-18T14:00:01.876606Z",
+    "name": "accounts/109853746269412609224/locations/3465762675351672611/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyMnY2SE9REAE"
   }]
 }

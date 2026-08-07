@@ -1,0 +1,197 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Sergio Sassone"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-12-22T18:55:38.764Z",
+    "updateTime": "2017-12-22T18:55:38.764Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBdWEtcmJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dax Cab"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-12-22T03:21:09.779Z",
+    "updateTime": "2017-12-22T03:21:19.231Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSURBcklTNnRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Damian Licinio"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-12-17T21:34:05.004Z",
+    "updateTime": "2017-12-17T21:34:05.004Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChRDSUhNMG9nS0VJQ0FnSURRbjVvVxAB"
+  }, {
+    "reviewer": {
+      "displayName": "adrian maurig"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2017-12-17T13:14:42.111Z",
+    "updateTime": "2017-12-17T13:14:50.618Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURRcU5PblJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Cian"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion del personal, atentos y cordiales\n\n(Translated by Google)\nExcellent service from the staff, attentive and friendly.",
+    "createTime": "2017-03-20T17:17:08.444Z",
+    "updateTime": "2017-12-14T21:29:07.772Z",
+    "reviewReply": {
+      "comment": "Gracias Hernan!",
+      "updateTime": "2018-04-13T00:18:16.093524Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSURRcFlDZWhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Ferreyra YoguiVagamundo"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar con atencion de excelencia\n\n(Translated by Google)\nA place with excellent service.",
+    "createTime": "2017-12-14T02:20:53.235Z",
+    "updateTime": "2017-12-14T02:21:11.537Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Hector",
+      "updateTime": "2018-04-13T00:18:30.664608Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBeklHRnJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela 824"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-12-11T02:38:18.320Z",
+    "updateTime": "2017-12-11T02:38:18.320Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURRcjc3ckxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Vanina Secchi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-12-10T02:26:32.561Z",
+    "updateTime": "2017-12-10T02:26:39.654Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRbE5XQkpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucia Margarita Sosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Somos socios ,\n\n(Translated by Google)\nWe are partners,",
+    "createTime": "2017-12-07T03:14:32.985Z",
+    "updateTime": "2017-12-07T03:15:07.326Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3LTl6RHhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "FranciaRosalia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-12-04T10:30:58.131Z",
+    "updateTime": "2017-12-04T10:30:58.131Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3M3VhNW9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "diego len"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buenas atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2017-12-04T03:50:53.781Z",
+    "updateTime": "2017-12-04T03:51:08.054Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Diego!",
+      "updateTime": "2018-04-13T00:18:53.802722Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURnM2VPcUhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel German"
+    },
+    "starRating": "TWO",
+    "comment": "😆😆",
+    "createTime": "2017-11-26T23:34:00.272Z",
+    "updateTime": "2017-11-26T23:34:07.032Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBcnN1a1p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Barbero"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena atencion de los playeros\n\n(Translated by Google)\nVery good service from the beach attendants",
+    "createTime": "2017-11-23T00:40:59.659Z",
+    "updateTime": "2017-11-23T00:41:18.717Z",
+    "reviewReply": {
+      "comment": "Gracias Fabian!",
+      "updateTime": "2018-04-13T00:19:09.706120Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3c1lfMEpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario J Mainardi hijo"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-11-21T20:52:19.769Z",
+    "updateTime": "2017-11-21T20:52:19.769Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURReTVpY2V3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Noguera"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2017-11-21T19:02:37.402Z",
+    "updateTime": "2017-11-21T19:02:49.856Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Enrique!",
+      "updateTime": "2018-04-13T00:19:22.413422Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSURBdTlXTHBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "cesar belizan"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-11-19T22:04:47.699Z",
+    "updateTime": "2017-11-19T22:04:47.699Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSURBdl92RE5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "julio miguel"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención del playero nocturno . Día 10/11/2017. Me indicó un buen alojamiento en Rafaela . El ACA debería poseer alojamientos aquí , como un servicio a sus socios.\n\n(Translated by Google)\nExcellent service from the night attendant. November 10, 2017. He recommended a good place to stay in Rafaela. The ACA should have accommodations here as a service for its members.",
+    "createTime": "2017-11-11T04:19:10.648Z",
+    "updateTime": "2017-11-11T04:19:10.648Z",
+    "reviewReply": {
+      "comment": "Gracias por comentar Julio!",
+      "updateTime": "2018-04-13T00:19:49.284582Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBM0pmTzJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Barros"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-11-10T04:42:10.785Z",
+    "updateTime": "2017-11-10T04:42:10.785Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3aXZ1eF93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Evelin Glavas"
+    },
+    "starRating": "THREE",
+    "comment": "Bueno\n\n(Translated by Google)\nWell",
+    "createTime": "2017-11-07T03:07:55.616Z",
+    "updateTime": "2017-11-07T03:08:03.125Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnakpHcW53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Ingaramo"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-11-06T10:21:29.196Z",
+    "updateTime": "2017-11-06T10:21:29.196Z",
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRNjRXTkNREAE"
+  }]
+}

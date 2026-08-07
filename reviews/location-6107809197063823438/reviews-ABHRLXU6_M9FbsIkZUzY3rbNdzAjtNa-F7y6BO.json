@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carlos Albarracin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-12T21:12:02.840694Z",
+    "updateTime": "2022-06-12T21:12:02.840694Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPc2Eyb3V3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Franco"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención y rápido despacho\n\n(Translated by Google)\nGood service and fast delivery",
+    "createTime": "2022-06-12T17:31:21.602327Z",
+    "updateTime": "2022-06-12T17:31:21.602327Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPMGVmSFp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Fueyo"
+    },
+    "starRating": "TWO",
+    "comment": "Como toda estación de servicio del ACA  muy prolija el parque cuidado y prolijo. No me gustó el Shop, nos quisieron cobrar 1 sándwiche chiquitito 600 mangos unos ladri... me fui a comer a la Shell de al lado mucho más barato.\nGente no maten al que va a comprar, que es el que siempre gasta mientras carga combustible!\n\n(Translated by Google)\nLike all ACA service stations, the parking lot is very clean and well-maintained. I didn\u0027t like the convenience store; they tried to charge us 600 pesos for a tiny sandwich—what a rip-off! I went to eat at the Shell station next door, which was much cheaper. People, don\u0027t rip off the customers; they\u0027re the ones who always spend money while filling up!",
+    "createTime": "2022-06-12T15:11:31.374291Z",
+    "updateTime": "2022-06-12T15:11:31.374291Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPMGRMSm5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ines Noe"
+    },
+    "starRating": "FIVE",
+    "comment": "Te  atienden muy bien,son muy amables y serviciales\n\n(Translated by Google)\nThey treat you very well, they are very kind and helpful.",
+    "createTime": "2022-06-12T04:19:15.261326Z",
+    "updateTime": "2022-06-12T04:19:15.261326Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPb2JmTDN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Dacunto"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo ok\n\n(Translated by Google)\nEverything\u0027s OK",
+    "createTime": "2022-06-11T16:57:22.598181Z",
+    "updateTime": "2022-06-11T16:57:22.598181Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPZ2ZtZU9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "diego Mosqueda"
+    },
+    "starRating": "FIVE",
+    "comment": "Lo mejor para parar x un café u otras cosas\n\n(Translated by Google)\nThe best place to stop for a coffee or other things",
+    "createTime": "2022-06-10T21:07:48.761193Z",
+    "updateTime": "2022-06-10T21:07:48.761193Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPbnFQSmVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel “Gabaobr” Alves"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-09T21:51:36.764596Z",
+    "updateTime": "2022-06-09T21:51:36.764596Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPanRDUmRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Ines Garay"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso\n\n(Translated by Google)\nBeautiful",
+    "createTime": "2022-06-06T17:10:25.031462Z",
+    "updateTime": "2022-06-06T17:10:25.031462Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPaW9xSXRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Gomez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-06T10:45:17.176630Z",
+    "updateTime": "2022-06-06T10:45:17.176630Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPc3MyWFp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "omar pancari"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-06T03:26:16.030605Z",
+    "updateTime": "2022-06-06T03:26:16.030605Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPMHNhS1BnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Carrizo"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-06T00:49:09.232741Z",
+    "updateTime": "2022-06-06T00:49:09.232741Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPa3B1bzN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "cristian sepulveda"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención,  los baños impecables limpios , perfumados . Da gusto visitar esa estación.\n\n(Translated by Google)\nExcellent service, the restrooms were spotless, clean, and smelled nice. It\u0027s a pleasure to visit this station.",
+    "createTime": "2022-06-05T10:36:34.773299Z",
+    "updateTime": "2022-06-05T10:36:34.773299Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPd3BfS1JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Minutella"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien atendida\n\n(Translated by Google)\nVery well attended",
+    "createTime": "2022-06-04T12:12:35.940536Z",
+    "updateTime": "2022-06-04T12:12:35.940536Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPM0w2WXJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Amilcar Samperi"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2022-06-03T19:50:13.424368Z",
+    "updateTime": "2022-06-03T19:50:13.424368Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPck1QUEZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Talma"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelnte atencion.baños limpios.buena comida para mejorar el estacionamiento q nadie respeta\n\n(Translated by Google)\nExcellent service. Clean restrooms. Good food. Parking needs improvement; no one respects it.",
+    "createTime": "2022-06-03T12:10:46.691414Z",
+    "updateTime": "2022-06-03T12:10:46.691414Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPalBQeE53EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Vilches"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2022-06-02T13:13:02.369798Z",
+    "updateTime": "2022-06-02T13:13:02.369798Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPbE9HbUJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Luna"
+    },
+    "starRating": "FIVE",
+    "comment": "Es una estación de servicios que ofrece diferentes servicios al cliente, buen lugar para hacer un alto en el viaje. Recomendable\n\n(Translated by Google)\nIt\u0027s a service station that offers various customer services; a good place to stop during your trip. Recommended.",
+    "createTime": "2022-06-01T21:21:36.201141Z",
+    "updateTime": "2022-06-01T21:26:15.258894Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPeEsyQjhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Amichetti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-31T10:28:12.574628Z",
+    "updateTime": "2022-05-31T10:28:12.574628Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPcU9LRDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Florestano"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-05-28T17:39:31.507789Z",
+    "updateTime": "2022-05-28T17:39:31.507789Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyel9fR093EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fer Plastico"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-28T09:34:49.571906Z",
+    "updateTime": "2022-05-28T09:34:49.571906Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyajlqR0dREAE"
+  }]
+}

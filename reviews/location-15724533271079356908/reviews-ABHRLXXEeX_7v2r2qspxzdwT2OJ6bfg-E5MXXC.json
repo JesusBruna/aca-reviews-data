@@ -65,19 +65,6 @@
     "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCNEk2WUx3EAE"
   }, {
     "reviewer": {
-      "displayName": "G Woman Chan"
-    },
-    "starRating": "FIVE",
-    "comment": "Correcta buena atención\n\n(Translated by Google)\nGood and helpful service",
-    "createTime": "2022-12-13T19:13:31.097207Z",
-    "updateTime": "2022-12-13T19:13:31.097207Z",
-    "reviewReply": {
-      "comment": "Muchas Gracias por su calificacion",
-      "updateTime": "2022-12-14T17:24:39.573248Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtXzdhYm9nRRAB"
-  }, {
-    "reviewer": {
       "displayName": "Juan Ramon Alarcon"
     },
     "starRating": "FIVE",
@@ -212,7 +199,7 @@
       "displayName": "Ramiro Filgueiras"
     },
     "starRating": "THREE",
-    "comment": "Sencilla y clásica estación de sercio del ACA, compramos algo en el shop.\n\n(Translated by Google)\nSimple and classic ACA service station, we bought something at the shop.",
+    "comment": "Sencilla y clásica estación de sercio del ACA, compramos algo en el shop.\n\n(Translated by Google)\nSimple and classic ACA service station, we bought something in the shop.",
     "createTime": "2022-11-14T00:10:04.273655Z",
     "updateTime": "2022-11-14T00:10:04.273655Z",
     "reviewReply": {
@@ -242,5 +229,18 @@
       "updateTime": "2022-11-21T12:14:58.264729Z"
     },
     "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtZzlueWZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "GUILLERMO JULIO FERNANDEZ"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amables como siempre en el ACA.\n\n(Translated by Google)\nVery friendly as always at the ACA.",
+    "createTime": "2022-11-11T17:28:02.395172Z",
+    "updateTime": "2022-11-11T17:28:02.395172Z",
+    "reviewReply": {
+      "comment": "Muchad Gracias",
+      "updateTime": "2022-11-21T12:15:08.680896Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15724533271079356908/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtZzZEUlB3EAE"
   }]
 }

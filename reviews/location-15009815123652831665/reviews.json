@@ -1,6 +1,88 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Patricia Boggio"
+    },
+    "starRating": "FIVE",
+    "comment": "Un ambiente tranquilo y limpio. El café rico y las medialunas más. Muy buena atención.\n\n(Translated by Google)\nA quiet and clean atmosphere. The coffee was delicious, and the croissants even better. Excellent service.",
+    "createTime": "2026-08-02T14:39:34.251330Z",
+    "updateTime": "2026-08-02T14:39:34.251330Z",
+    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKMVpFSTFRakJSVEZnM1EwSlRUVk4wTm0wd1VtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Lencina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-29T12:41:35.707634Z",
+    "updateTime": "2026-07-29T12:41:35.707634Z",
+    "reviewReply": {
+      "comment": "Buenos dias Gabriel, muchas gracias por tu valoracion.",
+      "updateTime": "2026-07-31T15:06:18.144800Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KRVFVY3pSMUEzV0dGVFQyaHdVR05KY2toU1pVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Yamila Carrizo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-29T01:35:50.713814Z",
+    "updateTime": "2026-07-29T01:35:50.713814Z",
+    "reviewReply": {
+      "comment": "Buenos dias Ana, muchas gracias por tu valoracion.",
+      "updateTime": "2026-07-31T15:12:49.900951Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oV1JYTTVUeTFFVUhWQlJIa3pkbWRsWDFNM1VVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Trebino Molteni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-28T01:30:15.769036Z",
+    "updateTime": "2026-07-28T01:30:15.769036Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Juan, gracias por tu valoracion.",
+      "updateTime": "2026-07-31T15:13:32.843243Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTU5rWjNURkl0VUVkdVkyNUNWMGxrVFUwMlVXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "juan carlos fermin Astorga"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y muy buena onda\n\n(Translated by Google)\nExcellent service and a very friendly atmosphere",
+    "createTime": "2026-07-25T21:38:03.536691Z",
+    "updateTime": "2026-07-25T21:38:03.536691Z",
+    "reviewReply": {
+      "comment": "Buen día Juan c. muchas gracias por tu comentario y valoración.",
+      "updateTime": "2026-07-27T12:02:36.016020Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wT1VqWlhVMHhoVERKdk5tWlpjVlJZY0hZeU1WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "LUIS MAXIMILIANO ROMERO PAEZ"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-21T16:55:29.974409Z",
+    "updateTime": "2026-07-21T16:55:29.974409Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Luis, gracias por tu calificación.",
+      "updateTime": "2026-07-21T17:36:59.136664Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT205dFlYRnBTVGhxZWxSUVNtVk1NM3B3VW5WYVpYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nony Barros"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-08-04T20:03:48.438775Z",
+    "updateTime": "2026-07-18T03:05:33.917834Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Nony, gracias por tu valoracion.",
+      "updateTime": "2026-07-31T15:14:06.958228Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVeTdqV1ZnEAE"
+  }, {
+    "reviewer": {
       "displayName": "Maxi Maturano"
     },
     "starRating": "FIVE",
@@ -19,6 +101,10 @@
     "starRating": "FIVE",
     "createTime": "2022-06-10T22:26:14.086917Z",
     "updateTime": "2026-06-30T01:46:36.005130Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Arnol, gracias por tu valoracion.",
+      "updateTime": "2026-07-31T15:14:31.820836Z"
+    },
     "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPbnItQ3N3RRAB"
   }, {
     "reviewer": {
@@ -39,6 +125,10 @@
     "starRating": "FIVE",
     "createTime": "2023-04-21T02:28:45.032338Z",
     "updateTime": "2026-06-21T18:53:55.420323Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Juan, gracias por tu valoracion.",
+      "updateTime": "2026-07-31T15:16:23.552006Z"
+    },
     "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/ChdDSUhNMG9nS0VJQ0FnSURSd3J1dWx3RRAB"
   }, {
     "reviewer": {
@@ -152,95 +242,5 @@
       "updateTime": "2026-05-14T12:15:28.956798Z"
     },
     "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VeVdXOVRNSEJSWWtaMVJGTTVRamxvYzB4SlNsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ana Maria"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atencion.Hoy  me atendioʻCesar Diaz.👏👏👏👏\n\n(Translated by Google)\nExcellent service. Today I was served by Cesar Diaz. 👏👏👏👏",
-    "createTime": "2026-04-28T18:09:17.671185Z",
-    "updateTime": "2026-04-28T18:09:17.671185Z",
-    "reviewReply": {
-      "comment": "Buenas tardes Ana Maria!! gracias por tu comentario y valoración!!\nTe esperamos!",
-      "updateTime": "2026-06-19T17:30:22.282136Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wemFFWTBRak5NUkdSVGJ6SkpObmx1ZVZadWRtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jorge Rubén Miranday"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy 👍 buena\n\n(Translated by Google)\nVery 👍 good",
-    "createTime": "2026-04-27T16:11:48.716906Z",
-    "updateTime": "2026-04-27T16:11:48.716906Z",
-    "reviewReply": {
-      "comment": "Buenas tardes Jorge , Gracias por tu valoración y comentario!!\nVuelve pronto.",
-      "updateTime": "2026-04-27T17:37:32.182803Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trd1lYZDNMVXQzYkVad2FDMXhZMjEyYzJ0SlpXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nieto Jorgelina"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención de Don César, un placer haberlo conocido, siempre muy atento y servicial🥰👌\n\n(Translated by Google)\nExcellent service from Don César, it was a pleasure to meet him, always very attentive and helpful 🥰👌",
-    "createTime": "2021-06-29T12:16:50.165849Z",
-    "updateTime": "2026-04-27T13:17:59.104858Z",
-    "reviewReply": {
-      "comment": "Buenas tardes Jorgelina, gracias por tu comentario y valoración.\n Vuelve pronto!!!",
-      "updateTime": "2026-04-27T17:42:13.771188Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/ChZDSUhNMG9nS0VJQ0FnSURxNU1pTGRBEAE"
-  }, {
-    "reviewer": {
-      "displayName": "claudia nadal"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-23T14:30:08.129999Z",
-    "updateTime": "2026-04-23T14:30:08.129999Z",
-    "reviewReply": {
-      "comment": "Buenas tardes Claudia!!! gracias por tu valoración.",
-      "updateTime": "2026-06-19T17:30:49.555183Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0TmEyWmtlV2hsZEd0UlkyeHBiWEp2YmtsMVVHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "GLORIA KARINA BRIZUELA"
-    },
-    "starRating": "FIVE",
-    "comment": "Cesar muy buen despachador, muy amable.\n\n(Translated by Google)\nCesar is a very good dispatcher, very friendly.",
-    "createTime": "2026-04-22T03:01:53.003520Z",
-    "updateTime": "2026-04-22T03:01:53.003520Z",
-    "reviewReply": {
-      "comment": "Buenas tardes, Gloria. Gracias por tu comentario y valoracion.\nHaremos llegar tus palabras a Cesar, Saludos.",
-      "updateTime": "2026-04-22T17:36:14.275059Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WUU5sWlJkbll6YVhwb1lsRmxRVjltY0VZeWNsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lic Eduardo Francisco Moreno"
-    },
-    "starRating": "FIVE",
-    "comment": "Cesar nos atendió expectacular\n\n(Translated by Google)\nCesar gave us spectacular service",
-    "createTime": "2026-04-22T03:00:44.902176Z",
-    "updateTime": "2026-04-22T03:00:44.902176Z",
-    "reviewReply": {
-      "comment": "Buenas tardes  Eduardo , gracias por su comentario y valoración.\nSaludos.",
-      "updateTime": "2026-04-22T17:37:14.972219Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wb1kwSkRaa1JxTWtac01GVk1Ramx4V1ZKb04yYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Silvina Cornejo"
-    },
-    "starRating": "FIVE",
-    "comment": "cesar diaz excelente atencion\n\n(Translated by Google)\nCesar Diaz, excellent service",
-    "createTime": "2026-04-21T03:51:09.896246Z",
-    "updateTime": "2026-04-21T03:51:09.896246Z",
-    "reviewReply": {
-      "comment": "Buenas tardes Silvina, gracias por tu comentario y valoración, haremos llegar tus palabras a Cesar.",
-      "updateTime": "2026-04-22T17:38:09.592192Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15009815123652831665/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCUlluUlNTUzE1ZHpKbFExbEhkSE5RVW5CNVJIYxAB"
   }]
 }

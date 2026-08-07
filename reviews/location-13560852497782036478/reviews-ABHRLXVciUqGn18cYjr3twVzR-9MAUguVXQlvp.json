@@ -1,0 +1,170 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Nicolás Haidar"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-01-27T13:28:01.844015Z",
+    "updateTime": "2019-01-27T13:28:01.844015Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURJei1hODdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Garcia"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-01-24T19:59:32.210549Z",
+    "updateTime": "2019-01-24T19:59:32.210549Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURJcDdEWnF3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "adrianarg063"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente como todo ACA\n\n(Translated by Google)\nExcellent, like everything else here.",
+    "createTime": "2019-01-17T11:42:17.013190Z",
+    "updateTime": "2019-01-17T11:42:42.198508Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURJM2FHVmdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marian Pereyra"
+    },
+    "starRating": "FIVE",
+    "comment": "Experiencia\n\n(Translated by Google)\nExperience",
+    "createTime": "2019-01-01T16:06:02.499896Z",
+    "updateTime": "2019-01-01T16:06:10.973821Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSURJdXF2bU9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Ceferino Vargas"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-12-29T11:57:48.386049Z",
+    "updateTime": "2018-12-29T11:57:48.386049Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSURJc3BDU2VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio César"
+    },
+    "starRating": "THREE",
+    "comment": "Bien\n\n(Translated by Google)\nGood",
+    "createTime": "2018-12-12T13:17:53.201363Z",
+    "updateTime": "2018-12-12T13:17:53.201363Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUNJOTc2ZFdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Kowaleski"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-09-12T17:47:56.053527Z",
+    "updateTime": "2018-09-12T17:47:56.053527Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURnM0k2czVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jerónimo Politi Livoni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-07-24T23:53:14.023Z",
+    "updateTime": "2018-07-24T23:53:14.023Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURnNjRUVmdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Barbosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-05-18T18:30:05.841Z",
+    "updateTime": "2018-05-18T18:30:05.841Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBcHRxa0x3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "liliana Prado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-04-27T21:39:43.224Z",
+    "updateTime": "2018-04-27T21:39:43.224Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURRM1lhZThRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Da Silva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-03-24T14:54:31.990Z",
+    "updateTime": "2018-03-24T14:54:31.990Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnbHUyNlNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Adrian González"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-03-07T19:20:04.482Z",
+    "updateTime": "2018-03-07T19:20:04.482Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBMDh1M053EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Rucci"
+    },
+    "starRating": "ONE",
+    "comment": "Pasan miles de personas a diario: tienen 4 mesas para desayunar. Muy chico, muy desorganizado. Tendrían que aprender un poco más de los hermanos al otro lado de la frontera.\n\n(Translated by Google)\nThousands of people pass through daily: they only have four tables for breakfast. It\u0027s very small and very disorganized. They should learn a bit more from their neighbors on the other side of the border.",
+    "createTime": "2018-03-03T14:21:14.849Z",
+    "updateTime": "2018-03-03T14:23:04.182Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnM3BiWkVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Simplicio Santariano Fernandes"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good\n\n(Original)\nBom",
+    "createTime": "2018-02-23T22:39:38.642Z",
+    "updateTime": "2018-02-23T22:39:45.006Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3enBmTU5nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Omega Mac"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar buena atención baños limpios\n\n(Translated by Google)\nExcellent place, good service, clean bathrooms",
+    "createTime": "2018-02-12T21:44:47.494Z",
+    "updateTime": "2018-02-12T21:45:17.370Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRaU5QbHZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Elias Schneider"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-02-08T16:52:35.657Z",
+    "updateTime": "2018-02-08T16:52:35.657Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSURRa2FudjB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rosana Alias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-01-05T02:54:42.211Z",
+    "updateTime": "2018-01-05T02:54:42.211Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSURBOWZxQ1JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elias Castillo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-11-16T06:39:16.776Z",
+    "updateTime": "2017-11-16T06:39:16.776Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSUNndl9pUnFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Marcelo"
+    },
+    "starRating": "ONE",
+    "comment": "La estación se encuentra en reparación es una vergüenza que les niegan los baňos tanto a socios como a no socios. Mi mujer quiso ir y le dijeron que no tenían baňo que solo se expendio gasolinas cuando volvimos de Uruguaiana me bajo yo con mi carnet de socio y pregunto por los baňos me dicen que si había les pregunto por lo que le habían dicho a mi mujer y me contestan que el consecionario les dice que traten de no dejar entrar al baño por cuestiones de seguridad. En el lugar había tejas tipo españolas delimitadas por todos lados, pregunto si quieren seguridad no era mejor cerrar la estación y no trabajar de esa forma poniendo en riesgo la integridad divina del que va al lugar dado que la seguridad era paupérrima sin palabras señores del ACA MAYOR SERIEDAD!!!\n\n(Translated by Google)\nThe station is under repair, and it\u0027s a disgrace that they\u0027re denying access to the restrooms to both members and non-members. My wife wanted to go, and they told her there were no restrooms, only gasoline. When we returned from Uruguaiana, I got out with my membership card and asked about the restrooms. They told me there were restrooms, and when I asked about what they had told my wife, they replied that the concessionaire told them to try not to let anyone in for security reasons. The area had Spanish-style tiles surrounding it. I ask you, if they want security, wouldn\u0027t it have been better to close the station and not operate like this, putting the safety of everyone at risk, given how inadequate the security was? Speechless, ACA officials! Show some seriousness!",
+    "createTime": "2017-08-28T20:21:12.444Z",
+    "updateTime": "2017-08-28T20:30:30.984Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBOF8zMC1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paola soledad Merlo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-06-14T17:40:20.614Z",
+    "updateTime": "2017-06-14T17:40:20.614Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/ChZDSUhNMG9nS0VJQ0FnSURnNVpMQWZnEAE"
+  }]
+}

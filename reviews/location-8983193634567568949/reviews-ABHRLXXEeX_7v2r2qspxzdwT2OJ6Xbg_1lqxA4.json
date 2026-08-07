@@ -34,14 +34,6 @@
     "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WR2VWQkVZMHBsUjNZeFdTMHphVVZaWmxwMFZYYxAB"
   }, {
     "reviewer": {
-      "displayName": "Federico Llona"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-01-15T20:03:47.784995Z",
-    "updateTime": "2026-01-15T20:13:47.368701Z",
-    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGcFdrMWZjMUZGVFRGQ2J6bG9TbTV5Yms0MVlXYxAB"
-  }, {
-    "reviewer": {
       "displayName": "Julian Gallegos"
     },
     "starRating": "FIVE",
@@ -56,15 +48,6 @@
     "createTime": "2026-01-15T20:09:04.387166Z",
     "updateTime": "2026-01-15T20:09:04.387166Z",
     "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVdFFrMUdjbWR4U2kxa1dsODRXSGR3V1ZaaFdtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jose Calle"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
-    "createTime": "2026-01-15T20:06:19.001985Z",
-    "updateTime": "2026-01-15T20:06:19.001985Z",
-    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjMU1XdHlXa0ZoTWtoUVdITmhkRXN3VERKTlIyYxAB"
   }, {
     "reviewer": {
       "displayName": "Maria Sol Amado"
@@ -166,5 +149,22 @@
     "createTime": "2025-12-21T15:17:02.625916Z",
     "updateTime": "2025-12-21T15:17:02.625916Z",
     "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kTlYxTlJWVmwxVEZCcVgwbHJlSFpOYTJwNk1FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mauro koller"
+    },
+    "starRating": "THREE",
+    "comment": "La full estaba cerrada. Sin palabras\n\n(Translated by Google)\nThe full store was closed. Speechless.",
+    "createTime": "2025-12-10T00:54:22.267885Z",
+    "updateTime": "2025-12-10T00:54:22.267885Z",
+    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paVFgzVkhUWGxuVjFORE1tczNiRlpGVlhGWlIxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Tsoloyian"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-12-09T13:51:11.203501Z",
+    "updateTime": "2025-12-09T13:51:11.203501Z",
+    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GQlJuSXdZVVZqT1ZFMk5GaFljVEI1T0c5MU5rRRAB"
   }]
 }

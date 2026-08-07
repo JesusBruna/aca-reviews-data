@@ -1,0 +1,45 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Elena V. De Rosso"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-07-16T00:54:24.848Z",
+    "updateTime": "2017-07-16T00:54:34.335Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSURRcmRHc1p3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "David Barcelo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-07-13T22:41:24.599Z",
+    "updateTime": "2017-07-13T22:41:24.599Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRdGUtXzFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "El Pice"
+    },
+    "starRating": "THREE",
+    "comment": "Bueno el shop... rico café.. . La playa  no es gran cosa la atención\n\n(Translated by Google)\nThe shop is good... the coffee is good... The beach isn\u0027t great, the service is fine.",
+    "createTime": "2017-06-22T23:46:19.039Z",
+    "updateTime": "2017-06-22T23:47:03.823Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSURBMzdDekpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Raimondi"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-05-11T18:17:13.866Z",
+    "updateTime": "2017-05-11T18:17:13.866Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChdDSUhNMG9nS0VJQ0FnSURBd29qZG5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "altoroca gazzolo"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy comodo para un descanso\nBuen cafe\nBuenos tostados\n\n(Translated by Google)\nVery comfortable for a break\nGood coffee\nGood toast",
+    "createTime": "2017-05-02T16:20:26.925Z",
+    "updateTime": "2017-05-02T16:21:52.750Z",
+    "name": "accounts/109853746269412609224/locations/7652943530366249800/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3NW82alVnEAE"
+  }]
+}

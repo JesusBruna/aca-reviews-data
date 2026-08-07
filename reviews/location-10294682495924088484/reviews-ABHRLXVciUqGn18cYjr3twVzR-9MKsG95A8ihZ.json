@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Robertha Pereira Barbosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-06T01:30:21.211136Z",
+    "updateTime": "2023-10-06T01:30:21.211136Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURaOWRQa21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Poli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-02T14:20:39.805364Z",
+    "updateTime": "2023-10-02T14:20:39.805364Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURab2Z6Y1J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Da Mo"
+    },
+    "starRating": "THREE",
+    "comment": "Siempre hay problemas para pagar con la app\n\n(Translated by Google)\nThere are always problems paying with the app.",
+    "createTime": "2023-09-29T23:19:33.372677Z",
+    "updateTime": "2023-09-29T23:19:33.372677Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURacHRIUWlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael e Meiri Ataero Paramotor"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-28T19:05:32.866556Z",
+    "updateTime": "2023-09-28T19:05:32.866556Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURaNnVMQUxREAE"
+  }, {
+    "reviewer": {
+      "displayName": "angeles garcia"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-09-19T22:12:19.745480Z",
+    "updateTime": "2023-09-19T22:12:19.745480Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNabDhEdjBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Vidal"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-09-16T14:28:46.122536Z",
+    "updateTime": "2023-09-16T14:28:46.122536Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaX1k3UkxBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Rojas"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-09-15T23:30:58.438698Z",
+    "updateTime": "2023-09-15T23:30:58.438698Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaN2RQUWJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana Correa"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-09-14T01:29:36.155869Z",
+    "updateTime": "2023-09-14T01:29:36.155869Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaLWRHMWNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo del Valle"
+    },
+    "starRating": "TWO",
+    "comment": "Muy poca atención por parte de los empleados y la limpieza de los sanitarios deja bastante que desear\n\n(Translated by Google)\nVery little attention from the staff and the cleanliness of the restrooms leaves much to be desired.",
+    "createTime": "2023-09-13T15:08:36.391033Z",
+    "updateTime": "2023-09-13T15:08:36.391033Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNabVpISDJBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Wisniewski"
+    },
+    "starRating": "FOUR",
+    "comment": "Estación de servicio chiquita, pero estratégica, no confiarse que siempre va a haber combustible, ya me pasó dos veces que no había el combustible que buscaba\n\n(Translated by Google)\nSmall but strategically located gas station; don\u0027t assume there will always be fuel, it\u0027s happened to me twice now that they didn\u0027t have the fuel I was looking for.",
+    "createTime": "2023-09-13T11:44:01.111649Z",
+    "updateTime": "2023-09-13T11:44:01.111649Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaNmN6ajRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jairo Portillo"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-09-12T10:28:13.493809Z",
+    "updateTime": "2023-09-12T10:28:13.493809Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaa2Q2ajBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bernardo Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-04T19:31:55.734810Z",
+    "updateTime": "2023-09-04T19:31:55.734810Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por darnos la más alta calificación Bernardo! esperamos pronto vuelvas a visitarnos! Saludos cordiales Equipo ACA Ita Ibaté",
+      "updateTime": "2023-09-04T20:44:51.374386Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaNU1lLWlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "lilian Bourgscheid"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-31T22:04:42.485432Z",
+    "updateTime": "2023-08-31T22:04:50.052939Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURwNzVhSVRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "luis rolando"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente lugar muy pintoresco\n\n(Translated by Google)\nExcellent, very picturesque place",
+    "createTime": "2023-08-05T20:32:45.799617Z",
+    "updateTime": "2023-08-27T16:39:45.234378Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwOFlucm5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Charly Siri"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-08-25T23:09:11.132965Z",
+    "updateTime": "2023-08-25T23:09:11.132965Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURwNWVlSjJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Enzo Normandini"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-23T04:18:52.343059Z",
+    "updateTime": "2023-08-23T04:18:52.343059Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURwZ2FiZWZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana Elizabeth Sanchez Navarro"
+    },
+    "starRating": "FOUR",
+    "comment": "Los baños bastantes sucios!!!\n\n(Translated by Google)\nThe bathrooms were quite dirty!!!",
+    "createTime": "2023-08-22T21:49:53.423969Z",
+    "updateTime": "2023-08-22T21:49:53.423969Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURwX3NUWjBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Caceres"
+    },
+    "starRating": "ONE",
+    "comment": "PÉSIMO SERVICIO, MUY MALA ATENCIÓN. Quise cargar 200lts de combustible y me hicieron esperar 2hs porque no era horario para hacer ese tipo de cargas. HORRIBLE EL SERVICIO, PESIMOOOO.\n\n(Translated by Google)\nTERRIBLE SERVICE, VERY POOR CUSTOMER CARE. I wanted to fill up with 200 liters of fuel and they made me wait 2 hours because it wasn\u0027t the right time for that type of fill-up. HORRIBLE SERVICE, AWFUL.",
+    "createTime": "2023-08-21T00:03:59.793040Z",
+    "updateTime": "2023-08-21T00:03:59.793040Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURweHM2UFhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Serrano"
+    },
+    "starRating": "TWO",
+    "comment": "Un bar como la gente para poder tomar un café o comer algo\n\n(Translated by Google)\nA proper bar where you can have a coffee or something to eat.",
+    "createTime": "2023-08-20T12:20:14.230290Z",
+    "updateTime": "2023-08-20T12:20:14.230290Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChZDSUhNMG9nS0VJQ0FnSURwMnRPM0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Coletta"
+    },
+    "starRating": "TWO",
+    "comment": "Solo como para cargar combustible, y seguir viaje  los baños sucios, poco espacio para estacionamiento. Muy abandonado todo.\n\n(Translated by Google)\nJust enough to refuel and continue your journey; the restrooms are dirty, and there\u0027s little parking space. Everything is very run down.",
+    "createTime": "2023-08-18T23:14:22.861100Z",
+    "updateTime": "2023-08-18T23:14:22.861100Z",
+    "name": "accounts/109853746269412609224/locations/10294682495924088484/reviews/ChdDSUhNMG9nS0VJQ0FnSURwa3NDT3h3RRAB"
+  }]
+}

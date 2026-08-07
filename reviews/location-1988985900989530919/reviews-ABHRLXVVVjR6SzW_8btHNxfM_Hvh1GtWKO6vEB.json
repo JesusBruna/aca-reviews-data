@@ -50,14 +50,6 @@
     "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNneGFmb1RnEAE"
   }, {
     "reviewer": {
-      "displayName": "Lucas Gonzalez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2017-09-05T23:36:27.244Z",
-    "updateTime": "2017-09-05T23:36:27.244Z",
-    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSURnemNHM1dREAE"
-  }, {
-    "reviewer": {
       "displayName": "Roy Patterson"
     },
     "starRating": "FIVE",
@@ -166,5 +158,14 @@
     "createTime": "2017-07-19T16:50:37.774Z",
     "updateTime": "2017-07-19T16:50:37.774Z",
     "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBMU1pYzhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Marrare"
+    },
+    "starRating": "FOUR",
+    "comment": "Cordial rápido y limpio\n\n(Translated by Google)\nFriendly, fast and clean",
+    "createTime": "2017-07-19T11:48:07.947Z",
+    "updateTime": "2017-07-19T11:48:33.807Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBbl9PbmJnEAE"
   }]
 }

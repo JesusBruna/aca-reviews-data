@@ -1,0 +1,169 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Natalia Acosta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-17T22:51:21.871820Z",
+    "updateTime": "2019-07-17T22:51:21.871820Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVeEtYZ3d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Marcos Pallordet"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-07-17T10:39:16.031495Z",
+    "updateTime": "2019-07-17T10:39:16.031495Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVLUxiaF9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rosana Huenuquir"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-16T03:48:31.834954Z",
+    "updateTime": "2019-07-16T03:48:39.407301Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVcUs3eFVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "mauro"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen estado de sanitarios y del lugar en general.\n\n(Translated by Google)\nVery good condition of the restrooms and the place in general.",
+    "createTime": "2019-07-16T02:12:47.176685Z",
+    "updateTime": "2019-07-16T02:12:47.176685Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVcUx5WTBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Solange Restaino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-15T01:14:30.060009Z",
+    "updateTime": "2019-07-15T01:14:30.060009Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVc0lLYjhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Barriga"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-13T19:43:14.621670Z",
+    "updateTime": "2019-07-13T19:43:14.621670Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVd0tETkFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julián Ortolani"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-12T23:02:26.178581Z",
+    "updateTime": "2019-07-12T23:02:26.178581Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURrMzVMNzR3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Olmos"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-07-12T22:59:17.769510Z",
+    "updateTime": "2019-07-12T22:59:17.769510Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURrMzVMd1VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Martín Vega"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-07-12T20:12:12.313804Z",
+    "updateTime": "2019-07-12T20:12:12.313804Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURrbjd1RjBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Olivero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-11T12:53:55.583512Z",
+    "updateTime": "2019-07-11T12:53:55.583512Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURrOTltb0Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elias Vidal"
+    },
+    "starRating": "TWO",
+    "comment": "Mala atención\n\n(Translated by Google)\nPoor service",
+    "createTime": "2019-07-10T21:30:33.087866Z",
+    "updateTime": "2019-07-10T21:30:33.087866Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURrMV9yUERBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fa Ulloa"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2019-07-10T10:57:15.296080Z",
+    "updateTime": "2019-07-10T10:57:15.296080Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURrNTRUTGtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Luis Martinez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-07-09T23:02:48.346965Z",
+    "updateTime": "2019-07-09T23:02:48.346965Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURraC1YbzRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Facundo Delonuas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-07-09T14:08:44.448086Z",
+    "updateTime": "2019-07-09T14:08:44.448086Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURrLThpX2xBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Belén Gualpa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-08T19:37:15.242912Z",
+    "updateTime": "2019-07-08T19:37:15.242912Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURrbTU3Q0t3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cinthia Zarza"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena la atencion y rico cafe\n\n(Translated by Google)\nExcellent service and delicious coffee",
+    "createTime": "2019-07-08T16:48:04.033750Z",
+    "updateTime": "2019-07-08T16:48:04.033750Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURrNi0tTTV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Griselda Ortiz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-07T16:57:06.302828Z",
+    "updateTime": "2019-07-07T16:57:06.302828Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURrODctN1NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Gavuzzo"
+    },
+    "starRating": "THREE",
+    "comment": "Buena\n\n(Translated by Google)\nGood",
+    "createTime": "2019-07-06T21:49:18.772118Z",
+    "updateTime": "2019-07-06T21:49:47.706202Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURrazZYWXNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvina Medici de Caride"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de todo el personal, siempre amables y con una sonrisa.\n\n(Translated by Google)\nExcellent service from all staff, always friendly and with a smile.",
+    "createTime": "2019-07-05T12:20:29.968644Z",
+    "updateTime": "2019-07-05T12:20:29.968644Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChdDSUhNMG9nS0VJQ0FnSURrdmVPMDJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Virginia Traballoni"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-07-05T08:38:24.757582Z",
+    "updateTime": "2019-07-05T08:38:24.757582Z",
+    "name": "accounts/109853746269412609224/locations/13749144040617922376/reviews/ChZDSUhNMG9nS0VJQ0FnSURrdmVUbFRBEAE"
+  }]
+}

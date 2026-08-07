@@ -1,6 +1,60 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Federico"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-02T01:45:08.246908Z",
+    "updateTime": "2026-08-02T01:45:08.246908Z",
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xscVowWXlUaTFEY2xaRVkzSldaVWhmVmpBNFdVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "juan domina"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención del playero, muy atento y nos recomendó lugares para recorrrer. Los baños super limpios!!!!\n\n(Translated by Google)\nExcellent service from the beach attendant, very attentive and recommended places to visit. The restrooms were spotless!",
+    "createTime": "2026-07-28T12:06:18.088292Z",
+    "updateTime": "2026-07-28T12:06:18.088292Z",
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psWFMzcFNYMVpTWDB0T1FrVnNOSGQ1VTJOVFdGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "GA SILVA"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-25T23:35:39.151412Z",
+    "updateTime": "2026-07-25T23:35:39.151412Z",
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWTFVFbGtRVEpLUlZacVZXRjJWMVp2WjBaNVRVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria jose Rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-07-15T22:38:09.100703Z",
+    "updateTime": "2026-07-15T22:38:09.100703Z",
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWldITm9jbTVRWjE5SFlqVlJSRU5FVVdoRWIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucia Brid"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención!! Muy buena estación de servicio!!\n\n(Translated by Google)\nGreat service!! Very good gas station!!",
+    "createTime": "2026-07-15T00:42:11.380358Z",
+    "updateTime": "2026-07-15T00:42:11.380358Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias intentamos mejorar día a día...",
+      "updateTime": "2026-07-15T00:53:32.272464Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toNFFqWm1ZbVkzTVdOeVRpMWhkRkJNV2t0cFFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juliana Gardes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-10T16:04:03.274443Z",
+    "updateTime": "2026-07-10T16:04:03.274443Z",
+    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wcVNtWm9ia0ZJYVU5VmJHTllhazlwZFZCSFowRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Hugo Alberto Caresani"
     },
     "starRating": "FOUR",
@@ -122,56 +176,5 @@
     "createTime": "2026-04-16T23:34:37.140499Z",
     "updateTime": "2026-04-16T23:34:37.140499Z",
     "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kR2FqVmtibVJqZVU5VWRHWk5hRXMyU0ROYVFsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Angelica Delfino"
-    },
-    "starRating": "ONE",
-    "comment": "Muy mal , cargamos $50.000 de nafta y como solicitamos factura A , no nos quisieron cargar los puntos en la tarjeta ypf !!! El día 11/4/26  a las 12.52 hs . UNA VERGUENZA !!!!\n\n(Translated by Google)\nVery bad! We filled up with $50,000 worth of gasoline and, because we requested an invoice (type A), they refused to credit the points to our YPF card! This happened on April 11, 2026, at 12:52 PM. A disgrace!",
-    "createTime": "2026-04-12T22:42:45.036874Z",
-    "updateTime": "2026-04-12T22:42:45.036874Z",
-    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaVFNYUXdWRTgxYlVKTFkzQnNjMk5qWmxSZlJHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "esteban20098"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-02T20:11:46.468567Z",
-    "updateTime": "2026-04-02T20:11:46.468567Z",
-    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psU1ZuVkNjaTFzWTB3dGNDMXZRWGd6Tmt0S09WRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pedro Silvestre"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-01T00:58:48.854308Z",
-    "updateTime": "2026-04-01T00:58:48.854308Z",
-    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VmQybE9XVWN5YjJFNWFHZHVlVjlPYzNSV2FGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos Quintanilla"
-    },
-    "starRating": "THREE",
-    "comment": "Los baños son limpios y el servicio es aceptable. Lamentablemente no tienen servicio de duchas..\n\n(Translated by Google)\nThe bathrooms are clean and the service is acceptable. Unfortunately, they don\u0027t have showers.",
-    "createTime": "2026-03-30T23:16:52.595456Z",
-    "updateTime": "2026-03-30T23:16:52.595456Z",
-    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxM1NFdE9YMFp2TlV0MFFXYzVNMk5uWDFCbE9WRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Cayetano roque Muñoz"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-30T16:05:14.347818Z",
-    "updateTime": "2026-03-30T16:05:14.347818Z",
-    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Wck9VRm1aR0pCV0RKSk5tNXdXbXhrYTNrelFVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mir Lusewix - Arteymateria - (ArteArtesanal)"
-    },
-    "starRating": "THREE",
-    "comment": "Atienden muuyyy lento.\n\n(Translated by Google)\nThey serve you veeeery slowly.",
-    "createTime": "2026-03-27T12:36:39.630654Z",
-    "updateTime": "2026-03-27T12:36:39.630654Z",
-    "name": "accounts/109853746269412609224/locations/8700140572418264453/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taRFVVSmxWWE54VjBwVGRtdE5hM2hyVmxKUVQzYxAB"
   }]
 }

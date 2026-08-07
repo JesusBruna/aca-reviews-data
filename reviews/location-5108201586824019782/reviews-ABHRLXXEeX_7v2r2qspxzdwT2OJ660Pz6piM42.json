@@ -1,0 +1,251 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Nicolás Vaccaneo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-01-27T11:25:22.238673Z",
+    "updateTime": "2024-01-27T11:25:22.238673Z",
+    "reviewReply": {
+      "comment": "Gracias Nicolás.",
+      "updateTime": "2024-01-27T14:26:27.036310Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUROcjcteU9REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandra Heffner"
+    },
+    "starRating": "THREE",
+    "comment": "Muyyy caro.... hermosa vista....  poco serviciales! Ya que cobran tanto bien podrían dar aunque sea el agua caliente gratis.\n\n(Translated by Google)\nVery expensive... beautiful view... but the staff are unhelpful! Since they charge so much, they could at least provide free hot water.",
+    "createTime": "2024-01-26T12:26:40.454609Z",
+    "updateTime": "2024-01-26T12:26:40.454609Z",
+    "reviewReply": {
+      "comment": "Gracias Alejandra. Tendremos en cuenta tu sugerencia. Para el socio del ACA además del 10% de descuento, el agua para mate es sin cargo.",
+      "updateTime": "2024-01-29T12:57:38.076146Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUROdTltTG5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis V"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-01-25T21:46:46.384748Z",
+    "updateTime": "2024-01-25T21:46:46.384748Z",
+    "reviewReply": {
+      "comment": "Gracias Luis.",
+      "updateTime": "2024-01-27T02:43:27.085943Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUROODZTRWF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "María Celeste Marrocco"
+    },
+    "starRating": "FIVE",
+    "comment": "La vista es imperdible!!!!\n\n(Translated by Google)\nThe view is unmissable!!!!",
+    "createTime": "2024-01-22T14:23:58.488860Z",
+    "updateTime": "2024-01-22T14:23:58.488860Z",
+    "reviewReply": {
+      "comment": "Mérito del Creador.",
+      "updateTime": "2024-01-29T12:57:56.525619Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUROenNmV0hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Navarro"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-01-22T02:50:46.635763Z",
+    "updateTime": "2024-01-22T02:50:46.635763Z",
+    "reviewReply": {
+      "comment": "Gracias Gonzalo.",
+      "updateTime": "2024-01-23T18:28:47.433834Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUROeHEzMTRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lorena Leguizamon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-20T22:56:17.220740Z",
+    "updateTime": "2024-01-20T22:56:17.220740Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Lorena.",
+      "updateTime": "2024-01-21T21:07:28.931958Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUROX08tQ0VREAE"
+  }, {
+    "reviewer": {
+      "displayName": "C. Cecche"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente estación de servicio de YPF-ACA, frente al Lago Mascardi...\n\n(Translated by Google)\nExcellent YPF-ACA service station, facing Lake Mascardi...",
+    "createTime": "2024-01-20T17:14:46.996115Z",
+    "updateTime": "2024-01-20T17:19:35.053251Z",
+    "reviewReply": {
+      "comment": "Gracias !",
+      "updateTime": "2024-01-23T18:29:26.541419Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUROdUx1RXl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Rios"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-01-20T12:00:18.159434Z",
+    "updateTime": "2024-01-20T12:00:18.159434Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURONk0zbC1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Priscila Scholz"
+    },
+    "starRating": "FIVE",
+    "comment": "Riquísimas las medialunas\n\n(Translated by Google)\nThe croissants were delicious.",
+    "createTime": "2024-01-20T04:01:55.358185Z",
+    "updateTime": "2024-01-20T04:01:55.358185Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Priscila.",
+      "updateTime": "2024-01-20T11:36:17.251832Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUROOEpUS3BBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Argerich"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-20T01:15:42.418567Z",
+    "updateTime": "2024-01-20T01:15:42.418567Z",
+    "reviewReply": {
+      "comment": "Gracias María.",
+      "updateTime": "2024-01-20T11:36:42.357966Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUROME5tNVh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Orzan"
+    },
+    "starRating": "THREE",
+    "comment": "Un lugar con un entorno único. Lamentablemente sin un servicio de bebidas y cafetería, pongan máquinas automáticas.\n\n(Translated by Google)\nA place with a unique setting. Unfortunately, there\u0027s no drinks service or coffee shop; they should just install vending machines.",
+    "createTime": "2024-01-18T23:47:10.195716Z",
+    "updateTime": "2024-01-18T23:47:10.195716Z",
+    "reviewReply": {
+      "comment": "Gustavo, hay servicio de bebidas, cafeteria, sandwiches y snacks.\nLamentablemente hay un horario de apertura y cierre.",
+      "updateTime": "2024-01-19T00:25:03.408381Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOOTl2UGJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan.Ignacio Villarreal"
+    },
+    "starRating": "THREE",
+    "comment": "Solo tenían combustible,  no tenían agua en los baños.\n\n(Translated by Google)\nThey only had fuel; they had no water in the bathrooms.",
+    "createTime": "2024-01-18T16:55:40.600227Z",
+    "updateTime": "2024-01-18T16:55:40.600227Z",
+    "reviewReply": {
+      "comment": "JV, el agua la provee la montaña. A veces no quiere.\nEs la naturaleza.",
+      "updateTime": "2024-01-18T18:36:35.867847Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNONThXWjdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Maria Barreto"
+    },
+    "starRating": "TWO",
+    "comment": "Atiende uno solo y hay cola de 20 autos!!! Un desastre!!!\n\n(Translated by Google)\nThere\u0027s only one person working and there\u0027s a line of 20 cars!!! A disaster!!!",
+    "createTime": "2024-01-18T15:12:58.636208Z",
+    "updateTime": "2024-01-18T15:12:58.636208Z",
+    "reviewReply": {
+      "comment": "Gracias Jose. Tendremos en cuenta tu aporte.",
+      "updateTime": "2024-01-18T18:37:50.228201Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOcDhIS0NREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Enrique Garza Novikoff"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-17T20:12:38.436427Z",
+    "updateTime": "2024-01-17T20:12:38.436427Z",
+    "reviewReply": {
+      "comment": "Gracias Eduardo.",
+      "updateTime": "2024-01-17T21:18:36.953728Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOaTRxdVZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Edilaine Ribeiro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-01-16T21:06:44.765203Z",
+    "updateTime": "2024-01-16T21:06:44.765203Z",
+    "reviewReply": {
+      "comment": "Gracias Edilaine.",
+      "updateTime": "2024-01-16T23:46:14.153442Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOcmZ2by13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Soledad Coello"
+    },
+    "starRating": "FIVE",
+    "comment": "Debe ser la estación de paso. Con mejores vistas del mundo\n\n(Translated by Google)\nIt must be the stopover station. With the best views in the world.",
+    "createTime": "2024-01-16T19:34:05.700157Z",
+    "updateTime": "2024-01-16T19:34:33.349019Z",
+    "reviewReply": {
+      "comment": "Efectivamente, lo es. Gracias Soledad !",
+      "updateTime": "2024-01-17T14:55:48.622762Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOelp2YnRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Díaz Curia"
+    },
+    "starRating": "THREE",
+    "comment": "Pocos surtidores lo que ralentiza la carga de combustible. Baños bastante mugrientos.\n\n(Translated by Google)\nFew pumps, which slows down refueling. Bathrooms are quite dirty.",
+    "createTime": "2024-01-16T13:52:33.535078Z",
+    "updateTime": "2024-01-16T13:52:33.535078Z",
+    "reviewReply": {
+      "comment": "Gracias Fernando, vamos a tener en cuenta esas observaciones.",
+      "updateTime": "2024-01-16T15:49:11.834578Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOdGRTaV9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Ezequiel Castro"
+    },
+    "starRating": "FIVE",
+    "comment": "Una estación de servicio pequeña para desayunar pero la más linda. Con vista la lago, tremenda!!!\n\n(Translated by Google)\nA small but lovely gas station, perfect for breakfast. With a stunning lake view!",
+    "createTime": "2024-01-16T11:32:32.267502Z",
+    "updateTime": "2024-01-16T11:32:32.267502Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Pablo, creo que es la forma correcta de ver la vida.",
+      "updateTime": "2024-01-16T15:50:40.730804Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNObGJYRGl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adrian Boscardin"
+    },
+    "starRating": "FIVE",
+    "comment": "Es un lugar donde hay que parar a tomar un café y cargar combustible.  Tiene un paisaje increíble y privilegiado para tomarse unas fotografías\n\n(Translated by Google)\nIt\u0027s a place where you should stop for a coffee and refuel. It has an incredible and stunning landscape, perfect for taking photos.",
+    "createTime": "2024-01-16T10:48:34.178199Z",
+    "updateTime": "2024-01-16T10:48:34.178199Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Adrián.",
+      "updateTime": "2024-01-16T15:50:59.951354Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNObGF6NUNREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Brodt"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-15T22:52:16.149324Z",
+    "updateTime": "2024-01-15T22:52:16.149324Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Romina.",
+      "updateTime": "2024-01-16T02:03:19.923462Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOMmZ5aWdRRRAB"
+  }]
+}

@@ -1,11 +1,36 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Cristian Unda"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-26T00:32:39.494992Z",
+    "updateTime": "2026-07-26T00:32:39.494992Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NM01reENlbVZ4YkVkMmVrSnZSMlJ4WW5NeFZWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Garancini"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien atendidos,\n\n(Translated by Google)\nWe received excellent service.",
+    "createTime": "2026-07-20T15:28:11.663804Z",
+    "updateTime": "2026-07-20T15:28:11.663804Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario, lo esperamos nuevamente",
+      "updateTime": "2026-07-21T21:52:42.716231Z"
+    },
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOblNVOUxOalo0Y2xodlZrNVNiM1J4ZWtkdmExRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Juan Diaz"
     },
     "starRating": "FIVE",
     "createTime": "2026-07-02T02:29:32.250393Z",
     "updateTime": "2026-07-02T17:39:46.372696Z",
+    "reviewReply": {
+      "comment": "Gracias por su visita, lo esperamos nuevamente",
+      "updateTime": "2026-07-21T21:55:47.724233Z"
+    },
     "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbVRESXdUMDFTZWtOWGVWSktZMW8yU1hsNVRtYxAB"
   }, {
     "reviewer": {
@@ -14,6 +39,10 @@
     "starRating": "FIVE",
     "createTime": "2026-07-02T02:27:59.298609Z",
     "updateTime": "2026-07-02T02:27:59.298609Z",
+    "reviewReply": {
+      "comment": "gracias por visitarnos",
+      "updateTime": "2026-07-21T21:54:34.498495Z"
+    },
     "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rMlJrSm9SMUpGTUZGVFEzVlhPVmt4TjBwVFVWRRAB"
   }, {
     "reviewer": {
@@ -23,6 +52,10 @@
     "comment": "Muy buena atención.\n\n(Translated by Google)\nExcellent service.",
     "createTime": "2026-06-02T18:00:32.436923Z",
     "updateTime": "2026-06-02T18:00:32.436923Z",
+    "reviewReply": {
+      "comment": "gracias por visitarnos, lo esperamos nuevamente",
+      "updateTime": "2026-07-21T21:56:42.654118Z"
+    },
     "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSTFZ6SXdaa3R1VkZoMVJUUlBSamg0VkZKclltYxAB"
   }, {
     "reviewer": {
@@ -157,22 +190,5 @@
     "createTime": "2026-03-23T17:00:50.230550Z",
     "updateTime": "2026-03-23T17:00:50.230550Z",
     "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwb1ZsaEdUV0pRVWpKQlJEQmZlVXh2ZG1KcWMzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "J C P"
-    },
-    "starRating": "FIVE",
-    "comment": "Última carga antes del cruce de aguas negras. Buen servicio y recomendaciones de sus playeros.\n\n(Translated by Google)\nLast fill-up before crossing the sewage system. Good service and recommendations from the attendants.",
-    "createTime": "2026-03-18T22:24:39.304732Z",
-    "updateTime": "2026-03-18T22:24:39.304732Z",
-    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNek1ISnJhSEpPTkRGS05sa3hWa2RaWnpBeGJHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Leticia Maestro"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-03-18T00:26:07.712242Z",
-    "updateTime": "2026-03-18T00:26:07.712242Z",
-    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5bFMyOWlibHBPUjI0MFR6bHZTSGxPTUU1b1RsRRAB"
   }]
 }

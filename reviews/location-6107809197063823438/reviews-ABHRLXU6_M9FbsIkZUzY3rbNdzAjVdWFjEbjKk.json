@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Alfredo Ruben Oliverio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-10T18:19:10.923802Z",
+    "updateTime": "2023-08-10T18:19:10.923802Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNjVLLVl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "francisco domanski"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-10T03:06:01.965073Z",
+    "updateTime": "2023-08-10T03:06:01.965073Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwczRIRW1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Echeverria"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-09T13:15:32.093777Z",
+    "updateTime": "2023-08-09T13:15:41.094821Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwbzVxMlRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mercedes Olivera"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy rico el café, no aceptan mascotas. Muy Buena atención.\n\n(Translated by Google)\nThe coffee is delicious, but they don\u0027t allow pets. The service is excellent.",
+    "createTime": "2023-08-09T13:14:23.720982Z",
+    "updateTime": "2023-08-09T13:14:23.720982Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwby1xd2tBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "AGUSTIN FACUNDO DEMAGRI"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-09T13:00:51.334738Z",
+    "updateTime": "2023-08-09T13:00:51.334738Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwb196ZTdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Marino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-09T06:30:40.891774Z",
+    "updateTime": "2023-08-09T06:30:40.891774Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwZzZ5Q3ZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio Reina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-09T02:32:57.934450Z",
+    "updateTime": "2023-08-09T02:32:57.934450Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwX2ZyUTlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Asensio Lucero"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención en la estación y adentro.\n\n(Translated by Google)\nGood service at the station and inside.",
+    "createTime": "2023-08-09T00:19:07.630612Z",
+    "updateTime": "2023-08-09T00:19:07.630612Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwdmRIekp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "José Delgado"
+    },
+    "starRating": "THREE",
+    "comment": "Aceptable. Buen  servicio y atención como la mayoría de las YPF\n\n(Translated by Google)\nAcceptable. Good service and attention, like most YPF stations.",
+    "createTime": "2023-08-07T16:30:46.300337Z",
+    "updateTime": "2023-08-07T16:30:46.300337Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwbGJQbTd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "franco suarez"
+    },
+    "starRating": "THREE",
+    "comment": "Solo cargamos nafta y agua parael termo.\nNada del otro mundo.\n\n(Translated by Google)\nWe just filled up with gas and water for the thermos. Nothing out of the ordinary.",
+    "createTime": "2023-08-07T12:48:37.549731Z",
+    "updateTime": "2023-08-07T12:48:37.549731Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNWZyVEN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juanma Kruchinsky"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-07T01:41:21.863688Z",
+    "updateTime": "2023-08-07T01:41:21.863688Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwLVpfQ0JBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Mundo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!. Si vas en ruta y necesitas un descanso...este es el lugar!\n\n(Translated by Google)\nExcellent service! If you\u0027re on the road and need a break...this is the place!",
+    "createTime": "2023-08-06T16:43:04.270745Z",
+    "updateTime": "2023-08-06T16:43:04.270745Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwMlliUVpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabiana Vukojevich"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente servicio e higiene\n\n(Translated by Google)\nExcellent service and hygiene",
+    "createTime": "2023-08-06T12:19:17.898105Z",
+    "updateTime": "2023-08-06T12:19:17.898105Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwNlozXzRRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Rocca"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-06T12:00:15.166834Z",
+    "updateTime": "2023-08-06T12:00:15.166834Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNmJteUVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "JES"
+    },
+    "starRating": "FIVE",
+    "comment": "Un alto en el camino, rico todo, muy surtido el lugar, y el toque retro de estar en el ACA..\n\n(Translated by Google)\nA stop along the way, everything was delicious, the place was very well-stocked, and it had that retro touch of being at the ACA.",
+    "createTime": "2023-06-11T11:18:59.052070Z",
+    "updateTime": "2023-08-06T09:51:21.318688Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4bWRuVWR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "monica bal"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños limpios.\n\n(Translated by Google)\nClean bathrooms.",
+    "createTime": "2023-08-06T05:17:55.939480Z",
+    "updateTime": "2023-08-06T05:17:55.939480Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNweWJudEZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Peretti"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-08-06T01:36:36.454772Z",
+    "updateTime": "2023-08-06T01:36:36.454772Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwaWV1SmVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elina Colina"
+    },
+    "starRating": "FIVE",
+    "comment": "Presenta una cafetería- restaurante..muy rica la comida..la atención\n\n(Translated by Google)\nIt has a cafe-restaurant...the food is delicious...the service is great",
+    "createTime": "2023-08-05T22:11:28.271313Z",
+    "updateTime": "2023-08-05T22:11:28.271313Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwaWZpUmRnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Máximo Macias"
+    },
+    "starRating": "FIVE",
+    "comment": "El agua era gratis\n\n(Translated by Google)\nWater was free",
+    "createTime": "2023-08-05T18:24:14.343784Z",
+    "updateTime": "2023-08-05T18:24:14.343784Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwc2V2R1ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Patto Sotto"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-05T14:20:09.734346Z",
+    "updateTime": "2023-08-05T14:20:09.734346Z",
+    "name": "accounts/109853746269412609224/locations/6107809197063823438/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwMGZDN1RBEAE"
+  }]
+}

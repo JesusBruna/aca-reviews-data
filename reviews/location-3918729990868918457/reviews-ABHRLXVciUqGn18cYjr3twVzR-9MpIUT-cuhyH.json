@@ -1,0 +1,230 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ma Meternicht"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-05-20T03:00:37.848928Z",
+    "updateTime": "2023-05-20T03:00:37.848928Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4c2J2U0J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel Adriana"
+    },
+    "starRating": "FIVE",
+    "comment": "Un lugar agradable para encontrarse con amigos, excelente servicio y atención.\n\n(Translated by Google)\nA pleasant place to meet friends, excellent service and attention.",
+    "createTime": "2022-05-10T14:25:54.300524Z",
+    "updateTime": "2023-05-15T17:38:45.593140Z",
+    "reviewReply": {
+      "comment": "Muchas gracias, su opinión nos motiva a todos a seguir haciendo lo mejor posible!",
+      "updateTime": "2023-06-12T13:45:13.963857Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUQya3Vic3Z3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leticia Schoenfeld"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-26T21:29:11.556702Z",
+    "updateTime": "2023-04-26T21:29:11.556702Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURSd2RPb3BRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Alberto Reami"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-04-25T02:20:51.680577Z",
+    "updateTime": "2023-04-25T02:20:51.680577Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURSOXJDWnlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Alberto Tellini"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion, buena comida, recomendable.\n\n(Translated by Google)\nGood service, good food, recommended.",
+    "createTime": "2023-04-25T01:57:57.381264Z",
+    "updateTime": "2023-04-25T01:57:57.381264Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURSdHItbmhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando A. Toloza"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de sus empleados\n\n(Translated by Google)\nExcellent service from their employees",
+    "createTime": "2023-04-23T19:26:40.683126Z",
+    "updateTime": "2023-04-23T19:26:40.683126Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el reconocimiento, nos ayuda a seguir adelante!",
+      "updateTime": "2023-04-24T22:20:14.029650Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURSaHV6Z2tnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Sergio Simonsini"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísima la comida y la atención\n\n(Translated by Google)\nThe food and service were excellent.",
+    "createTime": "2023-04-23T12:02:38.951777Z",
+    "updateTime": "2023-04-23T12:02:38.951777Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por la opinion, nos pone felices que estamos en buen camino!",
+      "updateTime": "2023-04-24T22:21:48.991898Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdXVpUVJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "miguel Angel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-04-22T01:14:04.925120Z",
+    "updateTime": "2023-04-22T01:14:04.925120Z",
+    "reviewReply": {
+      "comment": "Gracias!",
+      "updateTime": "2023-04-24T22:22:43.856900Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURSc29mVTJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Pereyra"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención...\n\n(Translated by Google)\nExcellent service...",
+    "createTime": "2023-04-21T23:11:37.767619Z",
+    "updateTime": "2023-04-21T23:11:37.767619Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu opinión, nos ayuda a seguir adelante!",
+      "updateTime": "2023-04-24T22:23:35.224409Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURSc3NuQTRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Gil"
+    },
+    "starRating": "FOUR",
+    "comment": "Riquísimo desayuno excelente atención.!!!\n\n(Translated by Google)\nDelicious breakfast, excellent service!",
+    "createTime": "2023-04-18T21:35:14.772577Z",
+    "updateTime": "2023-04-18T21:35:14.772577Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu opinión, estas cosas nos ayudan a seguir adelante!",
+      "updateTime": "2023-04-24T22:26:32.351861Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdExpOFpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Ayala"
+    },
+    "starRating": "ONE",
+    "createTime": "2023-04-16T19:22:23.940842Z",
+    "updateTime": "2023-04-16T19:22:29.458472Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURScUlPUVhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "omar amendolaro"
+    },
+    "starRating": "THREE",
+    "comment": "Buena atencion y baños muy limpios\n\n(Translated by Google)\nGood service and very clean bathrooms",
+    "createTime": "2023-04-15T19:33:14.489997Z",
+    "updateTime": "2023-04-15T19:33:14.489997Z",
+    "reviewReply": {
+      "comment": "Gracias por tu opinión, nos ayuda a crecer!",
+      "updateTime": "2023-04-24T22:27:39.543441Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURSMExuWWt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Alvarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Lindo\n\n(Translated by Google)\nNice",
+    "createTime": "2023-04-11T15:08:21.249030Z",
+    "updateTime": "2023-04-11T15:08:21.249030Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por la opinión, estas cosas son las que nos hacen seguir adelante y en el mismo camino!",
+      "updateTime": "2023-04-24T22:28:18.331530Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSdS1MQ0l3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leandro Nuñez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-04-09T04:50:45.010929Z",
+    "updateTime": "2023-04-09T04:50:45.010929Z",
+    "reviewReply": {
+      "comment": "Gracias por puntuar, nos ayuda a seguir así!",
+      "updateTime": "2023-04-24T22:30:03.094633Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSX2RfRjl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vanesa Viviana Morassi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-21T23:00:07.358555Z",
+    "updateTime": "2023-03-21T23:00:07.358555Z",
+    "reviewReply": {
+      "comment": "Muchas gracias, nos ayuda a seguir así!",
+      "updateTime": "2023-04-24T22:30:50.351891Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURoX183bHVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "{D.M}"
+    },
+    "starRating": "FOUR",
+    "comment": "Es chico el lugar pero lindo donde esta ubicado y ademas lindos baños\n\n(Translated by Google)\nThe place is small but nice where it is located and also nice bathrooms",
+    "createTime": "2023-03-12T01:55:51.740561Z",
+    "updateTime": "2023-03-18T21:32:53.205587Z",
+    "reviewReply": {
+      "comment": "Gracias por tu opinión, nos ayuda a crecer y mejorar!",
+      "updateTime": "2023-04-24T22:31:25.878516Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeWJQTnBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Moyano"
+    },
+    "starRating": "THREE",
+    "comment": "Compre unos sanwichs de miga y estaban agrios,no tienen fecha de envase ni vencimiento,tuve que tirar$1200 a la basura\n\n(Translated by Google)\nI bought some finger sandwiches and they were sour, they didn\u0027t have a packaging or expiration date, I had to throw away $1200",
+    "createTime": "2023-03-16T18:12:21.196256Z",
+    "updateTime": "2023-03-16T18:12:21.196256Z",
+    "reviewReply": {
+      "comment": "Disculpe si nos paso eso, la manufactura de los sándwichs es diaria y el material es fresco de todos los dias, difícilmente se nos pasen los vencimientos, le pedimos perdón por lo sucedido y nos ponemos en disposición para devolverle el dinero.  3491420151",
+      "updateTime": "2023-04-24T22:47:02.688807Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNDU2Y0tnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "osvaldo filiguera"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-03-14T17:40:27.137488Z",
+    "updateTime": "2023-03-14T17:40:27.137488Z",
+    "reviewReply": {
+      "comment": "Gracias por puntuar, nos ayuda a crecer y mejorar!",
+      "updateTime": "2023-04-24T22:36:23.988285Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURoalp2RVZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Alejandro Guillen"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-12T11:27:54.214912Z",
+    "updateTime": "2023-03-12T11:27:54.214912Z",
+    "reviewReply": {
+      "comment": "Gracias por puntuar, nos ayuda a crecer y mejorar!",
+      "updateTime": "2023-04-24T22:34:18.327168Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNmF1SllnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Faliva"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-05T01:30:04.001230Z",
+    "updateTime": "2023-03-05T01:30:04.001230Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURoNHZpT2xRRRAB"
+  }]
+}

@@ -1,242 +1,181 @@
 {
   "reviews": [{
     "reviewer": {
-      "displayName": "Anibal Garcia"
-    },
-    "starRating": "FOUR",
-    "comment": "Lo mejor como toda YPF\n\n(Translated by Google)\nThe best, like all YPF",
-    "createTime": "2026-06-24T03:39:48.314968Z",
-    "updateTime": "2026-06-24T03:39:48.314968Z",
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swNFZWVkZOVTlCT0dvd2EzbzFXRU53U3pWalptYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ana Ines Morello"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-23T01:18:18.900683Z",
-    "updateTime": "2026-06-23T01:18:18.900683Z",
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOWmVtNUVSWFowVWtOYVJVeHhjblUzYkZkQkxVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Javier Baggi"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-21T12:54:12.085205Z",
-    "updateTime": "2026-06-21T12:54:12.085205Z",
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWeFN6QnVZM3BKZWpWblEwTkxMWFZTY0hsVE0yYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "marcelo soria"
+      "displayName": "David Torres Viera"
     },
     "starRating": "ONE",
-    "comment": "Baños limpios, atención 5 puntos, ni mala ni buena, muy mala organización, me tocó esperar más de 40 minutos por qué estaban descargando combustible el camión que los abastece, haciendo largas colas, molestias de los clientes y perdida de tiempo, una empresa con tanta experiencia no puede tener estos errores de principiantes.\n\n(Translated by Google)\nClean bathrooms, service was 5 points, neither bad nor good, very poor organization, I had to wait more than 40 minutes because they were unloading fuel from the truck that supplies them, making long queues, inconveniencing customers and wasting time, a company with so much experience cannot make these beginner mistakes.",
-    "createTime": "2026-06-17T15:44:30.997006Z",
-    "updateTime": "2026-06-17T15:44:30.997006Z",
-    "reviewReply": {
-      "comment": "Buen día Marcelo, antes que nada te pedimos disculpas, un camión tarda aproximadamente 1 hora en descargar dependiendo de la cantidad de combustible que traiga. Hemos presentado un protocolo de seguridad para seguir despachando durante la descarga pero por cuestiones de seguridad y disposición de surtidores /bocas de descarga todavía no logramos que sea autorizado. Lamentamos la incomodidad,  pero por el momento y hasta nuevo aviso no podemos más que esperar que el camión baje el combustible con la playa cerrada. Te agradecemos tu comentario y esperamos tener novedades al respecto pronto. Saludos ",
-      "updateTime": "2026-06-18T13:07:53.923184Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSblZtSTRXbHBEZURKQ2NrVnNTMjlGWlVWNFlWRRAB"
+    "comment": "Hoy 02 de agosto cargue nafta, se operadora me limpió el parabrisas, noté q raspaba y al salir a la ruta y tener sol de frente me doy cuenta que me había rayado todo el vidrio ya que el limpiador estaba re viejo, lástima q la excelente atención se ve opacado por tener utensilios viejos…\n\n(Translated by Google)\nToday, August 2nd, I filled up with gas. The attendant cleaned my windshield, but I noticed it was scraping. When I drove out onto the highway and the sun was in my face, I realized she had scratched the entire glass because the wiper was really old. It\u0027s a shame that the excellent service was overshadowed by having such outdated equipment…",
+    "createTime": "2026-08-02T13:14:35.824673Z",
+    "updateTime": "2026-08-02T13:14:35.824673Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGdmFIVXdUMFpqY2pObmVHSkdWV1oxYzJWaWRIYxAB"
   }, {
     "reviewer": {
-      "displayName": "Emmanuel Cartier"
+      "displayName": "Cesar Vasquez M"
     },
     "starRating": "FOUR",
-    "comment": "Suele haber mucha gente pero atienden rapido\n\n(Translated by Google)\nIt\u0027s usually busy, but they serve you quickly.",
-    "createTime": "2026-06-17T01:48:10.145235Z",
-    "updateTime": "2026-06-17T01:48:10.145235Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Emmanuel, saludos!!!",
-      "updateTime": "2026-06-18T13:08:19.340888Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodlYxRkdNMVY0UlZkYWNrSTNOV0p5UWpob2RYYxAB"
+    "createTime": "2026-08-01T03:24:42.270712Z",
+    "updateTime": "2026-08-01T03:24:42.270712Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKVlNYQmZUMm90VFdwVmVEY3RORWRUVFVzMUxWRRAB"
   }, {
     "reviewer": {
-      "displayName": "Leandro Lupiañez"
+      "displayName": "Pablo Bonuccelli"
     },
     "starRating": "FIVE",
-    "comment": "Buenas noches, les hago una consulta.. tienen habilitado el auto despacho? desde ya, muchas gracias por su respuesta\n\n(Translated by Google)\nGood evening, I have a question... do you have self-service available? Thank you in advance for your response.",
-    "createTime": "2026-06-15T00:45:43.356355Z",
-    "updateTime": "2026-06-15T00:45:43.356355Z",
-    "reviewReply": {
-      "comment": "Buen día Leandro, no todavía no pudimos habilitar auto despacho, estamos trabajando en los sistemas para que quede habilitado en el turno noche. Muchas gracias ",
-      "updateTime": "2026-06-18T13:02:30.439414Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aQlkyWlhVRjgzWVdsNU16RTNiMWhQU2tabVRFRRAB"
+    "comment": "Muy buen servicio.\n\n(Translated by Google)\nVery good service.",
+    "createTime": "2026-07-31T20:41:13.352316Z",
+    "updateTime": "2026-07-31T20:41:13.352316Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psbmVuRTBWM0l4ZFdST2FFeHVXR3Q0VmpoelVYYxAB"
   }, {
     "reviewer": {
-      "displayName": "Facundo Jimenez"
+      "displayName": "A.F. R"
     },
     "starRating": "ONE",
-    "comment": "Venia en llanta y no me dejaron pasar a inflar un poco la cubierta de la moto, empujándola.\n\n(Translated by Google)\nI was driving on a flat tire and they wouldn\u0027t let me through to inflate the motorcycle tire a little, even though I had to push it.",
-    "createTime": "2026-06-14T20:39:30.779187Z",
-    "updateTime": "2026-06-14T20:39:30.779187Z",
-    "reviewReply": {
-      "comment": "Buen día Facundo, seguramente estaba descargando el camión y por el momento no podemos operar ni permitir el tránsito desde el inicio de la rejilla perimetral en adelante durante la descarga. Te pedimos disculpas pero son regulaciones de seguridad. Saludos",
-      "updateTime": "2026-06-18T13:14:38.480104Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5VWNtZG5hMmMwYkdrMGJFUmhlVmhaY2tKdGFtYxAB"
+    "comment": "Lindo y tanquilo\n\n(Translated by Google)\nBeautiful and peaceful",
+    "createTime": "2026-07-31T15:32:41.772215Z",
+    "updateTime": "2026-07-31T15:32:41.772215Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oRk5XbHhaVlpEUjJ4NFJGVndTRFV5TUVSWE1FRRAB"
   }, {
     "reviewer": {
-      "displayName": "Andres Scali"
+      "displayName": "Claudio Guelfo"
     },
     "starRating": "FIVE",
-    "comment": "Servicio rapido y personal dr calidad muy bien presentado!\n\n(Translated by Google)\nFast and friendly service, excellent quality, very well presented!",
-    "createTime": "2026-06-12T20:50:15.214084Z",
-    "updateTime": "2026-06-12T20:50:15.214084Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Andrés, saludos !!",
-      "updateTime": "2026-06-18T13:15:11.559818Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKU2FqSlFOME4yVlRSWVpHbFpSbXcwZFdKT2JHYxAB"
+    "comment": "Como toda YPF del ACA cuenta con todo lo necesario para continuar un buen viaje. YPF es Argentina 🇦🇷\n\n(Translated by Google)\nLike all ACA YPF stations, it has everything you need for a great trip. YPF is Argentina 🇦🇷",
+    "createTime": "2026-07-31T00:36:57.157422Z",
+    "updateTime": "2026-07-31T00:36:57.157422Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1TVh6QndSVkUzTmpjMVEwZFlhWFZmTTBOa1NXYxAB"
   }, {
     "reviewer": {
-      "displayName": "Hde Exposito"
+      "displayName": "Adrian Abregu"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-12T00:16:02.888487Z",
-    "updateTime": "2026-06-12T00:16:02.888487Z",
-    "reviewReply": {
-      "comment": "Muchas gracias!!! Saludos",
-      "updateTime": "2026-06-18T13:15:24.518699Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KM1JHMDBjM05QTTNZd1l6Z3dNVWcyTFhOM1VXYxAB"
+    "comment": "Excelente servicio y atención\n\n(Translated by Google)\nExcellent service and attention",
+    "createTime": "2026-07-30T13:17:25.338632Z",
+    "updateTime": "2026-07-30T13:17:25.338632Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xQ2VrRXRlamN6UkRkWVJWUm9lRWxIVUcxV1kwRRAB"
   }, {
     "reviewer": {
-      "displayName": "Daniela Diez Gómez"
+      "displayName": "Jorge Raul Garcia Pacho"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-10T13:40:15.937355Z",
-    "updateTime": "2026-06-10T13:40:15.937355Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Daniela! Saludos",
-      "updateTime": "2026-06-18T13:15:48.330980Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21scVZXWjJUVkV3WWw5cVFYRnFlR2hsTXpoUWEyYxAB"
+    "createTime": "2026-07-30T11:36:29.179886Z",
+    "updateTime": "2026-07-30T11:36:29.179886Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aVVFtbEdXV1JOZDIxVloxaENjMVpzV0ZSMlpXYxAB"
   }, {
     "reviewer": {
-      "displayName": "Aldo Camusso"
+      "displayName": "Raúl Pérez casali"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-08T20:40:48.400624Z",
-    "updateTime": "2026-06-08T20:40:48.400624Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Aldo! Saludos",
-      "updateTime": "2026-06-18T13:16:04.864116Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ndFJHUkdVVUZDZDJKTFlYbFhRVmwzYlRaVlNtYxAB"
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-07-29T23:22:31.289707Z",
+    "updateTime": "2026-07-29T23:22:31.289707Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT210SVRtRndUMTlEVlhOWFdXNTVPVmh6WDFGUllVRRAB"
   }, {
     "reviewer": {
-      "displayName": "Nico B"
-    },
-    "starRating": "FOUR",
-    "comment": "Bien pero no reciben la tarjeta de crédito de naranja X, solo naranja visa o Mastercard, cuando en todos lados si te reciben la naranja normal de crédito.\n\n(Translated by Google)\nGood, but they don\u0027t accept the Orange X credit card, only Orange Visa or Mastercard, whereas everywhere else they accept the regular Orange credit card.",
-    "createTime": "2026-06-07T03:17:27.365190Z",
-    "updateTime": "2026-06-07T03:17:27.365190Z",
-    "reviewReply": {
-      "comment": "Buenos días Nicolás! Te pedimos disculpas, si, lamentablemente en el acuerdo de clover con el Automóvil club Argetino no está contemplada tarjeta naranja, de todas maneras si la cargas como medio de pago de la app de YPF puede usarla. Saludos",
-      "updateTime": "2026-06-18T13:18:24.686995Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT210VlVXSmxTVjlIWVVkeE9VNDNhSEZtU1RoVVpsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Gimenez"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-06-03T18:25:23.430433Z",
-    "updateTime": "2026-06-03T18:25:23.430433Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Marcelo, saludos!",
-      "updateTime": "2026-06-18T13:18:39.473261Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGdE5XOWpXVTV0T0hSQmF6TnNYMmhUWm5kQ1EyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ricardo Russo"
+      "displayName": "Jorge Rossi"
     },
     "starRating": "FIVE",
-    "comment": "Muy buena estación\n\n(Translated by Google)\nVery good station",
-    "createTime": "2026-06-02T10:17:03.208030Z",
-    "updateTime": "2026-06-02T10:17:03.208030Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Ricardo, saludos! ",
-      "updateTime": "2026-06-18T13:19:05.390773Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwemJGTnlTVE5VYjFSclVESk9TMHhtZFhWelFVRRAB"
+    "comment": "Excelente atención y prestaciones indiscutibles, muchas gracias volveré a visitarlos!\n\n(Translated by Google)\nExcellent service and outstanding performance, thank you so much, I will definitely visit again!",
+    "createTime": "2026-07-29T13:18:10.766143Z",
+    "updateTime": "2026-07-29T13:18:10.766143Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xZkxXWnZlVXRIT0d0NU9HNU5OVGxtUzB4NlNHYxAB"
   }, {
     "reviewer": {
-      "displayName": "Ido Strum"
+      "displayName": "fabricio_ Rodriguez"
     },
     "starRating": "FIVE",
-    "comment": "Excelente servicio.\n\n(Translated by Google)\nExcellent service.",
-    "createTime": "2026-05-29T03:49:27.490470Z",
-    "updateTime": "2026-05-29T03:49:27.490470Z",
-    "reviewReply": {
-      "comment": "Muchas gracias, saludos!!",
-      "updateTime": "2026-06-18T13:19:18.188198Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKZmVqUkVZMEZSUldwc2EzSkdRa2hZWmxwUVZVRRAB"
+    "comment": "Buena experiencia y la playera que me atendió..me brindo información turística muy copada! Gracias!\n\n(Translated by Google)\nGreat experience, and the woman who helped me gave me really cool tourist information! Thanks!",
+    "createTime": "2026-07-28T23:27:12.960027Z",
+    "updateTime": "2026-07-28T23:27:12.960027Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaRmNVNTZYMXByVjBKYWR6VkVVbTVOZEdnNFdGRRAB"
   }, {
     "reviewer": {
-      "displayName": "Carlos Adrián Del Negro"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-21T22:44:48.469845Z",
-    "updateTime": "2026-05-21T22:44:48.469845Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Carlos, saludos!!!",
-      "updateTime": "2026-06-18T13:19:35.343439Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pScVVqQmtWMlZDVUVKV1dFbGtXbkZYZEVJMldYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ysabel Espinoza"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-21T12:58:30.787967Z",
-    "updateTime": "2026-05-21T12:58:30.787967Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Ysabel, Saludos!!!",
-      "updateTime": "2026-06-18T13:19:54.536646Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZMVJHWlNRMGRJZWt4emNXTm9VbFJUU1RaNmVIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mariela Bonelli"
+      "displayName": "Victoria Carrara"
     },
     "starRating": "THREE",
-    "comment": "Lastima que no tiene estación de GNC,es una pena.\nTendrían mas turistas,es una lastima que tengan estancado el progreso.\n\n(Translated by Google)\nIt\u0027s a shame it doesn\u0027t have a CNG station; that\u0027s a pity.\nThey would have more tourists; it\u0027s a shame their progress is stalled.",
-    "createTime": "2026-05-20T22:57:18.103779Z",
-    "updateTime": "2026-05-20T23:02:26.544564Z",
-    "reviewReply": {
-      "comment": "Hola Mariela, cómo el nombre lo dice, el gas natural comprimido, es gas domiciliario comprimido para ser acumulado en los tanques de los autos. Lamentablemente los valles calchaquíes no cuentan con gas natural domiciliario y esto hace imposible poder brindar ese servicio. Te pedimos disculpas y ojalá llegue el gas natural algún día. Saludos",
-      "updateTime": "2026-05-22T17:33:30.433476Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOWVQwTmhSR2x1TTB4Sk5rUllOek55ZVRsNVpVRRAB"
+    "createTime": "2026-07-28T19:28:50.278411Z",
+    "updateTime": "2026-07-28T19:28:50.278411Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SUlQzbFhMVGxrY0hrNFNGOTNVRmxvYzFOTE0zYxAB"
   }, {
     "reviewer": {
-      "displayName": "Lucianoredivo Redivo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-20T01:03:33.338364Z",
-    "updateTime": "2026-05-20T01:03:33.338364Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Luciano, saludos!!!",
-      "updateTime": "2026-05-20T14:57:19.440039Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWWFVaFNiR1oxYkZSdU1YRTRWM2xTVERkRGMxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fernando Lencinas"
+      "displayName": "Yesica Scalesi"
     },
     "starRating": "FOUR",
-    "comment": "Todo bien\n\n(Translated by Google)\nAll good",
-    "createTime": "2026-05-19T19:13:48.613051Z",
-    "updateTime": "2026-05-19T19:13:48.613051Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Fernando, saludos!!",
-      "updateTime": "2026-05-20T14:57:42.466095Z"
+    "comment": "Baños limpios y amables a la atención\n\n(Translated by Google)\nClean restrooms and friendly service",
+    "createTime": "2026-07-28T14:24:16.995467Z",
+    "updateTime": "2026-07-28T14:24:16.995467Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KYVIzTmtTMFIzWkRWYWIyWTBlRzFEUm1ZNGNHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "HABITU"
     },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsTlJURlZiSEZyUVZkcU5rWk5kRTh3VTNWbWNGRRAB"
+    "starRating": "THREE",
+    "createTime": "2026-07-27T15:36:43.495498Z",
+    "updateTime": "2026-07-27T15:36:43.495498Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KbVIyOU5TbEZTU1dad016WnlVMk5RUjIwelJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "graciel osa"
+    },
+    "starRating": "THREE",
+    "comment": "Muuuy lentos para atenderteq\n\n(Translated by Google)\nVery slow to serve you",
+    "createTime": "2026-07-27T01:04:01.957554Z",
+    "updateTime": "2026-07-27T01:04:01.957554Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vMFl6ZHBYMFpEZVRCRExXVjFhVEJqTVVVdGNGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nahuel Velayos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-26T21:47:49.117611Z",
+    "updateTime": "2026-07-26T21:47:49.117611Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdmNITXRNMGhoT0VGNmRFTjRVR0phTjNwcFgzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Diaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-26T16:17:00.843696Z",
+    "updateTime": "2026-07-26T16:17:00.843696Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sYVEzRnNPRmhtU2todWNFbEdSVEJ6YkRWS1IzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vestuarios Prensa"
+    },
+    "starRating": "THREE",
+    "comment": "Es un punto clave de conexión. Debería estar a la alturas de las mejores YPF.\n\n(Translated by Google)\nIt\u0027s a key connection point. It should be on par with the best YPF stations.",
+    "createTime": "2026-07-25T22:41:23.820312Z",
+    "updateTime": "2026-07-25T22:41:23.820312Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKVGIzWm9iakZvWWxaR2RUbGpaR3RpTUhSR1dHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Valentin Roel"
+    },
+    "starRating": "ONE",
+    "comment": "No puede ser que con la alta demanda que haya tengan tan POCO personal. Siempre hay fila a toda hora.\n\n(Translated by Google)\nIt\u0027s unacceptable that with such high demand they have so few staff. There\u0027s always a line at all hours.",
+    "createTime": "2026-07-24T23:24:26.661934Z",
+    "updateTime": "2026-07-24T23:24:26.661934Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsV1FVZGpSME5JUTJabk5teHBWRTFpWTFOZldYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Molina Morandini"
+    },
+    "starRating": "ONE",
+    "comment": "La estación d cafayate es la peor d todas de las 5:40 asiendo cola x el descuento y no me atendieron el empleado estaba  errando la caja a esa hora\n\n(Translated by Google)\nThe Cafayate station is the worst of all. At 5:40 I was queuing for the discount and they didn\u0027t serve me; the employee was busy at the register at that time.",
+    "createTime": "2026-07-24T09:02:20.937819Z",
+    "updateTime": "2026-07-24T09:02:20.937819Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5eVpWRk5jRlZYYkhCcllXOTZURkZGUkY5MlUwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Daniel Giunta"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2026-07-21T19:09:55.046896Z",
+    "updateTime": "2026-07-21T19:09:55.046896Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Pablo, saludos",
+      "updateTime": "2026-07-25T15:49:22.350665Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOTU1WWldibEZuV21scVRXaFJUMWhNUmtKSUxXYxAB"
   }]
 }

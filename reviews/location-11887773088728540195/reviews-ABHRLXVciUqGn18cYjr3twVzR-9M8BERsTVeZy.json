@@ -1,0 +1,256 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Contis Contente"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy linda estación de servicio\n\n(Translated by Google)\nVery nice gas station",
+    "createTime": "2021-03-22T17:49:41.044160Z",
+    "updateTime": "2025-09-10T14:50:10.443854Z",
+    "reviewReply": {
+      "comment": "Buenas tardes  Contis!!!!, Muchas gracias por dejarnos tus comentarios y por calificarnos positivamente, te esperamos nuevamente!!! Saludos.-",
+      "updateTime": "2024-08-14T22:58:11.793632Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5NzR2Ti13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector Alejandro Gonzalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar y tranquilo\n\n(Translated by Google)\nNice and quiet place",
+    "createTime": "2025-09-09T18:10:13.160931Z",
+    "updateTime": "2025-09-09T18:10:13.160931Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Héctor!!!!, Muchas gracias por comentarnos tu experiencia y por calificarnos tan positivamente, te esperamos pronto, saludos!!!!!",
+      "updateTime": "2025-12-11T18:22:06.719539Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5Sk1IZE5halphZFV3emEwWmxlRUpVWlV4QmFsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "SUSANA RUSSO"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-08T00:29:11.537233Z",
+    "updateTime": "2025-09-08T00:29:11.537233Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Susana !!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos.-",
+      "updateTime": "2025-12-11T18:22:24.264644Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xONFpHbG1PRXd6UjFCVFlYWm1iR1p2WW5KSWVVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Estrada"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena estación ACA. Buena atención y bastante buen acceso\n\n(Translated by Google)\nGood ACA station. Good service and fairly good access.",
+    "createTime": "2025-09-07T03:14:12.342039Z",
+    "updateTime": "2025-09-07T03:14:12.342039Z",
+    "reviewReply": {
+      "comment": "Buenas tardes  Eduardo!!!!, Muchas gracias por dejarnos tus comentarios y por calificarnos tan positivamente, te esperamos nuevamente!!! Saludos.-",
+      "updateTime": "2025-12-11T18:22:43.112943Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxMlpWQmZTR3hPT0cxaU4yWjRhWEJ6VGt4WFJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Behrens"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención del personal es excelente , muy rico el café. Muy buen servicio. Gracias.\n\n(Translated by Google)\nThe staff\u0027s attention is excellent, and the coffee is delicious. Very good service. Thank you.",
+    "createTime": "2025-09-06T15:24:57.885716Z",
+    "updateTime": "2025-09-06T15:24:57.885716Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Laura!!!!, Muchas gracias por dejarnos tus comentarios y por calificarnos tan positivamente, te esperamos nuevamente!!! Saludos.-",
+      "updateTime": "2025-12-11T18:23:20.179238Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oaU56WmhUblZEZFd4eGVGRkJWRkpUU2pWcVVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Vielma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-06T13:04:29.004419Z",
+    "updateTime": "2025-09-06T13:04:29.004419Z",
+    "reviewReply": {
+      "comment": "Buen día Gerardo!!!! muchas gracias por calificarnos y por la confianza, saludos!!!",
+      "updateTime": "2025-12-11T18:23:45.844941Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xseldGZHRNWFJoYUZkcmVXMUpRWEpoUjJOWFNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Longhi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-09-04T11:08:43.583959Z",
+    "updateTime": "2025-09-04T11:08:43.583959Z",
+    "reviewReply": {
+      "comment": "Buen día Mauro!!!!! muchas gracias por calificarnos y por la confianza, saludos!!!",
+      "updateTime": "2025-12-11T18:23:57.195350Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkTlREVXRla0ZXVWpkTFRYRm1NVFl5UjNoTVExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "JUAN CARLOS CARNELLI"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y mucha limpieza en área de servicios\n\n(Translated by Google)\nGood service and very clean in the service area",
+    "createTime": "2025-09-04T01:52:20.617721Z",
+    "updateTime": "2025-09-04T01:52:20.617721Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Juan!!!!, Muchas gracias por comentarnos tu experiencia y por calificarnos tan positivamente, te esperamos pronto, saludos!!!!!",
+      "updateTime": "2025-12-11T18:24:16.869982Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wdVNtcEhZMnRsV1hOWmMwWlNZbkk1UkRWa1VsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Ferron"
+    },
+    "starRating": "FOUR",
+    "comment": "Solicite registro internacional, me lo hicieron en el.momento tarde 10 minutos\n\n(Translated by Google)\nI requested international registration, they did it immediately; it took 10 minutes.",
+    "createTime": "2025-09-03T16:52:43.054995Z",
+    "updateTime": "2025-09-03T16:52:43.054995Z",
+    "reviewReply": {
+      "comment": "Buenas tardes!!!!, Muchas gracias por comentarnos tu experiencia y por calificarnos tan positivamente, te esperamos pronto, saludos!!!!!",
+      "updateTime": "2025-12-11T18:24:28.994774Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sweU4wdEJOa0pZVVhZMVJtTXdWMnN6Ylc1bWFYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Sanchez"
+    },
+    "starRating": "ONE",
+    "comment": "Mala atención en la playa ..\n\n(Translated by Google)\nPoor service on the beach.",
+    "createTime": "2025-09-03T03:08:59.869399Z",
+    "updateTime": "2025-09-03T03:08:59.869399Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Rodrigo!!!! Si gustas en enviarnos más detalles de tu experiencia escríbenos a ypfacavdevoto@gmail.com, de esa manera podremos analizar lo ocurrido y mejorarlo para tu próxima visita. Muchas gracias. Saludos",
+      "updateTime": "2025-12-11T18:59:41.277381Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkSlZXOWpOMmcyYzBNeE1ERm1SMDlzY0hKSGFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cuenca Ortopedia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2025-08-27T19:46:48.001639Z",
+    "updateTime": "2025-08-27T19:46:48.001639Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Cuenca!!!!, Muchas gracias por calificarnos positivamente, te esperamos pronto, saludos!!!!!",
+      "updateTime": "2025-12-11T18:25:10.686374Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFeFRVUnJTR05GWkhKa2VEWTBZbWQxV1hOMVVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo lo que está bien, sobran recomendaciones , la sociedad ACA e YPF es el mejor equilibrio, precios y calidad\n\n(Translated by Google)\nEverything is great, recommendations are superfluous, the ACA and YPF partnership is the best balance of price and quality",
+    "createTime": "2025-08-25T00:28:01.903582Z",
+    "updateTime": "2025-08-25T00:28:01.903582Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Claudio!!!!, Muchas gracias por dejarnos tus comentarios y por calificarnos tan positivamente, te esperamos nuevamente!!! Saludos.-",
+      "updateTime": "2025-12-11T18:26:06.443389Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGeU4zaDJPRkZYZFdGVFJXdFFWR1JDZFhNNWNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Di Nizo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-08T23:43:46.884930Z",
+    "updateTime": "2025-08-24T11:30:27.503809Z",
+    "reviewReply": {
+      "comment": "Buenas tardes  Server!!! Muchas gracias por dejarnos tu comentario y por calificarnos tan positivamente, te esperamos pronto!!! Saludos",
+      "updateTime": "2023-12-13T19:45:08.946806Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChdDSUhNMG9nS0VJQ0FnSURGMWZfNGt3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Darío Fornes"
+    },
+    "starRating": "FIVE",
+    "comment": "Son muy atentos\n\n(Translated by Google)\nThey are very attentive",
+    "createTime": "2025-08-24T01:22:16.368268Z",
+    "updateTime": "2025-08-24T01:23:25.350658Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Darío!!!!, Muchas gracias por dejarnos tus comentarios y por calificarnos tan positivamente, te esperamos nuevamente!!! Saludos.-",
+      "updateTime": "2025-12-11T18:26:18.845195Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kSmNXTnRZV001TlV4V2FXeG5iVk50VEVoRGNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Karina Verónica Cugliari"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-08-23T21:14:18.766784Z",
+    "updateTime": "2025-08-23T21:14:18.766784Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Karina!!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos.-",
+      "updateTime": "2025-12-11T18:26:35.954010Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5UVdIRkdUMHR2VFZvelNucEZkVFpoWmxCS2IwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y rápido\n\n(Translated by Google)\nGood and fast service",
+    "createTime": "2025-08-23T17:49:08.146483Z",
+    "updateTime": "2025-08-23T17:49:08.146483Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Andrea!!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos.-",
+      "updateTime": "2025-12-11T18:26:46.803750Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xremFuRnFWVmhtTmtwTFpITTBNazkzYUZoRlYyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Luis V"
+    },
+    "starRating": "FIVE",
+    "comment": "Me pueden decir si para obtener el registro internacional. Está abierto los días sábados, que horarios?    Gracias!!!\n\n(Translated by Google)\nCan you tell me if you\u0027re open on Saturdays to obtain international registration, and what your hours are? Thank you!",
+    "createTime": "2025-08-22T23:51:06.273443Z",
+    "updateTime": "2025-08-22T23:51:06.273443Z",
+    "reviewReply": {
+      "comment": "Buenas tardes José!!!!! Agradecemos tu calificación. los sábados está cerrada nuestra dependencia de socios. Estamos de Lunes a Viernes 9 a 16.30hs. Te esperamos nuevamente, Gracias por elegirnos.-",
+      "updateTime": "2025-12-11T18:28:47.146338Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RMVFUaFpjRTB5TlRNeE1ISndhME5DVTFsQ1YxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Gonzalez"
+    },
+    "starRating": "ONE",
+    "comment": "Necesitas entre hora y hora y media para cargar nafta. Ir con tiempo\n\n(Translated by Google)\nYou need between an hour and an hour and a half to fill up with gas. Allow plenty of time.",
+    "createTime": "2025-08-21T01:19:31.544040Z",
+    "updateTime": "2025-08-21T01:19:31.544040Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Matías!!!! Agardecemos tu comentario. Si gustas en enviarnos más detalles de tu experiencia escríbenos a ypfacavdevoto@gmail.com, de esa manera podremos analizar lo ocurrido y mejorarlo para tu próxima visita. Muchas gracias. Saludos",
+      "updateTime": "2025-12-11T19:00:32.658689Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT200eVgyUTFkbEkwWjNaMGNVOTVkazlEV205aWFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ale miño"
+    },
+    "starRating": "FIVE",
+    "createTime": "2025-08-19T12:27:38.475838Z",
+    "updateTime": "2025-08-19T12:27:38.475838Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Ale!!!!, Muchas gracias por calificarnos tan positivamente, te esperamos pronto, saludos!!!!!",
+      "updateTime": "2025-12-11T18:29:27.727393Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCVk5VODBkVXRRUldaaGJGaHBSMUE1Wkc5amEzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricio Leguizamon"
+    },
+    "starRating": "TWO",
+    "comment": "Los playeros los saludas cordialmente ni bolilla te dan y los domingos el snack cerrado y la frutilla de la torta no tienen agua caliente para el mate, té.\n\n(Translated by Google)\nYou greet the beachgoers politely but they don\u0027t pay you any attention, and on Sundays the snack bar is closed and to top it all off they don\u0027t have hot water for mate or tea.",
+    "createTime": "2025-08-19T10:51:37.374006Z",
+    "updateTime": "2025-08-19T10:51:37.374006Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Patricio!!!! Lamentamos tu experiencia. Te comento que la tienda no es 24hs.-, te invito a seguirmos en instagram @ypfacadevoto donde podrás ver los horarios de la tienda y la oferta de productos. También tenemos en  Full el servicio de agua caliente para el mate. Intentaremos mejorar el aspecto del saludo en playa (es parte de su ciclo de servicio al cliente) para tu próxima visita. Gracias por elegirnos. Saludos.-",
+      "updateTime": "2025-12-11T19:08:06.934243Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT205UVdGOW5NVVJZUmxSTlJHWlZRblJLUVd4TmIxRRAB"
+  }]
+}

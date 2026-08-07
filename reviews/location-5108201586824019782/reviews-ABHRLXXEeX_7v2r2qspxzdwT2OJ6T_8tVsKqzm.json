@@ -1,0 +1,251 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "gustavo soto"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-05T12:06:07.252650Z",
+    "updateTime": "2023-02-05T12:06:07.252650Z",
+    "reviewReply": {
+      "comment": "Gracias Gustavo.",
+      "updateTime": "2023-02-05T13:34:07.798930Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoeE9ETERBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariana Rodríguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-04T23:41:04.995074Z",
+    "updateTime": "2023-02-04T23:41:04.995074Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Mariana.",
+      "updateTime": "2023-02-05T03:42:07.906262Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNodUxQTjJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julieta Tagliaferro"
+    },
+    "starRating": "FOUR",
+    "comment": "Ypf con despensa. Lo único malo es que tiene solo 2 surtidores y está sobre la Ruta 40\n\n(Translated by Google)\nYPF gas station with a convenience store. The only downside is that it only has two pumps and it\u0027s located on Route 40.",
+    "createTime": "2023-02-04T01:16:08.748492Z",
+    "updateTime": "2023-02-04T01:16:08.748492Z",
+    "reviewReply": {
+      "comment": "Gracias Julieta. ",
+      "updateTime": "2023-02-04T02:57:54.105616Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNocUlDdk13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "nicanor malamud"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-02T17:10:05.611778Z",
+    "updateTime": "2023-02-02T17:10:05.611778Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Nicanor !!",
+      "updateTime": "2023-02-13T23:18:08.914570Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoNEp5M1BnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Paz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-01T02:35:55.620781Z",
+    "updateTime": "2023-02-01T02:35:55.620781Z",
+    "reviewReply": {
+      "comment": "Graciela, gracias por tu puntuación.",
+      "updateTime": "2023-02-13T23:18:29.440529Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcl9QbU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Caro De Armas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-31T15:55:57.754634Z",
+    "updateTime": "2023-01-31T15:55:57.754634Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Caro.",
+      "updateTime": "2023-01-31T17:37:21.177700Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURCajdiVDNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Piki Amadeo"
+    },
+    "starRating": "THREE",
+    "comment": "¡Cuidado que a veces falta combustible! A no confiarse.\n\n[Edito]\nGracias a la respuesta de quien administra los comentarios. La gente de la estación no supo darnos tan completa explicación (intuyo que hay detalles que tampoco tienen por qué saberlos). ¡Gracias!\n\n(Translated by Google)\nBe careful, sometimes they run out of fuel! Don\u0027t let your guard down.\n\n[Edit] Thanks to the comment moderator for their response. The station staff couldn\u0027t give us such a complete explanation (I suspect there are details they don\u0027t necessarily know). Thanks!",
+    "createTime": "2023-01-29T21:34:07.802404Z",
+    "updateTime": "2023-01-31T14:58:06.816246Z",
+    "reviewReply": {
+      "comment": "Piki, en temporada puede ocurrir que ocasionalmente se demore alguna cisterna por congestión en la ruta. Es la única razón por la cual puede haber una faltante momentanea de algún combustible. La estacion cuenta con grupo electrógeno, ni los habituales cortes de luz en la zona significan un impedimento para el expendio. De todos modos es bueno su consejo, hoy en día mejor \"no confiarse\".",
+      "updateTime": "2023-01-31T11:02:46.254360Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdTVXQUdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariel Giudice"
+    },
+    "starRating": "FOUR",
+    "comment": "Con el excelente visión con la que se instalaron cada una de las estaciones A.C.A, seguramente se  estableció está . Tiene una vista hermosa del Lago.\n\n(Translated by Google)\nGiven the excellent design of each of the A.C.A. stations, this one was certainly well-established. It has a beautiful view of the lake.",
+    "createTime": "2023-01-29T23:50:38.273269Z",
+    "updateTime": "2023-01-31T11:17:42.387154Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Mariel.",
+      "updateTime": "2023-01-30T01:08:34.842653Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCLTh6OEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Martedi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-31T09:56:09.690404Z",
+    "updateTime": "2023-01-31T09:56:09.690404Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Pablo !",
+      "updateTime": "2023-01-31T10:52:23.579146Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdDlXcmhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Angel Nuñez"
+    },
+    "starRating": "TWO",
+    "comment": "Mucha espera. Cuando me tocó no pude cargar porque no había sistema para pago electrónico solo efectivo.\n\n(Translated by Google)\nA long wait. When it was my turn, I couldn\u0027t pay because there was no electronic payment system, only cash.",
+    "createTime": "2023-01-31T08:54:47.967174Z",
+    "updateTime": "2023-01-31T08:54:47.967174Z",
+    "reviewReply": {
+      "comment": "Miguel Angel, habitualmente el sistema funciona muy bien. Es probable que un inconveniente técnico en la conectividad de la zona, que no es perfecta, ocasione una interrupción en el servicio y por ende en los sistemas de pago. Las disculpas del caso por el mal momento.",
+      "updateTime": "2023-01-31T10:55:47.407673Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdC1iQjFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Santillo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-30T13:25:54.960359Z",
+    "updateTime": "2023-01-30T13:25:54.960359Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Alejandro.",
+      "updateTime": "2023-01-31T10:56:12.086732Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCeDhfdGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Vargas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-30T00:27:38.262881Z",
+    "updateTime": "2023-01-30T00:27:38.262881Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Juan Carlos.",
+      "updateTime": "2023-01-30T01:07:55.977518Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCLTlMOEJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Gonzalez"
+    },
+    "starRating": "THREE",
+    "comment": "Bastante parsimonioso para atender, pero supongo que había más autos de lo normal también. El kiosco/despensa cierra demasiado temprano\n\n(Translated by Google)\nThe service was quite slow, but I suppose there were more cars than usual. The kiosk/convenience store closes too early.",
+    "createTime": "2023-01-28T01:54:14.446620Z",
+    "updateTime": "2023-01-28T01:54:14.446620Z",
+    "reviewReply": {
+      "comment": "Hola Maximiliano, desde ya gracias por tu opinión, efectivamente en temporada pede al personal adicional hay momentos en que se demora el despacho. El horario del kiosco es de 80,00 a 20.00 y se basa en el flujo de demanda, la playa cierra a las 21.00 por la misma razón.",
+      "updateTime": "2023-01-28T20:20:06.812499Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMDdiZTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Camila Ponce"
+    },
+    "starRating": "ONE",
+    "comment": "La gente que te atiende muy amable y buena onda pero no se para que se hace llamar YPF ACA si por poco nos avisan que no tenian ni un destornillador, si necesitas auxilio mecánico u algo del estilo busca otra.\nY para variar el/la persona que responde acá en google es muy maleducada, si van a dar por sentado cosas pueden dejarlas muy claras en la descripción de su comercio. Quiero dejar en claro que somos clientes por eso fuimos primero al ACA, pero frente a la inutilidad del servicio visitamos al taller de Carlitos.\n\n(Translated by Google)\nThe staff were very friendly and helpful, but I don\u0027t know why it\u0027s called YPF ACA when they practically told us they didn\u0027t even have a screwdriver. If you need roadside assistance or anything like that, look elsewhere.\n\nAnd to top it off, the person who answers here on Google is very rude. If they\u0027re going to assume things, they should make them very clear in their business description. I want to make it clear that we are customers, which is why we went to ACA first, but given the useless service, we visited Carlitos\u0027s workshop.",
+    "createTime": "2023-01-28T00:39:24.065012Z",
+    "updateTime": "2023-01-28T01:45:05.461722Z",
+    "reviewReply": {
+      "comment": "El auxilio mecánico es exclusivo para socios del ACA, la base está en Bariloche y la asistencia es muy rápida. Mascardi NO es un taller mecánico abierto a todo público, por eso se llama ACA y no taller Carlitos, como claramente en la descripción del negocio dice \"gasolinera\" lo que objetivamente no puede interpretarse como taller mecánico o puesto  de mecánica ligera. Los socios del ACA saben que disponen de auxilio y los asegurados en compañias de seguro cuentan con auxilios particulares de cada compañía. Si en algún momento pequé de grosero en la respuesta pido las disculpas del caso.",
+      "updateTime": "2023-01-29T14:58:18.819600Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMDV5TGFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matyas Lomniczy"
+    },
+    "starRating": "TWO",
+    "comment": "Una pena que (estimo por culpa de los Mapuches...) este icónico ACA de la zona esté tan venido abajo. Sólo se puede cargar nafta e ir al baño... Estación de \"servicio\" definitivamente NO es... Una lástima... Gracias por la respuesta detallada! Con \"servicio\" me refería a poder comprar algún mapa, alguna bebida y comida. No me refería a la atención, que fue excelente. Y entiendo desde ya todo el contexto climático, y político con los Mapuches.... Valioso que siga abierto!!!!\n\n(Translated by Google)\nIt\u0027s a shame that (I suspect it\u0027s the Mapuche people\u0027s fault...) this iconic ACA in the area is so run down. You can only get gas and use the restroom... It\u0027s definitely NOT a \"service\" station... What a pity... Thanks for the detailed response! By \"service\" I meant being able to buy a map, a drink, and some food. I wasn\u0027t referring to the customer service, which was excellent. And I completely understand the whole context, both the climate and the political situation with the Mapuche... It\u0027s wonderful that it\u0027s still open!",
+    "createTime": "2023-01-25T03:21:27.151729Z",
+    "updateTime": "2023-01-27T20:03:31.253376Z",
+    "reviewReply": {
+      "comment": "Hola Matías, desde ya agradecido por tu comentario, pero sería muy valioso para nosotros puntualizar en que aspectos se vió frustrada tu expectativa respecto al concepto \"servicio\" y definir lo que para vos sería una estación de \"servicio\". Estamos hablando de una estación emblemática que por disposición de Parques Nacionales no puede modificar su fisonomía original que data de 1940, inserta en una zona muy conflictiva desde hace 6 años, actualmente custodiada con una dotación fija de 60 efectivos de Fuerzas de Seguridad, con provisión de agua , luz e Internet absolutamente dependientes de las condiciones meteorológicas, una estación que durante el año recibe un promedio de 10 a 12 vehículos por día y pese a todo el ACA la mantiene como un hito de la Cordillera. En fin, si para vos \" solo se puede cargar nafta e ir al baño\" lamento decirte que te perdiste un montón de cosas que la gran mayoría de las personas aprecian y disfrutan de esa estación... una lástima.",
+      "updateTime": "2023-01-27T16:10:04.329579Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMVliY2ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucía Campana"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-26T23:32:11.140772Z",
+    "updateTime": "2023-01-26T23:32:11.140772Z",
+    "reviewReply": {
+      "comment": "Gracias Lucía.",
+      "updateTime": "2023-01-27T16:00:16.899697Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURCX2JtWXlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yessica Paz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-26T14:26:56.645112Z",
+    "updateTime": "2023-01-26T14:26:56.645112Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Yessica.",
+      "updateTime": "2023-01-26T21:37:08.654593Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCM2JDZU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guido Bravo Deandreis"
+    },
+    "starRating": "ONE",
+    "comment": "Malisima, el ACA está siempre cerrado y no tienen nada. Nos quedamos con el  auto y fueron completamente inútiles\n\n(Translated by Google)\nTerrible, the ACA is always closed and they have nothing. We were left with our car and they were completely useless.",
+    "createTime": "2023-01-26T13:23:52.306010Z",
+    "updateTime": "2023-01-26T13:23:52.306010Z",
+    "reviewReply": {
+      "comment": "Hola Guido.  La estación está abierta de 08.00 a 21.00 y los socios del ACA disponen del servicio de Auxilio Mecánico.",
+      "updateTime": "2023-01-26T23:13:34.950583Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURCbllQMnVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Melisa Blumenkranz"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-01-26T03:39:23.339850Z",
+    "updateTime": "2023-01-26T03:39:23.339850Z",
+    "reviewReply": {
+      "comment": "Gracias Melisa.",
+      "updateTime": "2023-02-19T23:16:59.563671Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURCcmFPbGp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guido Antonioli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-26T02:40:33.740869Z",
+    "updateTime": "2023-01-26T02:40:33.740869Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Guido .",
+      "updateTime": "2023-01-27T16:00:46.083504Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcmJtcU9nEAE"
+  }]
+}

@@ -1,173 +1,228 @@
 {
   "reviews": [{
     "reviewer": {
-      "displayName": "Sergio Erdocia"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-01T17:24:04.188044Z",
-    "updateTime": "2026-07-01T17:24:04.188044Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WZlJrZEZNRmRtYTIwM2VqRm1ibmw0UnpRd1FYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ivonne Leranth Soria"
-    },
-    "starRating": "FIVE",
-    "comment": "Limpio, completo, ordenado, excelente cómo siempre ACA e YPF\n\n(Translated by Google)\nClean, complete, tidy, excellent as always ACA and YPF",
-    "createTime": "2026-06-27T21:43:51.490084Z",
-    "updateTime": "2026-06-27T21:43:51.490084Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poUGJscE5VREZSVkcxb2FtbzBVRlk0YlROaVVFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Osvaldo Otero"
-    },
-    "starRating": "FIVE",
-    "comment": "Buen lugar para estirar las piernas , un clasico de toda la vida\n\n(Translated by Google)\nA great place to stretch your legs, a timeless classic.",
-    "createTime": "2026-06-20T16:31:35.646503Z",
-    "updateTime": "2026-06-20T16:31:35.646503Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FM2FUWkhWVUpTYzNVMFFVSTJWVlJxU2xOeFlrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alfredo Bernardini"
+      "displayName": "henry.denis henry.denis"
     },
     "starRating": "FOUR",
-    "createTime": "2026-06-18T23:09:59.550209Z",
-    "updateTime": "2026-06-18T23:09:59.550209Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ScldUQjRNWGxRUW05SVVHNVBXblZ2VldaRU1FRRAB"
+    "comment": "La mejor media lunas de Chascomús\n\n(Translated by Google)\nThe best croissants in Chascomús",
+    "createTime": "2026-08-02T23:17:51.491046Z",
+    "updateTime": "2026-08-02T23:17:51.491046Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvMlUxbGFiVWRWUlZBemExaHNUa0ZvZG5NNFQzYxAB"
   }, {
     "reviewer": {
-      "displayName": "Rodolfo Concia"
+      "displayName": "Roman Alvarez Cortes"
     },
     "starRating": "FIVE",
-    "comment": "Buen lugar para una parada de descanso\n\n(Translated by Google)\nGood place for a rest stop",
-    "createTime": "2026-06-18T15:40:15.959320Z",
-    "updateTime": "2026-06-18T15:40:15.959320Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CNmQwYzFhbGt3ZUdoVFQzSkRVblZLWVc1b1drRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Olga Maturano"
+    "comment": "Siempre concurrimos y nos atienden muy bien, precios razonable, ambiente acorde. Sin duda volveremos\n\n(Translated by Google)\nWe\u0027re regulars and the service is excellent, the prices are reasonable, and the atmosphere is pleasant. We\u0027ll definitely be back.",
+    "createTime": "2026-08-02T15:53:53.718478Z",
+    "updateTime": "2026-08-02T17:44:00.566103Z",
+    "reviewReply": {
+      "comment": "¡Hola, Román! Muchas gracias por compartir tu experiencia. Nos llena de satisfacción saber que nos eligen en cada visita y que valoran la atención de nuestro equipo, nuestros precios y el ambiente de la estación. Comentarios como el tuyo nos motivan a seguir trabajando para ofrecer la mejor experiencia. ¡Será un placer recibirlos nuevamente en YPF ACA Chascomús!",
+      "updateTime": "2026-08-02T20:45:38.158924Z"
     },
-    "starRating": "THREE",
-    "comment": "Los sanitarios muy sucios.\n\n(Translated by Google)\nThe restrooms were very dirty.",
-    "createTime": "2026-06-16T17:35:47.298620Z",
-    "updateTime": "2026-06-16T17:35:47.298620Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCdGNUSjFTbWh1T1VOSU5FOURSVlp5ZWxJNGEyYxAB"
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xT2J6STBVWFZ3VlV4cmNpMWZNSEZFWmpoNVdGRRAB"
   }, {
     "reviewer": {
-      "displayName": "Ayelén Ingrassia"
+      "displayName": "Pablo Rago"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-16T08:23:45.489393Z",
-    "updateTime": "2026-06-16T08:23:45.489393Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdlUwVTBTMFozYWpGUGJqWTFNbkV4T1U0MmRIYxAB"
+    "comment": "Exxdlenre atencion de Vanesa!\n\n(Translated by Google)\nGet Vanessa\u0027s attention!",
+    "createTime": "2026-08-01T22:25:24.792223Z",
+    "updateTime": "2026-08-01T22:25:24.792223Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMFRqUnBXWE5xT0c1VVdtdFNaa2RMU1c5M2JXYxAB"
   }, {
     "reviewer": {
-      "displayName": "Fernando Sosa"
+      "displayName": "CLAUDIO MALAMUT"
+    },
+    "starRating": "FIVE",
+    "comment": "Como siempre paramos en el ACA. Nos atendió Vanesa. Muy amable gracias .\n\n(Translated by Google)\nAs usual, we stopped at the ACA. Vanesa helped us. Very kind, thank you.",
+    "createTime": "2026-08-01T21:02:31.587177Z",
+    "updateTime": "2026-08-01T21:02:31.587177Z",
+    "reviewReply": {
+      "comment": "¡Hola, Claudio! Muchas gracias por tu excelente reseña. Nos alegra saber que nos siguen eligiendo en cada viaje y que la atención de nuestro equipo hace que cada visita sea una buena experiencia. Comentarios como el tuyo nos motivan a seguir brindando un servicio cálido y de calidad. ¡Los esperamos nuevamente en YPF ACA Chascomús!",
+      "updateTime": "2026-08-02T20:46:51.326787Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WcFpsUnFWUzFPYzJwYVYyVkRlbGx3VkUxb2JVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Norberto Cespedes"
+    },
+    "starRating": "FIVE",
+    "comment": "Me atendió Vanesa muy amable\n\n(Translated by Google)\nVanessa served me very kindly.",
+    "createTime": "2026-08-01T19:43:00.007340Z",
+    "updateTime": "2026-08-01T19:43:00.007340Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWGNEVjZVMjgyTVRRMmJrcElla1paU1ZRdGFGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Torre"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente mercadería. Muy atento el personal\n\n(Translated by Google)\nExcellent merchandise. Very attentive staff.",
+    "createTime": "2026-08-01T18:56:24.290383Z",
+    "updateTime": "2026-08-01T18:56:24.290383Z",
+    "reviewReply": {
+      "comment": "¡Hola, Silvia! Muchas gracias por tu excelente reseña. Nos alegra saber que tanto la mercadería como la atención de nuestro equipo fueron de tu agrado. Comentarios como el tuyo nos motivan a seguir trabajando cada día para brindar la mejor experiencia a quienes nos visitan. ¡Gracias por elegir YPF ACA Chascomús!",
+      "updateTime": "2026-08-02T20:47:53.405036Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taTVdVZEJjblptZDBwdmNrOUhPVVJEWmt4elIxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Trejo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion de Roque\n\n(Translated by Google)\nExcellent service from Roque",
+    "createTime": "2026-08-01T15:13:43.259331Z",
+    "updateTime": "2026-08-01T15:13:43.259331Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWGVXbG9iSFpPT1Zwa2VVVnNPVjk0WWs0eFdHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maximo Maciel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-01T01:48:00.019337Z",
+    "updateTime": "2026-08-01T01:48:00.019337Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WQlQxUkhORzVEYjNGcWQzWkVXVU5uWTNoM1EwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Suqueli"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, por parte de Jeremías\n\n(Translated by Google)\nExcellent service from Jeremiah",
+    "createTime": "2026-08-01T00:16:47.212323Z",
+    "updateTime": "2026-08-01T00:16:47.212323Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ04wMVpRbVkzVFZBdFNqY3pOVE5CZG5WbE4xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carina Mazza"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Roque ACA Chascomús\n\n(Translated by Google)\nExcellent service from Roque at ACA Chascomús",
+    "createTime": "2026-07-31T15:16:30.071466Z",
+    "updateTime": "2026-07-31T15:16:30.071466Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xobE9Ea3paMEo0YkV4blZYSlpSM0JQWjFoemFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "César Fernández"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-31T13:26:44.109500Z",
+    "updateTime": "2026-07-31T13:26:44.109500Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JM1RqVktlRzExYms5VGFHUjZkalJCTXpaWFFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "deo torres"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-31T04:41:46.858210Z",
+    "updateTime": "2026-07-31T04:41:46.858210Z",
+    "reviewReply": {
+      "comment": "¡Hola! Muchas gracias por tu excelente calificación. Nos alegra saber que tu experiencia en YPF ACA Chascomús fue positiva. Agradecemos tu confianza y seguiremos trabajando para brindar la mejor atención en cada visita.",
+      "updateTime": "2026-07-31T11:31:29.647517Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWRlIwWnZhM1l5UTBOQ2RFNTFjWE0xTFdaT1lWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vera"
     },
     "starRating": "FOUR",
-    "createTime": "2026-06-15T17:14:51.176926Z",
-    "updateTime": "2026-06-15T17:14:51.176926Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaRmVuWlRNMDlhZDBWSE1IUTJhbVU0YVdWc2FuYxAB"
+    "comment": "Una parada en la ruta 2. Siempre con baños limpios . Y buena atención\n\n(Translated by Google)\nA stop on Route 2. Always with clean restrooms. And good service.",
+    "createTime": "2026-07-31T01:37:38.610484Z",
+    "updateTime": "2026-07-31T01:37:38.610484Z",
+    "reviewReply": {
+      "comment": "¡Hola, Vera! Muchas gracias por compartir tu experiencia. Nos alegra saber que destacás la limpieza de nuestros baños y la atención de nuestro equipo. Trabajamos cada día para que quienes viajan por la Ruta 2 encuentren un lugar cómodo y de calidad para hacer una pausa. ¡Te esperamos nuevamente en YPF ACA Chascomús!",
+      "updateTime": "2026-07-31T12:23:29.017232Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOdE0xWnBWemR2TmpaeGJDMUtXakYzTlRCS1NuYxAB"
   }, {
     "reviewer": {
-      "displayName": "Canepele Alejandro"
+      "displayName": "Altair"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-15T14:26:15.336721Z",
-    "updateTime": "2026-06-15T14:26:15.336721Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xabFlWSjNkMkpHY2pCaVRUbEdjVlkxTlRaaFlsRRAB"
+    "comment": "Muy buena atención y mercadería.\n\n(Translated by Google)\nExcellent service and merchandise.",
+    "createTime": "2026-07-30T11:32:26.218096Z",
+    "updateTime": "2026-07-30T11:32:26.218096Z",
+    "reviewReply": {
+      "comment": "¡Hola, Altair! Muchas gracias por tu excelente reseña. Nos alegra saber que valoraste tanto la atención de nuestro equipo como la calidad de nuestra mercadería. Comentarios como el tuyo nos motivan a seguir trabajando para brindar la mejor experiencia en cada visita. ¡Gracias por elegir YPF ACA Chascomús!",
+      "updateTime": "2026-07-30T11:44:30.174448Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tORFFtRnBlbVpyYjNSV1ZrTnNkRXRhT1hNMFFWRRAB"
   }, {
     "reviewer": {
-      "displayName": "Alejandro Hornus"
+      "displayName": "Mirtha Fonseca"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-15T00:14:09.182317Z",
-    "updateTime": "2026-06-15T00:14:09.182317Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSUUxUaGlUR2haVERseVNHSkJRMVUyWDBSVmNrRRAB"
+    "comment": "Pasamos ayer a la tarde excelente atencion en playa los baños limpios nos atendio la playera vanesa quiero destacar su buena atencion su simpatia y predisposicion nos fuimos contentos con la calidez de ella volveremos a elegirlos en nuestro proximos viaje 😊😊😊\n\n(Translated by Google)\nWe had an excellent time yesterday afternoon at the beach. The bathrooms were clean, and we were served by Vanessa, the beach attendant. I want to highlight her great service, friendliness, and helpfulness. We left happy with her warmth and will definitely choose them again on our next trip. 😊😊😊",
+    "createTime": "2026-07-30T10:48:53.027367Z",
+    "updateTime": "2026-07-30T10:48:53.027367Z",
+    "reviewReply": {
+      "comment": "¡Hola, Mirtha! Muchas gracias por compartir una reseña tan linda. Nos alegra saber que tuvieron una excelente experiencia y que destacaron la atención de Vanesa, así como la limpieza de nuestras instalaciones. Compartiremos tu reconocimiento con ella, ya que comentarios como el tuyo son una gran motivación para todo el equipo. ¡Será un placer volver a recibirlos en su próximo viaje!",
+      "updateTime": "2026-07-31T11:32:17.892445Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWGQzUlpVMjFQY2xwc1dtdzBTV0ZUZGxSVFdFRRAB"
   }, {
     "reviewer": {
-      "displayName": "Hernan Silva"
+      "displayName": "Pablo Ituren"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-13T23:41:19.952922Z",
-    "updateTime": "2026-06-13T23:41:19.952922Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CQllucDVRWEF4UjI5aGMwcENkSE5VTlVKYVExRRAB"
+    "comment": "Cristian un genio totsl\n\n(Translated by Google)\nCristian is a total genius",
+    "createTime": "2026-07-30T02:23:09.597045Z",
+    "updateTime": "2026-07-30T02:23:09.597045Z",
+    "reviewReply": {
+      "comment": "¡Hola, Pablo! Muchas gracias por tu excelente reseña. Nos alegra saber que la atención recibida fue de tu agrado. Comentarios como el tuyo nos motivan a seguir trabajando cada día para brindar una atención cálida y de calidad. ¡Gracias por elegir YPF ACA Chascomús!",
+      "updateTime": "2026-07-31T12:22:33.143746Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KVlRHZEpjelpFYVVJdE9XNXdZMWxDYW0xSWFXYxAB"
   }, {
     "reviewer": {
-      "displayName": "Guido Lefrou"
+      "displayName": "Isidro Montes de Oca"
     },
     "starRating": "FIVE",
-    "createTime": "2026-06-13T23:26:08.176154Z",
-    "updateTime": "2026-06-13T23:26:08.176154Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swNFdVTjFOVEJpTFRZMk9EVmhUbnB2Y1ZKZlZWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Hugo Matozza"
+    "comment": "Muy buena la atención de Christian\n\n(Translated by Google)\nChristian provided excellent service.",
+    "createTime": "2026-07-29T23:47:06.359849Z",
+    "updateTime": "2026-07-29T23:47:06.359849Z",
+    "reviewReply": {
+      "comment": "¡Hola, Isidro! Muchas gracias por tu excelente reseña. Nos alegra saber que Cristian te brindó una muy buena atención. Compartiremos tu reconocimiento con él, ya que este tipo de comentarios son una gran motivación para todo el equipo. ¡Gracias por elegir YPF ACA Chascomús!",
+      "updateTime": "2026-07-31T11:32:57.236435Z"
     },
-    "starRating": "THREE",
-    "createTime": "2026-06-13T00:53:31.665016Z",
-    "updateTime": "2026-06-13T00:53:31.665016Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzek5GUkNSMmRWY1hka1p6RlRTMDFLUldVeFVXYxAB"
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WNVltMTZTa2xzWVhaWVZXVmxWa1JWU0hKdGJIYxAB"
   }, {
     "reviewer": {
-      "displayName": "Nico Flores"
+      "displayName": "Cristina Rivero"
     },
     "starRating": "FIVE",
-    "comment": "Comida espectacular. Atención de primera!\n\n(Translated by Google)\nSpectacular food. Top-notch service!",
-    "createTime": "2026-06-10T01:37:58.588206Z",
-    "updateTime": "2026-06-10T01:37:58.588206Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CTVZWVndjWEZrWmpGSmJWVnFRMWhZY1hsNVQxRRAB"
+    "comment": "Cristian el mejor playero!!\n\n(Translated by Google)\nCristian is the best beachgoer!!",
+    "createTime": "2026-07-29T23:35:17.233521Z",
+    "updateTime": "2026-07-29T23:35:17.233521Z",
+    "reviewReply": {
+      "comment": "¡Hola, Cristina! Muchas gracias por tu excelente reseña. Nos pone muy contentos saber que nuestro equipo hizo de tu visita una experiencia tan positiva. Compartiremos tu reconocimiento con todos, ya que nos impulsa a seguir ofreciendo el mejor servicio cada día. ¡Te esperamos nuevamente en YPF ACA Chascomús!",
+      "updateTime": "2026-07-31T12:22:41.576782Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkdGJYcEdaSE5UVm5ocWNrRmtiRTF6Tm5Rd05XYxAB"
   }, {
     "reviewer": {
-      "displayName": "Geraldine Waisberg"
+      "displayName": "Nicolas Tarulli"
     },
     "starRating": "FIVE",
-    "comment": "Excelente atención.\nLimpieza en los baños\n\n(Translated by Google)\nExcellent service. Clean restrooms.",
-    "createTime": "2026-06-09T23:07:43.877414Z",
-    "updateTime": "2026-06-09T23:07:43.877414Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5ak9WUmhTMlJQT1dvek9XaGlWMjF0VlhSa1YyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Diego Gonzalez"
+    "comment": "Cristian del automóvil club Chascomús me brindó una excelente atención. Muy dedicado y cálido\n\n(Translated by Google)\nCristian from the Chascomús Automobile Club gave me excellent service. Very dedicated and friendly.",
+    "createTime": "2026-07-29T23:27:40.092528Z",
+    "updateTime": "2026-07-29T23:27:40.092528Z",
+    "reviewReply": {
+      "comment": "¡Hola, Nicolás! Muchas gracias por tu excelente reseña. Nos alegra saber que recibiste una atención cálida, dedicada y que tu experiencia en YPF ACA Chascomús fue tan positiva. Comentarios como el tuyo nos motivan a seguir trabajando cada día para brindar el mejor servicio. ¡Gracias por elegirnos!",
+      "updateTime": "2026-07-31T12:21:44.125744Z"
     },
-    "starRating": "FOUR",
-    "createTime": "2026-06-09T03:52:39.375674Z",
-    "updateTime": "2026-06-09T03:52:39.375674Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsdFpIaEZZbk5YYWxjMGVtczRlbUZ2TTBaaFRFRRAB"
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaT1JWcEdaMDFpZW05dk9XdFFPV28xY25OaE9HYxAB"
   }, {
     "reviewer": {
-      "displayName": "Alberto Blasi"
+      "displayName": "Laura Raggi"
     },
     "starRating": "FIVE",
-    "comment": "La mejor parada en la ruta2 para tomarte un buen cafe con las mejores medialunas y sandwiches. Imperdible\n\n(Translated by Google)\nThe best stop on Route 2 for a great coffee with the best croissants and sandwiches. A must-try!",
-    "createTime": "2026-06-07T21:31:49.591162Z",
-    "updateTime": "2026-06-07T21:31:49.591162Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoR04yMHRTMXBEUm5CclV6Qm1hV3RaV20welRrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jorge Coto"
+    "comment": "Nos atendió Cristian el playero , muuuy amablemente.\n\n(Translated by Google)\nCristian the beach attendant served us very kindly.",
+    "createTime": "2026-07-29T23:14:44.482892Z",
+    "updateTime": "2026-07-29T23:14:44.482892Z",
+    "reviewReply": {
+      "comment": "¡Hola, Laura! Muchas gracias por tu excelente reseña. Nos alegra saber que Cristian te atendió con la amabilidad que nos caracteriza. Compartiremos tu reconocimiento con él, ya que comentarios como el tuyo son una gran motivación para todo el equipo. ¡Gracias por elegir YPF ACA Chascomús!",
+      "updateTime": "2026-07-31T11:33:41.464816Z"
     },
-    "starRating": "FIVE",
-    "comment": "Impecable todo\n\n(Translated by Google)\nEverything was impeccable",
-    "createTime": "2026-06-07T01:37:00.597939Z",
-    "updateTime": "2026-06-07T01:37:00.597939Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkVFZ6UnRZM0pUYlVselpVMUlia0pOWVVGRk4yYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Heti Benitez"
-    },
-    "starRating": "FIVE",
-    "comment": "Si vas de Mdp a Baires. Parada obligatoria para un buen café o estirar las piernas. Los baños super limpios. Muy buena atención\n\n(Translated by Google)\nIf you\u0027re traveling from Mar del Plata to Buenos Aires, this is a must-stop for a good coffee or to stretch your legs. The restrooms are spotless. Excellent service.",
-    "createTime": "2022-10-04T18:14:37.403864Z",
-    "updateTime": "2026-06-04T17:29:20.594284Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/ChdDSUhNMG9nS0VJQ0FnSURlbkl2SnFBRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fabio23"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-06-04T14:52:46.353960Z",
-    "updateTime": "2026-06-04T14:53:00.039104Z",
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSb2VHOXdNbGR5VEdkT09GaG1ibW8yVjA1c1VVRRAB"
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkR2MxOVZURWt3ZDNGelVqTTRVemxxYUU5TVQzYxAB"
   }]
 }

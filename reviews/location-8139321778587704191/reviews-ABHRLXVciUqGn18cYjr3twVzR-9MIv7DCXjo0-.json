@@ -1,0 +1,200 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ana Maria Garcia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-29T20:53:51.396944Z",
+    "updateTime": "2024-05-29T20:53:51.396944Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSUN6b0oyMGpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Lieste"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-05-28T20:45:34.857349Z",
+    "updateTime": "2024-05-28T20:45:34.857349Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSURUeDRMa21BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "eduardo pedro Coria"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso lugar!!!\n\n(Translated by Google)\nBeautiful place!!!",
+    "createTime": "2024-05-22T10:23:43.985536Z",
+    "updateTime": "2024-05-22T10:23:43.985536Z",
+    "reviewReply": {
+      "comment": "Gracias Eduardo!! Te esperamos nuevamente... ",
+      "updateTime": "2024-09-12T15:08:50.693726Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSURUdU11dl9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hector"
+    },
+    "starRating": "ONE",
+    "createTime": "2024-05-19T03:20:04.984922Z",
+    "updateTime": "2024-05-19T03:20:04.984922Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUaTRpQ1FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "daniela Quiroga"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-05-15T16:24:08.690893Z",
+    "updateTime": "2024-05-15T16:24:08.690893Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUb2RxZkl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Mellado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-05-12T02:10:23.484855Z",
+    "updateTime": "2024-05-12T02:10:23.484855Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUN051dXFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco M"
+    },
+    "starRating": "TWO",
+    "comment": "Las instalaciones son modernas y muy cálidas. El ambiente no me gustó porque la música (trap espantoso y poco ameno) estaba muy alta. La atención tampoco me pareció buena ya que no nos ofrecieron ningún tipo de menú de desayuno ni nos comentaron las opciones que había para elegir (me decidí por las medialunas porque fue lo único que las empleadas mencionaron como desayuno, aunque se veía que había otras opciones). Las medialunas realmente muy malas.\n\n(Translated by Google)\nThe facilities are modern and very welcoming. I didn\u0027t like the atmosphere because the music (awful, unpleasant trap) was too loud. The service wasn\u0027t good either, as they didn\u0027t offer us any kind of breakfast menu or tell us what options were available (I opted for the croissants because that was the only thing the staff mentioned for breakfast, even though there were other options). The croissants were truly awful.",
+    "createTime": "2024-05-02T14:51:53.074339Z",
+    "updateTime": "2024-05-02T14:51:53.074339Z",
+    "reviewReply": {
+      "comment": "Hola Franco, gracias por dejarnos las observaciones de tu visita, mejoraremos para que tu próxima visita sea mas satisfactoria! Mil disculpas",
+      "updateTime": "2024-09-12T15:15:51.791067Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSURqcHVTdExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "gustavo alejandro grima"
+    },
+    "starRating": "THREE",
+    "comment": "No recomiendo ir a cargar cuando hay viento si uno se va a bajar del vehículo.\n\n(Translated by Google)\nI don\u0027t recommend going to charge when it\u0027s windy if you\u0027re going to get out of the vehicle.",
+    "createTime": "2024-04-27T21:40:10.029543Z",
+    "updateTime": "2024-04-27T21:40:10.029543Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSURqZ01xSWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jaime Elias"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-04-24T14:55:28.494482Z",
+    "updateTime": "2024-04-24T14:55:28.494482Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqcmY3dl9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "pablo sergio jerez"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso lugar , muy linda la remodelación, se puede ir a compartir con la familia\n\n(Translated by Google)\nBeautiful place, the renovation is very nice, it\u0027s a great place to go and spend time with the family.",
+    "createTime": "2024-04-10T13:11:37.732782Z",
+    "updateTime": "2024-04-10T13:11:37.732782Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Pablo!   ",
+      "updateTime": "2024-09-12T15:16:53.769310Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSUREd2J2S05BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Leticia Barros"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-04-08T02:35:31.621065Z",
+    "updateTime": "2024-04-08T02:35:31.621065Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSUREcXBlamFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "hernan dappiano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-04-08T02:07:06.472627Z",
+    "updateTime": "2024-04-08T02:07:06.472627Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSUREcXAyckR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Humberto Zambrano"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar de paso. Recomendado\n\n(Translated by Google)\nExcellent place to stop by. Recommended.",
+    "createTime": "2024-03-31T18:04:46.975406Z",
+    "updateTime": "2024-03-31T18:04:46.975406Z",
+    "reviewReply": {
+      "comment": "Humberto, muchas gracias por tu mensaje! Te esperamos nuevamente ",
+      "updateTime": "2024-09-12T15:17:25.913090Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSUNEdmNPR0lBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "osvaldo filiguera"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-03-28T18:46:05.194153Z",
+    "updateTime": "2024-03-28T18:46:05.194153Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSUNEdnR6MXZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "claudio forte"
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre acompañado con su servicio!\n\n(Translated by Google)\nAlways accompanied by their service!",
+    "createTime": "2024-03-19T21:50:24.925156Z",
+    "updateTime": "2024-03-19T21:50:38.450235Z",
+    "reviewReply": {
+      "comment": "Buenas tardes claudio muchas gracias !!",
+      "updateTime": "2024-09-12T15:13:41.624064Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5cllUTHFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucrecia Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-03-13T02:21:33.571937Z",
+    "updateTime": "2024-03-13T02:21:33.571937Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5MlAtbTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Ricardo Condomi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-03-12T14:47:23.873340Z",
+    "updateTime": "2024-03-12T14:47:23.873340Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChRDSUhNMG9nS0VJQ0FnSUQ5OFBKTBAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Bonaparte"
+    },
+    "starRating": "TWO",
+    "comment": "Buena atención de los playeros, mala atención de la mujer que queda después de las 12 PM, no te prestan la llave del baño y por eso le doy dos estrellas. Mientras que en la axion o la YPF de la mariano moreno están abierto los baños las 24 horas. Otra cosa es que las hamburguesas de ahí son más caras que en las otras YPF.\n\n(Translated by Google)\nThe attendants were good, but the woman who works after midnight was terrible; they wouldn\u0027t let you use the bathroom key, which is why I\u0027m giving it two stars. Meanwhile, the bathrooms at the Axion or YPF stations on Mariano Moreno are open 24 hours. Also, the hamburgers there are more expensive than at the other YPF stations.",
+    "createTime": "2024-03-08T04:15:05.347531Z",
+    "updateTime": "2024-03-08T04:20:22.830442Z",
+    "reviewReply": {
+      "comment": "Buenas tardes alejandro muchas gracias por su apreciación  los baños lo lo cerramos en varias oportunidades ya que sufrimos varios actos de vandalismo . ",
+      "updateTime": "2024-09-12T15:15:39.112819Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5OVptNTBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adolfo Kante"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar para disfrutar al aire libre. Hermoso.\n\n(Translated by Google)\nA place to enjoy the outdoors. Beautiful.",
+    "createTime": "2024-03-06T19:18:01.818548Z",
+    "updateTime": "2024-03-06T19:18:01.818548Z",
+    "reviewReply": {
+      "comment": "Muchas gracias adolfo lo esparmos nuevamente !!",
+      "updateTime": "2024-09-12T15:16:48.302161Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5OGFPQ0h3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Faby. F."
+    },
+    "starRating": "FIVE",
+    "comment": "EXELENTE LA ATENCIÓN El MUCHACHO  QUE ME ATENDIÓ EXELENTE ME AYUDO a CONFIGURAR Mi APLICACIÓN  YPF TODO LO QUE ME EXPLICO CON DIFERENTE DETALLE Y UN AMOR DE PERSONA GRACIAS MUCHACHO YPF AYER 10,DE LA MAÑANA  YPF DE ELCANO Y BELGRANO 🙋🏻‍♀️🇦🇷💕💞\n\n(Translated by Google)\nExcellent service! The young man who helped me was excellent. He helped me configure my YPF app, explaining everything in great detail. He was such a lovely person. Thank you, YPF young man! Yesterday at 10 AM at the YPF station on Elcano and Belgrano. 🙋🏻‍♀️🇦🇷💕💞",
+    "createTime": "2024-03-06T19:03:33.203622Z",
+    "updateTime": "2024-03-06T19:03:33.203622Z",
+    "name": "accounts/109853746269412609224/locations/8139321778587704191/reviews/ChZDSUhNMG9nS0VJQ0FnSUM5OFlXQVNBEAE"
+  }]
+}

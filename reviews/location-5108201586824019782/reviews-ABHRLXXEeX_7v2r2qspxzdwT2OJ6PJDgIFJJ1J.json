@@ -1,0 +1,249 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Pablo Costa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-07-03T17:27:07.953193Z",
+    "updateTime": "2022-07-03T17:27:07.953193Z",
+    "reviewReply": {
+      "comment": "Gracias Pablo",
+      "updateTime": "2022-07-03T21:04:19.757828Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURPLXYyYVJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "NATHA C"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-27T04:13:52.104826Z",
+    "updateTime": "2022-06-27T04:13:52.104826Z",
+    "reviewReply": {
+      "comment": "Gracias Natha !",
+      "updateTime": "2022-06-27T12:44:37.676741Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMktuS3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Esquibel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-27T01:17:43.007258Z",
+    "updateTime": "2022-06-27T01:17:43.007258Z",
+    "reviewReply": {
+      "comment": "Gracias Alejandro.",
+      "updateTime": "2022-06-27T02:26:34.261616Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMktTWTZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Moira mariana González"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-26T11:46:44.789900Z",
+    "updateTime": "2022-06-26T11:46:44.789900Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Moira !!",
+      "updateTime": "2022-06-26T13:14:29.978876Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSURPcVBLTENREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Liliam Jeandet"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-25T20:37:16.668241Z",
+    "updateTime": "2022-06-25T20:37:16.668241Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Liliam.",
+      "updateTime": "2022-06-25T21:32:16.921554Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSURPOExYLXp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vicapama"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2022-06-14T22:11:24.517368Z",
+    "updateTime": "2022-06-22T17:47:52.564794Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Monik !!",
+      "updateTime": "2022-06-15T15:25:56.506422Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPeFk2blhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Pilsel"
+    },
+    "starRating": "FIVE",
+    "comment": "Mb atención  .\n\n(Translated by Google)\nMb attention.",
+    "createTime": "2022-06-22T10:18:23.196462Z",
+    "updateTime": "2022-06-22T10:18:23.196462Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Adriana.",
+      "updateTime": "2022-06-23T11:36:24.043637Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPdDZDbXZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Bardín"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-21T20:08:45.789396Z",
+    "updateTime": "2022-06-21T20:08:45.789396Z",
+    "reviewReply": {
+      "comment": "Gracias Fernando.",
+      "updateTime": "2022-06-21T20:26:39.829901Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPNTdHRE1BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Víctor Enrique Rodriguez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-19T02:03:00.766155Z",
+    "updateTime": "2022-06-19T02:03:00.766155Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Victor.",
+      "updateTime": "2022-06-19T04:47:24.412326Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPMDlyb2hBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Iara Keller"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-15T16:32:47.436490Z",
+    "updateTime": "2022-06-15T16:32:47.436490Z",
+    "reviewReply": {
+      "comment": "Gracias por su apreciación. Trabajamos para que en su próxima visita tengamos mayor puntaje.",
+      "updateTime": "2022-06-15T23:26:50.360925Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPMWFDcWlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Violi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-12T21:41:33.604866Z",
+    "updateTime": "2022-06-12T21:41:33.604866Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Ctistian !",
+      "updateTime": "2022-06-13T19:11:25.073198Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPc2RQbFRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Clau Vallejos"
+    },
+    "starRating": "FIVE",
+    "comment": "Estaría bueno que adopten a los perritos de la estación sufren mucho el frío, deci que estoy de paso sino me los llevo a todos\n\n(Translated by Google)\nIt would be great if you adopted the dogs at the station; they suffer a lot from the cold. Luckily I\u0027m just passing through, otherwise I\u0027d take them all.",
+    "createTime": "2022-06-10T22:02:40.164380Z",
+    "updateTime": "2022-06-10T22:02:40.164380Z",
+    "reviewReply": {
+      "comment": "Gracias por las 5 estrellas, si te hubieras llevado a los perritos hubieras cometido un feo error. Los perritos  Queño y Nestor fueron adoptados desde que sus dueños los abandonaron, tienen sus cuchas, les gusta acurrucarse juntos, no toleran sweaters y son muy cariñosos. Igual gracias por tu atención y lindo sentimiento.",
+      "updateTime": "2022-06-11T01:37:30.724077Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPbnJmUmJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Horn"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-06-09T12:26:56.616872Z",
+    "updateTime": "2022-06-09T12:26:56.616872Z",
+    "reviewReply": {
+      "comment": "Gracias Fabián !",
+      "updateTime": "2022-06-10T10:54:06.316477Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPMXJ1ZjJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Alejandra Gimenez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y todo prolijo\n\n(Translated by Google)\nExcellent service and everything was neat and tidy.",
+    "createTime": "2022-06-05T20:35:19.732830Z",
+    "updateTime": "2022-06-05T20:35:19.732830Z",
+    "reviewReply": {
+      "comment": "Muchas gracias María.",
+      "updateTime": "2022-06-06T04:30:47.896472Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPa3ZTTFZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ignacio Kinbaum"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-05T17:45:18.579764Z",
+    "updateTime": "2022-06-05T17:45:18.579764Z",
+    "reviewReply": {
+      "comment": "Gracias Ignacio. Trabajaremos para que en tu próxima visita logremos 5 estrellas.",
+      "updateTime": "2022-07-24T13:33:07.992478Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPNHBudjNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Huber"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy rico\n\n(Translated by Google)\nVery tasty",
+    "createTime": "2022-05-31T09:56:18.702355Z",
+    "updateTime": "2022-05-31T09:56:18.702355Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Cesar.",
+      "updateTime": "2022-05-31T12:55:30.379778Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPcU5TQW9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Javier"
+    },
+    "starRating": "FOUR",
+    "comment": "Siempre que viajo, paso por esta estación, no te matan con los precios y te atienden re bien, los baños re limpios y la vista es lo mas.\n\n(Translated by Google)\nWhenever I travel, I go through this station; the prices aren\u0027t outrageous, the service is excellent, the bathrooms are spotless, and the view is amazing.",
+    "createTime": "2022-05-30T16:34:27.779600Z",
+    "updateTime": "2022-05-30T16:34:27.779600Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Alejandro.",
+      "updateTime": "2022-05-31T12:51:23.985724Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPc09mSEl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Freitas"
+    },
+    "starRating": "TWO",
+    "createTime": "2022-05-29T02:01:25.725705Z",
+    "updateTime": "2022-05-29T02:01:25.725705Z",
+    "reviewReply": {
+      "comment": "Sr Freitas, su comentario podría haber ayudado. Sus 2 estrellas sin comentario no suman como para poder optimizar nuestro servicio. Esperemos que la próxima vez que visite nuestro país y la zona, la experiencia sea de su agrado.",
+      "updateTime": "2022-05-30T13:06:01.912014Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNzdhMDhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Meng"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-28T01:04:34.380153Z",
+    "updateTime": "2022-05-28T01:04:34.380153Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Eduardo.",
+      "updateTime": "2022-05-28T02:47:33.463768Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChZDSUhNMG9nS0VJQ0FnSUQydC0zY1FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Under Tattoo Studio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-26T01:08:51.321129Z",
+    "updateTime": "2022-05-26T01:08:51.321129Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Under Tattoo !",
+      "updateTime": "2022-05-26T03:44:34.212397Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyMjU3Qmh3RRAB"
+  }]
+}

@@ -1,6 +1,31 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Mati Agliano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-22T12:01:28.902628Z",
+    "updateTime": "2026-07-22T12:01:28.902628Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWTVVXdHhXV1Y1UkZOUWRVOUxjMGxyT0dZMFIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agostina Mariel Ferella"
+    },
+    "starRating": "FIVE",
+    "comment": "muy amable la atención, todo muy limpio.\n\n(Translated by Google)\nThe service was very friendly, and everything was very clean.",
+    "createTime": "2026-07-18T17:19:56.178168Z",
+    "updateTime": "2026-07-18T17:19:56.178168Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWGJXeFlUVGRFV25rM2NVaHFia0pFVlZCTFRWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lucas Montechiari"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-12T18:38:50.562256Z",
+    "updateTime": "2026-07-12T18:38:50.562256Z",
+    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsNFRGQk9URXMwVm5OaFdYQXRhbWhrUzFoVFZXYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Luis Angel Carvajal Lencinas"
     },
     "starRating": "FIVE",
@@ -176,43 +201,5 @@
       "updateTime": "2026-04-29T14:31:12.755871Z"
     },
     "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaVlVVWnRNVFY1TkVOYWNqSnplbVpwWm00MlRFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "agustin gonzalez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-24T22:17:17.768308Z",
-    "updateTime": "2026-04-24T22:17:17.768308Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias, Agustín, por tu calificación!\nNos alegra saber que tu experiencia fue positiva.\n¡Te esperamos nuevamente!\n",
-      "updateTime": "2026-04-29T14:31:33.231004Z"
-    },
-    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5dVlqbHVWSE5uVTBKR1UyWTBkMkkyTFVaUE5HYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juana Mercado"
-    },
-    "starRating": "FIVE",
-    "comment": "Buenísima la atencion apartada por Abel Roble\n\n(Translated by Google)\nThe service provided by Abel Roble was excellent.",
-    "createTime": "2026-04-24T17:30:12.450661Z",
-    "updateTime": "2026-04-24T17:30:12.450661Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias, Juana!\nNos pone muy contentos que Abel Roble te haya brindado una excelente atención 😊\nLe vamos a transmitir tu mensaje.\n¡Te esperamos pronto!",
-      "updateTime": "2026-04-29T14:32:06.973804Z"
-    },
-    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOalZrTkxWRXhzTjJ0YVpIQnNkMkZzUjAxMU4zYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ayelen Vera"
-    },
-    "starRating": "FIVE",
-    "comment": "Buenísima  la atención de Abel robles y Fabián salas\n\n(Translated by Google)\nAbel Robles and Fabián Salas provided excellent service.",
-    "createTime": "2026-04-24T17:29:41.519778Z",
-    "updateTime": "2026-04-24T17:29:41.519778Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias, Ayelén!\nNos pone muy contentos que Abel y Fabián te hayan brindado una excelente atención 😊\nLes vamos a transmitir tu mensaje.\n¡Te esperamos pronto!\n",
-      "updateTime": "2026-04-29T14:32:33.944662Z"
-    },
-    "name": "accounts/109853746269412609224/locations/9753367623669844910/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGdE5YRk9NMFJGTVRoSVZ5MDNlVFpETmt4a01FRRAB"
   }]
 }

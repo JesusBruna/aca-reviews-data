@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jorge C"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-04-02T23:38:38.415761Z",
+    "updateTime": "2021-04-02T23:38:38.415761Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLLW9uZDVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Eduardo Aostri"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-04-02T19:10:54.204917Z",
+    "updateTime": "2021-04-02T19:10:54.204917Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdXNfeHBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Gabriela García"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-04-02T14:57:45.845454Z",
+    "updateTime": "2021-04-02T14:57:45.845454Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdXBEd2tBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lionel L"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-04-02T11:56:45.157700Z",
+    "updateTime": "2021-04-02T11:56:45.157700Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLMnZiS2JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Florencia Maria Nela Fernández"
+    },
+    "starRating": "ONE",
+    "comment": "Siempre hay fila, tardan mucho en atender y los playeros 0% de predisposición con los clientes. Se la pasan charlando y peor si encima los enganchas en un cambio de turno.\n\n(Translated by Google)\nThere\u0027s always a line, the service is incredibly slow, and the attendants are completely unhelpful to customers. They spend their time chatting away, and it\u0027s even worse if you catch them during a shift change.",
+    "createTime": "2021-04-02T03:15:43.424681Z",
+    "updateTime": "2021-04-02T03:16:06.580202Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLbXR5aXZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Guillermo Katz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-04-01T23:31:13.428197Z",
+    "updateTime": "2021-04-01T23:31:13.428197Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLNnJPS0JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Bertazza"
+    },
+    "starRating": "THREE",
+    "comment": "fui a las once de la noche y había poca gente atendiendo\n\n(Translated by Google)\nI went at eleven o\u0027clock at night and there were few people working.",
+    "createTime": "2021-04-01T18:56:19.752853Z",
+    "updateTime": "2021-04-01T18:56:42.435287Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLNnFUT2JnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Hazel Ruiz Cuadra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-04-01T10:08:01.303629Z",
+    "updateTime": "2021-04-01T10:08:01.303629Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLeXZyZ2RnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo C"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-03-29T19:03:32.585214Z",
+    "updateTime": "2021-03-29T19:03:32.585214Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLMUtITUZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Faustino Perez Diaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-29T18:11:07.111026Z",
+    "updateTime": "2021-03-29T18:11:07.111026Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLMU5ycDhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Belloni"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2021-03-29T12:01:09.428850Z",
+    "updateTime": "2021-03-29T12:01:09.428850Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLbE9UazdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nacho Ibeas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-27T23:51:06.418472Z",
+    "updateTime": "2021-03-27T23:51:06.418472Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLLUlySFdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Gabay"
+    },
+    "starRating": "FOUR",
+    "comment": "Todo bien\n\n(Translated by Google)\nAll good",
+    "createTime": "2021-03-27T19:17:50.278576Z",
+    "updateTime": "2021-03-27T19:17:56.032537Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLdUkzQW5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Daniel Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención\n\n(Translated by Google)\nThe service was very good.",
+    "createTime": "2021-03-27T12:12:16.023831Z",
+    "updateTime": "2021-03-27T12:12:16.023831Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLMk1hamx3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Barbi Kohler"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!, Muy organizados para atender, buena predisposición, y amabilidad de parte del personal, el servicio es completo, hasta cambian los focos del auto, cuenta con más surtidores que otras ypf, por lo tanto la espera es menos, recomendable al 100%\n\n(Translated by Google)\nExcellent service! Very organized, helpful, and friendly staff. The service is comprehensive; they even change car bulbs. They have more pumps than other YPF stations, so the wait is shorter. 100% recommended!",
+    "createTime": "2021-03-27T04:14:54.631430Z",
+    "updateTime": "2021-03-27T04:16:37.479414Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLbUlLSVdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Racingcampeon Racing"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-26T23:09:06.145190Z",
+    "updateTime": "2021-03-26T23:09:06.145190Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLNk1XaGVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jacques de Wavrin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-03-25T16:00:43.778405Z",
+    "updateTime": "2021-03-25T16:00:43.778405Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChRDSUhNMG9nS0VJQ0FnSUNLc0swQxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Saad"
+    },
+    "starRating": "TWO",
+    "comment": "Malísima atención al socio en el sector taller, la srta que atiende por la mañana debería recibir urgente un curso de atención al cliente.\n\n(Translated by Google)\nTerrible customer service in the workshop area; the young lady who works there in the mornings urgently needs a customer service course.",
+    "createTime": "2019-05-17T17:46:43.651884Z",
+    "updateTime": "2021-03-24T17:14:36.825559Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURZalpHbDNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos María Bernardi"
+    },
+    "starRating": "FOUR",
+    "comment": "Felicitaciones!!! Siempre impecable la atención!!!\n\n(Translated by Google)\nCongratulations!!! The service is always impeccable!!!",
+    "createTime": "2021-03-24T13:45:43.204525Z",
+    "updateTime": "2021-03-24T13:46:09.436163Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLb1A3NGlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "adrian peralta"
+    },
+    "starRating": "ONE",
+    "comment": "Ni se\n\n(Translated by Google)\nI don\u0027t even know",
+    "createTime": "2021-03-23T22:49:30.551891Z",
+    "updateTime": "2021-03-23T22:49:30.551891Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNLZ0phZEV3EAE"
+  }]
+}

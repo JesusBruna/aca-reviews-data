@@ -1,0 +1,38 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Nicolas Retamar"
+    },
+    "starRating": "THREE",
+    "comment": "tendrían que vender querocen!\n\n(Translated by Google)\nThey should sell kerosene!",
+    "createTime": "2015-11-20T04:25:11.382Z",
+    "updateTime": "2015-11-20T04:25:11.382Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBOV8tc0hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Bernardi"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) What a sight!\n\n(Original)\nQue paraisoooo..!!!",
+    "createTime": "2013-10-14T18:04:25.662626Z",
+    "updateTime": "2013-10-14T18:04:25.662626Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRbEpTdzZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rosi Vera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2013-06-05T19:43:50.080005Z",
+    "updateTime": "2013-06-05T19:43:50.080005Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSURROGQzc3JBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Ayala"
+    },
+    "starRating": "FIVE",
+    "comment": "Bellisimo lugar para conocer y volver.\n\n(Translated by Google)\nA beautiful place to visit and return to.",
+    "createTime": "2013-05-30T03:18:33.732421Z",
+    "updateTime": "2013-05-30T03:18:33.732421Z",
+    "name": "accounts/109853746269412609224/locations/11264551123214888728/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBc05DNm13RRAB"
+  }]
+}

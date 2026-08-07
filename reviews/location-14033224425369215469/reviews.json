@@ -1,6 +1,76 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Nicolás Brizuela"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención las chicas. Cris y Pao\n\n(Translated by Google)\nThe girls were very helpful. Cris and Pao",
+    "createTime": "2026-07-31T17:13:24.342040Z",
+    "updateTime": "2026-07-31T17:13:24.342040Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kQmRXcGphMU41V0VaQ1FuZEVhMVUzVW5oalIzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vanina Caceres"
+    },
+    "starRating": "FIVE",
+    "comment": "Ramiro nos dió una exelente atención!\n\n(Translated by Google)\nRamiro gave us excellent service!",
+    "createTime": "2026-07-31T16:22:20.479204Z",
+    "updateTime": "2026-07-31T16:22:20.479204Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WdWVFTjRSM3BoTFVoZmJ6Wm5SblZxVWxwdU9VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Macarena Fleitas"
+    },
+    "starRating": "ONE",
+    "createTime": "2026-07-30T17:19:00.730246Z",
+    "updateTime": "2026-07-30T17:19:00.730246Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tveVVWRllSbWxpVEZvM1ozVnRVbXBMUzNneFRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Eugenia Marino"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-27T14:06:04.568074Z",
+    "updateTime": "2026-07-27T14:06:04.568074Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJeGEyRlNNM3BIUWxCWlJtMHdXVFZLZGtSbFNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Rios"
+    },
+    "starRating": "FIVE",
+    "comment": "Playero de la YPF ACA CLORINDA, \"LINO\", MUY AMABLE Y EXCELENTE ATENCION!!! EMPLEADO QUE ENALTECE EL LUGAR!!! GRACIAS POR LA ATENCION\n\n(Translated by Google)\nLino, the attendant at the YPF ACA Clorinda gas station, was very friendly and provided excellent service! He\u0027s an employee who makes the place proud! Thank you for your attention.",
+    "createTime": "2026-07-26T13:41:21.067082Z",
+    "updateTime": "2026-07-26T13:41:21.067082Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKaU1EVk5TR1IwZHkwM1VXOWFSR1p3YlhGbk4wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Comisso"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención y muy atento el personal\n\n(Translated by Google)\nExcellent service and very attentive staff",
+    "createTime": "2026-07-23T18:16:08.013020Z",
+    "updateTime": "2026-07-23T18:16:08.013020Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbVUwOHdNSFZYUzJ0Tk1qUm5TR1JQY3pKSGVuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "GODOCASTOR Velázquez"
+    },
+    "starRating": "THREE",
+    "comment": "Bueno\n\n(Translated by Google)\nWell",
+    "createTime": "2026-07-17T13:24:28.464724Z",
+    "updateTime": "2026-07-17T13:24:28.464724Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsQ2N6ZE1URkl3TVcxVlpVazVPV2RrTjBsT1UyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "vilma Alicia Zakidalski"
+    },
+    "starRating": "THREE",
+    "comment": "Nuuuunca hay papel higiénico en los baños\n\n(Translated by Google)\nThere is never toilet paper in the bathrooms",
+    "createTime": "2026-07-12T02:38:48.829751Z",
+    "updateTime": "2026-07-12T02:38:48.829751Z",
+    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NMlEzUTRNVlJxUVZOV05HTmhSRXB0VjBoZmMyYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Lucas Leh"
     },
     "starRating": "FOUR",
@@ -128,84 +198,5 @@
       "updateTime": "2026-04-14T12:56:41.942785Z"
     },
     "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSWFVIcDVTMkZYUW5oM1pYaFVWR0ZxWVhsbExXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Susana Avalos"
-    },
-    "starRating": "FIVE",
-    "comment": "Hermoso lugar!\n\n(Translated by Google)\nBeautiful place!",
-    "createTime": "2026-03-02T04:13:10.657699Z",
-    "updateTime": "2026-03-02T04:13:10.657699Z",
-    "reviewReply": {
-      "comment": "Muchas gracias, siempre intentamos dar lo mejor.",
-      "updateTime": "2026-04-14T12:58:08.732985Z"
-    },
-    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xNk5UTkhSVm81VkZCclRqSk5ablI0VmpWdlUzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Luis Salinas"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-02-27T02:53:36.546709Z",
-    "updateTime": "2026-02-27T02:53:36.546709Z",
-    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NM1dqQTNjMVJqUW0xSFUwOWFRMFoxWHkxQ1NIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Benja Garay"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-02-26T15:12:23.474989Z",
-    "updateTime": "2026-02-26T15:12:23.474989Z",
-    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjdFEzZ3pSV0pDZVhOblFUZElSRzVVU0VwWWMyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "NANCY EDITH GOMEZ FIGUERA"
-    },
-    "starRating": "THREE",
-    "comment": "Atención regular (poco personal) baños con poca limpieza y mantenimiento. Una lástima porque es la última antes de cruzar a Paraguay...\n\n(Translated by Google)\nAverage service (understaffed), bathrooms poorly cleaned and maintained. A shame because it\u0027s the last one before crossing into Paraguay...",
-    "createTime": "2026-02-20T15:34:17.872566Z",
-    "updateTime": "2026-02-20T15:34:17.872566Z",
-    "reviewReply": {
-      "comment": "Gracias, su comentario nos ayuda a mejorar. ",
-      "updateTime": "2026-04-14T12:59:04.611702Z"
-    },
-    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkeVR6WnNhVFY1ZDAwMlgySm1VMU5GUlRKbVJYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alberto Lamy"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-02-17T00:28:54.497337Z",
-    "updateTime": "2026-02-17T00:28:54.497337Z",
-    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKU2NtUm5NVFJ5UmxwbkxXaFhTVEppV1ZkVVlVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sebastian Conforti"
-    },
-    "starRating": "FIVE",
-    "comment": "Buen paisaje, lindo lugar para parar .. lo más destacable es la atención de Paola la que atiende adentro es lo más , nos ayudó un montón a emprender viaje hacia Paraguay\n\n(Translated by Google)\nBeautiful scenery, a lovely place to stop... the most outstanding thing is the service from Paola, who works inside; she\u0027s the best, she helped us a lot to plan our trip to Paraguay",
-    "createTime": "2026-02-12T16:32:05.729116Z",
-    "updateTime": "2026-02-12T16:32:05.729116Z",
-    "reviewReply": {
-      "comment": "Gracias por su comentario. Siempre intentamos brindar un buen servicio e información a los viajantes.",
-      "updateTime": "2026-04-14T12:45:02.106902Z"
-    },
-    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzMVpVcFNjVGR2TlhONVNFUk1YemxwUTB4MlRWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Enrique Reinaldo Schroder"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-01-26T20:15:49.556895Z",
-    "updateTime": "2026-01-26T20:15:49.556895Z",
-    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsa1pXaDNiM05PT1RSbmIwZ3hjSFZOVlMxNVRIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Cloves Diehl"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-01-20T21:39:08.160050Z",
-    "updateTime": "2026-01-20T21:39:08.160050Z",
-    "name": "accounts/109853746269412609224/locations/14033224425369215469/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paSlprTmhYelZYUjJWNFpXeGtla0pKTmxscGFrRRAB"
   }]
 }

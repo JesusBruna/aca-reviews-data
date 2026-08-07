@@ -1,6 +1,75 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Bruno Bulaich"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-02T21:01:02.481287Z",
+    "updateTime": "2026-08-02T21:01:02.481287Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0UE5XTjJhakpHUlMxQ1lVeEJSbWx5YlRGTFJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Leticia"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-08-01T04:33:03.916464Z",
+    "updateTime": "2026-08-01T04:33:03.916464Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVU5ITTNOWGxOYm1OSlNURlBWRTlvZFU5MmFYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Ines Morales"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención de la chica de la caja super amable ,la limpieza un 10\n\n(Translated by Google)\nThe cashier was super friendly, and the cleanliness was a 10/10.",
+    "createTime": "2026-07-26T01:03:35.191273Z",
+    "updateTime": "2026-07-26T01:03:35.191273Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxbE4yMDFYMjFQWmtzeVJGYzNjMnR1Vkc5c2RuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Virginia Rebasti"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-07-25T14:57:00.204413Z",
+    "updateTime": "2026-07-25T14:57:00.204413Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxR2EzcGZlWGRhVFVOUGR6aHNVMTl6ZVRsd1VVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela"
+    },
+    "starRating": "FIVE",
+    "comment": "Unos genios, tanto los playeros como quienes atienden el full. Si quieren un servicio completo, con la mejor onda y atención de calidad, esta es la mejor estación. Muy recomendado! 😁\n\n(Translated by Google)\nThey\u0027re all fantastic, both the attendants and the full-service staff. If you want complete service, with the best vibes and top-notch attention, this is the best station. Highly recommended! 😁",
+    "createTime": "2026-07-24T20:08:12.007362Z",
+    "updateTime": "2026-07-24T20:08:12.007362Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNk5rOTRXa2hIWWxReGVUbGhiMDVCT0RWVWJVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivana Chiavassa"
+    },
+    "starRating": "ONE",
+    "comment": "Muy desconforme con la atención. Mientras esperábamos para llenar el tanque para volver a Córdoba, mi hijo que tiene problemas en los riñones necesitaba ir al baño. Preguntamos en la full, nos dijeron que no tenían, que preguntemos a las chicas que cargaban nafta. No sólo nos dijeron que no tenían baño, sino que nos negaron el libro de quejas. Primera vez que nos pasa en una YPF, le pondría 0 estrellas la verdad\n\n(Translated by Google)\nVery dissatisfied with the service. While we were waiting to fill up the tank to return to Córdoba, my son, who has kidney problems, needed to use the restroom. We asked at the full station, and they told us they didn\u0027t have one, and that we should ask the women pumping the gas. Not only did they tell us they didn\u0027t have a restroom, but they also refused to give us the complaint book. This is the first time this has happened to us at a YPF station; I would honestly give it zero stars.",
+    "createTime": "2026-07-12T18:37:12.089235Z",
+    "updateTime": "2026-07-12T18:37:12.089235Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tscGVWZDBTa0pRTm1kNVNsRnZhV2xUY2xFd05XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "miguel deramo"
+    },
+    "starRating": "THREE",
+    "comment": "Pobre atención\n\n(Translated by Google)\nPoor service",
+    "createTime": "2026-07-10T22:12:00.557217Z",
+    "updateTime": "2026-07-10T22:12:00.557217Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UVJHVkRTMkZrV1ZVemRXTlBSR1V3UmtkZlJHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luca Regatuso"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy amable la gente que atiende\n\n(Translated by Google)\nThe staff were very friendly.",
+    "createTime": "2026-07-04T13:54:51.638610Z",
+    "updateTime": "2026-07-04T13:54:51.638610Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25remJXZE1WVTFZWVZsVFUwTkNPRWRMUzBSYVMxRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Gabriel Olivero"
     },
     "starRating": "FIVE",
@@ -104,104 +173,5 @@
     "createTime": "2026-04-24T19:44:17.351384Z",
     "updateTime": "2026-04-24T19:44:17.351384Z",
     "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNmEyRkJTbkJMVXpsWFgyUmxORmhSWTJWQlRrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Zarine Gf"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención de los playeros. Precios razonables.\n\n(Translated by Google)\nExcellent service from the beach attendants. Reasonable prices.",
-    "createTime": "2026-04-07T23:00:44.035131Z",
-    "updateTime": "2026-04-21T19:07:19.581208Z",
-    "reviewReply": {
-      "comment": "¡Zarine, muchas gracias por tu reseña! 😊\nNos alegra saber que destacás la buena atención de los playeros y que encontrás nuestros precios razonables, trabajamos para ofrecer siempre un servicio cuidado y accesible.\n\nSi en tu próxima visita logramos que la experiencia sea completamente de tu agrado, nos encantaría poder contar con esas 5 estrellas ⭐⭐⭐⭐⭐, que nos ayudan mucho a seguir creciendo.\n\n¡Te esperamos nuevamente en ACA Venado Tuerto! 🚗⛽",
-      "updateTime": "2026-04-21T13:49:09.620871Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paUFIyMXRTMUZpZUZsb1dWVlVlbUZVZEVkSk0yYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rody Piccini"
-    },
-    "starRating": "FIVE",
-    "comment": "ACA Venado tuerto,\nsiempre con excelente atención , tanto los playeros como el personal en gral ,, un caso aparte es el servicio Boxes YPF , realmente impecable , responsabilidad y prefesionalismo en éste caso llevado adelante por Elías , 100% recomendable .\n\n(Translated by Google)\nACA Venado Tuerto,\nalways with excellent service, both the attendants and the staff in general, a special case is the YPF Boxes service, truly impeccable, responsibility and professionalism in this case carried out by Elias, 100% recommended.",
-    "createTime": "2026-04-20T12:05:41.354396Z",
-    "updateTime": "2026-04-20T12:05:41.354396Z",
-    "reviewReply": {
-      "comment": "¡Rody, muchísimas gracias por tu reseña! 😊\nNos alegra enormemente saber que valorás la atención de todo nuestro equipo, desde los playeros hasta el personal en general.\n\nTambién le vamos a hacer llegar tu reconocimiento a Elías 👏, quien trabaja con mucho compromiso para brindar un servicio de Boxes a la altura de lo que nuestros clientes merecen.\n\nGracias por recomendarnos y por elegir siempre ACA Venado Tuerto. ¡Te esperamos nuevamente! 🚗💨",
-      "updateTime": "2026-04-21T13:43:24.223379Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KaFRtazNMV3RCTTFwelZsVnBXV295YTNObmJGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "fabian Fc norte"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-17T17:55:05.568985Z",
-    "updateTime": "2026-04-17T17:55:05.568985Z",
-    "reviewReply": {
-      "comment": "¡Gracias por tu valoración! 😊 Nos alegra saber que tuviste una buena experiencia. Si querés, podés dejarnos un comentario contándonos qué fue lo que más te gustó. ¡Te esperamos nuevamente!",
-      "updateTime": "2026-04-21T13:50:02.973150Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnd2JrRmZjVkl0YkZCeFpYQkxNekp2VUU1YWFYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Jose Fredes"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-12T15:05:31.549372Z",
-    "updateTime": "2026-04-12T15:05:31.549372Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu calificación! 🙌 Si tu experiencia fue positiva, nos encantaría que nos cuentes un poco más y, si lo considerás, puedas actualizar tu puntuación. ¡Saludos!",
-      "updateTime": "2026-04-21T13:50:10.654285Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WNlREUlBRbkJPYUdsRE5XeENYM0ZQTm5wWE9FRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Pollini"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-01T01:03:30.790622Z",
-    "updateTime": "2026-04-01T01:03:30.790622Z",
-    "reviewReply": {
-      "comment": "¡Agradecemos tu puntuación! ⭐ Si todo estuvo a la altura de lo esperado, te invitamos a dejarnos un comentario y, si querés, completar tu reseña. ¡Nos ayuda a seguir mejorando!",
-      "updateTime": "2026-04-21T13:50:31.741303Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCamFtaDVhRE5ETFVjeVYwVnFNa1EzTm5KcFFrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mario Rodriguez"
-    },
-    "starRating": "FIVE",
-    "comment": "Buenas atención, todo limpio y muy bien cuidado, baños impecables con personal muy amable y tienen precios oficiales. Es complicado ingresar por su ubicación muy céntrica, pero con paciencia logras un buen servicio.\n\n(Translated by Google)\nExcellent service, everything is clean and well-maintained, the bathrooms are spotless, the staff is very friendly, and they have official prices. It\u0027s a bit tricky to get in because of its central location, but with patience you\u0027ll get good service.",
-    "createTime": "2026-03-30T02:19:06.960278Z",
-    "updateTime": "2026-03-30T02:19:06.960278Z",
-    "reviewReply": {
-      "comment": "¡Mario, muchas gracias por tu reseña tan completa! 😊\nNos pone muy contentos saber que destacás la atención, la limpieza y el estado de nuestras instalaciones, especialmente los baños y el trato de nuestro equipo.\n\nTambién valoramos mucho tu comentario sobre el acceso: sabemos que, por nuestra ubicación céntrica, a veces puede requerir un poco de paciencia, y trabajamos para que una vez dentro recibas el servicio que merecés.\n\nGracias por elegirnos y por tomarte el tiempo de compartir tu experiencia. ¡Te esperamos nuevamente! 🚗⛽",
-      "updateTime": "2026-04-21T13:44:12.028656Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5UWFXRjZXVTFETUdsS1ZrUTBORjlQYTBKNVpYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "mauri bursa"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-03-29T19:40:41.636537Z",
-    "updateTime": "2026-03-29T19:40:41.636537Z",
-    "reviewReply": {
-      "comment": "¡Gracias por calificarnos! 🙌 Si tu paso por la estación fue positivo, nos encantaría conocer más sobre tu experiencia. ¡Tu opinión es muy importante para nosotros!",
-      "updateTime": "2026-04-21T13:50:40.892608Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SVVRHZHpaM0ZVVmxvd1JXOVdRM2RtU0ZkRVkyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Claudio Bichito"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-03-23T13:07:21.992706Z",
-    "updateTime": "2026-03-23T13:07:21.992706Z",
-    "reviewReply": {
-      "comment": "¡Gracias por tu visita y tu valoración! 😊 Nos ayuda mucho saber cómo lo estamos haciendo. Si tenés un momento, nos encantaría leer tu experiencia en detalle.",
-      "updateTime": "2026-04-21T13:50:19.291928Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pseFkxSlVVRjlZUzJ0dFdXVXRlVlJsZEZOeVdWRRAB"
   }]
 }

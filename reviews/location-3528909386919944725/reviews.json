@@ -1,6 +1,49 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Dario Miranda orozco"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-29T15:00:30.718264Z",
+    "updateTime": "2026-07-29T15:00:30.718264Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWQ2RYTmxjMFkyVEV4NGRVRXpOVWh4ZVhaR1ZFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Delgado"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención del playero Fernando Díaz\n\n(Translated by Google)\nExcellent service from the beach attendant Fernando Díaz",
+    "createTime": "2026-07-28T11:26:14.721315Z",
+    "updateTime": "2026-07-28T11:26:14.721315Z",
+    "reviewReply": {
+      "comment": "Buenos días Muchas gracias por su calificación ",
+      "updateTime": "2026-07-28T11:43:19.269153Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCZlQzWm1NM0Z5Y0hNeGF6ZDBibmRmWlROdVpYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Eduardo Gil"
+    },
+    "starRating": "ONE",
+    "comment": "Muy mal el servicio del playero que esta en este turno ,me tuve que limpiar el vidrio yo , había un camioneta tras mio y cuando le toco el playero le limpio el vidrio, parece que la gente local tiene más derecho de los que viajamos\n\n(Translated by Google)\nThe service from the gas station attendant on this shift was terrible. I had to clean my own windshield. There was a truck behind me, and when it was the attendant\u0027s turn, he cleaned their windshield. It seems like locals think they have more rights than tourists.",
+    "createTime": "2026-07-17T13:20:06.631986Z",
+    "updateTime": "2026-07-17T13:20:06.631986Z",
+    "reviewReply": {
+      "comment": "Buenos días lamentamos la mala experiencia. Para tomar medidas con el empleado que lo atendió necesitamos saber el horario que paso por nuestro establecimiento \n",
+      "updateTime": "2026-07-17T13:48:47.230711Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GMFJrMTBUV2s1ZVdwdmVVNWFRMFZHVEZKMGJWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Aparicio"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención excelente. Comida variada y rica. Precio accesible en época de Milei\n\n(Translated by Google)\nExcellent service. Varied and delicious food. Affordable prices during Milei\u0027s presidency.",
+    "createTime": "2026-07-10T01:35:51.231709Z",
+    "updateTime": "2026-07-10T01:35:51.231709Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNdGQzb3liRWx2WnpWSlNuaGFhV3hhVTE5SlUyYxAB"
+  }, {
+    "reviewer": {
       "displayName": "GISELA ANABEL KIHN"
     },
     "starRating": "FIVE",
@@ -179,52 +222,5 @@
     "createTime": "2026-02-22T04:23:00.529441Z",
     "updateTime": "2026-02-22T04:23:00.529441Z",
     "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTldVNXhNRFpaTFdjd2FFSndNM2hMZG5SZlRFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Pablo Trombini"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente comida y atención.\nMuy buena relación precio calidad .\nPlatos abundantes.\nExcelente atención\n\n(Translated by Google)\nExcellent food and service.\nVery good value for money.\nGenerous portions.\nExcellent service.",
-    "createTime": "2026-02-11T13:48:42.825911Z",
-    "updateTime": "2026-02-11T13:48:42.825911Z",
-    "reviewReply": {
-      "comment": "Buenos días muchas gracias por su calificación ",
-      "updateTime": "2026-02-12T11:40:16.366967Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWVZtbHpWVzFRYkdsTGMwcHlhMUJZTFRnMWQxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Federico Ibañez"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena relación precio calidad. Excelente la atención de Leo.\n\n(Translated by Google)\nGood value for money. Leo\u0027s service was excellent.",
-    "createTime": "2026-02-11T00:13:36.886896Z",
-    "updateTime": "2026-02-11T00:13:36.886896Z",
-    "reviewReply": {
-      "comment": "Muchas Gracias por su calificación ",
-      "updateTime": "2026-02-11T16:14:54.881877Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT210MlFtZGxNbEZzWldwbmVHeDJXbXBSWjFaa1FuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "fernando salgado"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-02-08T01:42:36.569583Z",
-    "updateTime": "2026-02-08T01:42:36.569583Z",
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWclkxbHRUa2hYWWpCYU9GRXRRMlZMT0RSU1YyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo Riva"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy variada la carta del menú, con sugerencias y platos para compartir. Variada bebidas y tragos, los postres frescos.\nEspacio amplio comedor. El servicio de los mozos excelente, siempre atentos y sugiriendo menú.\nEspacio para juegos de chicos, afuera mesas para fumadores.\n\n(Translated by Google)\nThe menu is very varied, with suggestions and dishes to share. A wide selection of drinks and cocktails, and fresh desserts. Spacious dining area. Excellent service from the waiters, always attentive and offering menu suggestions. Children\u0027s play area, and outdoor tables for smokers.",
-    "createTime": "2026-01-31T00:08:53.296870Z",
-    "updateTime": "2026-01-31T00:08:53.296870Z",
-    "reviewReply": {
-      "comment": "Buenas noches muchas Gracias por su calificación ",
-      "updateTime": "2026-01-31T02:09:53.735431Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KeVp6Rm1NVE4zT1RkVk5IbFFaVWxGZFRKS2MyYxAB"
   }]
 }

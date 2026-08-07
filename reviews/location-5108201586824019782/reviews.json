@@ -1,6 +1,100 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Marcelo Cambeiro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-29T18:33:56.093050Z",
+    "updateTime": "2026-07-29T18:33:56.093050Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wb2EyNDBSSEZTZEc5RU0weHhMWEJtUm1OM1JuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "gustavo campo"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio tanto en los surtidores como en la cafeteria!. La mejor opcion para hacer una parada en la ruta\n\n(Translated by Google)\nExcellent service at both the pumps and the cafeteria! The best option for a stop along the way.",
+    "createTime": "2026-07-21T10:56:14.288166Z",
+    "updateTime": "2026-07-21T10:56:14.288166Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Gustavo.",
+      "updateTime": "2026-07-22T04:57:12.852725Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOWU0yTmhkM2R6TXpSS1UyRXRVbFUwUVVnMmNHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar Morales"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-19T06:19:08.579474Z",
+    "updateTime": "2026-07-19T06:19:08.579474Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aNWQyUkNUMU5aUzA1aE1URjZZazFTU1ZCd1ZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "bruno bene"
+    },
+    "starRating": "THREE",
+    "comment": "Servicio precario. Al bajar el sol ya no hay personal para comprar un alimento, o calentar el agua para el mate.\n\n(Translated by Google)\nPoor service. When the sun goes down, there\u0027s no staff to buy food or heat water for mate.",
+    "createTime": "2026-07-19T03:14:33.120554Z",
+    "updateTime": "2026-07-19T03:14:33.120554Z",
+    "reviewReply": {
+      "comment": "Sr Bruno, lamentamos no haber satisfecho su expectativa, es una estación rutera, por razones de flujo de tránsito, traslado del personal y seguridad, se trabaja con un horario específico para temporada de invierno. De todos modos agradecemos que haya dedicado parte de su tiempo para hacernos llegar su comentario y si vuelve a pasar en  horario de atención, gustosamente podremos servirle y contarle detalles que hacen particular a nuestra estación y su entorno.",
+      "updateTime": "2026-07-19T05:41:56.823832Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxUE9XcEtUVzlJTkVsVVp5MXFZa3d0U1ZJMGNVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Camila Letcher"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención fue muy buena!!! Tanto por parte de la chica del kiosco, como del chico de la playa! Los baños estaban limpios y la vista del lugar es muy lindaa\n\n(Translated by Google)\nThe service was excellent! Both from the girl at the kiosk and the guy on the beach! The restrooms were clean and the view is beautiful!",
+    "createTime": "2026-07-18T18:43:14.253879Z",
+    "updateTime": "2026-07-18T18:43:14.253879Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Camila.",
+      "updateTime": "2026-07-18T21:44:51.109199Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxSFRFeE9kekZVYmpSSGFtUnROM0ptU1dseVozYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Albornoz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención tanto en playa como en el servi compras.\n\n(Translated by Google)\nExcellent service both on the beach and in the shopping center.",
+    "createTime": "2026-07-15T00:12:57.481329Z",
+    "updateTime": "2026-07-15T00:12:57.481329Z",
+    "reviewReply": {
+      "comment": "Gracias Pablo.",
+      "updateTime": "2026-07-16T16:08:58.915314Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SMmRHUkZWMUZoYm5WRFYzcFlkRnBGWkhnelZVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "carla van de linde"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de la chica en el kiosco y del chico en playa. Muy amables. Los baños limpios y la vista mientras se espera es inmejorable, frente al lago, hermoso!\n\n(Translated by Google)\nExcellent service from the girl at the kiosk and the guy on the beach. Very friendly. The restrooms were clean and the view while waiting is unbeatable, right in front of the lake—beautiful!",
+    "createTime": "2026-07-14T12:33:48.371046Z",
+    "updateTime": "2026-07-14T12:33:48.371046Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Carla, es la estación más linda del ACA.",
+      "updateTime": "2026-07-16T16:09:57.167242Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pabmFVVkhjMVJMVjNwRFUyMUJRak5GYWtseWIzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Ledesma"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio y atencion de los chicos!\n\n(Translated by Google)\nExcellent service and attention from the guys!",
+    "createTime": "2026-07-10T20:09:55.293554Z",
+    "updateTime": "2026-07-10T20:09:55.293554Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Sebastián.",
+      "updateTime": "2026-07-10T20:47:25.333995Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25seU9HMUpjVkJVZGtnek9VVkpORWxCYkRaNmRHYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Claudio Marzan"
     },
     "starRating": "FIVE",
@@ -132,104 +226,5 @@
       "updateTime": "2026-04-07T10:50:48.118411Z"
     },
     "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SaGFXbEVWMFYwWTI1SFFrUjVZelpvVmxKaWNXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jose Amador Ruiz Ruiz"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buenas ideal para pasar a tomar un aire\n\n(Translated by Google)\nVery nice, ideal for stopping by for some fresh air",
-    "createTime": "2026-04-04T23:32:36.177074Z",
-    "updateTime": "2026-04-04T23:32:36.177074Z",
-    "reviewReply": {
-      "comment": "Gracias José.",
-      "updateTime": "2026-04-05T10:34:04.684811Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKNWNYbzVaMkUzVEZGeWNEVjZOVWRqTnpoRGVYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Candela Wettstein"
-    },
-    "starRating": "FIVE",
-    "comment": "Fácil acceso y en una zona calma. El hombre q nos atendió de pocas palabras pero un tipazo\n\n(Translated by Google)\nEasy access and in a quiet area. The man who served us was a man of few words but a great guy.",
-    "createTime": "2026-03-29T16:21:06.767672Z",
-    "updateTime": "2026-03-29T16:21:06.767672Z",
-    "reviewReply": {
-      "comment": "Gracias Candela, coincidimos.",
-      "updateTime": "2026-03-30T12:49:14.860943Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCd1NXdFViR2hUV1ZwWmIzVXRMVGRHU1RWRWQyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "noemi Quisle"
-    },
-    "starRating": "FIVE",
-    "comment": "El playero un genio\nLe pone buena onda a todo\nLo malo es que no hay sistema a veces\nCon la App va como piña.\n\n(Translated by Google)\nThe guy at the beach is awesome. He\u0027s always so friendly. The only downside is that the system is sometimes down. But the app works great.",
-    "createTime": "2026-03-27T12:23:02.879128Z",
-    "updateTime": "2026-03-27T12:23:02.879128Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Noemí .",
-      "updateTime": "2026-03-28T13:19:50.170897Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SdmJVRkZXR0p0UmtSUVVsaFZSaTFuWVhabk1YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maximiliano Ezequiel Schütz"
-    },
-    "starRating": "THREE",
-    "comment": "(Translated by Google) fall\n\n(Original)\nBiem",
-    "createTime": "2026-03-25T21:12:43.565994Z",
-    "updateTime": "2026-03-25T21:12:43.565994Z",
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wSlFtSkhZVk5CYmpoRFRGSlNlREZ2VmpadlQxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "daniel antagli"
-    },
-    "starRating": "FIVE",
-    "comment": "Fui hace 15 años y sigue igual es una estación histórica y de muy buena atención .\n\n(Translated by Google)\nI went 15 years ago and it\u0027s still the same, it\u0027s a historic station with very good service.",
-    "createTime": "2026-03-24T22:10:27.374185Z",
-    "updateTime": "2026-03-24T22:10:27.374185Z",
-    "reviewReply": {
-      "comment": "Gracias Daniel.",
-      "updateTime": "2026-03-25T18:56:09.017293Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GWU5qQk5RMVl6WmtkUk1rZGpjR1E1Vm1sVFFWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alfredo Raúl de Araujo E Sá"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-24T09:06:45.559622Z",
-    "updateTime": "2026-03-24T09:06:45.559622Z",
-    "reviewReply": {
-      "comment": "Gracias Alfredo.",
-      "updateTime": "2026-03-24T14:49:00.209106Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsb05rRkthUzFHWVdneFh6ZEdkV1ZrYnpsQ1gwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcela Lago"
-    },
-    "starRating": "ONE",
-    "comment": "Baño damas rotos, sucios. Cartelera de los precios mal, al momento de abonar cobraron otro precio.\n\n(Translated by Google)\nThe women\u0027s restroom was broken and dirty. The price list was incorrect; they charged a different price when we went to pay.",
-    "createTime": "2026-03-24T00:27:01.380897Z",
-    "updateTime": "2026-03-24T00:27:01.380897Z",
-    "reviewReply": {
-      "comment": "Sra Lago, apreciamos su comentario para poder optimizar nuestro servicio. El cambio diario de precios a veces llega antes de que el vendedor de playa pueda corregirlos manualmente (habrá visto que no es un cartel digital) pero de todos modos el precio vigente se exhibe en el surtidor q despacha. Sabrá usted que no existe ánimo ni mala fe en lo sucedido. Con respecto al baño de damas, siempre es útil la precisión en el comentario para identificar el problema atento a que la acepción \"rotos\" es algo generica y torna difuso el aporte que ud sin dudas ha intentado acercarnos, de todos modos reitero nuestra consideración y le aseguro que verificaremos ese punto, toda vez que los baños generalmente suelen estar impecables, pese a la existencia de 60 personas de las fuerzas de seguridad que habitan el predio y por supuesto usan los baños, pero no creo que los dañen.",
-      "updateTime": "2026-03-24T02:54:44.329702Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVFNISnZaRlpvU2xoamFGSk5NVGxMWDFwdVduYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gustin Argañaraz"
-    },
-    "starRating": "ONE",
-    "comment": "Pésima atención. Fuimos el 18/03 a las 11 hs y había un empleado en la playa que nos vio llegar pero no nos atendió. Estuvimos más de 15 minutos esperando mientras hacía otras cosas.\n\nCuando me acerqué a preguntarle si era autoservicio, respondió de forma agresiva: “tocás la manguera y te prendo fuego las manos”.\n\nUna falta de respeto total. Terminamos yéndonos sin cargar. Muy mala experiencia.\n\n(Translated by Google)\nTerrible service. We went on March 18th at 11:00 AM and there was an employee on the pump who saw us arrive but didn\u0027t help us. We waited for more than 15 minutes while he did other things.\n\nWhen I approached him to ask if it was self-service, he responded aggressively: \"Touch the hose and I\u0027ll set your hands on fire.\"\n\nA total lack of respect. We ended up leaving without filling up. A very bad experience.",
-    "createTime": "2026-03-19T11:49:58.250275Z",
-    "updateTime": "2026-03-19T11:49:58.250275Z",
-    "reviewReply": {
-      "comment": "Agustín, hemos conversado al respecto, chequeamos el episodio y tal como le aseguré, se aplicará la sanción pertinente.",
-      "updateTime": "2026-03-24T02:56:15.418844Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCVmJWOWZiMHhmYUhVMVFXaFZhR3A1TUdzeFpWRRAB"
   }]
 }

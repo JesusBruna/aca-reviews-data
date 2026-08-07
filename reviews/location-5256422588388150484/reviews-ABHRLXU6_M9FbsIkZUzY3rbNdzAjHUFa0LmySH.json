@@ -1,0 +1,211 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Elias Centurion"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-13T14:37:31.291379Z",
+    "updateTime": "2023-11-13T14:37:31.291379Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscUotdW5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Merlo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención, resuelven todos los problemas. Buena financiación.\n\n(Translated by Google)\nExcellent service, they resolve all issues. Good financing options available.",
+    "createTime": "2023-11-13T01:58:25.449192Z",
+    "updateTime": "2023-11-13T01:58:25.449192Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMEs2emFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabiola P."
+    },
+    "starRating": "FOUR",
+    "comment": "Fui a lavar el auto. Tuve que indicarle al personal del sector de secado que estaban poniendo las alfombras de mi auto en otro. Prestar atención a esos detalles.\n\n(Translated by Google)\nI went to get my car washed. I had to tell the staff in the drying area that they were putting my car mats in another car. Pay attention to those details.",
+    "createTime": "2023-11-12T02:05:47.257861Z",
+    "updateTime": "2023-11-12T02:05:47.257861Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURGbjhuQU9nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Ciminieri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-11T18:04:09.882Z",
+    "updateTime": "2023-11-11T18:04:09.882Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURGejQzaGFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Enrique Moroz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-11T11:09:14.487749Z",
+    "updateTime": "2023-11-11T11:09:14.487749Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGdDkybnp3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Senitzky"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-11-11T00:10:52.298490Z",
+    "updateTime": "2023-11-11T00:10:52.298490Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGcDR1ZTNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Georgina Elola"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-09T00:20:36.516322Z",
+    "updateTime": "2023-11-09T00:20:36.516322Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGdFpLY21nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Cueva"
+    },
+    "starRating": "ONE",
+    "comment": "Solo se salvó el pibe que despacha, un diez, el resto un afano\n\n(Translated by Google)\nOnly the kid who serves the money was spared, a ten out of ten, the rest were a rip-off.",
+    "createTime": "2023-11-08T19:37:40.228146Z",
+    "updateTime": "2023-11-08T19:37:40.228146Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGNWM2LS1nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge"
+    },
+    "starRating": "THREE",
+    "comment": "Excelente atención. Complicado el estacionamiento.\n\n(Translated by Google)\nExcellent service. Parking was difficult.",
+    "createTime": "2023-11-08T17:03:33.673806Z",
+    "updateTime": "2023-11-08T17:03:33.673806Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGeGJUQTdRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Rojo"
+    },
+    "starRating": "FOUR",
+    "comment": "La atención suele ser ágil pero en esta época (Noviembre 2023) tienen problemas de abastecimiento como la mayoría de las estaciones en Capital.\n\n(Translated by Google)\nThe service is usually quick, but at this time (November 2023) they have supply problems like most stations in the Capital.",
+    "createTime": "2023-11-07T11:02:21.866406Z",
+    "updateTime": "2023-11-07T11:02:21.866406Z",
+    "reviewReply": {
+      "comment": "hola Guilermo Gracias por la calificacion\nsaludos",
+      "updateTime": "2023-11-07T17:31:10.366101Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGN3JmQ2x3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Monica"
+    },
+    "starRating": "THREE",
+    "comment": "Fui a cargar combustible\n\n(Translated by Google)\nI went to get fuel",
+    "createTime": "2023-11-06T12:45:56.222186Z",
+    "updateTime": "2023-11-06T12:45:56.222186Z",
+    "reviewReply": {
+      "comment": "Hola Maria esperemos poder mejorar para que la calificacion mejore \nsaludos",
+      "updateTime": "2023-11-07T17:31:58.453401Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGaG9qd3hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Maria Sosa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-06T05:33:27.442971Z",
+    "updateTime": "2023-11-06T05:33:27.442971Z",
+    "reviewReply": {
+      "comment": "Hola JOse gracias por la calificacion",
+      "updateTime": "2023-11-07T17:32:15.607181Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURGdXZEYUpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Pose"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-06T01:07:02.691077Z",
+    "updateTime": "2023-11-06T01:07:02.691077Z",
+    "reviewReply": {
+      "comment": "Hola Marcelo gracias por calificarnos.\n saludos",
+      "updateTime": "2023-11-07T17:32:54.554598Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGMm9UYnlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Produccion Produccion"
+    },
+    "starRating": "ONE",
+    "comment": "Falta personal se demora mucho\nLos baños son para clausurar\nEntre otras irregularidades y falta de prevencion antes y durante el servicio\n\n(Translated by Google)\nStaff shortages cause long delays.\nThe restrooms are in terrible condition.\nAmong other irregularities and a lack of preventative measures before and during service.",
+    "createTime": "2023-11-05T19:42:40.079950Z",
+    "updateTime": "2023-11-05T19:42:40.079950Z",
+    "reviewReply": {
+      "comment": "Hola Te pedimos disculpás tomaremos medidas para mejorar el servicio \nsaludos",
+      "updateTime": "2023-11-07T17:33:38.932785Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSURGNnItRWpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ximena Fernandez"
+    },
+    "starRating": "FOUR",
+    "comment": "Te atienden muy bien. Lástima que no funciona la lavadora automática\n\n(Translated by Google)\nThe service is excellent. It\u0027s a shame the automatic washing machine isn\u0027t working.",
+    "createTime": "2023-11-04T21:05:29.959322Z",
+    "updateTime": "2023-11-04T21:05:29.959322Z",
+    "reviewReply": {
+      "comment": "hola Ximena gracias por tu co,mentario el lavado ya esta en funcionamiento \nsaludos ",
+      "updateTime": "2023-11-07T17:29:17.195184Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSURGbE91bVZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rosaliaelva Ayala"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención 🖐️😎🖐️😁♥️🩵\n\n(Translated by Google)\nExcellent service 🖐️😎🖐️😁♥️🩵",
+    "createTime": "2023-11-03T12:44:24.555937Z",
+    "updateTime": "2023-11-03T12:44:24.555937Z",
+    "reviewReply": {
+      "comment": "Hola Rosalia gracias por tu comentario y calificacion\nsaludos",
+      "updateTime": "2023-11-07T17:30:17.047297Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGaDlfVkFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marta Padin"
+    },
+    "starRating": "THREE",
+    "comment": "Son demasiado lentos en la atención\n\n(Translated by Google)\nThey are too slow in their service",
+    "createTime": "2023-11-03T12:25:25.584342Z",
+    "updateTime": "2023-11-03T12:25:25.584342Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGaDd2NkZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Onn."
+    },
+    "starRating": "FIVE",
+    "comment": "Siempre nos atendieron muy bien. Por suerte no hubo mucha espera\n\n(Translated by Google)\nWe were always treated very well. Luckily, there wasn\u0027t a long wait.",
+    "createTime": "2023-11-02T22:21:54.931867Z",
+    "updateTime": "2023-11-02T22:21:54.931867Z",
+    "reviewReply": {
+      "comment": "Hola Sandra por el comentario y la calificacion \nte esperqamos pronto , saludos",
+      "updateTime": "2023-11-07T17:34:36.463787Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGMjdTbHZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Depetri"
+    },
+    "starRating": "FIVE",
+    "comment": "Con todo el bochinche de los precios, la atencion es muy buena, los playeros y los que atienden en el full, se merecen mucho respeto de parte de los clientes\n\n(Translated by Google)\nDespite all the fuss about prices, the service is very good; the attendants and those who work at the full service station deserve a lot of respect from the customers.",
+    "createTime": "2023-11-02T17:47:58.782390Z",
+    "updateTime": "2023-11-02T17:47:58.782390Z",
+    "reviewReply": {
+      "comment": "Hola Walter gracias por el cometario y la calificacion esperemos seguir mejorando. \nsaludos",
+      "updateTime": "2023-11-07T17:35:20.007183Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGNjZXWlRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Maldonado"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-02T15:18:51.364493Z",
+    "updateTime": "2023-11-02T15:18:51.364493Z",
+    "name": "accounts/109853746269412609224/locations/5256422588388150484/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGcTZIS1N3EAE"
+  }]
+}

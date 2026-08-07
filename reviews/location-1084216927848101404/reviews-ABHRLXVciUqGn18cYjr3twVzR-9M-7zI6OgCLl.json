@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ana Clara Alfaro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-31T11:14:03.251057Z",
+    "updateTime": "2024-10-31T11:14:03.251057Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURYdTluQWF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Ardanaz"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-10-31T01:03:30.624502Z",
+    "updateTime": "2024-10-31T01:03:30.624502Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURYODV5ckx3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mercedes T Zambrano Marquez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion y áreas de servicio\n\n(Translated by Google)\nGood service and service areas",
+    "createTime": "2024-10-29T10:14:24.490937Z",
+    "updateTime": "2024-10-29T10:14:24.490937Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURYbWEtUkhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Perla Díaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-28T07:01:43.469334Z",
+    "updateTime": "2024-10-28T07:01:43.469334Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURYNGNta1NnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Da Silveira"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-28T00:33:31.765989Z",
+    "updateTime": "2024-10-28T00:33:31.765989Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURYZ2NHUmNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luxor Bsg"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-28T00:11:24.489096Z",
+    "updateTime": "2024-10-28T00:11:24.489096Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURYZ2FxVlZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "ESTAMPA Nueva Helvecia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-10-26T20:41:06.761684Z",
+    "updateTime": "2024-10-26T20:41:06.761684Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURYNXZqRVdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mirta Bertero"
+    },
+    "starRating": "FOUR",
+    "comment": "Hermoso lugar\n\n(Translated by Google)\nBeautiful place",
+    "createTime": "2024-10-25T19:39:39.472855Z",
+    "updateTime": "2024-10-25T19:39:39.472855Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURYc3NxaERBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "luis castro"
+    },
+    "starRating": "TWO",
+    "comment": "Ypf, y no se puede pagar con plata en la aplicación.\n\n(Translated by Google)\nYPF, and you can\u0027t pay with cash in the app.",
+    "createTime": "2024-10-22T02:08:53.761840Z",
+    "updateTime": "2024-10-22T02:09:54.873980Z",
+    "reviewReply": {
+      "comment": "Hola Luis, te pido por favor un poco más de detalle de la situación, lamentamos el mal momento",
+      "updateTime": "2024-10-22T02:55:10.377713Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYejdXMjBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Cáceres"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-10-21T18:43:13.662942Z",
+    "updateTime": "2024-10-21T18:43:13.662942Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdDlYc2pRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mayra Cordoba"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-20T05:37:59.444980Z",
+    "updateTime": "2024-10-20T05:37:59.444980Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYazZHbklBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Mayol"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-10-18T10:33:28.903829Z",
+    "updateTime": "2024-10-18T10:33:28.903829Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYMmZ1ZHh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Manuel Vega"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-10-16T01:30:13.379422Z",
+    "updateTime": "2024-10-16T01:30:13.379422Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYcHQ3eFpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Mena Ugarte"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente limpieza de los sanitarios, muy buena atención en la cafetería por parte de las chicas. Ambiente agradable y buena mercadería. Descuentos a socios ACA\n\n(Translated by Google)\nExcellent restroom cleanliness, very good service in the cafeteria from the staff. Pleasant atmosphere and good merchandise. Discounts for ACA members.",
+    "createTime": "2024-10-15T09:58:17.458578Z",
+    "updateTime": "2024-10-15T09:58:17.458578Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYNnFTeDB3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Oacar Ginart"
+    },
+    "starRating": "THREE",
+    "comment": "Lerda la atención\n\n(Translated by Google)\nSlow attention",
+    "createTime": "2024-10-14T15:10:41.290541Z",
+    "updateTime": "2024-10-14T15:10:41.290541Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYb3FXUEp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Vega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-13T15:51:44.898310Z",
+    "updateTime": "2024-10-13T15:51:44.898310Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYMUxhTmpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Ramos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-11T20:59:46.645875Z",
+    "updateTime": "2024-10-11T20:59:46.645875Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURubjlPcVJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Hernan Mendez"
+    },
+    "starRating": "FIVE",
+    "comment": "Riquisimo el restaurante\n\n(Translated by Google)\nThe restaurant was delicious",
+    "createTime": "2024-10-08T17:55:05.264967Z",
+    "updateTime": "2024-10-08T17:55:05.264967Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChZDSUhNMG9nS0VJQ0FnSURuclpXemJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Chiesa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-08T17:48:36.607459Z",
+    "updateTime": "2024-10-08T17:48:36.607459Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSURucmRubTdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Ledo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-10-08T00:46:42.124096Z",
+    "updateTime": "2024-10-08T00:46:42.124096Z",
+    "name": "accounts/109853746269412609224/locations/1084216927848101404/reviews/ChdDSUhNMG9nS0VJQ0FnSURucGRqRmxBRRAB"
+  }]
+}
