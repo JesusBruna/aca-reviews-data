@@ -1,6 +1,68 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Luciana Falliga"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy rico los sándwiches\n\n(Translated by Google)\nThe sandwiches were delicious",
+    "createTime": "2026-09-23T21:07:36.377600Z",
+    "updateTime": "2026-09-23T21:07:36.377600Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdmRGWllPRUppWmt3MFdXZEVRbFIzYUVvNWIwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Villar"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio de los playeros que despachan combustible y de las chicas del Full shop.\n\n(Translated by Google)\nExcellent service from the gas station attendants and the girls at the Full Shop.",
+    "createTime": "2026-09-20T22:19:35.457882Z",
+    "updateTime": "2026-09-20T22:19:35.457882Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT214UVV6ZDZiRXhPVkZadVpXMWFWVlJ5YWt3elNIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Ignacio Eldahuk"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
+    "createTime": "2026-09-20T16:19:04.639496Z",
+    "updateTime": "2026-09-20T16:19:04.639496Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4SUxWRmFiV2RMY1ZGQ1YzTkllbFkwV1c1d1gyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "EL RAUL"
+    },
+    "starRating": "FOUR",
+    "comment": "Genial está bueno\n\n(Translated by Google)\nGreat, that\u0027s good",
+    "createTime": "2026-09-07T23:32:43.632086Z",
+    "updateTime": "2026-09-07T23:32:43.632086Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkd1h6VTFUQzFpYkcxWE1tMU5TWGwyZFdOZlIxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto sack"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-07T13:05:47.732894Z",
+    "updateTime": "2026-09-07T13:05:47.732894Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGeGNVdFRVVjl2Vms0d2IydDNUekp3UVd3elZYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leo Blanco"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar para parar a mitad de camino. Muy buena atención, tanto de los playeros como de las chicas del Full YPF. El sándwich de jamón crudo y queso con pan de campo y tostadito es el mejor del universo.\n\n(Translated by Google)\nA great place to stop halfway. Excellent service, both from the attendants and the staff at the YPF gas station. The prosciutto and cheese sandwich on toasted country bread is the best ever.",
+    "createTime": "2026-08-18T20:45:11.299059Z",
+    "updateTime": "2026-08-18T20:45:11.299059Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RM2FXTmlTM1V6U0dKaU1EZDVSSFY1TFdac00yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "jose luis Aguinaga"
+    },
+    "starRating": "FIVE",
+    "comment": "Genios todos los chic@s!!!!! Excelente!\n\n(Translated by Google)\nAll the kids are geniuses!!!!! Excellent!",
+    "createTime": "2026-08-04T10:46:35.041560Z",
+    "updateTime": "2026-08-04T10:46:35.041560Z",
+    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKT1FrNUpWMmR1YjJ0WmJUQkdNRXBWWDA1ZmRuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Alberto Femiano"
     },
     "starRating": "FIVE",
@@ -111,66 +173,5 @@
     "createTime": "2026-04-10T21:56:47.183024Z",
     "updateTime": "2026-04-10T21:56:47.183024Z",
     "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCeFFVZDNWbE5VWVc5SFdGZDVPV0k0YWxkeE5HYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rodrigo Samuel Aparicio"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente servicio\n\n(Translated by Google)\nExcellent service",
-    "createTime": "2026-04-10T20:33:05.699431Z",
-    "updateTime": "2026-04-10T20:33:05.699431Z",
-    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVMWFGVk5aa1poVFV3d1FrOWlZemQyZGs5WVpHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sergio Alvarado"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-06T02:15:07.035106Z",
-    "updateTime": "2026-04-06T02:15:07.035106Z",
-    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Od01XUnNXSFJsT1ZoRk5VbE1iM0pEV0hoc09XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniel Pristera"
-    },
-    "starRating": "THREE",
-    "comment": "Fuí con la expectativa de sus famosos sandwich de jamón crudo. Creo que un sándwich de pan lactal tradicional es mucho más grande. Me defraudó\n\n(Translated by Google)\nI went expecting their famous prosciutto sandwiches. I think a traditional white bread sandwich is much bigger. I was disappointed.",
-    "createTime": "2026-03-25T17:01:02.758771Z",
-    "updateTime": "2026-03-25T17:01:02.758771Z",
-    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2treFdWUjFObXQ1WDJZNVEyRTVVMDl2TUhKRFJWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Pink"
-    },
-    "starRating": "FIVE",
-    "comment": "Estuvimos el miércoles 18/3/26 en la estación de servicio de Los Altares y queremos destacar la excelente atención de Maite. Fue muy amable y atenta, no solo con nosotros sino con todas las personas que iban entrando. En mi caso, tuvo el detalle de orientarme sobre qué opciones podía comer siendo vegetariana, algo que realmente se valora cuando estás viajando.\nAdemás, la estación estaba limpia y ordenada, lo que hace que ese alto en el camino sea aún más agradable.\nComo detalle a mejorar, en el baño faltaba jabón.\nDa gusto encontrarse con lugares y personas así. ¡Muchas gracias!\n\n(Translated by Google)\nWe were at the Los Altares service station on Wednesday, March 18, 2026, and we want to highlight Maite\u0027s excellent service. She was very kind and attentive, not only to us but to everyone who came in. In my case, she thoughtfully suggested vegetarian options, something that is truly appreciated when traveling.\n\nFurthermore, the station was clean and tidy, which made that stop even more pleasant. The only thing that could be improved is that there was no soap in the restroom.\nIt\u0027s wonderful to find places and people like this. Thank you so much!",
-    "createTime": "2026-03-24T21:52:19.863080Z",
-    "updateTime": "2026-03-24T21:52:19.863080Z",
-    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkUmRUWkRZMDVpWjBKUWNUVk5TV295TjFScWFVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "martha aziucena montenegro"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-24T15:20:52.960843Z",
-    "updateTime": "2026-03-24T15:20:52.960843Z",
-    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kweVVtaHhMVWd4ZEhSaFlXSmxkMmxrZDFsWExYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Silvia Dono"
-    },
-    "starRating": "FIVE",
-    "comment": "Los chicos de la estación son muy serviciales.  Los sanitarios están limpios y el shop de la Full es lindo, limpio, sin moscas!!!  Y las chicas muy amables\n\n(Translated by Google)\nThe guys at the station are very helpful. The restrooms are clean, and the Full convenience store is nice, clean, and fly-free! And the girls are very friendly.",
-    "createTime": "2026-03-23T15:32:33.789511Z",
-    "updateTime": "2026-03-23T15:32:33.789511Z",
-    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxdlVYaGFTVXRtUWt3MVMwWTNWVFpKV1ZGVFgxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "wilson ricardo"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente estación, muy buena atención muy buenos baños y tiene ducha, un hermoso bar para comer rico. Saludos del uruguayo\n\n(Translated by Google)\nExcellent station, very good service, very nice restrooms with showers, and a lovely bar with delicious food. Greetings from a Uruguayan.",
-    "createTime": "2026-03-22T23:02:56.654380Z",
-    "updateTime": "2026-03-22T23:02:56.654380Z",
-    "name": "accounts/109853746269412609224/locations/17063090883587948659/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKNWNVRmlUVWhxWVZsM1NXTk9NVzVZZGpOdWRVRRAB"
   }]
 }

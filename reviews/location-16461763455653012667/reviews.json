@@ -1,11 +1,88 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Andrea Alvarez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bu3na atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-09-26T10:14:05.105593Z",
+    "updateTime": "2026-09-26T10:16:24.831932Z",
+    "reviewReply": {
+      "comment": "Muchas gracias!",
+      "updateTime": "2026-09-28T11:55:43.018758Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSRU1IVm5ZelpSYlVFMlpHaDJNemgwVnpCMWNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Cecere"
+    },
+    "starRating": "THREE",
+    "comment": "Buena\n\n(Translated by Google)\nGood",
+    "createTime": "2026-09-26T01:59:11.499010Z",
+    "updateTime": "2026-09-26T01:59:11.499010Z",
+    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ocU9WVmhZMDFpZDJkTk0xZ3hNR013VUVjeWJGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nico Bognanni"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención!!! Muy recomendable!!\n\n(Translated by Google)\nExcellent service!!! Highly recommended!!",
+    "createTime": "2026-09-22T17:04:02.458425Z",
+    "updateTime": "2026-09-22T17:04:02.458425Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificaciòn!",
+      "updateTime": "2026-09-28T11:56:52.333412Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jelEydHZRVmhsTW5sdlpGQlRNWGRuVmxodFJYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Bordas"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion. Lugsr prolijo y limpio\n\n(Translated by Google)\nGood service. Neat and clean place",
+    "createTime": "2026-08-24T01:50:05.479335Z",
+    "updateTime": "2026-08-24T01:50:05.479335Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificacion! ",
+      "updateTime": "2026-08-29T12:37:35.671037Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJMU9XNXFWRWsxUlhBeFNIazBWRk00WjFwRVRuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Hernán Valeiras"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-13T22:37:23.976299Z",
+    "updateTime": "2026-08-13T22:37:23.976299Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificacion!",
+      "updateTime": "2026-08-15T11:10:56.164472Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aa1oxUlBUWGQwVEVSSVRUQkNiMFpOWWpKUFFuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Edu GCarona"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, instalaciones muy limpias!\n\n(Translated by Google)\nExcellent service, very clean facilities!",
+    "createTime": "2022-11-15T18:36:12.364471Z",
+    "updateTime": "2026-08-03T19:08:41.862174Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificacion! ",
+      "updateTime": "2026-08-03T19:15:22.130180Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/ChdDSUhNMG9nS0VJQ0FnSUMtbDlXa21RRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Lauty"
     },
     "starRating": "FIVE",
     "createTime": "2026-08-02T19:31:33.620455Z",
     "updateTime": "2026-08-02T19:31:33.620455Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificacion!",
+      "updateTime": "2026-08-03T18:08:30.254685Z"
+    },
     "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oRFdFZHFRbWRFZEd0RE4waE5lRTE2Y0RndFNHYxAB"
   }, {
     "reviewer": {
@@ -14,6 +91,10 @@
     "starRating": "FIVE",
     "createTime": "2026-08-02T19:08:14.345349Z",
     "updateTime": "2026-08-02T19:08:14.345349Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificacion!",
+      "updateTime": "2026-08-03T18:08:59.661842Z"
+    },
     "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sMFIxRXpVbEZDVDJGaFkxZGpTRnBMVWpWelpVRRAB"
   }, {
     "reviewer": {
@@ -165,81 +246,5 @@
       "updateTime": "2026-06-01T17:57:01.376859Z"
     },
     "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0dWJrNUJUVjlTZFhNMFRFUnVWbkJYTlVneGMyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Castro Mariano"
-    },
-    "starRating": "FIVE",
-    "comment": "YPF ❤️",
-    "createTime": "2026-05-11T22:10:58.078609Z",
-    "updateTime": "2026-05-11T22:10:58.078609Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu calificacion!\n",
-      "updateTime": "2026-05-17T00:17:37.130256Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwQk1sSlFjelF5YzNodVFXUjBaa2xOWmpKZmNHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Rivitti"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-04T01:39:56.813814Z",
-    "updateTime": "2026-05-04T01:39:56.813814Z",
-    "reviewReply": {
-      "comment": "Gracias por tu opinion!",
-      "updateTime": "2026-05-07T18:11:47.454203Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jMVdUaHViRWhCU0V0WmRETlRVVkZyYURWUFQxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Federico Wasinger"
-    },
-    "starRating": "ONE",
-    "comment": "Media hora y esperando cambio de turno .. 2 playeros y una mujer de YPF  hablando y me responden 15 minutos más. Si estan de asamblea o paro avisen … vayan a otro lado\n\n(Translated by Google)\nHalf an hour and waiting for a shift change... Two gas station attendants and a woman from YPF were talking, and they told me another 15 minutes. If they\u0027re having a meeting or going on strike, let them know... go somewhere else.",
-    "createTime": "2026-04-20T00:59:20.474858Z",
-    "updateTime": "2026-04-20T01:09:24.905591Z",
-    "reviewReply": {
-      "comment": "gracias por tu comentario. Trabajaremos en solucionarlo",
-      "updateTime": "2026-05-05T14:25:05.152891Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KdFJuaFViRGRPWlRCWlExZ3dWRGhsYjBRelNIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Luis Ribeiro"
-    },
-    "starRating": "THREE",
-    "comment": "No siempre se puede cargar combustible rapido.\n\n(Translated by Google)\nYou can\u0027t always refuel quickly.",
-    "createTime": "2026-04-16T03:13:09.313625Z",
-    "updateTime": "2026-04-16T03:13:09.313625Z",
-    "reviewReply": {
-      "comment": "Gracias por su calificacion! Trabajaremos en resolverlo.",
-      "updateTime": "2026-06-01T17:57:54.587012Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GV2RIVlZaSEZyVmtkWFdqWTJNRVIzU3pST1NGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Matias Quiroga"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-14T12:35:28.574525Z",
-    "updateTime": "2026-04-14T12:35:28.574525Z",
-    "reviewReply": {
-      "comment": "Gracias por tu opinion!",
-      "updateTime": "2026-05-05T14:29:57.642316Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOR01EUkVaVE5RZEZOYU5YVm1jQzF1WmtWSFUwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Julieta Di Blasio"
-    },
-    "starRating": "ONE",
-    "comment": "Si estás acostumbrado a ir a Full y que todo esté bien. Este es una trampa!! Domingo por la tarde noche, la persona que nos atendió no estaba muy contenta de que entramos hablando que íbamos a comer algo. No nos miraba mientras nos atendía y básicamente nos indujo a pedir un plato (porque tardaban solo 7 minutos en prepararlo, lo cual fue una mentira) cuando queríamos comer hamburguesa y nos repetía una y otra vez que tardaba al menos 30 minutos la preparación de la misma. No te ilusiones con la milanesa napolitana. Es una hoja de calcar con pan rallado, una tempera de salsa de tomate y un queso que claramente no es para derretir. A eso súmale 3/4 papas que las aplastan contra la supuesta milanesa, así te queda un bodoque. Las papas estaban mal cocidas, cuando la partís es polvo de papa. Y te dan un pan, que tiene tan poco amor que la miga en el medio está congelada. Éramos tres personas, le pedimos aderezos para los tres platos y solo nos dieron dos, lo cual hicimos notar así que finalmente nos dieron el tercer aderezo. La coca riquísima.\n\n(Translated by Google)\nIf you\u0027re used to going to Full and everything being fine, this place is a rip-off! Sunday afternoon/evening, the person who served us wasn\u0027t too happy that we came in talking about getting something to eat. She wouldn\u0027t look at us while serving and basically pressured us into ordering a dish (because they said it only took 7 minutes to prepare, which was a lie) when we wanted a burger. She kept repeating that it took at least 30 minutes to prepare. Don\u0027t get your hopes up about the \"milanesa napolitana.\" It\u0027s a sheet of parchment paper with breadcrumbs, a thin layer of tomato sauce, and cheese that\u0027s clearly not meant to melt. Add to that three-quarters of a slab of potatoes crammed onto the supposed milanesa, leaving you with a lumpy mess. The potatoes were undercooked; when you cut into them, they\u0027re just potato dust. And they give you a bun that\u0027s so poorly made that the crumb in the middle is frozen solid. There were three of us, and we asked for dressings for all three dishes, but they only gave us two. We pointed this out, and they finally gave us the third dressing. The coca was delicious.",
-    "createTime": "2026-04-13T18:25:18.475613Z",
-    "updateTime": "2026-04-13T18:25:18.475613Z",
-    "reviewReply": {
-      "comment": "Lamentamos lo sucedido, trabajaremos en resolverlo. ",
-      "updateTime": "2026-06-01T18:02:37.531095Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16461763455653012667/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWFVVMXdibTQwY214Q09Vc3hRbTQ1YW1sbFNHYxAB"
   }]
 }

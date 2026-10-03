@@ -1,180 +1,242 @@
 {
   "reviews": [{
     "reviewer": {
-      "displayName": "Celeste Alarcon"
+      "displayName": "Jony Quiroga"
     },
     "starRating": "FIVE",
-    "comment": "Muy buena atención! Los chicos siempre muy atentos, gran variedad de productos y espacio confortable para comer tambien ahí\n\n(Translated by Google)\nExcellent service! The staff were always very attentive, there\u0027s a great variety of products, and a comfortable place to eat there too.",
-    "createTime": "2026-08-01T10:44:27.021409Z",
-    "updateTime": "2026-08-01T10:44:27.021409Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0T1RIUjZWVXRTTFV0Mk9EaEdVMEZKY0d0d1pVRRAB"
+    "comment": "Excelente atención, muy amable y eficiente\n\n(Translated by Google)\nExcellent service, very friendly and efficient",
+    "createTime": "2026-09-30T22:10:48.734723Z",
+    "updateTime": "2026-09-30T22:10:48.734723Z",
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOT2ExVlNlRW80ZWtKclYwMTFkRUpIY0dsRmRrRRAB"
   }, {
     "reviewer": {
-      "displayName": "LUIS MARIA BRUNO"
+      "displayName": "electroservice lugano"
     },
     "starRating": "FIVE",
-    "comment": "Espectacular muy buen servicio y la atención 1000 puntos\n\n(Translated by Google)\nSpectacular, excellent service and attention, 1000 points",
-    "createTime": "2026-08-01T00:39:44.248147Z",
-    "updateTime": "2026-08-01T00:39:44.248147Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSVGJXVmhSa3N6YjBNdFNEUkJSSHBQTlZablVYYxAB"
+    "createTime": "2026-09-30T17:56:15.318350Z",
+    "updateTime": "2026-09-30T17:56:15.318350Z",
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4R1NWWTJjbmRRZURVMlN6bFpiekZxTm5NNGQzYxAB"
   }, {
     "reviewer": {
-      "displayName": "Amparo Abraham"
+      "displayName": "Mariel"
     },
     "starRating": "FIVE",
-    "comment": "Excelente predisposición de David, así vale la pena!!\n\n(Translated by Google)\nDavid\u0027s excellent attitude, it makes it all worthwhile!",
-    "createTime": "2026-07-31T20:02:01.169197Z",
-    "updateTime": "2026-07-31T20:02:54.414601Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twc1dtRnJaakpmYjFOQ2JVSnNNVE15WDFjekxWRRAB"
+    "createTime": "2026-09-29T19:47:26.370979Z",
+    "updateTime": "2026-09-29T19:47:26.370979Z",
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pka1kwOUJabko2UXpKWmFUVnRWRmN3WDJkc2MzYxAB"
   }, {
     "reviewer": {
-      "displayName": "Ortega Noelia"
+      "displayName": "Mónica Pereyra"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente Marcelo servicio excelente\n\n(Translated by Google)\nExcellent service, Marcelo!",
+    "createTime": "2026-09-25T23:44:51.832170Z",
+    "updateTime": "2026-09-25T23:44:51.832170Z",
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WVWFEUnlaMDF1T1haUVNGRlVaMmxXWVc1SVJWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Oviedo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-09-23T15:49:37.389622Z",
+    "updateTime": "2026-09-23T15:49:37.389622Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por compartir su experiencia y la foto!  Nos alegra saber que disfrutó de nuestro servicio y de la propuesta de nuestro FULL.\nSi aún no es socio de ACA, lo invitamos a asociarse y disfrutar de todos nuestros beneficios y descuentos exclusivos.\n¡Saludos y lo esperamos nuevamente! ",
+      "updateTime": "2026-09-24T12:05:25.335298Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RMVNGYzJlWGd6VFVkWWRFSjRWbmN4WW5kQ1gxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Franco Cabrera"
     },
     "starRating": "ONE",
-    "comment": "Pésima atención. Tanto el personal encargado de la carga de combustible como el de atención en el sector de comidas deja mucho que desear.\n\nEn varias oportunidades fui a pedir una hamburguesa u otra comida y la respuesta fue que “la cocina no está prendida”. Si esos productos están en la oferta del lugar, ese no debería ser un inconveniente para el cliente.\n\nPor otra parte, el personal de playa nunca ofrece factura ni consulta si se desea controlar o completar el nivel de aceite y agua del vehículo, algo que debería formar parte de una buena atención.\n\nEn definitiva, la experiencia fue muy mala. Lamentablemente, el servicio en general deja mucho que desear y considero que hay mucho por mejorar.\n\n(Translated by Google)\nTerrible service. Both the fuel pump staff and the food service staff leave much to be desired.\n\nOn several occasions, I went to order a hamburger or other food, and the response was that \"the kitchen isn\u0027t on.\" If those items are on the menu, that shouldn\u0027t be a problem for the customer.\n\nFurthermore, the pump attendants never offer receipts or ask if you want to check or top up your vehicle\u0027s oil and water levels, something that should be part of good service.\n\nIn short, the experience was very bad. Unfortunately, the service in general leaves much to be desired, and I believe there\u0027s a lot of room for improvement.",
-    "createTime": "2026-07-30T22:35:58.105142Z",
-    "updateTime": "2026-07-30T22:35:58.105142Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aUmNtMXhabkEzWjJNNU1VbHRZVVZ2VWxweGQwRRAB"
+    "comment": "pesimo todo, te venden las hamburguesas en la foto como una cosa y son desastrosas, nada que ver a la foto, publicidad engañosa. mi uña es mas gruesa que las hamburguesas dobles.\nsiempre hay un solo pobre playero trabajando para toda la playa, que no le alcanzan las manos\n\n(Translated by Google)\nEverything was terrible. They sell you the burgers in the picture as one thing, but they\u0027re disastrous, nothing like the photo. False advertising. My fingernail is thicker than those double burgers.\nThere\u0027s always just one poor beach attendant working for the whole beach; he doesn\u0027t have enough hands.",
+    "createTime": "2026-09-22T23:26:45.206376Z",
+    "updateTime": "2026-09-22T23:27:34.059780Z",
+    "reviewReply": {
+      "comment": "Hola Franco. Lamentamos la experiencia que comentás, pero queremos aclarar que la hamburguesa de la fotografía no corresponde a nuestro establecimiento, ya que el envoltorio que se ve en la imagen no es el que utilizamos en nuestro FULL.\nRespecto a tu comentario sobre la atención en playa, lo tendremos en cuenta para seguir mejorando nuestro servicio.\nTambién sería de gran ayuda si pudieras modificar la reseña, ya que al tratarse de un producto que no es nuestro, nos perjudica en las estadísticas de YPF.\nDe todas formas, cuando quieras estás invitado a acercarte a nuestro FULL a desayunar, merendar o comer algo. Será un gusto recibirte y brindarte una buena experiencia. Saludos!",
+      "updateTime": "2026-09-24T12:04:34.966308Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wdE9UaHZTRmxOTmtZdFRqWXhVaTFFUjJRelJVRRAB"
   }, {
     "reviewer": {
-      "displayName": "China Castel"
+      "displayName": "GUCON+ Arquitectura \u0026 Servicios"
     },
     "starRating": "FIVE",
-    "comment": "Muy limpio y siempre cuando está María está ordenando y nunca falta papel y buena atención\n\n(Translated by Google)\nVery clean, and whenever Maria is there she\u0027s tidying up, there\u0027s never a shortage of paper, and the service is great.",
-    "createTime": "2026-07-30T22:23:18.220428Z",
-    "updateTime": "2026-07-30T22:23:18.220428Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWGVVTkZZa1JrZVZKRWRDMUJWMjlHWWxaelYwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lana Ponce"
+    "comment": "Muy buena atención!!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-09-22T11:34:36.165715Z",
+    "updateTime": "2026-09-22T11:34:36.165715Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socio del ACA, lo invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarlo.\n¡Saludos! Lo esperamos pronto.",
+      "updateTime": "2026-09-24T12:02:52.522577Z"
     },
-    "starRating": "FIVE",
-    "comment": "Muy bueno, siempre vengo y la atención es genial\n\n(Translated by Google)\nVery good, I always come here and the service is great",
-    "createTime": "2026-07-29T16:30:28.810928Z",
-    "updateTime": "2026-07-29T16:30:28.810928Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOaFNHNVpOVVUxU25WUllVbDBTSGxCYjJrMVpIYxAB"
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21adU1WTlZRbTloYm5BeWVuVmlSM05wVUc5cFRsRRAB"
   }, {
     "reviewer": {
-      "displayName": "Arquímedes Benjamín Maciel"
+      "displayName": "Horacio"
+    },
+    "starRating": "ONE",
+    "comment": "Un desastre los baños, son químicos, no tienen limpieza, y la puerta no se puede cerrar\n\n(Translated by Google)\nThe bathrooms are a disaster; they\u0027re chemical toilets, they\u0027re never cleaned, and the door won\u0027t close.",
+    "createTime": "2026-09-20T19:48:57.570542Z",
+    "updateTime": "2026-09-20T19:48:57.570542Z",
+    "reviewReply": {
+      "comment": "Lamentamos los inconvenientes ocasionados. Actualmente nuestros baños se encuentran en obra y remodelación, con una duración estimada de aproximadamente 60 días. Durante este período contamos de manera provisoria con baños químicos. Agradecemos su observación y comprensión mientras trabajamos para mejorar nuestras instalaciones.\nSi aún no es socio de ACA, lo invitamos a asociarse y disfrutar de todos nuestros beneficios y descuentos exclusivos.\n¡Saludos y esperamos recibirlo nuevamente!",
+      "updateTime": "2026-09-24T12:02:39.886591Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNMlNsRlpXV1JCYWs0MVMwZEVRVGxpWkVWTVZVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "NACHO L."
     },
     "starRating": "THREE",
-    "comment": "La atención en el playón excelente. No así en el salón.\n\n(Translated by Google)\nThe service in the parking area was excellent. Not so much in the lounge.",
-    "createTime": "2026-07-29T13:22:41.299906Z",
-    "updateTime": "2026-07-29T13:22:41.299906Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21waE9XSlJWV2RUZDI0M1draEhWMGRCZFhOTGRXYxAB"
+    "createTime": "2026-09-20T18:02:18.739672Z",
+    "updateTime": "2026-09-20T18:02:18.739672Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socio del ACA, lo invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarlo.\n¡Saludos! Lo esperamos pronto.",
+      "updateTime": "2026-09-24T12:01:19.890124Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xScVpVMW5PVVZzZFZac2JrRk5iMkZoTkdsamVVRRAB"
   }, {
     "reviewer": {
-      "displayName": "Jorge Torres"
+      "displayName": "Marga Medrano"
     },
     "starRating": "FIVE",
-    "comment": "Muy buena y eficiente atención!\n\n(Translated by Google)\nExcellent and efficient service!",
-    "createTime": "2026-07-28T13:59:21.966526Z",
-    "updateTime": "2026-07-28T14:00:06.488902Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwZlZIbHlhVWQyUjJsU1pGSlFTWE15ZG5Sbk1FRRAB"
+    "comment": "Excelente atención de Marcelo.\nServicio de excelencia!!!!!!!\n\n(Translated by Google)\nExcellent service from Marcelo.\nOutstanding service!",
+    "createTime": "2026-09-18T21:56:07.567166Z",
+    "updateTime": "2026-09-18T21:56:07.567166Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socia del ACA, la invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarla.\n¡Saludos! La esperamos pronto.",
+      "updateTime": "2026-09-24T12:01:07.781101Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdVIzTnZSSFJCT0dWdmJFdGFlR28wWmxKSFJHYxAB"
   }, {
     "reviewer": {
-      "displayName": "Jorge Aristides Benjamin VEGA"
+      "displayName": "Ariel Topo"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención del Playero nocturno.\nLastima que fuimos en un momento que estaban remodelando los baños. Obvio que contaban con baños químicos. No había papel 🤦🏻‍♂️\n\n(Translated by Google)\nThe nighttime beach attendant was great.\nIt\u0027s a shame we went while they were remodeling the restrooms. Of course, they had portable toilets. There was no toilet paper 🤦🏻‍♂️",
+    "createTime": "2026-09-11T14:58:30.329416Z",
+    "updateTime": "2026-09-11T14:58:30.329416Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por destacar la buena atención de nuestro playero! Lamentamos el inconveniente con los baños químicos durante la remodelación y agradecemos que nos lo haya señalado para poder mejorar estos detalles mientras continúan las obras.\nSi aún no es socio de ACA, lo invitamos a asociarse y disfrutar de todos nuestros beneficios y descuentos exclusivos.\n¡Saludos y esperamos recibirlo nuevamente! ",
+      "updateTime": "2026-09-24T12:00:54.040596Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKbU5tdEhXV05mY25WeVFXTXlNME5HV0doZmMyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Gimenez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2020-02-25T13:22:06.519698Z",
+    "updateTime": "2026-09-06T13:24:44.583868Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socio del ACA, lo invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarlo.\n¡Saludos! Lo esperamos pronto.",
+      "updateTime": "2026-09-24T11:59:58.581997Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/ChdDSUhNMG9nS0VJQ0FnSURzakk2cnNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sofy Pic"
+    },
+    "starRating": "FIVE",
+    "comment": "Un grande david, buena atención y rico café, además muy amable y atento 10/10\n\n(Translated by Google)\nDavid is great, excellent service and delicious coffee, plus he\u0027s very friendly and attentive. 10/10",
+    "createTime": "2026-09-05T23:52:14.189992Z",
+    "updateTime": "2026-09-05T23:52:14.189992Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por compartir su experiencia! Nos alegra saber que David hizo de su visita un momento agradable con su buena atención y amabilidad. ☕👏 ¡Comentarios así nos motivan a seguir dando lo mejor!\nY si todavía no es socio de ACA, lo invitamos a sumarse y aprovechar todos los beneficios y descuentos exclusivos.\n¡Saludos y la esperamos nuevamente!",
+      "updateTime": "2026-09-24T11:59:36.900130Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvd05VTk1WMDFhTVZKWmJVNUlZVEUyVUZodFEzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julieta De La Cruz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-05T23:51:42.244971Z",
+    "updateTime": "2026-09-05T23:51:42.244971Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socia del ACA, la invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarla.\n¡Saludos! La esperamos pronto.",
+      "updateTime": "2026-09-24T11:58:44.491401Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKeVYwczJaelZvVlRCc1lYbEtjMDB0U1ZsamRYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sonia Rodriguez"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-08-30T19:42:51.436156Z",
+    "updateTime": "2026-08-30T19:42:51.436156Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socia del ACA, la invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarla.\n¡Saludos! La esperamos pronto.",
+      "updateTime": "2026-09-24T11:58:36.442095Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCeFFYWnhSWFYyZFROVE5IQjVNRzFXVFVSRFFuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "leandro lescano"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelwnte atención precio calidad\n\n(Translated by Google)\nExcellent service, great value for money",
+    "createTime": "2026-08-30T15:47:51.679192Z",
+    "updateTime": "2026-08-30T15:47:51.679192Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socio del ACA, lo invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarlo.\n¡Saludos! Lo esperamos pronto.",
+      "updateTime": "2026-09-24T11:58:25.757122Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SV1RFcHlMWFpXUzNSblMwNXdiR0ZZZHpnNFMyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "cel !"
+    },
+    "starRating": "FIVE",
+    "comment": "Nos atendió David, muy buena atención !!\n\n(Translated by Google)\nDavid helped us, excellent service!!",
+    "createTime": "2026-08-29T21:52:43.742715Z",
+    "updateTime": "2026-08-29T21:52:43.742715Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socia del ACA, la invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarla.\n¡Saludos! La esperamos pronto.",
+      "updateTime": "2026-09-24T11:58:14.140877Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kcU1ISnFabVEzUjJoSllrdFljbkowUldkb1YwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Malena Cubilla (male)"
+    },
+    "starRating": "FIVE",
+    "comment": "David muy buena atención!\n\n(Translated by Google)\nDavid, great service!",
+    "createTime": "2026-08-29T21:52:17.103604Z",
+    "updateTime": "2026-08-29T21:52:17.103604Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su hermosa visita. Si usted aún no es socia del ACA, la invitamos a ser parte de esta gran experiencia y disfrutar de todos los beneficios y descuentos que tenemos para usted. Puede escribirnos por privado o, si se encuentra en la zona, acercarse a nuestras oficinas o a nuestros playeros y chicos de Full, quienes podrán asesorarla.\n¡Saludos! La esperamos pronto.",
+      "updateTime": "2026-09-24T11:58:06.687105Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CTGNXcDZZa0pWVmxJelVUQjRSMVJwU0doaWNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo music"
+    },
+    "starRating": "FIVE",
+    "comment": "Nos atendieron muy bien, incluso en el combo del café con leche y facturas nos dieron un juguito\n\n(Translated by Google)\nThe service was excellent; they even included a small juice with the coffee and pastries combo.",
+    "createTime": "2026-08-29T21:46:04.455010Z",
+    "updateTime": "2026-08-29T21:46:04.455010Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por su comentario! Nos alegra saber que recibió una excelente atención y que disfrutó de nuestro combo de café con leche y facturas. \nSi aún no es socio de ACA, lo invitamos a asociarse y disfrutar de todos los beneficios y descuentos exclusivos que tenemos para usted.\n¡Saludos y esperamos recibirlo nuevamente muy pronto!",
+      "updateTime": "2026-09-24T11:57:07.600457Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GUWQzRTJOV2R2UzNwMFJ6SmhTV1UzZVc4eVVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano"
     },
     "starRating": "TWO",
-    "comment": "Tienen voluntad al atender\n\n(Translated by Google)\nThey are willing to help",
-    "createTime": "2021-08-19T20:38:01.649310Z",
-    "updateTime": "2026-07-28T01:38:04.322613Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/ChZDSUhNMG9nS0VJQ0FnSURhLXFtbFZBEAE"
-  }, {
-    "reviewer": {
-      "displayName": "Franco Della Sala"
+    "comment": "Muy buena atención, muy amables y atentos. El Full bien, podría estar mejor. El baño muy sucio y tapado.\n\n(Translated by Google)\nExcellent service, very friendly and attentive. The Full package was good, but could be better. The bathroom was very dirty and clogged.",
+    "createTime": "2026-08-26T14:45:29.643477Z",
+    "updateTime": "2026-08-26T14:45:29.643477Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por destacar la atención y amabilidad de nuestro equipo. Agradecemos también su observación respecto a los baños. Actualmente nos encontramos realizando obras de remodelación en ese sector, con el objetivo de mejorar las instalaciones y brindar una mejor experiencia a quienes nos visitan.\nSi aún no es socio de ACA, lo invitamos a asociarse y disfrutar de todos nuestros beneficios y descuentos exclusivos.\n¡Saludos y esperamos recibirlo nuevamente!",
+      "updateTime": "2026-09-24T11:56:07.260662Z"
     },
-    "starRating": "FIVE",
-    "comment": "Muy buena atencion de Azucena !!\n\n(Translated by Google)\nAzucena provided excellent service!",
-    "createTime": "2026-07-27T18:53:34.387958Z",
-    "updateTime": "2026-07-27T18:53:34.387958Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kNFVDMDJlRU5xVUZKWlpVbDZhMXB6V1hCME1XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gerardo Martinez"
-    },
-    "starRating": "FIVE",
-    "comment": "Atención muy buena\n\n(Translated by Google)\nVery good service",
-    "createTime": "2026-07-27T13:00:29.800328Z",
-    "updateTime": "2026-07-27T13:00:29.800328Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJM2FsY3lVbGhxU0ZObllXSkdSMWhDYWt4aVZIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Danilo Centurion"
-    },
-    "starRating": "FIVE",
-    "comment": "Atendido por Javier excelente atención y servicio\n\n(Translated by Google)\nExcellent service and attention from Javier.",
-    "createTime": "2026-07-27T12:14:51.961341Z",
-    "updateTime": "2026-07-27T12:14:51.961341Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWM05XNUhOV3BITmpacU9UVnhWak5YYTJ0bFpXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "roque procopio"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-26T22:32:36.571628Z",
-    "updateTime": "2026-07-26T22:32:36.571628Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKSk1rVldha0ZTZDNneVQzTnVlVmhxY0hKRk5IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Emanuel Ramirez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-25T12:20:46.156141Z",
-    "updateTime": "2026-07-25T12:20:46.156141Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KV1UySTRWekp5VFZNeVdVeHlPVWwzVGpocVRYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juanse Cabral"
-    },
-    "starRating": "FIVE",
-    "comment": "(Translated by Google) The best of all ypf Gualeguaychú, a genius!!\n\n(Original)\nLa mejor de todo el ypf Gualeguaychú, una genia!!",
-    "createTime": "2026-07-25T05:56:46.808981Z",
-    "updateTime": "2026-07-25T05:56:46.808981Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZMFgydFdlbU4zUjJKQ1VIY3RSblZYYTJKRGJrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Augusto Terreni"
-    },
-    "starRating": "FIVE",
-    "comment": "La mejor atención y mariana una genia!\n\n(Translated by Google)\nThe best service and Mariana is a genius!",
-    "createTime": "2026-07-25T05:56:43.550024Z",
-    "updateTime": "2026-07-25T05:56:43.550024Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5T2RtMXFNVEJtYTFwelh6RTBMVEF6WDNadGFuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Malena Vera"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-25T01:41:09.566330Z",
-    "updateTime": "2026-07-25T01:41:09.566330Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSdE9VZGxaVU5sTTFKNVZ6VnVjbWwxYjFGSU5VRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alexis Benedetti"
-    },
-    "starRating": "FIVE",
-    "comment": "Impecable los baños!! muy buena onda Mariana!\n\n(Translated by Google)\nThe bathrooms were spotless!! Mariana was really nice!",
-    "createTime": "2026-07-25T01:20:40.859411Z",
-    "updateTime": "2026-07-25T01:20:40.859411Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KaVUxQTFaVGxoVW5Gc1ZFNVVTak53VGpkTlRYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Santiago Fernandez"
-    },
-    "starRating": "FIVE",
-    "comment": "Los baños impecables y muy buena atencion de mariana\n\n(Translated by Google)\nThe bathrooms were spotless and Mariana provided excellent service.",
-    "createTime": "2026-07-25T01:19:35.130483Z",
-    "updateTime": "2026-07-25T01:19:35.130483Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xQlZqbE5Yek50WlRWSlgxSlplVGwwUm1kdFFsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "nico fit"
-    },
-    "starRating": "FIVE",
-    "comment": "excelente la atención y limpieza del establecimiento, los baños muy limpios y la chica Marian que limpia muy amable\n\n(Translated by Google)\nThe service and cleanliness of the establishment were excellent, the bathrooms were very clean and Marian, the cleaning lady, was very friendly.",
-    "createTime": "2026-07-24T18:58:16.757331Z",
-    "updateTime": "2026-07-24T18:58:16.757331Z",
-    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prMGVHRTFTak5FZURkbE9GVnZiMDlsT1VWSE9HYxAB"
+    "name": "accounts/109853746269412609224/locations/16076228542632319706/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTWJWVnlTWEUzYWxKcFZVSXhMVmxNY205aU5FRRAB"
   }]
 }

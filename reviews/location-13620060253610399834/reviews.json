@@ -1,6 +1,49 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Franco Sardiello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-19T16:35:20.512927Z",
+    "updateTime": "2026-09-19T16:35:20.512927Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkSWRFaHpUVzkyUjFsV01tVnhXblpEVVV0VmQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "BARBY ROLLA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-07T10:26:47.312880Z",
+    "updateTime": "2026-09-07T10:26:47.312880Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNdFQzQnRia1k1T0ZZeWFVcGFTRmQ1Um5WblluYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ange K. Cer (Angie)"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención y limpieza\n\n(Translated by Google)\nGood service and cleanliness",
+    "createTime": "2026-08-26T02:04:26.101761Z",
+    "updateTime": "2026-08-26T02:04:26.101761Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pabldpMWxMV3QwZDBWVFNreE1hRlpRVUU5VFptYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fiona Staniscia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Rodrigo el empleado del servicompras, muy buena atención y servicio, un café delicioso y toda la buena onda ❤️\n\n(Translated by Google)\nExcellent service from Rodrigo, the employee at the convenience store. Very good attention and service, delicious coffee, and a great vibe ❤️",
+    "createTime": "2026-04-29T20:56:13.865822Z",
+    "updateTime": "2026-08-20T20:38:22.170027Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrdFZUWTVWRlpqUTBSelMzRktURmRFU1VOa1FYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Andres Rojas"
+    },
+    "starRating": "FIVE",
+    "comment": "Rodrigo y Éricka, muy amable los dos, como siempre, muy buena atención.\n\n(Translated by Google)\nRodrigo and Ericka, both very kind, as always, very good service.",
+    "createTime": "2026-08-11T15:35:36.413794Z",
+    "updateTime": "2026-08-11T15:35:36.413794Z",
+    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1MlZYbHJUMlk1WldvM1VtZHBWVEJXTkhOdk1uYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Cecilia Beatriz Pose"
     },
     "starRating": "FIVE",
@@ -100,15 +143,6 @@
     "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sNVRucHBTVkZaV1VWUmVVaFhSWEpzU2twemEyYxAB"
   }, {
     "reviewer": {
-      "displayName": "Fiona Staniscia"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención de Rodrigo el empleado del servicompras, muy buena atención y servicio, un café delicioso y toda la buena onda ❤️\n\n(Translated by Google)\nExcellent service from Rodrigo, the employee at the convenience store. Very good attention and service, delicious coffee, and a great vibe ❤️",
-    "createTime": "2026-04-29T20:56:13.865822Z",
-    "updateTime": "2026-04-29T20:56:13.865822Z",
-    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrdFZUWTVWRlpqUTBSelMzRktURmRFU1VOa1FYYxAB"
-  }, {
-    "reviewer": {
       "displayName": "Ray Genetti"
     },
     "starRating": "FIVE",
@@ -142,40 +176,5 @@
     "createTime": "2026-04-14T20:38:59.988339Z",
     "updateTime": "2026-04-14T20:38:59.988339Z",
     "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKMVZsZDFSMWd6TVhneFJucFJjMFp1T0cxaU1XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Hospedaje Balcones del Valle"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-12T14:08:12.441749Z",
-    "updateTime": "2026-04-12T14:08:12.441749Z",
-    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkbVFsRlZiRTFFY214cE1UUnRUREZXTFMxNFZuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Belu Curiqueo"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención la de Rodrigo el chico del shop, me hizo de guía de turismo también. Destaco la limpieza de los baños\n\n(Translated by Google)\nRodrigo, the guy at the shop, provided excellent service; he even acted as my tour guide. I especially appreciated the cleanliness of the restrooms.",
-    "createTime": "2026-04-09T22:20:18.700981Z",
-    "updateTime": "2026-04-09T22:23:15.302551Z",
-    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sNFRHTlBUMEZFUjNsU2FUQjJaRGc1Um1aM2QxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gisel Jennifer Pöet"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente lugar, con todos los servicios necesarios impecables. Deseo destacar la atención de Rodrigo, en la confitería. Gracias por su sobresaliente y cálida atención!!!! Un chico muy educado y empático con la gente mayor. 5 estrellas!!!\n\n(Translated by Google)\nExcellent place, with all the necessary services impeccably provided. I want to highlight Rodrigo\u0027s service in the confectionery. Thank you for your outstanding and warm attention! A very polite and empathetic young man, especially with the elderly. 5 stars!",
-    "createTime": "2026-04-08T19:23:42.057541Z",
-    "updateTime": "2026-04-08T19:23:42.057541Z",
-    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1U2NWWjZaM1JrVDNWTGR6aHNOVXRCWlVaSFkwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "kriss Anna"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atencion!! Te informan todas las  ofertas y servicios.\n\n(Translated by Google)\nExcellent service!! They inform you about all the offers and services.",
-    "createTime": "2026-04-01T15:17:03.788880Z",
-    "updateTime": "2026-04-01T15:17:03.788880Z",
-    "name": "accounts/109853746269412609224/locations/13620060253610399834/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkaE9TMVBUVEp5YWpoWU5FWkRXRk5UZFc5bGVHYxAB"
   }]
 }

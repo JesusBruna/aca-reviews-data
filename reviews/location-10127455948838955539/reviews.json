@@ -1,6 +1,24 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Ramiro Tanquia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion siempre!\n\n(Translated by Google)\nExcellent service, always!",
+    "createTime": "2026-08-06T20:07:57.356225Z",
+    "updateTime": "2026-08-06T20:07:57.356225Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT205T1dEWlllRmhTWVZKa1pXNWFSMnR0VlY5UlJVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Allendes"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-08-06T19:57:28.188600Z",
+    "updateTime": "2026-08-06T19:57:28.188600Z",
+    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkemFVY3pTMVJPVUdsaU1WQkdlR05LTlRGYWExRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Franco Gabriel Brizuela"
     },
     "starRating": "FIVE",
@@ -156,23 +174,5 @@
     "createTime": "2026-03-27T10:55:55.610775Z",
     "updateTime": "2026-06-12T11:19:21.589132Z",
     "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWVlYyMUhUVkJhUVhFNU5GVklOVXBvTlZaU2VGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gaitan Bustamante Celeste Micaela"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente servicio, muy buena atención, super recomendable 🙌🏻\n\n(Translated by Google)\nExcellent service, very good attention, highly recommended 🙌🏻",
-    "createTime": "2026-06-11T21:22:37.889525Z",
-    "updateTime": "2026-06-11T21:22:37.889525Z",
-    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT200NUxWVnpWVVJCVDFGb04yMWZNRmt6VG5WT1RIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "francisco herrera"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención!!!\n\n(Translated by Google)\nExcellent service!!!",
-    "createTime": "2026-06-11T17:59:08.111108Z",
-    "updateTime": "2026-06-11T17:59:08.111108Z",
-    "name": "accounts/109853746269412609224/locations/10127455948838955539/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tacFZGRTBTa1p5TVRkRmEwUTRka295UTNsd1pWRRAB"
   }]
 }

@@ -1,11 +1,77 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Maria Ana Gattari"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención y rápida.\n\n(Translated by Google)\nVery good and fast service.",
+    "createTime": "2026-09-22T11:16:03.246686Z",
+    "updateTime": "2026-09-22T11:16:03.246686Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por sus comentarios y calificación, la esperamos nuevamente.",
+      "updateTime": "2026-09-29T12:30:31.785622Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVMWFYbENNVTlZU3pReWFXWkRTRkJ2TmxSaFozYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo Caranta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-20T12:10:57.113938Z",
+    "updateTime": "2026-09-20T12:10:57.113938Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación, lo esperamos nuevamente",
+      "updateTime": "2026-09-21T01:35:00.348196Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFdFowUnVZV0o2Y0ZWYVMydDNiRWgwYkVSWE9YYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ines Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-09T14:34:40.774535Z",
+    "updateTime": "2026-08-09T14:34:40.774535Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación, lo esperamos nuevamente",
+      "updateTime": "2026-09-21T01:35:25.934438Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OUldYbGhPR3hmWWxSck9HWTRiVzFLY0VJd1ZrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Tagle"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-01-15T12:23:45.410902Z",
+    "updateTime": "2026-08-06T11:45:14.031991Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su puntuación y sus comenrarios. Lo esperamos nuevamente. ",
+      "updateTime": "2025-02-12T18:07:11.899378Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5d0txcW9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Celia Alejandra Grundy"
+    },
+    "starRating": "FOUR",
+    "comment": "Es parada obligada para ciclistas. Los fines de semana debieran reforzar el personal porque si van grupos grandes hacen un café por vez y se demora mucho . Tiene baños limpios y se puede reponer bebidas y cosas para comer\n\n(Translated by Google)\nIt\u0027s a must-stop for cyclists. They should increase staffing on weekends because if large groups arrive, they only make one coffee at a time, which takes a long time. The restrooms are clean, and you can restock drinks and snacks.",
+    "createTime": "2026-08-04T22:51:24.807120Z",
+    "updateTime": "2026-08-04T22:51:24.807120Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por sus comentarios, tenemos una cafetera con 4 picos, por lo que podemos hacer de a 4 cafes a la vez no de a uno. La esperamos nuevamente y esperamos poder mejorar el tiempo de atención.",
+      "updateTime": "2026-09-21T01:39:10.895120Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wcWFIVm1iRWgwZVZCcGVUbEpNVTUwYjBWVGFsRRAB"
+  }, {
+    "reviewer": {
       "displayName": "marcelo barrera"
     },
     "starRating": "FIVE",
     "createTime": "2026-08-02T01:09:54.572572Z",
     "updateTime": "2026-08-02T01:09:54.572572Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación, lo esperamos nuevamente",
+      "updateTime": "2026-09-21T01:39:23.355362Z"
+    },
     "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xQmIwd3pWSGw0U1VVNFNGOWhjVzFzTkhKRWJsRRAB"
   }, {
     "reviewer": {
@@ -15,6 +81,10 @@
     "comment": "Excelentes instalaciones, muy buena atención!! Baños impecables... realmente muy limpios!!! Gracias!!!\n\n(Translated by Google)\nExcellent facilities, great service!! Spotless bathrooms... really very clean!!! Thank you!!!",
     "createTime": "2026-07-10T13:54:01.663926Z",
     "updateTime": "2026-07-10T13:54:01.663926Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación, y sus comentarios, lo esperamos nuevamente",
+      "updateTime": "2026-09-21T01:39:48.283917Z"
+    },
     "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paUlpsOUhRMDlOYTE5SllWQlVYMnRvUkhFMFltYxAB"
   }, {
     "reviewer": {
@@ -24,6 +94,10 @@
     "comment": "Muy atentos. Tomamos un mate y recorrimos la estacion con el jefe, una empleada del aca club Sole y mi papa.\n\n(Translated by Google)\nVery attentive. We had some mate and toured the station with the manager, an employee from the ACA Club, Sole, and my dad.",
     "createTime": "2026-07-02T13:50:24.647217Z",
     "updateTime": "2026-07-02T13:50:24.647217Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por sus comentarios y calificación, los esperamos nuevamente.",
+      "updateTime": "2026-09-21T01:42:15.887541Z"
+    },
     "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KT05FNDNWMlJGWlV3d1JtZHdhV1JJY1V4NVFWRRAB"
   }, {
     "reviewer": {
@@ -176,69 +250,5 @@
       "updateTime": "2026-06-15T00:30:14.044674Z"
     },
     "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOb05tUjNReTFOVnpaNk1tTk1VVzlDTmtsSFNGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Irene Fernanda Pozo"
-    },
-    "starRating": "FIVE",
-    "comment": "Siempre muy buena!\n\n(Translated by Google)\nAlways very good!",
-    "createTime": "2018-03-01T13:03:47.006Z",
-    "updateTime": "2026-06-12T21:05:07.407107Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su comentario, la esperamos nuevamente.",
-      "updateTime": "2026-06-15T00:30:40.176096Z"
-    },
-    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRLS15ZGxBRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "YOHANA GONZALEZ"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente Espacio y ubicación para un break  luego de una actividad deportiva o simplemente para detenerse a tomar un rico café y continuar recorriendo  sierras chicas\nMuy buena Atención!! ☺️\n\n(Translated by Google)\nExcellent space and location for a break after sports or simply to stop for a delicious coffee before continuing your exploration of the Sierras Chicas.\nVery good service!! ☺️",
-    "createTime": "2026-06-12T20:32:38.923886Z",
-    "updateTime": "2026-06-12T20:32:38.923886Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por sus comentarios, nos incentiva a seguir mejorando los servicios, la esperamos nuevamente.",
-      "updateTime": "2026-06-15T16:46:46.381358Z"
-    },
-    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT21neVRXOVVhWEJ5Y0ROM2RUZHBaM2RFZGxselVsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sonia Zanetti"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención !!!!\nRiquísimo café !!!\nParada obligada en Ascochinga ♥️\n\n(Translated by Google)\nExcellent service!\nDelicious coffee!\nA must-stop in Ascochinga ♥️",
-    "createTime": "2026-06-12T20:09:44.008236Z",
-    "updateTime": "2026-06-12T20:09:44.008236Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su visita y sus comentarios, la esperamos nuevamente.",
-      "updateTime": "2026-06-15T00:32:20.940428Z"
-    },
-    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkNWFERjJlVFJLUTFKM1YyTjBXR0ZyTlhCaWNVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Agustin Bravo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-12T19:42:24.500305Z",
-    "updateTime": "2026-06-12T19:42:24.500305Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su visita, lo esperamos nuevamente.",
-      "updateTime": "2026-06-15T00:33:36.681342Z"
-    },
-    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0Q2RWUkpXVGRxYW5RMFZVZGhha3BGVEUxRldtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "sylvia castagna"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy lindo lugar muy tradicional de la época..Hermoso para tomar cafe o algo fresco.. muy cordiales y buena atención…!!!🥰\n\n(Translated by Google)\nA very lovely, traditional place from that era... Perfect for a coffee or something refreshing... Very friendly and attentive service...!!! 🥰",
-    "createTime": "2026-06-12T19:31:49.475389Z",
-    "updateTime": "2026-06-12T19:42:08.612579Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su visita y sus comentarios, la esperamos nuevamente.",
-      "updateTime": "2026-06-15T00:34:16.192061Z"
-    },
-    "name": "accounts/109853746269412609224/locations/13471578260485529773/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kUVdHeFpSM2x3VlhNdFkyeDROR2hVU1dkMFRIYxAB"
   }]
 }

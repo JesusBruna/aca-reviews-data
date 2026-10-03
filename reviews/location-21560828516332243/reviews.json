@@ -1,6 +1,44 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Gabriel Beamonte"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-09-25T10:14:13.651548Z",
+    "updateTime": "2026-09-25T10:14:13.651548Z",
+    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0NmVEWlhNM2h6UlVSM2RtbHRTWFI2Y0ZadFdsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Chiossi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-14T21:26:19.079805Z",
+    "updateTime": "2026-09-14T21:26:19.079805Z",
+    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT205SFozTnhUMVoyWWxFemNWSnRZaTF6Y1hGeWRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonela Rios"
+    },
+    "starRating": "ONE",
+    "comment": "Nada para comer, solo snacks. Los baños no estaban limpios, ni papel ni jabón... Es una lástima\n\n(Translated by Google)\nNothing to eat, just snacks. The bathrooms weren\u0027t clean, no toilet paper or soap... It\u0027s a shame.",
+    "createTime": "2026-08-25T19:08:09.885555Z",
+    "updateTime": "2026-08-25T19:08:09.885555Z",
+    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5Q2VWZG9XVTkxYUU5RlV6RkZhalkwYm5oMmEyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Lameiro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-09T20:42:11.729591Z",
+    "updateTime": "2026-08-09T20:42:11.729591Z",
+    "reviewReply": {
+      "comment": "Hola buenas tardes gracias por su valoración!!",
+      "updateTime": "2026-08-10T19:38:52.556733Z"
+    },
+    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ1dFWk9UV2RqTkdKck5rZDZWVnBDUTJ4eVRIYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Educación Tic Educación Tic"
     },
     "starRating": "FOUR",
@@ -201,57 +239,5 @@
       "updateTime": "2026-03-22T13:52:30.781030Z"
     },
     "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kelExa3paRkZOWkc5bVRYRnZibUk1U1c1UWVYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Melani Magali Ramos"
-    },
-    "starRating": "TWO",
-    "comment": "Cargamos nafta a las 21:00, el playero nos atendió bien, súper amable… pero cuando fuimos al ACÁ el servicio fue malo, no hubo buena atención, fue caro, los baños estaban sucios.!\n\n(Translated by Google)\nWe filled up with gas at 9:00 PM, the attendant was great, super friendly… but when we went to the ACA (a local gas station) the service was bad, there was no good customer service, it was expensive, and the bathrooms were dirty!",
-    "createTime": "2026-03-20T11:56:36.830258Z",
-    "updateTime": "2026-03-20T11:56:36.830258Z",
-    "reviewReply": {
-      "comment": "Buen día!tomamos su valoración!",
-      "updateTime": "2026-03-21T11:21:47.567676Z"
-    },
-    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twRWRIVTBiVXhSWkdkWVQyNDNhSGRrWVVaS01YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maximiliano Stagnoli"
-    },
-    "starRating": "FOUR",
-    "comment": "Muy buena\n\n(Translated by Google)\nVery good",
-    "createTime": "2026-03-12T12:07:16.777532Z",
-    "updateTime": "2026-03-12T12:07:16.777532Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su valoración!!",
-      "updateTime": "2026-03-13T15:32:39.563410Z"
-    },
-    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wWlp5MDJRVkZzVkdGbk1rdzNORTQzTWpkdWMxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcos Caminos"
-    },
-    "starRating": "FIVE",
-    "comment": "Es una ypf chiquita con un chico muy copado que atiende muy bien . Solo combustible\n\n(Translated by Google)\nIt\u0027s a small YPF station with a really cool guy who provides excellent service. Fuel only.",
-    "createTime": "2026-03-10T03:17:01.241704Z",
-    "updateTime": "2026-03-10T03:17:01.241704Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su valoración!! Buen viaje",
-      "updateTime": "2026-03-10T18:54:31.223255Z"
-    },
-    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKaVUyMVFZWEpOVFRoNFZUWmlhbkpJTTNNMGJGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Noelia"
-    },
-    "starRating": "FIVE",
-    "comment": "Es un buen lugar para picar algo, visitar el baño y seguir. Nos ofrecieron cocinarnos unos platos, asi que si no tienen apuro pueden aprovechar. También venden algunos recuerdos. La construcción es muy ochentosa, un viaje en el tiempo.\n\n(Translated by Google)\nIt\u0027s a good place to grab a bite, use the restroom, and move on. They offered to cook us some meals, so if you\u0027re not in a hurry, you might want to take advantage of that. They also sell souvenirs. The building has a very 80s feel—a real trip back in time.",
-    "createTime": "2026-02-28T22:33:28.958113Z",
-    "updateTime": "2026-02-28T22:33:28.958113Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su valoración!! Que tenga buen  viaje!!",
-      "updateTime": "2026-03-01T19:02:32.956066Z"
-    },
-    "name": "accounts/109853746269412609224/locations/21560828516332243/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5cGNtazFRbTFKUmt4YWRWZFdWR2t5VVZwNmQyYxAB"
   }]
 }

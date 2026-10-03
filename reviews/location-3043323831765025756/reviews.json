@@ -1,174 +1,171 @@
 {
   "reviews": [{
     "reviewer": {
-      "displayName": "Ezequiel Isella"
+      "displayName": "Claudio Fabián"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-30T17:50:15.019003Z",
+    "updateTime": "2026-09-30T17:50:15.019003Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sVGEzRk9jMU5pVFZKRmExUm5UbWh0U21Kb1RrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "David Sabalza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-30T15:42:46.148013Z",
+    "updateTime": "2026-09-30T15:42:46.148013Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNMExUbGllVzFHU2tFeVYzcEJkRlE0TmpBNE5uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Olga"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar prolijo elegante Excelente atención\n\n(Translated by Google)\nVery nice, neat, and elegant place. Excellent service.",
+    "createTime": "2026-09-30T12:47:14.835737Z",
+    "updateTime": "2026-09-30T12:47:14.835737Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FMFNXbHNPVU5HWVRZeWNubGxXREpYZWpJeExYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "María Susana Vitale"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien servicio de boxes\n\n(Translated by Google)\nVery good pit lane service",
+    "createTime": "2026-09-29T20:15:23.175212Z",
+    "updateTime": "2026-09-29T20:15:23.175212Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21abWNFZHVUVVoyUjFaYVUwUlljR1I0VmtkQ1FWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mercedes Muiño"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-09-27T15:03:06.446645Z",
+    "updateTime": "2026-09-27T15:03:06.446645Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xbWJ6bGlVMnQyZFVGRk0zVjNTa28wUTBOTmRHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ale"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-26T20:17:03.289048Z",
+    "updateTime": "2026-09-26T20:17:03.289048Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JdFdXTlNYMVIwWWpCSGJVOWxRMTl0TW1nek4zYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jesica Muzzi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-26T01:59:40.928644Z",
+    "updateTime": "2026-09-26T01:59:40.928644Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT210bWMyNDFlVEF6TVhCRmR6TlZUbFZFYUhGaWNIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lorena de Lara"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-23T23:15:25.848402Z",
+    "updateTime": "2026-09-23T23:15:25.848402Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5eVoyeFRiRXBmY2xoUE5VbHFPSFpUTkY5Q1drRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-20T03:02:16.694831Z",
+    "updateTime": "2026-09-20T03:02:16.694831Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GNmNrUjNhMlJJV0hBMVRFNUNNbEExUVVnMWNIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Romanella"
     },
     "starRating": "THREE",
-    "createTime": "2026-08-02T11:42:12.787574Z",
-    "updateTime": "2026-08-02T11:42:12.787574Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGVk0ySTNPRTV2Y1RVeFJpMUZkVVZEZVZwVk1sRRAB"
+    "createTime": "2026-09-18T18:39:29.206960Z",
+    "updateTime": "2026-09-18T18:39:29.206960Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poa1ZEVldSVmhsTjB4bk5ERmFka2h2UzAwM2JIYxAB"
   }, {
     "reviewer": {
-      "displayName": "Jor Servin"
+      "displayName": "Raul Palao Grivarello"
     },
     "starRating": "FIVE",
-    "createTime": "2026-08-02T10:29:17.136299Z",
-    "updateTime": "2026-08-02T10:29:17.136299Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aR2FWTlNjMjlaVjJacGJHaGlaRWhRVFVZMVRYYxAB"
+    "createTime": "2026-09-14T21:40:01.474291Z",
+    "updateTime": "2026-09-14T21:40:01.474291Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT210ZmNFbFlOa3R0TVVVeFIzY3hZMWQ2WkhOV1NWRRAB"
   }, {
     "reviewer": {
-      "displayName": "Oscar Martinez"
+      "displayName": "Jere Molinari"
     },
-    "starRating": "FOUR",
-    "createTime": "2026-07-28T19:40:26.229489Z",
-    "updateTime": "2026-07-28T19:40:26.229489Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0Q05uQnBibGMxY1RkVGRGWmFPVXhxZG1kS2JWRRAB"
+    "starRating": "THREE",
+    "comment": "Las que atienden domingo por la mañana bastantes mala ondas\n\n(Translated by Google)\nThe ones who work Sunday mornings have quite a bad vibe.",
+    "createTime": "2026-09-13T12:39:40.264396Z",
+    "updateTime": "2026-09-13T12:40:01.709681Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oUVRXRktkbDgyVkhacmEyNUxPVWxJV2psU2MwRRAB"
   }, {
     "reviewer": {
-      "displayName": "Alejandro Manniello"
-    },
-    "starRating": "TWO",
-    "comment": "Muy lenta la atención en la cafetería.\n\n(Translated by Google)\nThe service in the cafeteria is very slow.",
-    "createTime": "2026-07-28T16:21:34.852947Z",
-    "updateTime": "2026-07-28T16:21:34.852947Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SaVVVSm1PRXRMTXpGalFtYzBkRTkzUkhwd1pIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mauro Caradente"
+      "displayName": "Claudio Capuano"
     },
     "starRating": "FIVE",
-    "comment": "Excelente estación, y excelente atención\n\n(Translated by Google)\nExcellent station, and excellent service.",
-    "createTime": "2026-07-25T17:27:06.932317Z",
-    "updateTime": "2026-07-25T17:27:06.932317Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGdVQxQlpRWGgwWjNOQk5YSktOV2RyUjE5MlYyYxAB"
+    "createTime": "2026-09-10T12:30:09.301918Z",
+    "updateTime": "2026-09-10T12:30:09.301918Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NM1lXdE5ZbDlTWXpnM1ozcGlWbXcwYUVsc1VHYxAB"
   }, {
     "reviewer": {
-      "displayName": "Santiago hilgenberg"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-24T01:04:48.714608Z",
-    "updateTime": "2026-07-24T01:04:48.714608Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTGRVRjNPVlpJVkZjeU9GSlhlVEpwTmxwS2RXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mateo G Sinclair"
-    },
-    "starRating": "FOUR",
-    "comment": "Suelo frecuentar las estaciones de servicio YPF, y debo admitir que nunca he encontrado unas tan destacables como las que visité en la YPF EN  Ingeniero Maslitz. Esta estación, sin duda, ofrece una experiencia excepcional al garantizar tanto calidad en su oferta gastronómica como atención de primera. Además, destaca por sus amplias comodidades, como su patio exterior y zona de entretenimiento equipada con parrillas para asados. Asimismo, su extenso espacio verde, estacionamiento y servicio de carga de combustible complementan una experiencia satisfactoria. No puedo dejar de mencionar la conveniencia de contar con un área de servicio automotriz para cambios de aceite y revisiones, especialmente para miembros del programa AKA. que frecuentan esta estación. La YPF Ingeniero Maslitz, también conocida como AKA., ofrece una amplia gama de productos, incluyendo hielo, café, comidas, golosinas y snacks, todo ello en un entorno muy agradable, especialmente tras su renovación en el año 2023\n\nEl unico incombeniente que se podria tenes es si vas al lugar en visicleta porque no ai estasionamiento para bisicletas\n\n(Translated by Google)\nI frequently visit YPF service stations, and I must admit I\u0027ve never found any as outstanding as the one I visited at the YPF in Ingeniero Maslitz. This station undoubtedly offers an exceptional experience, guaranteeing both high-quality food and top-notch service. It also stands out for its ample amenities, such as its outdoor patio and entertainment area equipped with barbecue grills. Furthermore, its extensive green space, parking, and fueling service complete a satisfying experience. I must also mention the convenience of having an automotive service area for oil changes and checkups, especially for members of the AKA program who frequent this station. The YPF in Ingeniero Maslitz, also known as AKA, offers a wide range of products, including ice, coffee, meals, sweets, and snacks, all in a very pleasant environment, especially after its renovation in 2023.\n\nThe only drawback you might encounter is if you\u0027re cycling there, as there\u0027s no bicycle parking.",
-    "createTime": "2023-04-29T18:35:40.397463Z",
-    "updateTime": "2026-07-22T20:06:47.975806Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSURSeGJHM3RnRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Caride"
-    },
-    "starRating": "FIVE",
-    "comment": "Las chicas de shop son todo lo que está bien. Una lastima que la carga de combustible no acompañe.\n\n(Translated by Google)\nThe shop girls are everything that\u0027s right. It\u0027s a shame the fuel supply isn\u0027t up to par.",
-    "createTime": "2026-07-20T12:17:02.624047Z",
-    "updateTime": "2026-07-20T12:17:02.624047Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRMmQzVmhXWEpqY1ZkUVNEVkVMVXRUU3pkRGFtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "jose pandolfini"
-    },
-    "starRating": "TWO",
-    "comment": "Fui por un service para el auto, pero el dueño no estaba entonces no me podian cobrar.  Resultado fui a realizar el servicio a otra estacion.\n\n(Translated by Google)\nI went to get my car serviced, but the owner wasn\u0027t there, so they couldn\u0027t charge me. As a result, I had to go to another station to get it serviced.",
-    "createTime": "2026-07-20T00:02:59.310903Z",
-    "updateTime": "2026-07-20T00:02:59.310903Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT214cExYTXhaRWRMTW1NNWNsUjNabFp0Wm5CalpIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lautaro Cortes"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-15T02:44:20.207414Z",
-    "updateTime": "2026-07-15T02:44:20.207414Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWNE9IZFZkR3c1V1ZNNFJXSkhRMGwxYUdjeFJXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Amelie Wichert"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-07-13T19:43:58.911423Z",
-    "updateTime": "2026-07-13T19:43:58.911423Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoMFJUQTRMVVpxU0dablZVUklRWFpKYzFoQ1FuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Analia Neme Tanus"
-    },
-    "starRating": "FIVE",
-    "comment": "Limpio. Variedad. Atención rápuda\n\n(Translated by Google)\nClean. Variety. Quick service",
-    "createTime": "2026-07-12T01:47:33.283869Z",
-    "updateTime": "2026-07-12T01:47:33.283869Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kbWFGQlBXVzlJVWpOa1V6TkxaVWhJVEVKSlFXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pedro Albini"
+      "displayName": "Rodrigo Arias"
     },
     "starRating": "ONE",
-    "comment": "Buenos dias , hoy sábado 11 de julio siendo las 10:30 hs , intenté comprar una  recarga de garrafa en YPF Maschwitz (ACA) pero lamentablemente la peesona encargada en la oficina de servicios me dijo que no tenia garrafas cargadas , y luego a seguir pude obseevar como SI le vendia a otra persona que llegó después de mi , motivo por el cual le cuestioné esa acción y me dió cualquier excusa, a posterior le consulté al comprador y no tenia idea porque no me habia vendido, me hizo referéncia que El iba siempre.\nEspero que ésta persona tenga un llamado de atención. Esta acción vá en contramano de todo el dinero que está gastando la empresa en publicidad.\nMuchas Gracias !!!\n\n(Translated by Google)\nGood morning, today, Saturday, July 11th, at 10:30 AM, I tried to buy a gas cylinder refill at YPF Maschwitz (ACA), but unfortunately, the person in charge at the service office told me they didn\u0027t have any filled cylinders. Then, I saw them selling to another person who arrived after me, so I questioned them about it, and they gave me some excuse. Later, I asked the other person why they hadn\u0027t sold to me; they just said they were a regular customer.\nI hope this person receives a warning. This behavior goes against all the money the company is spending on advertising.\nThank you!",
-    "createTime": "2026-07-11T14:01:27.006844Z",
-    "updateTime": "2026-07-11T14:01:27.006844Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21veWIzUllZWGhrWDJwUVgzWmZMVGRKWTBkblUyYxAB"
+    "comment": "Un verdadero desastre. Dejan sin vender combustible varias veces a la semana. No voy nunca mas\n\n(Translated by Google)\nA complete disaster. They stop selling fuel several times a week. I\u0027m never going there again.",
+    "createTime": "2022-12-06T12:11:38.042606Z",
+    "updateTime": "2026-09-06T14:10:22.305837Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtemNUSXhBRRAB"
   }, {
     "reviewer": {
-      "displayName": "#LokoViajero"
-    },
-    "starRating": "TWO",
-    "comment": "Amplia y accesible, buena atención aunque hay días qué hay 20 autos esperando y solo un playero atendiendo a todos, sobre RP26 y panamericana ramal Escobar #LokoViajero\n\n(Translated by Google)\nSpacious and accessible, good service although some days there are 20 cars waiting and only one attendant serving everyone, on RP26 and Panamericana Escobar branch #LokoViajero",
-    "createTime": "2021-07-30T03:34:27.776186Z",
-    "updateTime": "2026-07-09T20:22:27.419367Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/ChdDSUhNMG9nS0VJQ0FnSUNheHRuZTRRRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "MARÍA JOSÉ ZERPA"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-07-09T19:42:24.900656Z",
-    "updateTime": "2026-07-09T19:42:24.900656Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aUk9FNWplVjkzUkMxdWJHRnNhVTFqYkdGdFQzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Guillermo Otero"
-    },
-    "starRating": "FOUR",
-    "comment": "Limpio. Y empleada atiende muy bien\n\n(Translated by Google)\nClean. And the employee is very helpful.",
-    "createTime": "2026-07-09T14:03:01.384476Z",
-    "updateTime": "2026-07-09T14:03:01.384476Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1eVFYUklWWFZFYkd3NFdHd3dVMkU1WVdsRk5YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Silv Cas"
-    },
-    "starRating": "ONE",
-    "comment": "Q te pasó Automóvil Club Argentino !!! Quien es responsable, el administrador y/o el CONCESIONARIO ? Q echa a los clientes por la desprolijidad del lugar, nadie se hace cargo, no hay un responsable para quejarse. Lugar enorme playa de estacionamiento inmensa, siempre llena de vehículos q los dejan durante todo el día y desaparecen,NO DEJANDO LUGAR PARA LOS CLIENTES , nadie se hace cargo , cierran el portón de ingreso donde antes siempre se estacionaba, cual es el  q criterio  de SEMEJANTE BURRADA , el q dio la orden le queda grande el puesto . Solucionen el inconveniente, o sigan tomando decisiones infantiles q se van a quedar solas las empleadas . Playa de estacionamiento llena , cafetería vacía. Algo está mal .\n\n(Translated by Google)\nWhat happened to you, Automóvil Club Argentino?! Who is responsible, the administrator and/or the dealership? They\u0027re turning customers away because of the mess, and nobody takes responsibility. There\u0027s no one to complain to. It\u0027s a huge place, an immense parking lot, always full of vehicles left there all day, leaving no space for customers. Nobody takes responsibility. They close the entrance gate where people used to always park. What kind of logic led to such a stupid decision? Whoever gave the order is clearly out of their job. Fix this problem, or keep making childish decisions and the employees will be left all alone. The parking lot is full, the cafeteria is empty. Something is wrong.",
-    "createTime": "2026-07-09T12:46:59.860528Z",
-    "updateTime": "2026-07-09T12:46:59.860528Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaNk1WQlpXWGN3T1hOdFJtODJSWEUzUVRSWE5HYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Eva Ayala"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-07-04T12:37:59.198941Z",
-    "updateTime": "2026-07-04T12:37:59.198941Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21acllsZFdkMjV6VHpNNU9XVlhVRkl0U0hSMVFsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "ramon valdez"
-    },
-    "starRating": "TWO",
-    "comment": "La atención de la tienda full es buena, pero las personas que atienden ponen la televisión con una música horrible y a un volúmen que te obliga a hablar a los gritos. Te dan ganas de comer rápido e irte.\n\n(Translated by Google)\nThe service at the Full store is good, but the staff plays awful music on the TV at a volume that forces you to shout. It makes you want to eat quickly and leave.",
-    "createTime": "2026-07-02T17:44:09.548381Z",
-    "updateTime": "2026-07-02T17:44:09.548381Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aYWVYSlVOVlIwV0VkaWFEZG1Ua1ZaZHkxeFZHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Silvero"
+      "displayName": "Roland Gonzalez"
     },
     "starRating": "FIVE",
-    "createTime": "2026-07-02T13:10:27.996936Z",
-    "updateTime": "2026-07-02T13:10:27.996936Z",
-    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkMFJUSmtWMlp5TmtabVRVcFhjWFJ6UjNCVk1uYxAB"
+    "createTime": "2026-09-04T15:24:45.596869Z",
+    "updateTime": "2026-09-04T15:24:45.596869Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1V2VIbHlkR1owVm1OclkweEdVVXc1VXpFMlNsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis figueredo"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen servicio\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-08-26T06:16:17.538222Z",
+    "updateTime": "2026-08-26T06:16:17.538222Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWa2REbERlR3RNVG1SWmMwUmpNRkZaVkZwa1RVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ric"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena comida rápida , habilitaron el parking del camping , no se come como en la shell de en frente , pero suma mucho poder estacionar\n\n(Translated by Google)\nGood fast food, they\u0027ve opened up the campsite parking lot; the food isn\u0027t as good as at the Shell station across the street, but being able to park is a big plus.",
+    "createTime": "2026-08-23T23:25:50.425396Z",
+    "updateTime": "2026-08-23T23:25:50.425396Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kcVV6RnFMV1JYY0RaaWFYVTFjMjB6UkcwelJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "PABLO HAMMER"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-16T06:38:20.380626Z",
+    "updateTime": "2026-08-16T06:38:20.380626Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psZllXRTBZMkZNTjE5c1EzQlNja2N4VTA4M2FXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "FIXIT SERVICE"
+    },
+    "starRating": "TWO",
+    "comment": "Muy lentos para despachar combustible, se mueven en cámara lenta.  En el shop atienden muy bien.\n\n(Translated by Google)\nThey\u0027re very slow at pumping fuel; they move in slow motion. The service at the shop is excellent.",
+    "createTime": "2026-08-15T16:26:03.747026Z",
+    "updateTime": "2026-08-15T16:26:03.747026Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT214MVMxSkxaRkE1VjFkbmJtcFFiMHhGVVRGc1pHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Sabattini"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-08-14T13:50:15.904749Z",
+    "updateTime": "2026-08-14T13:50:15.904749Z",
+    "name": "accounts/109853746269412609224/locations/3043323831765025756/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SdVdHcHdkekZ3Y25ONE5YZHdhVEpTWm5wa2QyYxAB"
   }]
 }

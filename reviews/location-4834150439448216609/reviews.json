@@ -1,180 +1,253 @@
 {
   "reviews": [{
     "reviewer": {
-      "displayName": "Raul Dorso"
+      "displayName": "speedking Tsai"
     },
     "starRating": "FIVE",
-    "comment": "Excelente estación de servicio, con todos los servicios del ACA\n\n(Translated by Google)\nExcellent service station, with all the services of the ACA",
-    "createTime": "2026-08-02T13:42:05.110019Z",
-    "updateTime": "2026-08-02T13:42:05.110019Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT210M2FtZ3pTbmRVVm5wTFNXbDFRVlZ5UkZselJVRRAB"
+    "comment": "Frank me atendió excelente como si fuera un conocido de hace años\n\n(Translated by Google)\nFrank treated me excellently, as if I were an old acquaintance.",
+    "createTime": "2026-10-02T14:41:19.712876Z",
+    "updateTime": "2026-10-02T14:41:19.712876Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psbFluY3RNMUZWVUdVelgxaE5jVk5KYzNOc09FRRAB"
   }, {
     "reviewer": {
-      "displayName": "Nora Belli"
+      "displayName": "Luis Horacio Tejada"
     },
     "starRating": "FIVE",
-    "comment": "Milena me ayudo a hacerme socia del automóvil club Argentino , gracias !! Excelente atención\n\n(Translated by Google)\nMilena helped me become a member of the Argentine Automobile Club, thank you!! Excellent service",
-    "createTime": "2026-08-01T14:59:40.529347Z",
-    "updateTime": "2026-08-01T14:59:40.529347Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psa1dYTnBlRmhGWjNoWFZtWTNVV0UwT0dGaVJuYxAB"
+    "comment": "Muy buena la atencion en general, todos muy bien! Gracias por la atencion.\nMilena me ayudo.\n\n(Translated by Google)\nThe service was excellent overall, everyone was great! Thank you for your attention.\nMilena helped me.",
+    "createTime": "2025-12-20T18:31:06.685345Z",
+    "updateTime": "2026-10-02T14:37:17.153379Z",
+    "reviewReply": {
+      "comment": "Buen día Luis!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2025-12-26T12:50:29.645615Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GRGNFRnVhVTVTYm1WNVRubGpRVlJoY0RaT1VsRRAB"
   }, {
     "reviewer": {
-      "displayName": "Alejandra Storani"
+      "displayName": "Ricsrdo TARALLI"
     },
     "starRating": "FIVE",
-    "comment": "Membership makes the difference!!!",
-    "createTime": "2021-07-31T21:56:50.479459Z",
-    "updateTime": "2026-07-31T21:19:50.504486Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSUNhenBHZHhBRRAB"
+    "comment": "Muy capaz y gentil Milena\nMe hice socio\n\n(Translated by Google)\nMilena is very capable and kind.\nI became a member.",
+    "createTime": "2026-10-02T14:18:08.600757Z",
+    "updateTime": "2026-10-02T14:18:08.600757Z",
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GYVNtUXlWVXBsZG5wQ1FsOTNNREpSZGtkYVNVRRAB"
   }, {
     "reviewer": {
-      "displayName": "JOSE"
+      "displayName": "Graciela Rovner"
     },
     "starRating": "FIVE",
-    "comment": "Excelente atención de Milena\n\n(Translated by Google)\nExcellent service from Milena",
-    "createTime": "2026-07-31T13:26:11.970292Z",
-    "updateTime": "2026-07-31T13:26:11.970292Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkRFdsQkZhVzlzTUhKdmVUQlpTbGMxWWpGdGNuYxAB"
+    "comment": "Me hice socia con Milena. Mil gracias!\n\n(Translated by Google)\nI became a partner with Milena. Thank you so much!",
+    "createTime": "2026-10-01T18:38:38.823326Z",
+    "updateTime": "2026-10-01T18:38:38.823326Z",
+    "reviewReply": {
+      "comment": "Buen dia Graciela!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:25:48.561972Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsM1FqUTBaR053T1dWbVprSjNZVE0yYW1aaFJWRRAB"
   }, {
     "reviewer": {
-      "displayName": "HUGO VISCA"
+      "displayName": "Patricia Teresa Andreano"
     },
     "starRating": "FIVE",
-    "comment": "Milena me ayudo con la aplicación\n\n(Translated by Google)\nMilena helped me with the application",
-    "createTime": "2026-07-30T17:41:48.466237Z",
-    "updateTime": "2026-07-30T17:41:48.466237Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4MGRGUk1OVXQ2WlVwVlUzUkpOWGQyTVVoTGVtYxAB"
+    "comment": "Lescano espectacular, 10 puntos\n\n(Translated by Google)\nSpectacular Lescano, 10 points",
+    "createTime": "2026-10-01T17:34:59.570466Z",
+    "updateTime": "2026-10-01T17:34:59.570466Z",
+    "reviewReply": {
+      "comment": "Buen dia Patricia!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:26:15.696821Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wNU1IUlRjM1JzTm1KeloyNURiVW94WWpCVWVYYxAB"
   }, {
     "reviewer": {
-      "displayName": "Tomás"
+      "displayName": "Hilda Dantur"
     },
     "starRating": "FIVE",
-    "createTime": "2026-07-30T17:41:44.928158Z",
-    "updateTime": "2026-07-30T17:41:44.928158Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0aWNrWmZVMGM1VUhwVWQzVm5WRFprVkV0Mk5GRRAB"
+    "comment": "Excelente atención de Milena . Me ayudo mucho .\n\n(Translated by Google)\nMilena provided excellent service. She helped me a lot.",
+    "createTime": "2026-10-01T17:12:34.922157Z",
+    "updateTime": "2026-10-01T17:12:34.922157Z",
+    "reviewReply": {
+      "comment": "Buen dia Hilda!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:26:27.100679Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4WmMyTnhhRTl3Y0cwelMxaHBXbEpSY1hkdVdGRRAB"
   }, {
     "reviewer": {
-      "displayName": "Mónica Zajur"
+      "displayName": "Rosana Valderrama"
     },
     "starRating": "FIVE",
-    "comment": "Buena atención de Milena Hernandez y Lucas Valeriano\n\n(Translated by Google)\nExcellent service from Milena Hernandez and Lucas Valeriano",
-    "createTime": "2026-07-30T17:29:51.401580Z",
-    "updateTime": "2026-07-30T17:29:51.401580Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSRVlURTBha3hJTVhSVWFHRnlaRVpKZUd4M1lWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ricardo Wallach"
+    "comment": "excelente como me ayudaron con la app Gustavo y Milena.\n\n(Translated by Google)\nGustavo and Milena were excellent in helping me with the app.",
+    "createTime": "2026-08-27T14:06:03.115915Z",
+    "updateTime": "2026-10-01T13:42:07.205504Z",
+    "reviewReply": {
+      "comment": "Buen dia Rosana!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano",
+      "updateTime": "2026-08-28T12:17:13.489747Z"
     },
-    "starRating": "THREE",
-    "comment": "Esta muy caro. El servicio de boxes vale casi lo mismo que el service oficial. Es bueno el servicio. Pero esta muy caro. Quizás por poco más haces el service oficial de la marca y tenes más oferta de filtro de habitáculo y demás...\n\n(Translated by Google)\nIt\u0027s very expensive. The garage service costs almost as much as the official service. The service is good, but it\u0027s very expensive. Perhaps for a little more you can get the official service from the brand and have a better offer on cabin air filters and other things...",
-    "createTime": "2018-07-23T09:03:17.923Z",
-    "updateTime": "2026-07-29T16:34:58.182653Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/ChdDSUhNMG9nS0VJQ0FnSURBOXU3TzFnRRAB"
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pablQxSnNPVFZwUXpFdGFrZEJiRlJXZW5vM1ZIYxAB"
   }, {
     "reviewer": {
-      "displayName": "Niko Rodriguez"
-    },
-    "starRating": "TWO",
-    "comment": "Es increíble que siendo socio de A.C.A no te dejen estacionar 2 minutos y era tan simple como eso , parar , pasar al baño comprar algo para comer (los chicos del full unos genios muy amables) y seguir viaje.\nAhora bien , no sé quién era porque no se identifico (una mujer bajita , morocha) calculo que sería encargada o algo por el estilo ya que estaba vestida diferente al resto del personal se negó a correr un simple cono que bloqueaba los lugares de estacionamiento (y digo \"LOS\" porque era más de un lugar que había) y me indico que tenía que ir a buscar estacionamiento en la calle lateral , Una falta total de respeto para el socio\n\n(Translated by Google)\nIt\u0027s unbelievable that as an A.C.A. member, they wouldn\u0027t let me park for even two minutes. It was as simple as that: stop, use the restroom, buy something to eat (the guys at the service station were wonderful and very kind), and continue my trip.\n\nNow, I don\u0027t know who it was because she didn\u0027t identify herself (a short, dark-haired woman). I imagine she was a manager or something like that since she was dressed differently from the rest of the staff. She refused to move a simple cone that was blocking the parking spaces (and I say \"the\" spaces because there was more than one) and told me I had to find parking on the side street. A total lack of respect for the member.",
-    "createTime": "2026-07-29T15:46:11.418963Z",
-    "updateTime": "2026-07-29T15:46:11.418963Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT25STFUxVlZaVXBxUWxoWk5tVkxiMFV3U0MxV1prRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gabriel Menaglio"
+      "displayName": "jony dominguez"
     },
     "starRating": "FIVE",
-    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
-    "createTime": "2026-07-29T15:27:16.903146Z",
-    "updateTime": "2026-07-29T15:27:16.903146Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsclpDMXZhWGs0U2xGVE9XZFpjMkZKUVdkdVdVRRAB"
+    "comment": "Excelente atención. Me atendió Guillermo. 10 puntos\n\n(Translated by Google)\nExcellent service. Guillermo helped me. 10 out of 10",
+    "createTime": "2026-02-02T14:57:16.291989Z",
+    "updateTime": "2026-09-30T17:58:35.302337Z",
+    "reviewReply": {
+      "comment": "Buen dia Jony!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-02-06T12:46:11.278940Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT213MVZWRkJOMkZmTlVzelFuZ3pjQzFuVFROak9YYxAB"
   }, {
     "reviewer": {
-      "displayName": "Donald Malcolm"
+      "displayName": "monica zusbiaurre"
     },
     "starRating": "FIVE",
-    "comment": "(Translated by Google) Leviano, very attentive and diligent.\n\n(Original)\nLeviano, muy buena atención y diligente.",
-    "createTime": "2026-07-29T14:37:16.394736Z",
-    "updateTime": "2026-07-29T14:37:16.394736Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kV2VFRXdNVzU1UlRrdGVrNW9ia3AyT1d0TmJsRRAB"
+    "comment": "Excelente atención de Milena, me ayudo a registrarme a la app ypf , muy amable\n\n(Translated by Google)\nMilena provided excellent service; she helped me register for the YPF app. Very kind.",
+    "createTime": "2026-09-29T18:14:11.536498Z",
+    "updateTime": "2026-09-29T18:14:11.536498Z",
+    "reviewReply": {
+      "comment": "Buen dia Monica!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:26:37.798247Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xadVNtOWtSRUpmUjB0blpHdHBOSEkwWkU1ek9YYxAB"
   }, {
     "reviewer": {
-      "displayName": "German German"
+      "displayName": "Jorge Bettini"
     },
     "starRating": "FIVE",
-    "comment": "Lescano",
-    "createTime": "2026-02-21T14:58:07.306960Z",
-    "updateTime": "2026-07-29T13:21:03.498147Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSMFZHMTNXREZ6VkRSQ2VXMHdlbmw1WkZoSWNrRRAB"
+    "comment": "Excelente atención de Milena Hernandez , muy cordial y atenta,  siempre me ayuda con la app ypf\n\n(Translated by Google)\nExcellent service from Milena Hernandez, very friendly and attentive, she always helps me with the YPF app",
+    "createTime": "2026-07-11T15:05:04.780329Z",
+    "updateTime": "2026-09-29T16:56:14.971536Z",
+    "reviewReply": {
+      "comment": "Buen dia Jorge!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-07-17T12:15:33.915886Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZMlRUbFdjbVpFU1VWeU1FUTVVM0kzZDFKM2FsRRAB"
   }, {
     "reviewer": {
-      "displayName": "Alejandra Huarte"
+      "displayName": "Masajes Julio Monzalvo"
     },
     "starRating": "FIVE",
-    "createTime": "2026-07-29T10:51:49.962936Z",
-    "updateTime": "2026-07-29T10:51:49.962936Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5T2VFVnhjbU5qVFhKM2VtRm5VR2gzYm1sVWRGRRAB"
+    "comment": "La atención siempre excelente 👌 sos socio vitalicio\n\n(Translated by Google)\nThe service is always excellent 👌 You\u0027re a lifetime member",
+    "createTime": "2026-09-28T20:18:38.314859Z",
+    "updateTime": "2026-09-28T20:18:38.314859Z",
+    "reviewReply": {
+      "comment": "Buen dia!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:27:11.024110Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkcVZrMDFiV1ZYUjFOR1JVSkhZakkzUlhSTmVVRRAB"
   }, {
     "reviewer": {
-      "displayName": "Mariano Scagni"
+      "displayName": "maria roldan"
     },
     "starRating": "FIVE",
-    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
-    "createTime": "2026-07-28T12:24:03.256381Z",
-    "updateTime": "2026-07-28T12:24:03.256381Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJMWFtUm1Ta1pRWTJGT1YyZEVhV05PVTJkU1MxRRAB"
+    "comment": "Siempre amables y cordiales\n\n(Translated by Google)\nAlways kind and friendly",
+    "createTime": "2026-09-28T14:40:06.717923Z",
+    "updateTime": "2026-09-28T14:40:06.717923Z",
+    "reviewReply": {
+      "comment": "Buen dia Maria!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:27:23.500453Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SaU16Qk5TVTFsVDNOemExbzNkRk40Ym5keFMxRRAB"
   }, {
     "reviewer": {
-      "displayName": "Liliana Allegranza"
+      "displayName": "Stella Maris Juárez"
     },
     "starRating": "FIVE",
-    "comment": "Agradecida a Rodrigo, quien me atendiö hoy, a las 14 hs.....Muy diligentemente y con respeto me asesoró en el uso de la App de YPF.........Muchas Gracias Rodrigo.\n\n(Translated by Google)\nGrateful to Rodrigo, who assisted me today at 2 PM.....He very diligently and respectfully advised me on the use of the YPF App.........Thank you very much, Rodrigo.",
-    "createTime": "2026-07-27T22:37:56.126882Z",
-    "updateTime": "2026-07-27T22:37:56.126882Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oc1JGVmZlSGN6VFRCdFZYSktUakZxTFRRMFRGRRAB"
+    "comment": "Milena me atendió satisfactoriamente\n\n(Translated by Google)\nMilena assisted me satisfactorily.",
+    "createTime": "2026-09-28T14:14:26.410073Z",
+    "updateTime": "2026-09-28T14:14:26.410073Z",
+    "reviewReply": {
+      "comment": "Buen dia Stella!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:27:42.214242Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWR2JrSnZZbmhNY0ZKdlpUSmZiMkpuVVVGSlZWRRAB"
   }, {
     "reviewer": {
-      "displayName": "Viviana Urchipia"
+      "displayName": "Benito"
     },
     "starRating": "FIVE",
-    "comment": "Excelente la atención de Milena y soluciono el problema\n\n(Translated by Google)\nMilena\u0027s service was excellent and she solved the problem.",
-    "createTime": "2026-07-27T18:54:55.455509Z",
-    "updateTime": "2026-07-27T18:54:55.455509Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tndFNEaEdTMk5IZDFsWFlrZFhNR05VZWxKdFQzYxAB"
+    "comment": "Buenisima la atención de Guillermo! Muy amable\n\n(Translated by Google)\nGuillermo\u0027s service was excellent! Very kind",
+    "createTime": "2026-09-27T21:13:11.594313Z",
+    "updateTime": "2026-09-27T21:13:11.594313Z",
+    "reviewReply": {
+      "comment": "Buen dia Benito!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:27:55.272527Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsRE1sRkhZek5KZG5OQ1RsVmhNMFYzZG5kNWEyYxAB"
   }, {
     "reviewer": {
-      "displayName": "Andrea Doñate"
+      "displayName": "Marian"
     },
     "starRating": "FIVE",
-    "comment": "Me atendió Daniel Farias. Excelente atención, amable y con muy buen ánimo para  de resolver un inconveniente que surgió con la aplicación\n\n(Translated by Google)\nDaniel Farias helped me. Excellent service, friendly and very helpful in resolving a problem I had with the application.",
-    "createTime": "2026-07-27T16:15:19.203052Z",
-    "updateTime": "2026-07-27T16:15:19.203052Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoT1kyRklhMjFVYURrelZFdEJRWEJrWTFocFNrRRAB"
+    "createTime": "2026-09-27T13:42:03.194805Z",
+    "updateTime": "2026-09-27T13:42:03.194805Z",
+    "reviewReply": {
+      "comment": "Buen dia Marian!, muchas gracias por tu calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:28:11.677819Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0SFZHOTFOMGgyVEhKeFYzUmFWREp1WDAxUk4zYxAB"
   }, {
     "reviewer": {
-      "displayName": "silvia lerner"
+      "displayName": "Walter Ayala"
     },
     "starRating": "FIVE",
-    "createTime": "2026-07-27T11:34:18.794491Z",
-    "updateTime": "2026-07-27T11:34:18.794491Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT214TmFVSjBSR2h5TlZCb1VGaHhSa1l3Y21jMVdGRRAB"
+    "comment": "Rápido\n\n(Translated by Google)\nFast",
+    "createTime": "2026-09-27T11:17:03.425833Z",
+    "updateTime": "2026-09-27T11:29:28.117547Z",
+    "reviewReply": {
+      "comment": "Buen dia Walter!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:28:22.966153Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSYVJGbHVZbUZMWjAxdGVXUTFhSFZqYmxOeFEyYxAB"
   }, {
     "reviewer": {
-      "displayName": "Tomás Viviani"
+      "displayName": "Carolina Levin"
+    },
+    "starRating": "FIVE",
+    "comment": "Guillermo Villanueva un 1000 puntos!!’ Nos ayudó en todo con amabilidad y profesionalismo! Gracias\n\n(Translated by Google)\nGuillermo Villanueva was a 1000 out of 10!! He helped us with everything with kindness and professionalism! Thank you!",
+    "createTime": "2026-09-26T19:55:52.441346Z",
+    "updateTime": "2026-09-26T19:55:52.441346Z",
+    "reviewReply": {
+      "comment": "Buen dia Carolina!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:28:35.621345Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsYWVFSTJjRXh5YlRCTk9HbDRSVFpmY1RCNWVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Javier"
     },
     "starRating": "ONE",
-    "comment": "Pedí súper y por no mirar me cargaron gasoil en la moto .\n\n(Translated by Google)\nI asked for premium fuel and because I didn\u0027t look, they put diesel in my motorcycle.",
-    "createTime": "2026-07-26T04:04:00.774983Z",
-    "updateTime": "2026-07-26T04:04:00.774983Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0MGMyRXdVRXd5YUVSU2NFWkxaV3A1Tm1ZMWRYYxAB"
+    "comment": "Cada tanto paso a merendar algo y cargar mi celu (hago motomensajería)\nSin embargo, hoy (29/09) ya no anda ningún enchufe para cargar el celu, y cualquier producto que compres en la tienda, está $600-$800 por encima de cualquier Axion o Shell. No vale la pena. Por mi parte, hoy es la última vez que vengo, pero ojalá lo mejoren.\n\n(Translated by Google)\nEvery now and then I stop by for a snack and to charge my phone (I do motorcycle courier work). However, today (September 29th) none of the outlets are working to charge my phone, and any product you buy in the store costs $600-$800 more than at any Axion or Shell station. It\u0027s not worth it. For me, today is the last time I\u0027m coming, but I hope they improve things.",
+    "createTime": "2026-09-26T19:06:32.622632Z",
+    "updateTime": "2026-09-26T19:06:32.622632Z",
+    "reviewReply": {
+      "comment": "Buen dia Agustin, lamentamos mucho la mala experiencia de servicio que obtuviste, te pedimos disculpas, estamos trabajando para remediarlo. Podes comunicarte via mail al siguiente correo: info.acabelgrano@gmail.com, te esperamos nuevamente en YPF ACA Belgrano, gracias.",
+      "updateTime": "2026-10-02T11:33:10.222945Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twbmIxTTFNSGs1TVZabmVrTlFjR2hzYUVsclkyYxAB"
   }, {
     "reviewer": {
-      "displayName": "Agustin Caula"
+      "displayName": "Atila Delgado"
     },
     "starRating": "FIVE",
-    "comment": "Excelente y rápida atención por parte de Patricia. Me resolvió en menos de 5 mins. el trámite. Un lujo. Y aproveché y me hice socio. Una genia\n\n(Translated by Google)\nExcellent and fast service from Patricia. She resolved my issue in less than 5 minutes. A real treat. And I took the opportunity to become a member. She\u0027s fantastic!",
-    "createTime": "2026-07-24T16:08:30.728906Z",
-    "updateTime": "2026-07-24T16:08:30.728906Z",
-    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT25nd2N6UTNWSEpYVWt0dFpIRXpaazFQY2xkYVVYYxAB"
+    "createTime": "2026-09-26T13:24:36.366618Z",
+    "updateTime": "2026-09-26T13:24:36.366618Z",
+    "reviewReply": {
+      "comment": "Buen dia Atila!, muchas gracias por tu comentario y calificación, te esperamos nuevamente en YPF ACA Belgrano.",
+      "updateTime": "2026-10-02T11:28:51.596871Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT201bmQweHhMWGR0ZUdGUFEwdHhiREE0V2tkc2IwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Demian Goldstein"
+    },
+    "starRating": "ONE",
+    "comment": "son lentisimos para atender siempre.   trabajan a reglamento\n\n(Translated by Google)\nThey are always incredibly slow to serve you. They work strictly by the book.",
+    "createTime": "2026-09-26T02:52:01.592211Z",
+    "updateTime": "2026-09-26T02:52:01.592211Z",
+    "reviewReply": {
+      "comment": "Buen dia Demian, lamentamos mucho la mala experiencia de servicio que obtuviste, te pedimos disculpas, estamos trabajando para remediarlo. Podes comunicarte via mail al siguiente correo: info.acabelgrano@gmail.com, te esperamos nuevamente en YPF ACA Belgrano, gracias.",
+      "updateTime": "2026-10-02T11:33:29.767713Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4834150439448216609/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxSVUwODRhVjlWYkVweFFrbHphVWhVZVVoRWQwRRAB"
   }]
 }

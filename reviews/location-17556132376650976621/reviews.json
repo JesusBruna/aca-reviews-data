@@ -1,6 +1,84 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "carlos prieto"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo ok\n\n(Translated by Google)\nEverything\u0027s OK",
+    "createTime": "2026-09-26T16:06:14.658152Z",
+    "updateTime": "2026-09-26T16:06:14.658152Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJeGRGRjZXVkJKVFhoMGNHRXlibWxoVW5Kd1VHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Nerini"
+    },
+    "starRating": "FIVE",
+    "comment": "los playeros y su buena atención!\n\n(Translated by Google)\nThe beach staff and their great service!",
+    "createTime": "2026-08-31T20:25:18.185229Z",
+    "updateTime": "2026-09-23T14:27:05.970570Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKVWFFbG9aaTFPWlVOSFFtdEpValpTY20xdkxVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "KAISER S,A"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-20T01:43:21.948841Z",
+    "updateTime": "2026-09-20T01:43:21.948841Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1YWFuZEhWR0pFYjJOd1RUVkVUbXh0VGt4NmFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Teresa Brites"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-28T01:47:41.528909Z",
+    "updateTime": "2026-08-28T01:47:41.528909Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toS2RrVkpkMjlXVFdRMkxVZFdlR2xLVVhSUGRtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Russo Adriano"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-21T18:01:52.009793Z",
+    "updateTime": "2026-08-21T18:01:52.009793Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0eFFsWlZaM055VkdocFpHRnhXRzlUTUVaalRWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Raimondi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-19T15:16:29.604197Z",
+    "updateTime": "2026-08-19T15:16:29.604197Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por tu calificación Fernando! ¡Esperamos volver a verte pronto!",
+      "updateTime": "2026-08-19T16:05:20.026289Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GTlp6WlVTekZzUkZrM1RFNVlaRlExVlZJd2NYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Rusterholz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-17T15:31:13.623322Z",
+    "updateTime": "2026-08-17T15:31:13.623322Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSSFVtNHdSRXBvVW1WTVFqUkljbkpJVDNwM05tYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio de la Colina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-13T17:04:55.696786Z",
+    "updateTime": "2026-08-13T17:04:55.696786Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SUGNrMUJhV1UxV2s0dExURTFTMmczY3psM00yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "patricia gerena ortega"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-12T13:51:52.869638Z",
+    "updateTime": "2026-08-12T13:51:52.869638Z",
+    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twRVRYY3RiRkkzZDB4MVpXMVBXbkIwVTJoeFprRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Romina Lucero"
     },
     "starRating": "ONE",
@@ -80,15 +158,6 @@
     "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFd1JHdDFOemcyZFZaVGVIQnlRbk14YjJoVFYwRRAB"
   }, {
     "reviewer": {
-      "displayName": "Desconocida"
-    },
-    "starRating": "FIVE",
-    "comment": "Hola buenos días.como puedo hacer para trabajar con ustedes?\n\n(Translated by Google)\nHello, good morning. How can I work with you?",
-    "createTime": "2026-07-12T14:00:24.650628Z",
-    "updateTime": "2026-07-12T14:00:24.650628Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SZlZETmlaRFpPWVVwUlJuRlZSa3BXTWt4UU5rRRAB"
-  }, {
-    "reviewer": {
       "displayName": "Carlos Lefans"
     },
     "starRating": "FOUR",
@@ -105,76 +174,5 @@
     "createTime": "2026-06-28T01:29:33.611884Z",
     "updateTime": "2026-07-04T14:05:19.640325Z",
     "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KaVkzRmpkVmxMYW1OWU0wUXdibE5rWVV4bFFWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos H. Cherencio"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
-    "createTime": "2026-07-01T11:32:03.662806Z",
-    "updateTime": "2026-07-01T11:32:03.662806Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xSk1uWmhRVVkwZUhOWFJtTmtYM0JFU1hkQ2NsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos Casares"
-    },
-    "starRating": "FOUR",
-    "comment": "Lindo lugar y buena atencion\n\n(Translated by Google)\nNice place and good service",
-    "createTime": "2026-06-26T10:40:28.692230Z",
-    "updateTime": "2026-06-26T10:40:28.692230Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSc2QxcG9ka1F0VEdKTFdVUk9ZVjgwWm1OWlNuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nie Nie"
-    },
-    "starRating": "THREE",
-    "comment": "Linda antigua pero no hay tienda  para comprar !\n\n(Translated by Google)\nBeautiful old-fashioned but there\u0027s no shop to buy it from!",
-    "createTime": "2026-06-22T11:10:19.788536Z",
-    "updateTime": "2026-06-22T11:10:19.788536Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxaFZVUlBaRVpwTkhRd1pXVjZUSEJ5WWpOM1RuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Hugodoc González"
-    },
-    "starRating": "FIVE",
-    "comment": "No tienen YPF service\n\n(Translated by Google)\nThey don\u0027t have YPF service.",
-    "createTime": "2026-06-12T16:28:51.232193Z",
-    "updateTime": "2026-06-12T16:28:51.232193Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCMWEyRmxRVWQ1VmtGTlYyNUlUa2RCYWxjeVlVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sebastian Rossi"
-    },
-    "starRating": "ONE",
-    "comment": "Fui a cargar combustible. Soy socio me dioi vergüenza ajena, un solo empleado atendiendo de a un auto y con toda la paciencia charlando y mientras hacíamos una fila de interminable Un desastre\n\n(Translated by Google)\nI went to get fuel. I\u0027m a member and I was embarrassed for them. There was only one employee serving one car at a time, patiently chatting while we waited in an endless line. A disaster.",
-    "createTime": "2026-06-06T21:31:18.583144Z",
-    "updateTime": "2026-06-06T21:31:18.583144Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aQlNYSm9WV2szTm1sMU0ySkxhRmhYTWxCMWRWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniela Cristaldo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-06T19:25:06.936970Z",
-    "updateTime": "2026-06-06T19:25:06.936970Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sQlpuVjBaRWd0UW1KMFJXWm9UV3M1VkZwM0xVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alejandro Miselli"
-    },
-    "starRating": "ONE",
-    "comment": "Lentosssssss\nSolo te atienden de a 1 .... no respetan orden de llegada\nNo vengo mas\n\n(Translated by Google)\nSo slow! They only serve one person at a time... they don\u0027t respect the order of arrival. I\u0027m not coming back.",
-    "createTime": "2026-06-04T10:56:19.887622Z",
-    "updateTime": "2026-06-04T11:04:32.281055Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT25odWNVVmZTa0ZXUkZSdFNsSjVXbWRDYlZSd1lrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "TAMARA ortiiz"
-    },
-    "starRating": "ONE",
-    "comment": "Hace 10 min quise ir a cargar y la playera que está ahora x estar con visita ni me cargo , estuve esperando que termine de hablar y nada\n\n(Translated by Google)\nTen minutes ago I wanted to charge my phone, but the shirt I\u0027m wearing now because I have visitors wouldn\u0027t charge. I waited for them to finish talking, but nothing happened.",
-    "createTime": "2026-06-03T20:59:14.223634Z",
-    "updateTime": "2026-06-03T20:59:14.223634Z",
-    "name": "accounts/109853746269412609224/locations/17556132376650976621/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SMWVERTVTSEZOWkV3d1JWbGxWMFl3Y1VwUVRXYxAB"
   }]
 }

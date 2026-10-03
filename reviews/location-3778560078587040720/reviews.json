@@ -1,29 +1,38 @@
 {
   "reviews": [{
     "reviewer": {
-      "displayName": "Fernando Javier Munoz"
+      "displayName": "Juliano Conzatti"
     },
     "starRating": "FIVE",
-    "createTime": "2026-07-31T19:09:01.750003Z",
-    "updateTime": "2026-07-31T19:09:01.750003Z",
-    "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4WVExcGhZUzA1VlhGZlpteGtTakpKTVhOM1ZWRRAB"
+    "comment": "(Translated by Google) During my road trip through Argentina, I filled up at this YPF station and had a smooth experience. The service was friendly, and the wait time varied depending on how busy the station was. I always choose Infinia and have never had any problems with the fuel or the service provided.\n\n(Original)\nDurante minha viagem de carro pela Argentina, abasteci neste YPF e tive uma experiência tranquila. O atendimento foi cordial e o tempo de espera variava conforme o movimento do posto. Sempre optei pela Infinia e não tive qualquer problema com o combustível ou com o serviço prestado.",
+    "createTime": "2026-09-05T15:07:26.960757Z",
+    "updateTime": "2026-09-05T15:07:26.960757Z",
+    "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWS01HazFhVlpRYTJ4eVIzaHRObUl6VjBvNVlWRRAB"
   }, {
     "reviewer": {
-      "displayName": "Fernando Pitrau"
+      "displayName": "Esteban Garcia"
     },
     "starRating": "FIVE",
-    "comment": "Muy linda quedó con las reformas. Punto de encuentro del pueblo. Y ahora gracias a dios venden garrafas!!!\n\n(Translated by Google)\nIt looks lovely after the renovations. A great meeting place for the town. And now, thank goodness, they sell bottled water!",
-    "createTime": "2026-07-31T00:31:33.474322Z",
-    "updateTime": "2026-07-31T00:31:33.474322Z",
-    "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkUVFqTjNiRVJGVG5WelZqTXlhbEF5WDNCdWQyYxAB"
+    "comment": "Excelente la nueva Tienda Full\n\n(Translated by Google)\nThe new Full Store is excellent.",
+    "createTime": "2026-08-20T12:05:55.465203Z",
+    "updateTime": "2026-08-20T12:05:55.465203Z",
+    "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOblZXRTBObVJXVjNSQ2RuRkJlQzFvWjBkT2NFRRAB"
   }, {
     "reviewer": {
       "displayName": "Jose Maria Ferreira"
     },
     "starRating": "FIVE",
     "createTime": "2026-07-25T11:29:14.237189Z",
-    "updateTime": "2026-07-25T11:29:14.237189Z",
+    "updateTime": "2026-08-06T11:24:20.601957Z",
     "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKcGVERjVSV3BDUW5wVmNVRnhSV2N5VFhVdE9VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Javier Munoz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-31T19:09:01.750003Z",
+    "updateTime": "2026-07-31T19:09:01.750003Z",
+    "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4WVExcGhZUzA1VlhGZlpteGtTakpKTVhOM1ZWRRAB"
   }, {
     "reviewer": {
       "displayName": "Walter Pino"
@@ -184,14 +193,5 @@
       "updateTime": "2026-03-26T03:03:17.032554Z"
     },
     "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTFZHUjBOWFIxUmpVdFVXRTViVUpOVkMxcmJVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mary Barraza"
-    },
-    "starRating": "FIVE",
-    "comment": "La única en Ingeniero Juarez\n\n(Translated by Google)\nThe only one in Ingeniero Juarez",
-    "createTime": "2026-03-10T04:27:36.071829Z",
-    "updateTime": "2026-03-10T04:27:36.071829Z",
-    "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWbFpsSndNbEpPTWs5cVYweG5ZMUpFVlZGalZIYxAB"
   }]
 }

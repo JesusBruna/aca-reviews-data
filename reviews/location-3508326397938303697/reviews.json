@@ -1,6 +1,54 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "José Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion y rapidez 👍\n\n(Translated by Google)\nGood service and fast 👍",
+    "createTime": "2026-09-17T22:35:24.401464Z",
+    "updateTime": "2026-09-17T22:35:24.401464Z",
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxME4zaGZSVlZsVUhkWk4zTmhVbnAwVW5saU0wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nestor Edgardo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención por parte de los playeros y los beneficios del automóvil club\nUn poco incómodo para llegar al lugar pero con tiempo lo puedes hacer\n\n(Translated by Google)\nGood service from the beach attendants and the benefits of the automobile club. It\u0027s a bit inconvenient to get there, but you can manage if you have enough time.",
+    "createTime": "2026-08-15T17:49:40.328125Z",
+    "updateTime": "2026-08-15T17:49:40.328125Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por la valoración. ",
+      "updateTime": "2026-08-15T18:47:50.509193Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kaFZHVkpNekZIWjJ0cFRXVXhiRXhZYTFKQmNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "C EM"
+    },
+    "starRating": "FOUR",
+    "comment": "AUTOMOVIL CLUB ARGENTINO,siempre es mejor ser socio.mas YPF más FULL\n\n(Translated by Google)\nARGENTINE AUTOMOBILE CLUB, it\u0027s always better to be a member. Plus YPF, plus FULL",
+    "createTime": "2026-07-23T09:29:00.858714Z",
+    "updateTime": "2026-08-06T09:28:20.791295Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por tu valoración. Vamos a seguir trabajando para obtener tus 5 estrellas ",
+      "updateTime": "2026-07-23T09:40:05.347760Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3NU5FRjRXbVZaZFhCSVJuQk5kRmgwZVRsTlpsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hugo Pollini"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena ubicación, cómodo ingreso, excelente atención\n\n(Translated by Google)\nGreat location, easy access, excellent service",
+    "createTime": "2026-08-03T03:15:50.578894Z",
+    "updateTime": "2026-08-03T03:15:50.578894Z",
+    "reviewReply": {
+      "comment": "Hugo muchas gracias por tu valoración. ",
+      "updateTime": "2026-08-03T10:38:43.372938Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSalVGZGZVblJYYzJSSlQwNVJYekkyZGxOTlZFRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Laura González"
     },
     "starRating": "FIVE",
@@ -12,18 +60,6 @@
       "updateTime": "2026-07-31T00:05:23.522691Z"
     },
     "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toSVFYRktja1ZxUjJORFVXRlFWRmxNV1RsbE5IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "C EM"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-07-23T09:29:00.858714Z",
-    "updateTime": "2026-07-23T09:29:00.858714Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu valoración. Vamos a seguir trabajando para obtener tus 5 estrellas ",
-      "updateTime": "2026-07-23T09:40:05.347760Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3NU5FRjRXbVZaZFhCSVJuQk5kRmgwZVRsTlpsRRAB"
   }, {
     "reviewer": {
       "displayName": "Maria Eugenia Marino"
@@ -204,18 +240,6 @@
     "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GR1VGOW5WVEpOYjJZdFVrZFdXVjl4U25semNWRRAB"
   }, {
     "reviewer": {
-      "displayName": "lucho bazzarelli"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-14T20:53:28.546469Z",
-    "updateTime": "2026-05-14T20:53:28.546469Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu valoración ",
-      "updateTime": "2026-05-14T22:45:28.510779Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZMU1Xb3lOVUpqY1RKZlMwVkhNREIzVVhaSlltYxAB"
-  }, {
-    "reviewer": {
       "displayName": "Florencia Ferrer"
     },
     "starRating": "FIVE",
@@ -227,31 +251,5 @@
       "updateTime": "2026-05-05T19:00:57.086650Z"
     },
     "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsTVVteDVlVFpSZDFoTWNISndTekUzYW5rdGVVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nicolás Lesa Garat"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente servicio!! Limpio, ordenado y gran atención.\n\n(Translated by Google)\nExcellent service!! Clean, tidy, and great customer service.",
-    "createTime": "2026-04-29T13:54:05.059551Z",
-    "updateTime": "2026-04-29T13:54:05.059551Z",
-    "reviewReply": {
-      "comment": "Nicolás gracias por tu valoración ",
-      "updateTime": "2026-04-30T08:45:48.095295Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wWWN6RlVlRVp6U1U5WVZGbG9jRjh3VFY5bVJYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Brizzolara"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy excelente atención en los chicos de la playa, y excelente atención y disposición del full, gracias Cristina y Daniel.\n\n(Translated by Google)\nExcellent service from the beach staff, and excellent service and helpfulness from the full staff, thank you Cristina and Daniel.",
-    "createTime": "2026-01-09T11:44:22.815773Z",
-    "updateTime": "2026-04-28T11:21:11.768323Z",
-    "reviewReply": {
-      "comment": "Marcelo muchas gracias por tu valoración ",
-      "updateTime": "2026-01-09T13:45:08.608275Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3508326397938303697/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFeE9GRkRVbEF5Y0hSdmNIaEZXVkpyWWtOYVRrRRAB"
   }]
 }

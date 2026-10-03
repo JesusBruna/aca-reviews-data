@@ -1,6 +1,92 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Sergio Vazquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-23T12:11:22.798631Z",
+    "updateTime": "2026-09-23T12:11:22.798631Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SclpucExibmszVVRnNFRVOVVWM1o1ZVY5NlptYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "rodrigo calfuquir"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención de Belén increíble , muchas cosas ricas para acompañar el café . La atención de los vendedores de playa muy buena . Es una parada única con una vista hermosa al lago mascardi .\n\n(Translated by Google)\nBelén\u0027s service was incredible, and there were lots of delicious things to go with the coffee. The beach vendors were also very helpful. It\u0027s a unique stop with a beautiful view of Lake Mascardi.",
+    "createTime": "2026-09-15T22:06:01.203572Z",
+    "updateTime": "2026-09-15T22:06:01.203572Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Rodrigo.",
+      "updateTime": "2026-09-15T23:15:46.078Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rek1HSnFjM051U0hSU1ozUkhibXBrUWs5dU9IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "yamila planig"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención del drugstore 10! Súper atentos ! Igual q el playero! Q lindo cuando hay gente q trabaja con buena onda! Todos súper limpio y prolijo!\n\n(Translated by Google)\nThe service at the drugstore was a 10/10! Super attentive! Just like the gas station attendant! It\u0027s so nice when you find people who work with such a positive attitude! Everything was super clean and tidy!",
+    "createTime": "2026-09-14T03:13:01.024960Z",
+    "updateTime": "2026-09-14T03:13:01.024960Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Yamila.",
+      "updateTime": "2026-09-15T23:16:23.545860Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsUVVXcHBiRzFVY1hKV1VtVTVMVlprZFhWRGVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Dario Gingins"
+    },
+    "starRating": "FIVE",
+    "comment": "el lugar esta muy bueno. Tanto el playero como la chica que atiende la confiteria son muy buena onda. El servicio es excelente y el lugar tiene una de las mejores vistas al lago mascardi y su entorno\n\n(Translated by Google)\nThe place is great. Both the beach attendant and the girl who works at the confectionery shop are very friendly. The service is excellent, and the location has one of the best views of Lake Mascardi and its surroundings.",
+    "createTime": "2026-09-02T00:14:22.067972Z",
+    "updateTime": "2026-09-02T00:14:22.067972Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Hernán por tus conceptos. Esta estación nos cuenta del espíritu que allá en los años 40´s  impulsó al ACA al planificar su red.",
+      "updateTime": "2026-09-02T00:56:33.802889Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kaGVYQTBZa0Z2YjE5Mk4ycHlka0ZxYWpoSWNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Boris Sepulveda"
+    },
+    "starRating": "ONE",
+    "comment": "El muchacho del shop es atento mientras que el viejo que despacha tiene menos servicio que en la colimba.... No le pregunté el nombre.. no me cargó los puntos y la verdad es que dejo desear con el servicio\n\n(Translated by Google)\nThe guy at the shop is helpful, but the old guy at the counter is worse than a day in the army... I didn\u0027t ask his name... he didn\u0027t credit my points, and frankly, his service was disappointing.",
+    "createTime": "2026-08-22T18:42:37.074294Z",
+    "updateTime": "2026-08-22T18:42:37.074294Z",
+    "reviewReply": {
+      "comment": "Sr Boris lamentamos mucho la experiencia en la carga, desde ya nuestras disculpas por el mal momento.",
+      "updateTime": "2026-08-24T14:55:49.087186Z"
+    },
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOc09YWm9SVFZ1UkdJd05XTktTRkV4ZUd4dmFuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Gasquez"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermosa estacion de servicios estilo primeros pobladores. la atencion un 10!\n\n(Translated by Google)\nBeautiful service station in the style of the early settlers. The service is a 10/10!",
+    "createTime": "2026-08-18T21:26:40.162233Z",
+    "updateTime": "2026-08-18T21:26:40.162233Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWck9WQnFTRFpOYzE5c1Z6VTJabE5DVFV4WVNXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luciano Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Hermoso lugar, los empleados súper amables, impecable la limpieza\n\n(Translated by Google)\nBeautiful place, super friendly staff, impeccable cleanliness",
+    "createTime": "2026-08-07T01:41:40.120762Z",
+    "updateTime": "2026-08-07T01:41:40.120762Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OVWNGaHlTRU4yTVhsbWFucDBSSFpSZUZCek5uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Kuglien"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-04T03:13:04.046505Z",
+    "updateTime": "2026-08-04T03:13:04.046505Z",
+    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BdFlYcEJkbDlhVTNONFNsQlJiVTEwUTJvMldsRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Marcelo Cambeiro"
     },
     "starRating": "FIVE",
@@ -136,95 +222,5 @@
       "updateTime": "2026-05-06T02:19:36.013014Z"
     },
     "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGMWRGTlFjSFZpZFVKc00wNDBVWEZOY21KM1QyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "juan carlos Arreguez"
-    },
-    "starRating": "TWO",
-    "createTime": "2026-05-02T22:25:07.392328Z",
-    "updateTime": "2026-05-02T22:25:07.392328Z",
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21acFNsTnpOM1p6TTNGRGNFWTFlVXg1Wm1JMVpsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Sotes"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención y mejor precio\n\n(Translated by Google)\nExcellent service and even better price",
-    "createTime": "2026-04-27T20:17:54.562810Z",
-    "updateTime": "2026-04-27T20:17:54.562810Z",
-    "reviewReply": {
-      "comment": "Muchas gracias María.",
-      "updateTime": "2026-04-28T13:55:40.388366Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vNFJUWk9ZVGRYTUU1aVlsQk9lRFZmYkhaaFIwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jorge Zoryez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-26T23:03:36.122680Z",
-    "updateTime": "2026-04-26T23:03:36.122680Z",
-    "reviewReply": {
-      "comment": "Gracias Jorge.",
-      "updateTime": "2026-04-27T14:55:41.041680Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taVU1uRm5abTFpYzAwMlFqRXpWM1ZRY2twV1NrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ruben Ernesto Defferrari"
-    },
-    "starRating": "FIVE",
-    "comment": "Antencion muy Buena, y baños muy limpios\n\n(Translated by Google)\nExcellent service, and very clean bathrooms.",
-    "createTime": "2026-04-20T19:00:46.021263Z",
-    "updateTime": "2026-04-20T19:00:46.021263Z",
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pONGNucHVOV0pUYW1GVlRFaFpSa2MwZEhWbFUxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Leandro Lucchi"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
-    "createTime": "2026-04-18T23:31:06.883308Z",
-    "updateTime": "2026-04-18T23:31:06.883308Z",
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT2preVFsUjRWR2MzTlhocmNHNXNhVFZIWVY5d2RrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Antonio Gammuto"
-    },
-    "starRating": "FIVE",
-    "comment": "YPF OK",
-    "createTime": "2026-04-15T21:59:20.896727Z",
-    "updateTime": "2026-04-15T21:59:20.896727Z",
-    "reviewReply": {
-      "comment": "Gracias Antonio.",
-      "updateTime": "2026-04-16T12:02:50.153382Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT21obE5rbzRhbkkyYUZsb1IwaERPRTV4T0U5ek9YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniel Castiglioni"
-    },
-    "starRating": "THREE",
-    "comment": "Soy socio del ACA de hace años, me resulta rato que termino de llenar el tanque en Mascardi y se me enciende el check.\nLa atención brillante, baños limpios pero sin papel.\n\n(Translated by Google)\nI\u0027ve been an ACA member for years, and it\u0027s strange that I finish filling up at Mascardi and the check engine light comes on.\nThe service is excellent, the restrooms are clean but there\u0027s no toilet paper.",
-    "createTime": "2026-04-14T14:54:25.417467Z",
-    "updateTime": "2026-04-14T14:54:25.417467Z",
-    "reviewReply": {
-      "comment": "Sr Daniel, el piloto de check engine suele encenderse por una variedad de causas y muchas veces no obedece a un desperfecto en particular. En el caso del combustible de Mascardi, el mismo es testeado a diario siguiendo el protocolo Agua Cero establecido por YPF.\nPara mayor seguridad puede dirigirse a un YPF BOXES y hacer escanear el vehículo. En el ACA de El Bolsón hay uno.",
-      "updateTime": "2026-04-14T17:41:19.507039Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CTVZWRjRSR000TUZCbll6SmpTRGQzU21GQmNGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Herman Kurz"
-    },
-    "starRating": "FIVE",
-    "comment": "Una estación de servicio, que se mantiene como detenida en el tiempo. De las estaciones de la decada del 40. Quizá de las primeras en esa zona de la Ruta 40. Ojalá ACA mantenga su identidad y originalidad para las próximas generaciones. No dejes de detenerte e imaginarte los Ford y Chevrolet de la época, repostando combustible en aquellos surtidores.\n\n(Translated by Google)\nA gas station, seemingly frozen in time. From the 1940s, perhaps one of the first in that section of Route 40. Hopefully, ACA will maintain its identity and originality for future generations. Don\u0027t forget to stop and imagine the Fords and Chevrolets of that era, refueling at those pumps.",
-    "createTime": "2026-04-06T23:58:28.386312Z",
-    "updateTime": "2026-04-07T00:01:39.081969Z",
-    "reviewReply": {
-      "comment": "Gracias Herman ! Que lindo encontrar personas que interpretan el valor histórico de las cosas.",
-      "updateTime": "2026-04-07T10:50:48.118411Z"
-    },
-    "name": "accounts/109853746269412609224/locations/5108201586824019782/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SaGFXbEVWMFYwWTI1SFFrUjVZelpvVmxKaWNXYxAB"
   }]
 }

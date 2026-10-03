@@ -1,194 +1,225 @@
 {
   "reviews": [{
     "reviewer": {
-      "displayName": "Lorena Vasconcellos"
+      "displayName": "Nancy"
     },
     "starRating": "FIVE",
-    "comment": "Voy siempre a cargar ahí! Los playeros son divinos super atentos!\n\n(Translated by Google)\nI always go there to recharge! The staff are wonderful and super attentive!",
-    "createTime": "2026-08-02T19:55:32.348191Z",
-    "updateTime": "2026-08-02T19:55:32.348191Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCVFlUUmhlRzB3Y1U1VVdrVlRTRU4xTkRZNFpIYxAB"
+    "createTime": "2026-10-01T00:11:54.256395Z",
+    "updateTime": "2026-10-01T00:11:54.256395Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wU1REWnBlbTl5VlhCa1UwRlhWbkpmVUZwdFEzYxAB"
   }, {
     "reviewer": {
-      "displayName": "Charlie Lemos"
+      "displayName": "Paula Andresik"
     },
     "starRating": "FIVE",
-    "comment": "Excelente atención.\n\n(Translated by Google)\nExcellent service.",
-    "createTime": "2026-08-02T11:29:00.143631Z",
-    "updateTime": "2026-08-02T11:29:00.143631Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KcmEyUmpiRkZFVkdoWmRtaFhZMkZZT1d4RFJXYxAB"
+    "createTime": "2026-09-29T22:05:26.367397Z",
+    "updateTime": "2026-09-29T22:05:26.367397Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMmVHWlNRMnhSUW1scFFpMWllV1ZwY1cxSE0yYxAB"
   }, {
     "reviewer": {
-      "displayName": "Gustavo Cichello"
+      "displayName": "Damian Grimberg"
     },
     "starRating": "FIVE",
-    "createTime": "2026-08-02T01:08:56.867681Z",
-    "updateTime": "2026-08-02T01:08:56.867681Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT214S1NrUjVVeTFJTjNFNWNXVnZaRXhPWVc5Sk1uYxAB"
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-09-29T21:31:46.456745Z",
+    "updateTime": "2026-09-29T21:31:46.456745Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pndGRWZHpVMDFtWWtod1MzcEpabXROT0daWWJrRRAB"
   }, {
     "reviewer": {
-      "displayName": "Miguel Angel Senini"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atencion!\n\n(Translated by Google)\nExcellent service!",
-    "createTime": "2026-07-31T20:48:50.451130Z",
-    "updateTime": "2026-07-31T20:48:50.451130Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0aldETmZNMUI0TmxCc2RrOWFRbmh2UlZoelMxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Diego Elcovich"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-30T23:26:30.219328Z",
-    "updateTime": "2026-07-30T23:26:30.219328Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFMWJHMXVUbVpDZWpObGFYVmFiV3RqVVRGcE9IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "gustavo flandinetti"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena actencion\n\n(Translated by Google)\nVery good service",
-    "createTime": "2023-10-21T21:56:34.049939Z",
-    "updateTime": "2026-07-29T21:56:56.393396Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1MHM3dFpBEAE"
-  }, {
-    "reviewer": {
-      "displayName": "gaby"
-    },
-    "starRating": "FIVE",
-    "comment": "Genios siempre\n\n(Translated by Google)\nGeniuses always",
-    "createTime": "2026-07-28T23:47:05.570613Z",
-    "updateTime": "2026-07-28T23:47:05.570613Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWU1rTjZXRVZMUzJKWGNrVnhVMnB4YldNNGMyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Armando Piñeiro"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención del personal.\nLugar amplio y agradable.\n\n(Translated by Google)\nExcellent service from the staff.\nSpacious and pleasant place.",
-    "createTime": "2026-07-28T13:04:17.930344Z",
-    "updateTime": "2026-07-28T13:04:17.930344Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kb1NFOWxZWHBQV0V4SE4wWmlTeTFoU0hGRVpsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Martin Berutti"
+      "displayName": "ALFREDO VILLALBA"
     },
     "starRating": "FOUR",
-    "createTime": "2026-07-26T22:56:58.937175Z",
-    "updateTime": "2026-07-26T22:56:58.937175Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WemVVSkNiVkZpWWpWR1lVVk1VM0ZGWlVkaGQwRRAB"
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-09-28T18:55:37.353480Z",
+    "updateTime": "2026-09-28T18:55:37.353480Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSR1NESk9hemw0WldwMWQzSjRUSFpUZG1SVFNYYxAB"
   }, {
     "reviewer": {
-      "displayName": "Miguel Kocupyr"
+      "displayName": "Pablo Alejandro Camarero"
     },
     "starRating": "FIVE",
-    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
-    "createTime": "2026-07-24T13:15:58.221061Z",
-    "updateTime": "2026-07-24T13:15:58.221061Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WbU9YSnZRalZPTW01WldWUkVNRFJOYkMxb1UyYxAB"
+    "comment": "Excelente atención en el full de parte de Valentin Joanidis y Máximo Massimino, muy rico café.\n\n(Translated by Google)\nExcellent service at the full from Valentin Joanidis and Máximo Massimino, very good coffee.",
+    "createTime": "2026-09-25T21:13:37.036072Z",
+    "updateTime": "2026-09-25T21:13:37.036072Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT214YWVXRmpTV2htYTBWQmNFa3lTR05pY2tselVIYxAB"
   }, {
     "reviewer": {
-      "displayName": "Damián Rial"
+      "displayName": "Eduardo Juan Lavera"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2026-09-17T15:25:56.514987Z",
+    "updateTime": "2026-09-25T16:16:12.624973Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Eduardo!!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos\n",
+      "updateTime": "2026-09-23T17:40:20.562776Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxa04xQkRjaTAwTlVNNWRVaDZUVk4wZEdoWWVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Gammuto"
+    },
+    "starRating": "FIVE",
+    "comment": "YPF BOXES ofrece un servicio de primera calidad. El personal del bar brinda una atención de lujo. Excelente experiencia.\n\n(Translated by Google)\nYPF BOXES offers top-quality service. The bar staff provides excellent service. A truly outstanding experience.",
+    "createTime": "2026-09-25T02:10:30.966840Z",
+    "updateTime": "2026-09-25T02:10:30.966840Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wTWNuTkRjV2hXT0ZWa1VreHNibUZmYmxaaVNYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jacqueline Rodeghiero"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion la de MASSIMINO! super amable y dispuesto, es importante q la cara visible de la empresa tenga esta cordialidad\n\n(Translated by Google)\nMassino\u0027s service was excellent! He was incredibly friendly and helpful; it\u0027s important that the face of the company has this level of cordiality.",
+    "createTime": "2026-09-24T19:29:01.072807Z",
+    "updateTime": "2026-09-24T19:29:01.072807Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WcFVFbGlSbGhhTlVOR1dHcG5VSGxxU2xCNWEwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victoria Margarita Marchi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-21T21:22:14.699698Z",
+    "updateTime": "2026-09-21T21:22:14.699698Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Victoria !!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos\n",
+      "updateTime": "2026-09-23T17:42:10.866566Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSZldWaE1Zemd6YzNsZk4zQlFia1p3VGtOdWRrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ALBERTO SAN MIGUEL"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-19T09:08:01.412379Z",
+    "updateTime": "2026-09-19T09:08:01.412379Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Alberto!!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos\n",
+      "updateTime": "2026-09-23T17:42:29.666781Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJNGNrSnVYM1k0YUhaTU16azNhbXRCYVdSMVNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Sosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y servicio\n\n(Translated by Google)\nExcellent attention and service",
+    "createTime": "2026-09-18T17:35:17.607217Z",
+    "updateTime": "2026-09-18T17:35:17.607217Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Sergio!!!!, Muchas gracias por dejarnos tus comentarios. Agracedemos la calificación tan positiva y te esperamos pronto.- Saludos!\n",
+      "updateTime": "2026-09-23T17:41:47.304961Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kR2VYWlJkV3QxT1dkalVWTkdNalpFWTFKTmMzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Arqueta"
     },
     "starRating": "ONE",
-    "comment": "Tanto el taller como boxes un desastre, tenía las gomas delanteras gastadas en el parche de contacto interior y no fueron capaz de avisarme y el informe me las dieron como buenas... Hice boxes hace dos meses atrás en esta estación y pague $175.999, ayer hice el mismo servicio en ACA central y pague $148.568 , dos meses después me salió más barato.... Raro no???? Y los controles que dicen hacer en boxes por lo menos de esta estación son cuestionables. No me crees, al salir agarra el informe y verifica paso por paso y te darás cuenta vos mismo que son un desastre. Y si captan de ser la mejor estación de servicio y la más premiada y con mejores calificaciones... Vergüenza dan!!!\n\n(Translated by Google)\nBoth the workshop and the service bays were a disaster. My front tires were worn on the inner contact patch, and they didn\u0027t even bother to warn me, yet they marked them as good on the service report. I had my service done at this station two months ago and paid $175,999. Yesterday, I had the same service done at the main ACA station and paid $148,568. Two months later, it was cheaper... Strange, isn\u0027t it? And the inspections they claim to do in the service bays, at least at this station, are questionable. Don\u0027t believe me? Grab the report when you leave and check it step by step, and you\u0027ll see for yourself what a disaster they are. And if they think they\u0027re the best service station, the most awarded, and the highest-rated... They\u0027re a disgrace!",
-    "createTime": "2026-07-24T10:31:27.081962Z",
-    "updateTime": "2026-07-24T10:31:27.081962Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGTWFUQjNNMWhvWVVoVFR6aFNVRmN0WlZRdGIyYxAB"
+    "comment": "Para cargar nafta creo que es de las peores estaciones de servicio. Iba hace unos meses muy cada tanto de pasada. Siempre lleno y poco personal. Algunos atienden bien a pesar de la congestion de gente, pero uno en particular me atendió un par de veces muy apurado, no muy amable y cuando le solicitaba el limpiavidrios para pasarle y hacerlo yo, porque la mayoria lo pasan mal o para ganar tiempo y no molestar, parecia que lo tenia guardado bajo candado. Al mencionarle eso me habló de mala manera y prepotente como quierendo pelear. No se el nombre pero era calvo, bastante sobrador y la verdad que hablarle de esa manera a los clientes me parece de un nivel muy bajo. Deberian revisar el personal que tienen y mejorar en esos puntos. En mi caso, perdieron un cliente\n\n(Translated by Google)\nFor getting gas, I think it\u0027s one of the worst gas stations. I used to go there every now and then a few months ago. It was always packed and understaffed. Some attendants were helpful despite the crowds, but one in particular served me a couple of times in a very rushed and unfriendly manner. When I asked for the windshield wipers so I could wipe them myself—because most people have a hard time with them or want to save time and avoid bothering others—it seemed like he had them locked away. When I mentioned this, he spoke to me rudely and arrogantly, as if he wanted to start a fight. I don\u0027t know his name, but he was bald, quite cocky, and frankly, speaking to customers like that is incredibly low. They should review their staff and improve in these areas. In my case, they lost a customer.",
+    "createTime": "2026-09-16T22:11:15.392482Z",
+    "updateTime": "2026-09-16T22:29:22.516164Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Diego,  lamentamos tu experiencia y analizaremos el caso para que no vuelva a repertirse. Nuestra misión es brindar el mejor servicio a nuestrso socios y clientes para que nos sigan eligiendo. De ser necesario tomaremos las medidas pertinentes para solcuionarlo. Gracias por comentarnos lo ocurrido y esperamos mejorar en tu próxima visita.- Saludos.",
+      "updateTime": "2026-09-23T17:39:34.542490Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4Q1ZEZEhkVFZ5Y25WblVETTNOa05SVTBOV09YYxAB"
   }, {
     "reviewer": {
-      "displayName": "Osvaldo Palaoro"
+      "displayName": "María Carolina Cordero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-15T21:56:35.126107Z",
+    "updateTime": "2026-09-15T21:56:35.126107Z",
+    "reviewReply": {
+      "comment": "Buenas tardes María!!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos\n",
+      "updateTime": "2026-09-23T17:42:47.505244Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZMVFucENhbkZZZFdOc1V6VkdTSHBaVm1ONlZYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Quaranta"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-14T23:28:58.988182Z",
+    "updateTime": "2026-09-14T23:28:58.988182Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Jose !!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos\n",
+      "updateTime": "2026-09-15T19:36:17.343656Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrM2VEaE1iVTFrVG5aMGVWVXdUM1ZMZUhRNVlYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Myriam Seman"
     },
     "starRating": "FIVE",
-    "createTime": "2026-07-17T23:36:49.942229Z",
-    "updateTime": "2026-07-22T16:11:12.351037Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xdGVIaEVRbkJaYjAxWU1IRldkbUp3WjBjMVIwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Yemima Perera"
+    "createTime": "2026-09-14T22:51:41.551034Z",
+    "updateTime": "2026-09-14T22:51:41.551034Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Myriam!!!!! Agradecemos tu calificación y te esperamos pronto. Gracias por elegirnos\n",
+      "updateTime": "2026-09-15T19:36:38.750664Z"
     },
-    "starRating": "TWO",
-    "comment": "No tuve la mejor experiencia en el full, te entregan la bandeja con el pedido en el aire, no hay donde apoyar, todo de forma  incómoda y obvio se te puede caer como a mí. Y el café no me gustó y una de las facturas quemada.\n\n(Translated by Google)\nI didn\u0027t have the best experience at the Full. They hand you the tray with your order suspended in the air; there\u0027s nowhere to put it down. It\u0027s all awkwardly placed, and obviously, you could drop it, like I did. I didn\u0027t like the coffee, and one of the pastries was burnt.",
-    "createTime": "2026-07-20T19:49:42.853276Z",
-    "updateTime": "2026-07-20T19:49:42.853276Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxVU5UUkRkMDVqWjNwUlNVUTVVMVpmZGpab1RHYxAB"
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaaGFWSlpRazVHYm0xWU9GWTBXbXBrWlRWbGQzYxAB"
   }, {
     "reviewer": {
-      "displayName": "Matias Gonzalez"
+      "displayName": "Marcemusic"
     },
     "starRating": "FIVE",
-    "comment": "Deberían poner más de un playero a la noche los fines de semana, se acumulan bastantes coches, por lo demás excelente\n\n(Translated by Google)\nThey should have more than one beach attendant on weekend nights; quite a few cars accumulate. Otherwise, it\u0027s excellent.",
-    "createTime": "2026-07-18T03:17:18.424735Z",
-    "updateTime": "2026-07-18T03:17:18.424735Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toSldHVm1aaTFFWWs5ZmRtWjBWa1l3WVZoRWFsRRAB"
+    "comment": "Excelente. Promos con app.\n\n(Translated by Google)\nExcellent. Promos with app.",
+    "createTime": "2026-09-09T15:10:51.513232Z",
+    "updateTime": "2026-09-09T15:13:25.780848Z",
+    "reviewReply": {
+      "comment": "Buenas tardes  Marcemusic!!!!, Muchas gracias por dejarnos tus comentarios y por calificarnos positivamente, esperamos que vuelvas Saludos!\n",
+      "updateTime": "2026-09-15T19:37:07.334215Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkNlRtZHFaMDlWTFc0NFpDMXNWVm80UkdGck0yYxAB"
   }, {
     "reviewer": {
-      "displayName": "marcelo riquelme"
+      "displayName": "Gabriel Antonio Charovsky"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-06T17:47:12.972617Z",
+    "updateTime": "2026-09-06T17:47:12.972617Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Gabirel!!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos\n",
+      "updateTime": "2026-09-15T19:37:35.582129Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wa2FXRnBkMHBTYkZsU1JXVmhkSGhrVlhoTGRHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Angeles Balbi"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-06T16:34:01.227794Z",
+    "updateTime": "2026-09-06T16:34:01.227794Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Angeles!!!!! Agradecemos tu calificación y te esperamos pronto, Gracias por elegirnos\n",
+      "updateTime": "2026-09-15T19:37:56.665576Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKSFRGbDRlbWhVTFhsV2RrVlhSM1F6WlZaQ1MyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Jorge Colli"
     },
     "starRating": "FIVE",
-    "comment": "Excelente, a pesar de ser vecino hace muchos años que no entraba a tomar un cafe y me dio mucha alegria volver a ver a la señora que me preparo el cafe esta mañana\n\n(Translated by Google)\nExcellent, despite being a neighbor, it had been many years since I had come in for a coffee and it was a great joy to see the lady who made my coffee this morning again",
-    "createTime": "2026-07-17T11:18:25.532701Z",
-    "updateTime": "2026-07-17T11:18:25.532701Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taMlVFOTNWQzFWVGtsNVgySlRkSGgwYTFaRVdrRRAB"
+    "comment": "Cargo siempre en esa estacion porque tienen muy buena atención\n\n(Translated by Google)\nI always fill up at that station because they have very good service.",
+    "createTime": "2026-09-06T12:17:02.112247Z",
+    "updateTime": "2026-09-06T12:17:02.112247Z",
+    "reviewReply": {
+      "comment": "Buenas tardes Claudio!!!!, Muchas gracias por dejarnos tus comentarios y por calificarnos positivamente, esperamos que vuelvas Saludos!",
+      "updateTime": "2026-09-15T19:38:24.923918Z"
+    },
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1RGFYaFhkMnByYTFGQ1dXRlZUSHB4UjI1WVNsRRAB"
   }, {
     "reviewer": {
-      "displayName": "Mauro Tondato"
+      "displayName": "ricardo coronel"
     },
     "starRating": "FIVE",
-    "createTime": "2026-07-16T21:56:42.667336Z",
-    "updateTime": "2026-07-16T21:56:42.667336Z",
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKbWFsQldTbUphTFhjNWN6QkxibEZoTUVGcWVFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "J B"
-    },
-    "starRating": "ONE",
-    "comment": "Mi reseña es en relación a la Oficina del ACA para sacar el Registro Internacional. La atención de las empleadas deja mucho que desear, son ¨secas¨, no te dicen los requisitos para obtener el mismo ya que argumentan que están en la web del ACA. Evidentemente estas personas nunca han hecho un tramite o se han presentado a realizar un estudio medico y les ha faltado algun detalle. No tienen afinidad para tratar a las personas.\n\n(Translated by Google)\nMy review concerns the ACA office for obtaining an International Driver\u0027s License. The staff\u0027s service leaves much to be desired; they are unprofessional and don\u0027t explain the requirements, claiming they are available on the ACA website. Clearly, these people have never completed a procedure or undergone a medical examination themselves and have overlooked some detail. They lack interpersonal skills.",
-    "createTime": "2026-07-15T16:00:12.126585Z",
-    "updateTime": "2026-07-15T16:00:12.126585Z",
+    "createTime": "2026-09-03T16:16:24.114192Z",
+    "updateTime": "2026-09-03T16:16:24.114192Z",
     "reviewReply": {
-      "comment": "Estimado JB,  gracias por compartir su experiencia, lamentamos que la atención recibida no haya sido la esperada. En ACA buscamos que cada socio o cliente reciba un trato cordial y una orientación clara sobre nuestros servicios. Vamos a trasladar su sugerencia al responsable de la oficina para reforzar la atención.  Le ofrecemos escribirnos a us_villa_devoto@aca.org.ar o llamarnos al 4502-2776/9014 interno 102(jefe de estación) para ayudarle a completar su trámite.  Saludos.\n",
-      "updateTime": "2026-07-15T16:58:55.746998Z"
+      "comment": "Buenas tardes Ricardo!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos\n",
+      "updateTime": "2026-09-15T19:45:36.362092Z"
     },
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OdVUwbDNSVTl3WmxBNUxUbHlVMkY2YW0xaGRHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Geraldine Bello"
-    },
-    "starRating": "ONE",
-    "comment": "Sinceramente, vuelvo muy angustiada y decepcionada de la pésima atención al público. Me llama mucho la atención que la empleada siendo una señora bastante grande sea tan maleducada. El respeto y la educación siempre PRIMERO.\nLe recuerdo a esta señora que el sueldo y su puesto de trabajo lo tiene gracias a todos nosotros, los clientes.\nLas autoridades de ACA deben controlar el trato que se le brinda a los clientes y despedir a este tipo de empleados maleducados. Hay muchas personas educadas que van a querer ocupar ese lugar con responsabilidad.\n\n(Translated by Google)\nHonestly, I\u0027m leaving feeling very distressed and disappointed by the terrible customer service. I\u0027m particularly shocked that the employee, being quite elderly, was so rude. Respect and courtesy should always come first.\nI\u0027d like to remind this woman that she owes her salary and her job to all of us, the customers.\nACA management needs to monitor how customers are treated and fire these kinds of rude employees. There are plenty of polite people who would be happy to fill that position responsibly.",
-    "createTime": "2026-07-13T20:24:00.773350Z",
-    "updateTime": "2026-07-13T20:24:00.773350Z",
-    "reviewReply": {
-      "comment": "Estimada Geraldine, gracias por compartir su experiencia, lamentamos que la atención recibida no haya sido la esperada. En ACA buscamos que cada socio o cliente reciba un trato cordial y una orientación clara sobre nuestros servicios. Vamos a trasladar su sugerencia al responsable de la oficina para reforzar la atención. Le ofrecemos escribirnos a us_villa_devoto@aca.org.ar o llamarnos al 4502-2776/9014 interno 102(jefe de estación) para ayudarle a completar su trámite. Saludos.",
-      "updateTime": "2026-07-15T17:01:09.120846Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KSlQzVm9WVzlqWmxONGVFb3hRV0kzVWpaUlZXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Paloma Mazzeo"
-    },
-    "starRating": "TWO",
-    "comment": "La atención de la señora de anteojos que atiende al público fue muy mala.\n\nEn todo momento mostró muy poca predisposición para ayudar y el trato fue poco amable.\nConsidero que, tratándose de un servicio que además se paga mensualmente, la atención al cliente debería ser mucho más cordial, profesional y orientada a resolver las consultas.\n\nEspero que puedan revisar esta situación para mejorar la experiencia de los usuarios ya que por lo que veo no soy la única que se queja de la mala atención de esta señora.\n\n(Translated by Google)\nThe service from the woman with glasses who attends to the public was very poor.\n\nShe showed very little willingness to help and was unfriendly.\n\nI believe that, given this is a service that is also paid for monthly, customer service should be much more courteous, professional, and focused on resolving inquiries.\n\nI hope you can review this situation to improve the user experience, as it seems I am not the only one complaining about this woman\u0027s poor service.",
-    "createTime": "2026-07-13T17:49:17.126314Z",
-    "updateTime": "2026-07-13T18:14:14.826137Z",
-    "reviewReply": {
-      "comment": "Estimada Paloma,  gracias por compartir su experiencia, lamentamos que la atención recibida no haya sido la esperada. En ACA buscamos que cada socio o cliente reciba un trato cordial y una orientación clara sobre nuestros servicios. Vamos a trasladar su sugerencia al responsable de la oficina para reforzar la atención. Le ofrecemos escribirnos a us_villa_devoto@aca.org.ar o llamarnos al 4502-2776/9014 interno 102(jefe de estación) para ayudarle a completar su trámite. Saludos.",
-      "updateTime": "2026-07-15T17:02:36.826472Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OeGJsQkhMVkZWYjAxeVMxTXlOV3BvUWs1a1ZuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mariela Duarte"
-    },
-    "starRating": "TWO",
-    "comment": "La atención de la Sra. mayor de anteojos, que atiende en las oficinas del ACA, es muy soberbia, no debería ocupar ese lugar si no tiene modales amables para poder tratar con el cliente!!\n\n(Translated by Google)\nThe elderly lady with glasses who works at the ACA offices is very arrogant; she shouldn\u0027t be in that position if she doesn\u0027t have the basic manners to deal with customers!",
-    "createTime": "2026-07-13T18:07:34.643986Z",
-    "updateTime": "2026-07-13T18:07:34.643986Z",
-    "reviewReply": {
-      "comment": "Estimado JB, gracias por compartir su experiencia, lamentamos que la atención recibida no haya sido la esperada. En ACA buscamos que cada socio o cliente reciba un trato cordial y una orientación clara sobre nuestros servicios. Vamos a trasladar su sugerencia al responsable de la oficina para reforzar la atención. Le ofrecemos escribirnos a us_villa_devoto@aca.org.ar o llamarnos al 4502-2776/9014 interno 102(jefe de estación) para ayudarle a completar su trámite. Saludos.",
-      "updateTime": "2026-07-15T17:02:55.301461Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGRmFtUjNaR2hxUTBRd2QzUXdYMUpaYlhsS1RYYxAB"
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxNmVWZG9OeTEwYlZkWVkyTm1PRU5vVWpsdlVrRRAB"
   }]
 }

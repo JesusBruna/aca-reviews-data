@@ -1,12 +1,63 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "dario rolando cabral"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor atención los chicos y especialmente Micaela 💪🏻\n\n(Translated by Google)\nThe best care from the kids, especially Micaela 💪🏻",
+    "createTime": "2026-09-18T18:12:40.953484Z",
+    "updateTime": "2026-09-18T18:12:40.953484Z",
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGck5ubFRRVGhQVGpOdWRXNU1lV2hKYVMxek1IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ezequiel Gomara"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-28T20:51:11.150581Z",
+    "updateTime": "2026-08-28T20:51:11.150581Z",
+    "reviewReply": {
+      "comment": "muchas gracias!!\n",
+      "updateTime": "2026-08-28T22:31:29.785938Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCRVVEaHNhM1pGTFU4MVprczBkMHc0VVd4R04wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustín Cruz"
+    },
+    "starRating": "FIVE",
+    "comment": "excelente turno noche del full!!\n\n(Translated by Google)\nExcellent night shift at the full-time office!!",
+    "createTime": "2026-08-15T04:06:50.515926Z",
+    "updateTime": "2026-08-15T04:06:50.515926Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias Agustin !",
+      "updateTime": "2026-08-15T15:54:24.204740Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xdFpXRTNTMnhvTkZNdFJWOXlSekYwU3pOSWVVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jacobo Snaider"
+    },
+    "starRating": "FIVE",
+    "comment": "Frente a la aduana de Paso de los Libres\n\n(Translated by Google)\nIn front of the Paso de los Libres customs office",
+    "createTime": "2026-08-11T12:47:35.338506Z",
+    "updateTime": "2026-08-11T12:47:35.338506Z",
+    "reviewReply": {
+      "comment": "muchas gracias por la visita. lo esperamos pronto\n",
+      "updateTime": "2026-08-12T18:00:17.870561Z"
+    },
+    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aRlRrSXhjbkpzWnpaeWNFMDRXakJqUlZFMVkwRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Silvia cristina Saldaña"
     },
     "starRating": "FIVE",
     "comment": "Exelente atencion de Maria y Fiorella\n\n(Translated by Google)\nExcellent service from Maria and Fiorella",
     "createTime": "2026-07-21T11:36:58.160860Z",
     "updateTime": "2026-07-21T11:36:58.160860Z",
+    "reviewReply": {
+      "comment": "muchisimas gracias!! los esperamos pronto\n",
+      "updateTime": "2026-08-12T18:00:42.362058Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FeVRWZG1RVFprZEdWU1pIVm1ZM2Q1YVZsRVdYYxAB"
   }, {
     "reviewer": {
@@ -16,6 +67,10 @@
     "comment": "Me atendió Martin muy buena atención y amabilidad\n\n(Translated by Google)\nMartin served me with excellent service and kindness.",
     "createTime": "2026-07-14T16:49:13.847262Z",
     "updateTime": "2026-07-14T16:49:13.847262Z",
+    "reviewReply": {
+      "comment": "muchas gracias , trabajamos para brindar la mejor atencion",
+      "updateTime": "2026-08-12T18:01:09.465514Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KT1JUWktRV1p1V0Zoa1ZFOW5NbXhKTld4clZYYxAB"
   }, {
     "reviewer": {
@@ -38,6 +93,10 @@
     "comment": "Muy buena la atencion de martín\n\n(Translated by Google)\nMartin\u0027s service was excellent.",
     "createTime": "2026-07-14T12:28:13.112324Z",
     "updateTime": "2026-07-14T12:28:13.112324Z",
+    "reviewReply": {
+      "comment": "muchas gracias por la visita",
+      "updateTime": "2026-08-12T18:01:34.602187Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGZk5HNW1XbU0yTWpKYU1GQm5kbHBmTTNCalkzYxAB"
   }, {
     "reviewer": {
@@ -47,6 +106,10 @@
     "comment": "Muy buena la  atención de martin\n\n(Translated by Google)\nMartin provided excellent service.",
     "createTime": "2026-07-14T12:21:19.791977Z",
     "updateTime": "2026-07-14T12:21:19.791977Z",
+    "reviewReply": {
+      "comment": "muchas gracias por el comentario, valoramos mucho el trabajo de cada uno de los que hacemos parte de esta estacion\n",
+      "updateTime": "2026-08-12T18:02:33.647457Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKelpsZExWVE15Wms1dVN6WlNhVE0xYkRKRmNIYxAB"
   }, {
     "reviewer": {
@@ -121,6 +184,10 @@
     "comment": "Muy atento en la atención.\n\n(Translated by Google)\nVery attentive service.",
     "createTime": "2026-07-11T17:28:30.716724Z",
     "updateTime": "2026-07-11T17:28:30.716724Z",
+    "reviewReply": {
+      "comment": "muchisimas gracias, lo esperamos pronto\n",
+      "updateTime": "2026-08-12T18:02:53.524251Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZM1lsOWtRMUJ3UmtnM2JrdEJURVI2YkhCbmFWRRAB"
   }, {
     "reviewer": {
@@ -130,6 +197,10 @@
     "comment": "Muy buena atención del playero Martin. La playa muy limpia\n\n(Translated by Google)\nExcellent service from the beach attendant Martin. The beach was very clean.",
     "createTime": "2026-07-10T19:55:55.612079Z",
     "updateTime": "2026-07-10T19:55:55.612079Z",
+    "reviewReply": {
+      "comment": "muchas gracias por el comentario.",
+      "updateTime": "2026-08-12T18:03:09.502558Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSWRsWktPRWROU2xOYVpHTlVjVEZGTkVGM1dtYxAB"
   }, {
     "reviewer": {
@@ -138,6 +209,10 @@
     "starRating": "FIVE",
     "createTime": "2026-07-10T11:02:09.694430Z",
     "updateTime": "2026-07-10T11:02:09.694430Z",
+    "reviewReply": {
+      "comment": "lo esperamos pronto",
+      "updateTime": "2026-08-12T18:03:26.221121Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKM1RrZGFORnB6ZVRseU5YbEtWRzgxWm1WSVQwRRAB"
   }, {
     "reviewer": {
@@ -147,6 +222,10 @@
     "comment": "Excelente atención muy atentos\n\n(Translated by Google)\nExcellent service, very attentive",
     "createTime": "2026-07-09T00:21:14.167431Z",
     "updateTime": "2026-07-09T00:21:14.167431Z",
+    "reviewReply": {
+      "comment": "muchas gracias, te esperamos pronto",
+      "updateTime": "2026-08-12T18:03:43.248721Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wQmJrdDFZVkpZWVdOUVFUWTROVXBPZUZaNk4xRRAB"
   }, {
     "reviewer": {
@@ -155,6 +234,10 @@
     "starRating": "FOUR",
     "createTime": "2026-07-06T16:19:31.270870Z",
     "updateTime": "2026-07-06T16:19:31.270870Z",
+    "reviewReply": {
+      "comment": "muchas gracias",
+      "updateTime": "2026-08-12T18:03:59.436998Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1eGNrazNhVXBITWpsck9WWklMWGQ2ZDIwd1JXYxAB"
   }, {
     "reviewer": {
@@ -164,42 +247,10 @@
     "comment": "Excelente atención de los chicos, baños limpios y atención rápida para grupos grandes\n\n(Translated by Google)\nExcellent service from the staff, clean restrooms, and prompt service for large groups.",
     "createTime": "2026-07-06T03:31:09.665048Z",
     "updateTime": "2026-07-06T03:32:14.753256Z",
+    "reviewReply": {
+      "comment": "muchisimas gracias, trabajamos para brindar el mejor servicio.",
+      "updateTime": "2026-08-12T18:04:25.596920Z"
+    },
     "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxcVdVbHZkV2hoYVcwek9FWXlZVmt3ZFV0QlMyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlo Romero"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
-    "createTime": "2026-06-28T17:59:51.555976Z",
-    "updateTime": "2026-06-28T17:59:51.555976Z",
-    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOVGNDMWlhVE0yYTNscGFIQnBiMGh3V0VsbFgwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "maira gomez gonzalez"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-06-28T17:57:24.221407Z",
-    "updateTime": "2026-06-28T17:57:24.221407Z",
-    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKcFJrODROVzFKZEV0alVVTldOakZtUW1sRk0zYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "ALEJANDRO AGUSTIN VILLALVA"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena la atencion\n\n(Translated by Google)\nThe service was very good.",
-    "createTime": "2026-06-28T17:57:21.650952Z",
-    "updateTime": "2026-06-28T17:57:21.650952Z",
-    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WcVRtczJVa05oVFVwQ1lXVkRlVzVFVFZkaU9YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Facundo Perez"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena la atención al cliente\n\n(Translated by Google)\nExcellent customer service",
-    "createTime": "2026-06-28T17:55:37.979990Z",
-    "updateTime": "2026-06-28T17:55:37.979990Z",
-    "name": "accounts/109853746269412609224/locations/13560852497782036478/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRMU5tRndaMlU0VDJaeFpsWlpkRU5yYW5OSVMyYxAB"
   }]
 }

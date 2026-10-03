@@ -1,6 +1,38 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Ivan Suarez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-01T01:00:57.692338Z",
+    "updateTime": "2026-09-01T01:00:57.692338Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Iván, por las 5 estrellas! ⭐⭐⭐⭐⭐ Nos alegra saber que tu experiencia fue positiva. ¡Te esperamos nuevamente! 🙌",
+      "updateTime": "2026-09-01T03:21:46.939933Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJeGRGRTJiVUYzYjBKa2RuTklOeko1U3prdGRIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana Accoroni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-12T17:31:26.509189Z",
+    "updateTime": "2026-08-12T17:31:26.509189Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Silvana, por tu calificación de 5 estrellas! ⭐⭐⭐⭐⭐ Nos alegra mucho saber que tu experiencia fue positiva. ¡Esperamos verte nuevamente por YPF ACA Rufino! 😊",
+      "updateTime": "2026-08-12T18:11:06.826003Z"
+    },
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poelQwSTNlVkYwWkVoMmQxYzVUamgzTjA5RlQwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Gutierrez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-03T05:21:11.946641Z",
+    "updateTime": "2026-08-03T05:21:11.946641Z",
+    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wRGRGbHpWMGRrVUd3MGJrOTBObmRKWDFGNFFrRRAB"
+  }, {
+    "reviewer": {
       "displayName": "federico kahl"
     },
     "starRating": "FIVE",
@@ -213,44 +245,5 @@
       "updateTime": "2026-02-10T18:22:56.856801Z"
     },
     "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkeVExWkNPV0Z3TTBkU1ZIRTBiRUpSZW1GcVVHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ezequiel Hernán Paz"
-    },
-    "starRating": "FIVE",
-    "comment": "La atención muy buena , tanto en el surtidor como en el full Rubén muy amable y atento al igual que Milagros\n\n(Translated by Google)\nThe service was excellent, both at the pump and at the full service station. Rubén was very friendly and attentive, as was Milagros.",
-    "createTime": "2026-02-08T13:07:01.215409Z",
-    "updateTime": "2026-02-08T13:07:01.215409Z",
-    "reviewReply": {
-      "comment": "Muchas gracias, Ezequiel, por tu reseña y por elegirnos!\nNos alegra saber que recibiste una muy buena atención tanto en el surtidor como en el Full. Le haremos llegar tus palabras a Rubén y Milagros, que siempre están atentos para brindar el mejor servicio.",
-      "updateTime": "2026-02-09T12:20:47.688287Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wNFN5MVFiamhJUzFwU2NIUklWVWd5WW5nMFUyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jorgelina AP"
-    },
-    "starRating": "FIVE",
-    "comment": "Llegamos buscando cargar nafta... Tuvimos la suerte que nos atendió Rubén y pudimos resolver que no me estaba andando bien la app de YPF... al mismo tiempo nos detuvimos a tomar un desayuno, y por suerte Milagros estuvo super ágil para ayudarnos con la elección. La atención fue genial. Volveremos a la vuelta de las vacas para volver a cargar aquí.\n\n(Translated by Google)\nWe arrived looking to fill up with gas... We were lucky enough to be helped by Rubén, and he helped us sort out the problem I had with the YPF app... We also stopped for breakfast, and luckily Milagros was super helpful in choosing what to get us. The service was fantastic. We\u0027ll be back after the holidays to fill up here again.",
-    "createTime": "2026-02-08T12:57:34.287460Z",
-    "updateTime": "2026-02-08T12:57:34.287460Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias, Jorgelina, por elegirnos y por compartir tu experiencia!\nNos pone muy contentos saber que Rubén pudo ayudarte con la app de YPF y que Milagros te atendió con rapidez y buena onda en el desayuno. Ese es el servicio que buscamos dar todos los días.\n¡Los esperamos a la vuelta de las vacaciones para que vuelvan a cargar y a disfrutar del Full! 🚗⛽☕",
-      "updateTime": "2026-02-09T12:22:08.805061Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT21veFNXRnNNV1UzV0dSR2NXSjRVa3BVWHpRdFFrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Enrique VARGAS"
-    },
-    "starRating": "FIVE",
-    "comment": "Gracias Rubén y Milagros por la gran atención y empatía al cliente. Me sentí muy a gusto en el lugar, a seguir con toda la buena onda.\n\n(Translated by Google)\nThank you Rubén and Milagros for your excellent customer service and empathy. I felt very comfortable there; keep up the great work!",
-    "createTime": "2026-02-07T19:57:46.200926Z",
-    "updateTime": "2026-02-07T19:57:46.200926Z",
-    "reviewReply": {
-      "comment": "¡Gracias por tomarte el tiempo de compartir tu experiencia!\nNos alegra saber que Rubén y Milagros te brindaron una atención con tanta empatía y buena onda. Comentarios como el tuyo nos motivan a seguir trabajando para que cada cliente se sienta cómodo y bien atendido.\n¡Te esperamos pronto! ",
-      "updateTime": "2026-02-09T12:19:29.084296Z"
-    },
-    "name": "accounts/109853746269412609224/locations/4889983940296896485/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwTVZraFFaME5wUldGMlRsY3RUbWRvU1MxV1lrRRAB"
   }]
 }

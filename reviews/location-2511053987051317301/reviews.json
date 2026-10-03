@@ -1,6 +1,142 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Luis Barboza"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-26T21:15:27.262321Z",
+    "updateTime": "2026-09-26T21:15:27.262321Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWlZ6RldjWE40YnpSVWNFODRlWGxSYWkxSWRrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Margarita Sena"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-23T12:52:30.738331Z",
+    "updateTime": "2026-09-23T12:52:30.738331Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1aFVVaDJObk41U0VGWGFtazVibWRxVGtaQ1JHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "cristian rivolta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-21T23:33:46.150765Z",
+    "updateTime": "2026-09-21T23:33:46.150765Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aV1QzaDRPSHBqVVhjMlpHUlJXR1ZVUlUxMmNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro"
+    },
+    "starRating": "FOUR",
+    "comment": "Mejoraría un poco la atención y que no cobren por inflar las ruedas\n\n(Translated by Google)\nThe service could be improved a bit, and they shouldn\u0027t charge for inflating tires.",
+    "createTime": "2026-09-14T18:06:55.333970Z",
+    "updateTime": "2026-09-14T18:06:55.333970Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWNk9IVk1helIyWm10VlRWbDFUMDFaWkhORkxVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MrAle34g"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-12T04:56:03.713690Z",
+    "updateTime": "2026-09-12T04:56:03.713690Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGblptSnZjVXR1UjNScWNGTlBYemhXWnpaUVYwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Axl Elizondo"
+    },
+    "starRating": "ONE",
+    "comment": "no te dejan sentarte adentro\n\n(Translated by Google)\nThey won\u0027t let you sit inside",
+    "createTime": "2026-09-11T17:48:07.934716Z",
+    "updateTime": "2026-09-11T17:48:07.934716Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSmMzTTFVR3BsVkVWSE0xaFNNVlJqVUd3MFRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-09-08T12:57:06.232850Z",
+    "updateTime": "2026-09-08T12:57:06.232850Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCVlRtazJiMGhFYVdwVVMzQTVNbUV5UjI5SWFGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Belmudes"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio y atención\n\n(Translated by Google)\nExcellent service and attention",
+    "createTime": "2026-09-04T17:44:54.889178Z",
+    "updateTime": "2026-09-04T17:44:54.889178Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toaVRqY3lWR2RFUlZGRVNtYzVkSEV0YVVZeFIzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Rodríguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion, cocheras, mini mercado y atencion de los playeros muy buena\nLo recomiendo\n\n(Translated by Google)\nGreat service, parking, mini-market, and the attendants are very friendly. I recommend it.",
+    "createTime": "2026-09-02T15:53:31.969939Z",
+    "updateTime": "2026-09-02T15:53:31.969939Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT210aFFtVm1VVmx0U1ZSVFRGQlVTRE5sZUROMVFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Victoria Rivero y Hornos"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-23T15:43:52.458545Z",
+    "updateTime": "2026-08-23T15:43:52.458545Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaE5tcGhWMEpmT0VOWE1sSXplVUZXYkRWbWRVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Belu"
+    },
+    "starRating": "ONE",
+    "comment": "En Google maps dice que están las 24 hs para hacer cambio de aceite pero no es cierto. Deberían cambiar la información o ser más específicos con los horarios\n\n(Translated by Google)\nGoogle Maps says they\u0027re open 24 hours for oil changes, but that\u0027s not true. They should update the information or be more specific about their hours.",
+    "createTime": "2026-08-22T19:26:45.546573Z",
+    "updateTime": "2026-08-22T19:26:45.546573Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xBNFExVlhNMmRQTTJobGFuQm5lVXN3U0dWRGJWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Marcón"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención tanto en las oficinas como así también los playeros, toda la estación muy bien mantenida y prima la limpieza..... vale la pena..... ¡¡¡ Felicitaciones...!!!\n\n(Translated by Google)\nExcellent service both in the offices and from the beach attendants. The entire station is very well maintained and cleanliness is paramount... It\u0027s worth it... Congratulations!!!",
+    "createTime": "2026-08-21T23:02:49.205431Z",
+    "updateTime": "2026-08-21T23:02:49.205431Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oQmFIRlliSFF6U2xaMFVYaDNURUpUUzNobVJIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Gruchn"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-13T00:47:11.354621Z",
+    "updateTime": "2026-08-13T00:47:11.354621Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaM1MzQTNZM0JOUmpsV2RsOXVSVGhuUm1sNVMzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Suqueli"
+    },
+    "starRating": "TWO",
+    "comment": "Una sola persona para atender ,cualquier trámite es una eternidad\n\n(Translated by Google)\nWith only one person to handle any procedure, it takes forever.",
+    "createTime": "2026-08-11T13:31:58.331535Z",
+    "updateTime": "2026-08-11T13:31:58.331535Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZd1RGOTVhVlJuY1ZSNlEzWjVOWEJPZERReVRIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Luis Carelli"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-09T15:50:35.686397Z",
+    "updateTime": "2026-08-09T15:50:35.686397Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT21nME0zSmtZVXB4U0Zwa01EbExhVzVRTkV4VFZGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guido González"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-07T11:00:48.245206Z",
+    "updateTime": "2026-08-07T11:00:48.245206Z",
+    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCb01tUkNSbGxtTjBSR01UVllZVXA0Y1cxS2JIYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Analia Gonzalez Garcia"
     },
     "starRating": "FOUR",
@@ -33,146 +169,5 @@
     "createTime": "2026-07-28T21:54:53.946646Z",
     "updateTime": "2026-07-28T21:54:53.946646Z",
     "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SeFkzSmpPVWhmYm5jM1FWZzFOMHRqU2pkR2MzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alberto Litbak"
-    },
-    "starRating": "FOUR",
-    "createTime": "2021-01-02T15:40:02.822077Z",
-    "updateTime": "2026-07-27T09:32:14.589656Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/ChdDSUhNMG9nS0VJQ0FnSURTeGRfMl9RRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carolina Catuogno"
-    },
-    "starRating": "TWO",
-    "comment": "Muy mala onda el playero qué ne atendió.\n\n(Translated by Google)\nThe beach attendant who served me was really rude.",
-    "createTime": "2026-07-25T04:25:29.799582Z",
-    "updateTime": "2026-07-25T04:25:29.799582Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4SWVtaHVRa3R1Y2todVlVbGFTWGh2UjJWeGVsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Perla Díaz"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención. Excelentes servicios.\n\n(Translated by Google)\nVery good service. Excellent services.",
-    "createTime": "2020-01-15T05:10:58.556718Z",
-    "updateTime": "2026-07-22T13:00:34.472959Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/ChdDSUhNMG9nS0VJQ0FnSURNMS03SWxBRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lucia Stati"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-21T19:56:28.181612Z",
-    "updateTime": "2026-07-21T19:56:28.181612Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kak5tWlJXakUxVFV3MmNXTnNTRTVLVjJoelpXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "enzo carrizo"
-    },
-    "starRating": "ONE",
-    "comment": "Esta todo bien... pero parece que no te quieren atender ,no es que uno esté apurado pero cero predisposición, esperando 10 minutos para cargar nafta cuando la estación está vacía....el alto de barba un genio,se salva\n\n(Translated by Google)\nEverything\u0027s fine... but it seems like they don\u0027t want to help you. It\u0027s not like you\u0027re in a hurry, but there\u0027s zero willingness to help. Waiting 10 minutes to fill up with gas when the station is empty... The tall guy with the beard is a genius, he\u0027s the only one who\u0027s okay.",
-    "createTime": "2026-07-15T16:56:01.205778Z",
-    "updateTime": "2026-07-15T16:56:01.205778Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWVNrcFlaVU5ZVTBKb2Jtb3hOR3BOVXpOMWRsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "alejandro formato"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-14T10:07:43.687303Z",
-    "updateTime": "2026-07-14T10:07:43.687303Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aeWJtTlNkVTFUVm5oc2NHeDZNbWR6TjA1clVVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Donda"
-    },
-    "starRating": "FIVE",
-    "comment": "Quiero destacar la excelente atención que recibí en este lugar; de verdad da gusto venir cuando se preocupan tanto por el cliente. Cuentan con muchas bocas de expendio habilitadas, lo que hace que la atención sea súper ágil y eficiente, evitando que se formen largas filas. Un servicio de primer nivel, totalmente recomendable.\n\n(Translated by Google)\nI want to highlight the excellent service I received here; it\u0027s truly a pleasure to come when they care so much about the customer. They have many service points open, which makes the service super fast and efficient, preventing long lines from forming. Top-notch service, highly recommended.",
-    "createTime": "2026-07-13T21:11:15.560574Z",
-    "updateTime": "2026-07-13T21:11:15.560574Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WalpIVXhXSFExVkcxZk5GWkZUM0ppWm1acFZWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos Alberto Trotta"
-    },
-    "starRating": "FOUR",
-    "createTime": "2020-08-18T04:31:08.862544Z",
-    "updateTime": "2026-07-12T11:19:43.885389Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDa3JmZk5REAE"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos Alberto Campos"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-23T22:53:36.950534Z",
-    "updateTime": "2026-06-23T22:53:36.950534Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkUVVuRlFVblZqZW01VVRuWXRUbXBrVkRWRVZVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jorge Luis Bilbao"
-    },
-    "starRating": "ONE",
-    "comment": "Lubricentro? Si tienen ganas de atenderte...\nLavadero? Con suerte si no hace mucho frío y tienen ganas de mojarse...\nCafé? Full...full mugre\n\n(Translated by Google)\nLubrication center? If they feel like helping you...\nCar wash? If you\u0027re lucky, and it\u0027s not too cold and they\u0027re up for getting wet...\nCoffee shop? Filthy...filthy",
-    "createTime": "2026-06-19T16:23:25.562336Z",
-    "updateTime": "2026-06-19T16:23:25.562336Z",
-    "reviewReply": {
-      "comment": "Buenas tardes Jorge le dejo mi teléfono para gestionar  tu malestar 2235570266 gracias Patricia ",
-      "updateTime": "2026-06-23T18:01:13.332491Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tscGRWSnBkVFF5U3podFIwVTRXSE15VDJWSWFYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Leonardo d echeveste echeveste"
-    },
-    "starRating": "FOUR",
-    "comment": "Buen servicio\nLugar tranquilo\n\n(Translated by Google)\nGood service\nQuiet place",
-    "createTime": "2026-06-18T18:46:05.478859Z",
-    "updateTime": "2026-06-18T18:46:05.478859Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CUlFrZFNNWFpYVFc5UVFtd3lPVzUzVTNsak5IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Vir Moreno"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atenciin\n\n(Translated by Google)\nVery good service",
-    "createTime": "2019-12-01T01:16:59.086673Z",
-    "updateTime": "2026-06-18T09:40:38.457238Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNclp2OC13RRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Bellizia"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
-    "createTime": "2026-06-12T18:30:26.814156Z",
-    "updateTime": "2026-06-12T18:30:26.814156Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJNGMzQjRUaTEyV0hVMVlqTjRXazFxUWpkRFVsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Yesica Sarrode"
-    },
-    "starRating": "FIVE",
-    "comment": "buenas dias necesitamos buscar trabaja limpieza algo o bachera\n\n(Translated by Google)\nGood morning, we need to find a cleaning job, something like a dishwasher or dishwasher.",
-    "createTime": "2026-05-26T16:01:30.980583Z",
-    "updateTime": "2026-06-03T16:44:58.716703Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aU1VXdG9WMVpFWVhSc2FFbFJRM1l0ZG1WVlptYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo Berardi78"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-03T01:26:25.935875Z",
-    "updateTime": "2026-06-03T01:26:25.935875Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0bmNUZFpObUZMTmt4NVpDMXlVRTEyWkRKVVNrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Max Arevalo"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-05-26T14:51:08.603028Z",
-    "updateTime": "2026-05-26T14:51:08.603028Z",
-    "name": "accounts/109853746269412609224/locations/2511053987051317301/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWbloycFFaV1JUVjB0Q09XbEtjRGhJUWtOeE5WRRAB"
   }]
 }

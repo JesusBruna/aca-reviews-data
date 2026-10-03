@@ -1,18 +1,123 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Guillermo Doldan"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2021-01-21T23:29:06.533202Z",
+    "updateTime": "2026-09-27T02:41:24.816156Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5akx2ZmJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Al Co"
+    },
+    "starRating": "FIVE",
+    "comment": "Hacia mucho frío con viento y llovizna, el personal atendía con voluntad...en especial la mujer que nos atendió...\n\n(Translated by Google)\nIt was very cold with wind and drizzle, but the staff were very helpful...especially the woman who served us...",
+    "createTime": "2026-09-25T00:34:13.741581Z",
+    "updateTime": "2026-09-25T00:34:13.741581Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkTlUzcFdVR281Y2tWTWVsaHlZbFYyZDA5UWNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Saguier"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-21T15:16:52.982502Z",
+    "updateTime": "2026-09-21T15:16:52.982502Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkcVIxOURUamRpVFRFMlZYcDNVMVpHUXpsdVNsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Goñi y Dallavalle"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención.  Limpieza total\n\n(Translated by Google)\nExcellent service. Spotlessly clean.",
+    "createTime": "2026-09-15T10:34:40.589457Z",
+    "updateTime": "2026-09-15T10:34:40.589457Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsUGRWVnJVRmxvZVVoVU1scGhZWFJOYkhVMlJWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Galante"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención y muy amable el playero\n\n(Translated by Google)\nExcellent service and the beach attendant was very friendly.",
+    "createTime": "2026-09-14T01:57:48.623866Z",
+    "updateTime": "2026-09-14T01:57:48.623866Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4bWNYSTBORFJhY2prd2IyTkdja1pSV21OdVFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miriam Ponzio"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-09T21:10:31.764969Z",
+    "updateTime": "2026-09-09T21:10:31.764969Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tveGRYTmZaMkZTYmxoc09WRTJhRkJxVldsUVVGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Viviana Brabo"
+    },
+    "starRating": "FIVE",
+    "comment": "Una gran estación de servicio, muy atentos los chicos, y si vas vas a ver un Golden Retriever que se lleva todas las miradas, pet friendly full!\n\n(Translated by Google)\nA great gas station, the staff are very attentive, and if you go you\u0027ll see a Golden Retriever that steals the show, totally pet friendly!",
+    "createTime": "2026-08-22T14:49:09.689455Z",
+    "updateTime": "2026-08-22T14:49:09.689455Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5UGQwTjBNM3BLUlVGRFJXazVSRUpWYjFSYU5IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Zapatero"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención de las playeras y a playeras, si bien están pintando la playa, es agradable.\n\n(Translated by Google)\nExcellent service from the beach attendants, and although they are painting the beach, it\u0027s pleasant.",
+    "createTime": "2026-08-20T13:10:12.150998Z",
+    "updateTime": "2026-08-20T13:10:12.150998Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WVVVERnJTMGxEYUhaRU1qQnVURjk0VldOT0xWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Estela Gallo"
+    },
+    "starRating": "ONE",
+    "comment": "Muyyyyy lennnntoooossss",
+    "createTime": "2026-08-17T14:13:09.839589Z",
+    "updateTime": "2026-08-17T14:13:09.839589Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGWWRrdElVek5VYVhNMFdtVTBUSGxDWWt4SlNHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Magnelli"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen servicio y atecion\n\n(Translated by Google)\nGood service and attention",
+    "createTime": "2026-08-17T03:39:20.112784Z",
+    "updateTime": "2026-08-17T03:39:20.112784Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJMlJqbFpjVXRIVFdoTE5VbzRTSFZUTm0xaGNVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "sebastian zavala"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-10T20:56:33.827182Z",
+    "updateTime": "2026-08-10T20:56:33.827182Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOWGQxOU1ZMEp1YUdWeE5WZGlRMXA1TVdKb2IwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alberto Gonzalez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-09T23:53:48.296168Z",
+    "updateTime": "2026-08-09T23:53:48.296168Z",
+    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kQ1RWTlNkSE5PZFRCQk1XRlRNVjlET0d4Q1JsRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Marcelo Casaux"
     },
     "starRating": "FIVE",
+    "comment": "Muy amable en la atención\n\n(Translated by Google)\nVery friendly and helpful",
     "createTime": "2026-07-30T19:39:22.124340Z",
-    "updateTime": "2026-07-30T19:39:22.124340Z",
+    "updateTime": "2026-08-05T22:23:32.243975Z",
     "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bVZHb3phekJNVm1sVFkzYzRWVkJqT0RZdFozYxAB"
   }, {
     "reviewer": {
       "displayName": "gustavo daniel pereyra"
     },
     "starRating": "FIVE",
-    "comment": "Rápida atencion\n\n(Translated by Google)\nFast service",
+    "comment": "Rápida atencion\n\n(Translated by Google)\nPrompt attention",
     "createTime": "2026-07-29T16:57:29.876584Z",
     "updateTime": "2026-07-29T16:57:29.876584Z",
     "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poV01FSmxTMmxXWlRSeFQzSnNOVGw2VURkQlZFRRAB"
@@ -67,108 +172,5 @@
     "createTime": "2026-06-12T14:23:52.137817Z",
     "updateTime": "2026-06-12T14:23:52.137817Z",
     "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeFExSktWbmRUWmtOWU0xSlhUVFIyVG5wc1lWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "A.J Vargas Cosentino"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-03T03:14:50.144592Z",
-    "updateTime": "2026-06-03T03:14:50.144592Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwNGRFSXRRblF4UmtkMVFtcDFSVWRzZEhsT05uYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "maria martha zuliani"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-24T19:12:57.284012Z",
-    "updateTime": "2026-05-24T19:12:57.284012Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCa2J6VTNVbXhzU2xaSWFDMHdWVEZOVTFkQlZrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "julieta mercuri"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-23T02:56:10.758777Z",
-    "updateTime": "2026-05-23T02:56:10.758777Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxMFNIVjNZMTlsVm1GQldWOVNPR2d6YldFd0xVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Traca Quinteros"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención, muy bien dispuestos los playeros. Buen precio del combustible\n\n(Translated by Google)\nGood service, the attendants were very helpful. Good fuel prices.",
-    "createTime": "2026-05-21T01:58:15.814216Z",
-    "updateTime": "2026-05-21T01:58:15.814216Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSa2FHeEdTWGhGVVY5dWRsRjVZbU5ZTTNGRVJVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mario Carmona"
-    },
-    "starRating": "FOUR",
-    "comment": "Normal",
-    "createTime": "2026-05-17T13:44:36.665878Z",
-    "updateTime": "2026-05-17T13:44:36.665878Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tabGVXUkpkblJNWXpWU2RYcDBWMkUwYVRCSU9XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "pablo barbosa"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-05-16T12:55:43.930339Z",
-    "updateTime": "2026-05-16T12:55:43.930339Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sU1kwSktSRXhOYmpSWVdtVXlTMjUyVERkQmVGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Naomi prieto Miguenz"
-    },
-    "starRating": "FIVE",
-    "comment": "Cuando fui me dijieron bien las cosas asique lo recomiendo para que vallan\n\n(Translated by Google)\nWhen I went, they explained things to me clearly, so I recommend you go.",
-    "createTime": "2026-05-15T14:10:16.914359Z",
-    "updateTime": "2026-05-15T14:10:16.914359Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOWFNtbERiMTlpZDJ4VmVuSlpSMUJ2VG1rNWVFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gonzalo Macchi"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente servicio y las chicas súper amables, en temporada suele haber mucha cola y el servicio se demora un poco\n\n(Translated by Google)\nExcellent service and the girls are super friendly, although during peak season there\u0027s usually a long queue and the service can be a little slow.",
-    "createTime": "2026-05-01T17:19:45.229188Z",
-    "updateTime": "2026-05-01T17:19:45.229188Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KbGFITmlUVEJmY0UxNlJVSk1XRlpSVWpBMWFIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Constanza Nieto"
-    },
-    "starRating": "FIVE",
-    "comment": "Buen lugar!\n\n(Translated by Google)\nGreat place!",
-    "createTime": "2026-04-27T16:46:53.559964Z",
-    "updateTime": "2026-04-27T16:46:53.559964Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCT1kwbFNUemRHVmxBeU9YSTBUak5STTAwM1NHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mar Montellano"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-17T00:20:25.003907Z",
-    "updateTime": "2026-04-17T00:20:25.003907Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3dFpVTXRaVWd4WW1wUFoyNHhUWE55U0VGUU9VRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Owen"
-    },
-    "starRating": "TWO",
-    "comment": "Para ser ACA le falta un montón.\n\nLa estación de servicio está sin muchos cuidados.\nLa atención de la playera 10 puntos, pero la imagen del lugar podría mejorar muchísimo más.\n\n(Translated by Google)\nIt\u0027s far from being an ACA (Argentine Automobile Club) station.\n\nThe gas station is poorly maintained. The attendant\u0027s service was excellent, but the overall appearance of the place could be much better.",
-    "createTime": "2026-04-13T13:51:24.493653Z",
-    "updateTime": "2026-04-13T13:51:24.493653Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOMmFHVmxlVTVaVTE4Mk9HYzFaMlJSWjA5bWVsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniel Fiorebello"
-    },
-    "starRating": "FIVE",
-    "comment": "Todo lo que una ypf tiene y brinda\n\n(Translated by Google)\nEverything that a YPF has and offers",
-    "createTime": "2026-04-11T22:47:02.541698Z",
-    "updateTime": "2026-04-11T22:47:02.541698Z",
-    "name": "accounts/109853746269412609224/locations/3860923549066547305/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GUlMyVm1VRkJDWm5BeFdsQnhSRVpGYVRkWmEwRRAB"
   }]
 }

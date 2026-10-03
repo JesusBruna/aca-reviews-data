@@ -1,11 +1,237 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Walter Caresani"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-29T11:15:44.843982Z",
+    "updateTime": "2026-09-29T11:15:44.843982Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SV1ZYTlFjRFl6T0dwU1VVVXRUazl2YkRSbmNrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston Cladera"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio. Baños limpios.\n\n(Translated by Google)\nGood service. Clean bathrooms.",
+    "createTime": "2026-09-16T10:45:47.574285Z",
+    "updateTime": "2026-09-16T10:45:47.574285Z",
+    "reviewReply": {
+      "comment": "¡Gracias por tus 5 estrellas! Trabajamos cada día para que nuestro café y atención sean los mejores de la zona. ¡Buen viaje!\"",
+      "updateTime": "2026-09-17T14:12:22.099496Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkNWFsUllVMncxU25oUGJrWktXSFYwYlMxMVZGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "martin ortega"
+    },
+    "starRating": "FIVE",
+    "comment": "Anita una Genia siempre presente en mis necesidades,muchas gracias\n\n(Translated by Google)\nAnita, a genius, always there for my needs, thank you so much.",
+    "createTime": "2026-09-12T17:23:32.334810Z",
+    "updateTime": "2026-09-12T17:23:32.334810Z",
+    "reviewReply": {
+      "comment": "¡Gracias por tus 5 estrellas! Trabajamos cada día para que nuestro café y atención sean los mejores de la zona. ¡Buen viaje!\"",
+      "updateTime": "2026-09-17T14:12:37.270159Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeVYyYzBURXN6TkUxWlpYZFpiME5FTkROUk5XYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel López"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención.\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2026-09-12T15:45:17.591280Z",
+    "updateTime": "2026-09-12T15:45:17.591280Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-09-17T14:13:45.338173Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oblRuZERNbEJXWTIxT2NrMU1hRkZwTUZsalowRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Farri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-12T01:37:55.208893Z",
+    "updateTime": "2026-09-12T01:37:55.208893Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-09-17T14:13:36.314219Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trM0xUZGFRVmhQWm5aRFZrRlRNMFEyVUVjeVJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Defelitto"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-11T23:33:40.428431Z",
+    "updateTime": "2026-09-11T23:33:40.428431Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-09-17T14:13:27.336545Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKeWIzZFhhVmRWYTJkbU0wdHhhVTFMT0ZOQ2VGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Peñaloza"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-10T22:43:45.461009Z",
+    "updateTime": "2026-09-10T22:43:45.461009Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-09-17T14:13:11.902516Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25STVVuTjZZbEpUY3pWdFpVMHpRM0ZXUkhCRlJGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ramona Picon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-08T03:09:05.511205Z",
+    "updateTime": "2026-09-08T03:09:05.511205Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-09-17T14:13:20.112838Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vek56azRSVkpZWmxjd2VXRnBlR1Z4VTFsQ2FGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sabrina Rivero"
+    },
+    "starRating": "FIVE",
+    "comment": "Hay venta de gas? (gnc)\n\n(Translated by Google)\nIs there gas for sale? (CNG)",
+    "createTime": "2026-08-26T22:51:42.126995Z",
+    "updateTime": "2026-08-26T22:51:42.126995Z",
+    "reviewReply": {
+      "comment": "Buenas tardes no por el momento \nsaludos ",
+      "updateTime": "2026-09-03T18:54:48.700392Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GaFl6RjBRbFZPY2s5NWVFOVRSMnhTTjNaMVgwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yamila Brandán"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-22T23:22:47.375039Z",
+    "updateTime": "2026-08-22T23:22:47.375039Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-23T14:17:20.898138Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SRU0zUnBVMEpMUm5KNmFUWlpWazVhVTJWTmQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "marcela moleker"
+    },
+    "starRating": "TWO",
+    "comment": "Es una estación full y no tienen las comidas que publicitan\n\n(Translated by Google)\nIt\u0027s a full-service station and they don\u0027t have the food they advertise.",
+    "createTime": "2026-08-20T22:58:58.072662Z",
+    "updateTime": "2026-08-20T22:58:58.072662Z",
+    "reviewReply": {
+      "comment": "te pedimos disculpas por los inconvenientes.  pero estamos trabajando para agilizar el servicio. Gracias por hacérnoslo saber para poder corregirlo.\"",
+      "updateTime": "2026-08-24T14:26:43.850831Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VemIxRnBXWFJoVEZSTk5tZFhNekpvV1hsaVFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vancauteren Facundo"
+    },
+    "starRating": "FIVE",
+    "comment": "Vine a desayunar y la verdad me atendieron no de 10 sino de 20. Gracias\n\n(Translated by Google)\nI came for breakfast and honestly, the service was not just a 10, it was a 20. Thank you.",
+    "createTime": "2026-08-20T13:49:56.113242Z",
+    "updateTime": "2026-08-20T13:49:56.113242Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-24T14:23:38.987115Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paWVNXeGxUbVpsY0ZOUFYxQlBiRTV5TlRnd09VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Gabriela Bottiglieri"
+    },
+    "starRating": "FIVE",
+    "comment": "excelente atención de playeros y especialmente Anita de Tienda full\n\n(Translated by Google)\nExcellent service from the beach staff, and especially Anita from Tienda Full.",
+    "createTime": "2026-08-18T14:28:28.561753Z",
+    "updateTime": "2026-08-18T14:28:28.561753Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-18T19:20:13.599759Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1TWNHRk5aa0p5Y0ZCT056ZGtXR3hXUWtwa1MzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Ahumada Altamirano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-15T11:57:32.956788Z",
+    "updateTime": "2026-08-15T11:57:32.956788Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-18T19:28:58.921200Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxalNGQkRRMTlUVFVSRFpIVjFTazB4ZFV4aU1WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaston David"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, siempre oara a desayunar en este lugar. La señora Anita prepara un desayuno con medialunas y bizcochos riquisimos !! Muy recomendables !!\n\n(Translated by Google)\nExcellent service, always a great place for breakfast. Mrs. Anita makes a delicious breakfast with croissants and cakes! Highly recommended!",
+    "createTime": "2026-08-11T15:59:30.953632Z",
+    "updateTime": "2026-08-11T15:59:30.953632Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-18T19:20:25.314825Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSlpWbGthVEJRUVdadVNXc3lWRll4UTJWSFFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gladys Aba"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buenos desayunos y atención por parte de las personas que allítrabajan.\nAnita, muy amable,  nos atendió el 30 de julio, mucha dedicación en lo que brinda.\nGracias\n\n(Translated by Google)\nExcellent breakfasts and great service from the staff.\nAnita was very kind and served us on July 30th; she was very dedicated to her work.\nThank you.",
+    "createTime": "2026-08-10T21:27:19.946247Z",
+    "updateTime": "2026-08-10T21:27:19.946247Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-18T19:29:43.371662Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT201S2NEZG9TVkZ5WjNCSmEyOWFXbXR2YW1OTlRWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hernan Vazquez"
+    },
+    "starRating": "THREE",
+    "createTime": "2017-09-13T13:26:02.224Z",
+    "updateTime": "2026-08-05T03:24:35.005032Z",
+    "reviewReply": {
+      "comment": "\"Agradecemos su reseña y valoramos su opinión. Háganos saber cómo podemos hacer que su próxima experiencia sea mejor!\"",
+      "updateTime": "2025-06-17T19:20:55.187275Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBbFBtTUdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gd"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención del personal\n\n(Translated by Google)\nGood service from the staff",
+    "createTime": "2023-04-21T02:41:51.217905Z",
+    "updateTime": "2026-08-05T00:46:02.494869Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-18T19:20:38.136391Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/ChZDSUhNMG9nS0VJQ0FnSURSd3FmVFBREAE"
+  }, {
+    "reviewer": {
       "displayName": "Horacio Rollan"
     },
     "starRating": "FOUR",
     "createTime": "2026-07-31T21:41:00.261769Z",
     "updateTime": "2026-07-31T21:41:00.261769Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-18T19:20:50.344523Z"
+    },
     "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJNE5qQndaak52YW1nd1RHRkhkRGhLTWpaV05YYxAB"
   }, {
     "reviewer": {
@@ -15,165 +241,10 @@
     "comment": "Este YPF es chiquito pero el personal es muy amable\n\n(Translated by Google)\nThis YPF is small but the staff is very friendly.",
     "createTime": "2026-07-29T10:15:50.199142Z",
     "updateTime": "2026-07-29T10:15:50.199142Z",
+    "reviewReply": {
+      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-08-18T19:20:57.507141Z"
+    },
     "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twNlRFMTNPVlZWVDA1NmMwVklPRlZDVlZWSFMyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Antonio Bustamante"
-    },
-    "starRating": "FIVE",
-    "comment": "Se ganaron mí confianza, todo muy limpio.\n\n(Translated by Google)\nThey earned my trust, everything was very clean.",
-    "createTime": "2026-07-27T23:45:04.113391Z",
-    "updateTime": "2026-07-29T04:06:56.045659Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVM0xUSTVXalkyVFVNMFRuQjRMVjltUkZsT2NtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Manuel Trebino Molteni"
-    },
-    "starRating": "THREE",
-    "comment": "No te cargan los puntos sino es con la aplicación y el kiosco no tie e nada\n\n(Translated by Google)\nYou can\u0027t get points unless you use the app, and the kiosk doesn\u0027t have anything.",
-    "createTime": "2026-07-29T00:59:27.186921Z",
-    "updateTime": "2026-07-29T00:59:27.186921Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ab1dURXlSMlI1U25KUWRGaGZkMnBIYlZOaU0xRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Claudia Gros"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente! La atención de las chicas en el salón es de 10. Gracias Anita, Celeste y Caro!. Los playeros también muy buena atención. Delicioso\n\n(Translated by Google)\nExcellent! The service from the girls in the salon is a 10/10. Thank you Anita, Celeste, and Caro! The beach staff also provided great service. Delicious!",
-    "createTime": "2026-07-22T17:08:28.863109Z",
-    "updateTime": "2026-07-28T22:19:49.030172Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aeVFrRm9hblpZZEhjNVdXVlJORVZwUjJaQ2FtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Vitale"
-    },
-    "starRating": "THREE",
-    "comment": "Llegue cuando estaban cambiando de turno , estuve 20 minutos esperando a que me carguen\n\n(Translated by Google)\nI arrived when they were changing shifts, and I waited 20 minutes to be loaded.",
-    "createTime": "2026-07-26T12:20:41.277214Z",
-    "updateTime": "2026-07-26T12:20:41.277214Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkWVFsQTNRM1paVlRGelh6ZHVOM3BQU0RsSldIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Yesmín Huardene"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-21T18:41:29.015550Z",
-    "updateTime": "2026-07-21T18:41:29.015550Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kMVNVRnZUMDlJV1d3NGJFOTRkMDV3V1dOR04zYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Hugo Rodriguez"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-07-21T15:07:14.899370Z",
-    "updateTime": "2026-07-21T15:07:14.899370Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOVVZUYzRWelpOYldWd2RsTm5lbE40WjNZeVUyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nora Acosta"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena la atención de la sra Mary. Se desenvolvió muy bien, éramos un grupo grande.\nImpecable el lugar. Excelente experiencia!\n\n(Translated by Google)\nMrs. Mary provided excellent service. She handled our large group very well.\nThe place was spotless. A wonderful experience!",
-    "createTime": "2026-07-21T13:16:24.263237Z",
-    "updateTime": "2026-07-21T13:16:24.263237Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ONFRHVm9la3hpYm1WSFExOVNRekpKWVdGb1EwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alicia M"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy amable la atención de Anita. Llegamos en grupo numeroso y se organizó rápidamente para darnos la mejor atención. Una genia !!!!\n\n(Translated by Google)\nAnita was incredibly kind and helpful. We arrived as a large group, and she quickly organized everything to give us the best possible service. She\u0027s fantastic!",
-    "createTime": "2026-07-21T12:26:38.657627Z",
-    "updateTime": "2026-07-21T12:38:29.363293Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZMFdqZzBhR0ZEYVV0alNUWmlTRzlJUkZKdWNHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Silvia Susana Ramirez"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención de Ana.\n\n(Translated by Google)\nExcellent service from Ana.",
-    "createTime": "2026-07-21T12:31:41.871901Z",
-    "updateTime": "2026-07-21T12:31:41.871901Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxSmRrVlZVSGgwTTBObk1UUklhMFpXZDAwMGFtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ana Saez"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención de Anita!!!! Se organizo genial para atender a 35 personas. Una genia\n\n(Translated by Google)\nAnita provided excellent service! She was incredibly organized to accommodate 35 people. She\u0027s fantastic!",
-    "createTime": "2026-07-21T12:16:49.879011Z",
-    "updateTime": "2026-07-21T12:28:29.667267Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ05GOVdSRnBVTkU5WFkwZ3RZelJuTkZoaFpIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "silalediaz"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente la atención de Anita.\n\n(Translated by Google)\nAnita\u0027s service was excellent.",
-    "createTime": "2026-07-21T12:27:16.537482Z",
-    "updateTime": "2026-07-21T12:27:16.537482Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jME1rdHBSMHAwVjAxVWRHSjJVMGQwTkhGVFZIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Uzin Federico Psicopedagogo-Tutor"
-    },
-    "starRating": "FIVE",
-    "comment": "Una genia Anita, organizó un contingente de 30 personas y nos atendió con una hermosa sonrisa y muy buena predisposición\n\n(Translated by Google)\nAnita was a genius; she organized a group of 30 people and attended to us with a beautiful smile and a very positive attitude.",
-    "createTime": "2026-07-21T12:16:54.645063Z",
-    "updateTime": "2026-07-21T12:16:54.645063Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCUk9YTmhabEZFVmkwM09FczVlVmxMZUdKUU5sRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ezequiel Durante"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención! Super recomendable\n\n(Translated by Google)\nExcellent service! Highly recommended!",
-    "createTime": "2026-07-19T13:46:30.205621Z",
-    "updateTime": "2026-07-19T13:46:30.205621Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRMFJsUjJRVlpXUjNkbFJXa3hOMlZRUTFrd2NIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pedro Picabea"
-    },
-    "starRating": "FOUR",
-    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-07-18T21:09:29.616522Z",
-    "updateTime": "2026-07-18T21:09:29.616522Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WUFYzaE1kV1o2TjJSeGJGWkNRbDlCU2t0QlVXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Eduardo Ramos"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-17T20:24:53.130679Z",
-    "updateTime": "2026-07-17T20:24:53.130679Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWd01ITTJNMEZKY0RsSExXVTJUR3ByUTA5bmFtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Renato Mazzanti"
-    },
-    "starRating": "FIVE",
-    "comment": "Ultimo lugar con nafta, rumbo a Villa Unión\n\n(Translated by Google)\nLast place with gas, heading towards Villa Unión",
-    "createTime": "2026-07-17T00:44:18.944625Z",
-    "updateTime": "2026-07-17T00:44:18.944625Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1aE9XUTVPV3haUlVSeVgzcFpWbWRCWkRGbVoyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Bárbara Leblic"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente la atención!\n\n(Translated by Google)\nExcellent service!",
-    "createTime": "2026-07-16T17:53:13.792833Z",
-    "updateTime": "2026-07-16T17:54:19.019402Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGeVptaHFla0l6TTFCeGNIaHZWbFZqUVZwU1ZVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniel Requena"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención y calidad!\n\n(Translated by Google)\nExcellent service and quality!",
-    "createTime": "2026-07-16T17:44:14.244362Z",
-    "updateTime": "2026-07-16T17:44:14.244362Z",
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT210U1NTMVFURkZ3U2t4eFlUZFlXVXRXTWxWMGNrRRAB"
   }]
 }

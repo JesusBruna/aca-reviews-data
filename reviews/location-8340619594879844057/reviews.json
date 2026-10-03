@@ -1,11 +1,27 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Jorge Felice"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-28T03:39:37.988128Z",
+    "updateTime": "2026-08-28T03:39:37.988128Z",
+    "reviewReply": {
+      "comment": "Hola Jorge! Gracias por dejarnos tu reseña! Nos gustaria que nos cuentes algo sobre tu experiencia con nuestro servicio y equipo. Si tienes alguna sugerencia, siempre es bienvenida. Nuestros clientes son lo más importante para nosotros! Gracias por tu visita!",
+      "updateTime": "2026-09-08T16:28:09.981376Z"
+    },
+    "name": "accounts/109853746269412609224/locations/8340619594879844057/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNd2VUZEtUV2swWTJSWGVtVjBabmhzU1ZnM1NIYxAB"
+  }, {
+    "reviewer": {
       "displayName": "dario aguilera"
     },
     "starRating": "FOUR",
     "createTime": "2026-07-23T01:01:56.244561Z",
     "updateTime": "2026-07-23T01:01:56.244561Z",
+    "reviewReply": {
+      "comment": "Hola Dario! Gracias por dejarnos tu reseña! Nos gustaria que nos cuentes algo sobre tu experiencia con nuestro servicio y equipo. Si tienes alguna sugerencia, siempre es bienvenida. Nuestros clientes son lo más importante para nosotros! Gracias por tu visita!",
+      "updateTime": "2026-09-08T16:28:26.486610Z"
+    },
     "name": "accounts/109853746269412609224/locations/8340619594879844057/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoVU1tTTVSelZZYlUxdGRWOVFNRlZHUWpVMVNHYxAB"
   }, {
     "reviewer": {
@@ -14,6 +30,10 @@
     "starRating": "FIVE",
     "createTime": "2026-07-07T17:22:18.943825Z",
     "updateTime": "2026-07-07T17:22:18.943825Z",
+    "reviewReply": {
+      "comment": "Hola Marce! Gracias por dejarnos tu reseña! Nos gustaria que nos cuentes algo sobre tu experiencia con nuestro servicio y equipo. Si tienes alguna sugerencia, siempre es bienvenida. Nuestros clientes son lo más importante para nosotros! Gracias por tu visita!",
+      "updateTime": "2026-09-08T16:28:41.454741Z"
+    },
     "name": "accounts/109853746269412609224/locations/8340619594879844057/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FM1R6VjJjWHBNUzBoTVQyRmxSRXRQTkV0WGVWRRAB"
   }, {
     "reviewer": {
@@ -171,13 +191,5 @@
     "createTime": "2025-12-22T02:33:49.530090Z",
     "updateTime": "2025-12-22T02:33:49.530090Z",
     "name": "accounts/109853746269412609224/locations/8340619594879844057/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oUFVEVnBWVGxKVDJwWWREaEZOa1J1TmxZelltYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Bruno"
-    },
-    "starRating": "THREE",
-    "createTime": "2025-12-15T21:25:46.792739Z",
-    "updateTime": "2025-12-15T21:25:46.792739Z",
-    "name": "accounts/109853746269412609224/locations/8340619594879844057/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSWJqaGhURUZUTkVWeWJuVmZZWEowTmtSVFpVRRAB"
   }]
 }

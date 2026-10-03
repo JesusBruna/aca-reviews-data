@@ -1,6 +1,23 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "GABRIEL ACUÑA"
+    },
+    "starRating": "TWO",
+    "comment": "Muy linda la renovación pero la atención es pésima…están mas pendientes de charlar entre sí que del cliente… pedis un trenzado tostado se olvidan y lo queman.. luego te entregan uno pasado por microondas y sin tostar… pedis un cafe grande como suele haber en todos los full y te dan uno pequeño.. “aca el grande es este” te dicen… ni ganas de volver a comprar en este lugar literal el sandwich adentro esta helado 🤮 para comerlo de esa manera lo compro en un supermercado\n\n(Translated by Google)\nThe renovation is lovely, but the service is terrible. They\u0027re more focused on chatting amongst themselves than on the customer. You order a toasted braided bread, they forget and burn it, then they give you one that\u0027s been microwaved and isn\u0027t toasted. You order a large coffee, like you usually get at full-size restaurants, and they give you a small one. \"This is the large one here,\" they tell you. I have no desire to ever buy from this place again. The sandwich inside is literally ice cold 🤮. I\u0027d rather buy it at a supermarket than eat it like that.",
+    "createTime": "2026-09-26T11:18:21.712442Z",
+    "updateTime": "2026-09-26T11:19:12.774827Z",
+    "name": "accounts/109853746269412609224/locations/549693288320464901/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKeU5GZzFRV0ZMVkVVM1VYaHlSMWhxUXpadWJsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Nicolás"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-24T12:25:33.609050Z",
+    "updateTime": "2026-09-24T12:25:33.609050Z",
+    "name": "accounts/109853746269412609224/locations/549693288320464901/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4U01FWjNNbVF4U0dwTlJVcHRWVTFHUkZSRmFtYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Juan Pablo Arze"
     },
     "starRating": "FOUR",
@@ -154,23 +171,5 @@
     "createTime": "2026-02-09T19:03:58.883174Z",
     "updateTime": "2026-02-09T19:03:58.883174Z",
     "name": "accounts/109853746269412609224/locations/549693288320464901/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwS1RrRm9SRWRETWsxRWJVNVhaR2MwZURGMk5YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pato Bartoloni"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención!! Los chicos son unos genios siempre con buena onda!\n\n(Translated by Google)\nExcellent service!! The guys are awesome, always so friendly!",
-    "createTime": "2026-02-09T18:32:24.096326Z",
-    "updateTime": "2026-02-09T18:32:24.096326Z",
-    "name": "accounts/109853746269412609224/locations/549693288320464901/reviews/Ci9DQUlRQUNvZENodHljRjlvT2padVNVSkdhM2RDYW0wNE1rOTRkV1pTU1ZKNU5uYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcela Bellini"
-    },
-    "starRating": "FIVE",
-    "comment": "Atención excelente de German\n\n(Translated by Google)\nExcellent service from German",
-    "createTime": "2026-02-09T18:01:19.787056Z",
-    "updateTime": "2026-02-09T18:01:19.787056Z",
-    "name": "accounts/109853746269412609224/locations/549693288320464901/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVFMweDBTVzVHWWtaU1MzTnRiWEpJTVhOVlJsRRAB"
   }]
 }

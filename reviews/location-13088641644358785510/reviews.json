@@ -1,6 +1,56 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Maira Talavera"
+    },
+    "starRating": "ONE",
+    "comment": "No aceptan más transferencia , solo tarjetas y efectivos, pésimo por qué ya fuy 2 veces y tuve que venir hasta otra estación me quita mucho tiempo .\n\n(Translated by Google)\nThey no longer accept transfers, only cards and cash, which is terrible because I\u0027ve already been twice and had to come to another station, which takes up a lot of my time.",
+    "createTime": "2026-09-26T00:47:05.470452Z",
+    "updateTime": "2026-09-26T00:47:05.470452Z",
+    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsSWJuQkdSMDFEWjNCT2FYRk9OMFpOUzNWNE1uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mar Querido"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-22T04:04:45.815973Z",
+    "updateTime": "2026-09-22T04:04:45.815973Z",
+    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4YVpXNWZhRjl4YkcxWFZFOWpTMDVwT1ZWeVowRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Olmedo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-14T22:29:48.152201Z",
+    "updateTime": "2026-09-14T22:29:48.152201Z",
+    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT20weFFqQkhSelY2YkRKVVR6ZEpUVWt4VFdGYVNGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Brunelli"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-02T10:50:45.092884Z",
+    "updateTime": "2026-09-02T10:50:45.092884Z",
+    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SaWRqRkhWbEJMWWpsVkxXeG5la0l3WmxjMFoyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Aldo De Jesús Vargas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-15T19:04:47.008677Z",
+    "updateTime": "2026-08-15T19:04:47.008677Z",
+    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVFNqVlNRV0ZaV1VSMVlXMTFRazV3Y25Wd1gyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Josema Aguirre"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenas atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-08-06T17:05:17.667332Z",
+    "updateTime": "2026-08-06T17:05:17.667332Z",
+    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taSk16Qm5hWHA2YW1wVFdEUjJkakZKTmxSYU5XYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Maestro"
     },
     "starRating": "FIVE",
@@ -116,55 +166,5 @@
     "createTime": "2026-04-22T03:05:46.712909Z",
     "updateTime": "2026-04-22T03:05:46.712909Z",
     "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT210cmJtbERlV2N6Ymtoa1pVNHpXRlZQY1dST2FHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nicolas Romero acuña"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-22T02:04:29.816117Z",
-    "updateTime": "2026-04-22T02:04:29.816117Z",
-    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wdFEzVTJMWFJzTmxaNmVHMWFSSGh3YURRMVJGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jorge Bevilacqua"
-    },
-    "starRating": "FOUR",
-    "comment": "El lugar no es muy lindo pero muy agradables los playeros\n\n(Translated by Google)\nThe place isn\u0027t very pretty, but the beachgoers are very nice.",
-    "createTime": "2026-04-18T01:28:28.691996Z",
-    "updateTime": "2026-04-18T01:28:28.691996Z",
-    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pabFNVTjJiMEpNWWxFd1IzZFRORGhCVm1RM2NVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fabio Alberto Paredes"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-17T01:20:03.122765Z",
-    "updateTime": "2026-04-17T01:20:03.122765Z",
-    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GSldFUmlYMmxYTWpKeGJtWllabXhJV1RGRVJVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Romina Hortencia Lugo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-16T12:49:53.296197Z",
-    "updateTime": "2026-04-16T12:49:53.296197Z",
-    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kR2JtaEpRbGRxT0hWQlZrRTVjMVoyWjNaMlVXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nadia Beccari"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-08T18:45:19.260228Z",
-    "updateTime": "2026-04-08T18:45:19.260228Z",
-    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FM1dVWkdhRzF0UVVsTFluQnNiRmRzY1RVNFVuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ruben Spessot"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención y asesoramiento en Boxes. Me respondieron todas las dudas que tuve y el informe del escaneo es muy completo.\nAlfredo muy responsable y atento, se nota la capacitacion y la vocación. Super recomendable. 10/10\n\n(Translated by Google)\nExcellent service and advice at Boxes. They answered all my questions, and the scan report was very comprehensive.\nAlfredo was very responsible and attentive; his training and dedication are evident. Highly recommended. 10/10",
-    "createTime": "2026-03-31T19:16:29.135386Z",
-    "updateTime": "2026-03-31T19:16:29.135386Z",
-    "name": "accounts/109853746269412609224/locations/13088641644358785510/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnelMwaHdlRTlOY1ZFNGJIWkNiV2Q2V1dvM1VWRRAB"
   }]
 }

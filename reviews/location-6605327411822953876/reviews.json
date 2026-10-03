@@ -1,6 +1,108 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Soledad Maciel Ramos Mejia"
+    },
+    "starRating": "FIVE",
+    "comment": "Comida deliciosa, excelente atención manteniéndose fiel al estilo del ACA. Recomiendo especialmente el lomito completo para compartir. Volveremos!\n\n(Translated by Google)\nDelicious food, excellent service, staying true to the ACA style. I especially recommend the complete steak sandwich to share. We\u0027ll be back!",
+    "createTime": "2026-09-27T17:26:41.590111Z",
+    "updateTime": "2026-09-27T17:26:41.590111Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WSWNuRnZlblF5VFZvdFZrdFNVSGRLV2twTE0zYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Simonoff"
+    },
+    "starRating": "FIVE",
+    "comment": "Agradable lugar\n\n(Translated by Google)\nNice place",
+    "createTime": "2026-09-22T17:55:21.282554Z",
+    "updateTime": "2026-09-22T17:56:18.757326Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGQ00wOVRSVEUzWDB4TlZsVnZSMjlsVGpWT2FWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "oscar spiga"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy lindo lugar y excelente la atención tanto en la playa como en el FULL.\nEs reconfortante cuando se es bien atendido después de kilómetros en ruta.\nGRACIAS  !!!\n\n(Translated by Google)\nVery nice place and excellent service both on the beach and at the full service station.\nIt\u0027s so comforting to be well taken care of after miles on the road.\nTHANK YOU!!!",
+    "createTime": "2026-09-19T22:29:53.690995Z",
+    "updateTime": "2026-09-19T22:29:53.690995Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJdFRGOUNUVjgyUlZWM1F6aGpZVVJ3WDB4T1VuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fotolandler"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar. Muy buena atención y excelente pastelería\n\n(Translated by Google)\nGreat place. Excellent service and superb pastries.",
+    "createTime": "2022-05-14T22:32:16.488305Z",
+    "updateTime": "2026-09-17T12:11:39.383169Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyanUzWGNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose luis Zuvilivia"
+    },
+    "starRating": "FIVE",
+    "comment": "Comoda y accesible\n\n(Translated by Google)\nComfortable and accessible",
+    "createTime": "2026-09-11T19:28:47.926716Z",
+    "updateTime": "2026-09-11T19:28:47.926716Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OTmJYZE1UV2wyT0hkR1dXOWxjemRyVERGRFltYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Pignataro Cattaneo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-01T07:55:28.987856Z",
+    "updateTime": "2026-09-01T07:55:28.987856Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT200eVUycG1WbWRZYjA1VlgwbEphRVIyTWt4dlRuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Ferrer"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-26T19:55:06.655807Z",
+    "updateTime": "2026-08-26T19:55:06.655807Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT210SVdFeDFhWFJQTUd3NFRGRk1WbFZuVG1GTFkwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-24T13:54:35.815490Z",
+    "updateTime": "2026-08-24T13:54:35.815490Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oWU5IWkNSR3hWUzFBMVlrMUVhRTFtYzA1WmRrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Cox"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-16T15:31:33.514780Z",
+    "updateTime": "2026-08-16T15:31:33.514780Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OU1pVTkhSRzFTVWt0aWRETlNla0ZCYUc0eVMwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mauricio grivarello"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-15T13:52:50.608763Z",
+    "updateTime": "2026-08-15T13:52:50.608763Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oS2JtbE1kbk5pWW5GblZDMTVVMVJFT0RNNFZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natanael Pepper"
+    },
+    "starRating": "FIVE",
+    "comment": "me gustaria que la tienda este habierta hasta mas tarde.\npero lindo lugar y excelente atencion y muy limpo\n\n(Translated by Google)\nI wish the store was open later.\n\nBut it\u0027s a nice place, the service is excellent, and it\u0027s very clean.",
+    "createTime": "2026-08-13T01:35:57.940704Z",
+    "updateTime": "2026-08-13T01:35:57.940704Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WamJFVlJjMmQyTjJGeWMzQmFRMlYzVGtKTFNWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Lucero Torres"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-03T13:26:01.195450Z",
+    "updateTime": "2026-08-03T13:26:01.195450Z",
+    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toWVUwcEJMV2xWYzBzeU5tMWFSVFJPTFRCWWFFRRAB"
+  }, {
+    "reviewer": {
       "displayName": "gerardo morguen"
     },
     "starRating": "FOUR",
@@ -65,110 +167,5 @@
     "createTime": "2026-07-21T11:16:56.326204Z",
     "updateTime": "2026-07-21T11:16:56.326204Z",
     "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkdE1HZHRVbmwzTm5wcFZHNUVNbFJoY2tWM1RHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Luciano Zarich"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atencio y muy biena ubicacion\n\n(Translated by Google)\nGood service and a great location",
-    "createTime": "2026-07-20T19:41:28.109257Z",
-    "updateTime": "2026-07-20T19:41:28.109257Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Oc1QyVTVVMDVRY1dwalkyaGhSVzlOU1hkU1NrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gerardo Daniel Isasi"
-    },
-    "starRating": "FOUR",
-    "comment": "Difícil acceso  buena atención\n\n(Translated by Google)\nDifficult access to good care",
-    "createTime": "2026-07-19T23:57:00.561034Z",
-    "updateTime": "2026-07-19T23:57:00.561034Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VVVqZHBibkZhU0d4UlFXUlVVbFZ3ZWw5eVpXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "jorge daniel gimenez"
-    },
-    "starRating": "FIVE",
-    "comment": "Agradable lugar. Los precios del shopp un poco arriba comparando con las demás estaciónes.\n\n(Translated by Google)\nNice place. The prices in the shop are a bit higher compared to other stations.",
-    "createTime": "2026-07-09T00:29:34.462390Z",
-    "updateTime": "2026-07-09T00:29:34.462390Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WclRVOVBPR2xYYmxWblVtVnRTek0zV21WS2NYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sandra Silva"
-    },
-    "starRating": "FOUR",
-    "comment": "Hermoso lugar de descanso,excelente atención, comida al paso exquisito 👌. Muy buen servicio 👍\n\n(Translated by Google)\nBeautiful place to relax, excellent service, delicious street food 👌. Very good service 👍",
-    "createTime": "2026-06-25T21:21:08.400724Z",
-    "updateTime": "2026-06-25T21:21:08.400724Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGWFNHMVBVVUZLUlZoWVN6SnVjemRhVjNod1dsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Germán Romano"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-22T19:54:58.090267Z",
-    "updateTime": "2026-06-22T19:54:58.090267Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKblpHbDJiMTlrVlhSdE5IcHVTbWd0VUUxT2FFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Julio Goffredi"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención. El personal de playa es súper amable. Los baños siempre limpios y el área de descanso está hermosa.\n\n(Translated by Google)\nExcellent service. The beach staff is super friendly. The restrooms are always clean and the lounge area is beautiful.",
-    "createTime": "2026-06-19T04:27:04.862071Z",
-    "updateTime": "2026-06-19T04:27:04.862071Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGcGJXcHlhamhOWWpKMlRUaHFabTh4UzNSRGJuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Andrea Amimone"
-    },
-    "starRating": "FOUR",
-    "comment": "Excelente atención del personal. Tienen tartas, empanadas sándwiches para almorzar, todo tipo casero, lo que se valora mucho! Todo rico! También el dulce de leche artesanal es muy bueno.\n\n(Translated by Google)\nExcellent service from the staff. They have cakes, empanadas, and sandwiches for lunch, all homemade, which is much appreciated! Everything is delicious! The homemade dulce de leche is also very good.",
-    "createTime": "2026-06-17T16:08:02.040367Z",
-    "updateTime": "2026-06-17T16:08:02.040367Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCcWFHdEZXVmcxVURoSVRUSkpjbmhFWmpWUk5uYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Tatun"
-    },
-    "starRating": "FIVE",
-    "comment": "Good",
-    "createTime": "2026-06-17T12:04:35.234391Z",
-    "updateTime": "2026-06-17T12:04:35.234391Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT205NlZqQktXRzQzZUVabE5GaGtNRXRmWlRsVGJXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Claudio Lujan"
-    },
-    "starRating": "FIVE",
-    "comment": "Veniamos de Doyle,sin posibilidad de almorzar(resto cerrado)...optamos por esta Estación y la verdad sorprendidos lo bien que almorzamos e inmejorable atención ,agendado obligatorio de mi parte para futuras paradas y disfrutar del parque q posee el predio...saludos al personal por vuestra atención, volverenos sin dudar!\n\n(Translated by Google)\nWe were coming from Doyle, with no possibility of having lunch (restaurant closed)...we opted for this station and were truly surprised by how good the lunch was and the service was unbeatable. It\u0027s definitely on my list for future stops to enjoy the park on the property...greetings to the staff for your attention, we will definitely be back!",
-    "createTime": "2026-06-16T16:13:16.220007Z",
-    "updateTime": "2026-06-16T16:13:16.220007Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTlZsZEhhbE4zUVhaWVJUWXRjSEJCZEhkZmFsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fernando Jimena"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-10T23:06:59.627750Z",
-    "updateTime": "2026-06-10T23:06:59.627750Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KM1N5MTVWblZGYW5GTWFETkVjbFJrTWs5ZlpuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniel Lopez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-10T21:04:41.456655Z",
-    "updateTime": "2026-06-10T21:04:41.456655Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwdlVuWTJkRlV5VEc1aVVtaEdOVTA1U1VWcE9IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Luciano Federici"
-    },
-    "starRating": "FIVE",
-    "comment": "Unos genios los chicos de la playa... muy buen servicio y muy buena atención\n\n(Translated by Google)\nThe guys at the beach are geniuses... great service and excellent attention",
-    "createTime": "2026-06-08T16:05:20.330848Z",
-    "updateTime": "2026-06-08T16:05:20.330848Z",
-    "name": "accounts/109853746269412609224/locations/6605327411822953876/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkU1JUVjVjV1ZJZFdGTE0xWnpaVTFTTFc5SWNFRRAB"
   }]
 }

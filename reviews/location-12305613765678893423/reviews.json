@@ -1,6 +1,47 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Enzo Curatola"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-08T21:24:45.081003Z",
+    "updateTime": "2026-09-08T21:24:45.081003Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4aFgyVnlNSFpmVUZNM2JsZERla1ZHWlZaWFdIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lautaro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-05T17:43:19.958712Z",
+    "updateTime": "2026-09-05T17:43:19.958712Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twWk4xWkVUbE5GU0hZNVNGUk1hblV0UmkxSE5uYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Ramos Mejía"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-25T21:15:08.413960Z",
+    "updateTime": "2026-08-25T21:15:08.413960Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kRWVFMTRTR0pVU1hkYVFtZDFlRk5VYVhZeVJHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Gardey"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-24T12:50:37.723705Z",
+    "updateTime": "2026-08-24T12:50:37.723705Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KTWIwNUlaakJJTTA1eVJEWXRUemRrTUdsd1JrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Sceberas"
+    },
+    "starRating": "THREE",
+    "comment": "En el barrio corrió la información que cierran definitivamente a mediados de este mes de agosto 2026\nSi esto es cierto, Lamento por los empleados que se quedarían sin trabajo y como vecina;  sería bueno saber que utilización de va a hacer de  ese espacio\n\n(Translated by Google)\nRumors are circulating in the neighborhood that they\u0027re closing permanently in the middle of August 2026. If this is true, I feel sorry for the employees who will lose their jobs, and as a neighbor, I\u0027d like to know what they\u0027re going to do with the space.",
+    "createTime": "2026-08-03T18:44:46.724803Z",
+    "updateTime": "2026-08-03T18:44:46.724803Z",
+    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKRWFGRlFOSEpQYW1GdWJ6RTVRVVV4YldSeU5HYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Raul Armando Carrasco"
     },
     "starRating": "FIVE",
@@ -131,48 +172,5 @@
     "createTime": "2026-05-16T21:36:42.457803Z",
     "updateTime": "2026-05-16T21:36:42.457803Z",
     "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0d0xYaGxUakJ4VUZSYVUzSkhXVWRXUVZCSmQwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Leandro Nicolas Dedico"
-    },
-    "starRating": "THREE",
-    "comment": "Un poco lentos , cargo ahí por el descuento de ACA\n\n(Translated by Google)\nA bit slow, I\u0027ll charge there because of the ACA discount",
-    "createTime": "2026-05-14T14:50:08.334978Z",
-    "updateTime": "2026-05-14T14:50:08.334978Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWlVrWTJWRUpsWDFSYVNrVmtUa0pHUkdWc05IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Roxana Saravia"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-09T12:03:25.668871Z",
-    "updateTime": "2026-05-09T12:03:25.668871Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kRmRWTk1hVEJPV1hBMFF6UnBWVEZWYjBaaE1FRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "claudio gauto"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-24T16:50:06.796611Z",
-    "updateTime": "2026-04-24T16:50:06.796611Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Wb2JtNVVNRkJRUTNkb2QwcHdOVTlKYm0wdE1sRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alejandra Quintana"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
-    "createTime": "2026-04-23T01:09:15.414561Z",
-    "updateTime": "2026-04-23T01:09:15.414561Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT201NGFtODJZV2RzTm5GWWFsa3ljM1ZVYkdGdVNuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sergio Carusso"
-    },
-    "starRating": "FOUR",
-    "comment": "Muy buena atención de los empleados del lugar.\n\n(Translated by Google)\nExcellent service from the staff.",
-    "createTime": "2026-04-18T16:38:06.642343Z",
-    "updateTime": "2026-04-18T16:39:03.867833Z",
-    "name": "accounts/109853746269412609224/locations/12305613765678893423/reviews/Ci9DQUlRQUNvZENodHljRjlvT204NU16bEdaRTFEWkdzM1lUZGtPVWhoTUVvMldVRRAB"
   }]
 }

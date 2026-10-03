@@ -1,6 +1,91 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Laura Gabriela Fulloni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-11-26T22:30:00.015386Z",
+    "updateTime": "2026-09-23T16:31:17.652714Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/ChZDSUhNMG9nS0VJQ0FnSURpalBqcEFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge"
+    },
+    "starRating": "FIVE",
+    "comment": "Carga rápida y sin demoras buen servicio\n\n(Translated by Google)\nFast and uninterrupted charging, good service",
+    "createTime": "2026-09-14T18:55:47.590465Z",
+    "updateTime": "2026-09-14T18:55:47.590465Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oMlYxOTBhRWgxTTNKcUxYcFNaV3B1ZW5CdFZFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Isern"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-06T03:09:18.899809Z",
+    "updateTime": "2026-09-06T03:09:18.899809Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwUlFYbDBWbU5IZG01Q2NXOTVhVTAzWVd4RFJGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dado Aveiro"
+    },
+    "starRating": "ONE",
+    "comment": "El peor servicio de Ushuaia están adentro y no te atienden o están adentro de los autos y no se quieren bajar atender\n\n(Translated by Google)\nThe worst service in Ushuaia: they\u0027re either inside their cars and don\u0027t attend to you, or they\u0027re inside their cars and refuse to get out and help you.",
+    "createTime": "2026-09-04T09:02:38.395784Z",
+    "updateTime": "2026-09-04T09:02:38.395784Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twWWJFWlVlVmh2TmtWalUzUmpaVEpqTmxCT1VYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Platero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-03T00:54:29.587341Z",
+    "updateTime": "2026-09-03T00:54:29.587341Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aWk0waE1XRGhzWmxGTWJYbDBPRUUwZW1WV2ExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matute 117"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-01T18:08:22.437906Z",
+    "updateTime": "2026-09-01T18:08:22.437906Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5MGNVMDFURXAzVDJsblkydDVXamhGV0dWMWEzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Moyano"
+    },
+    "starRating": "ONE",
+    "comment": "Me encanta estar al pedo, pero los playeros de esta ypf me superan fuertemente\n\n(Translated by Google)\nI love being idle, but the beachgoers at this YPF station are way too much for me.",
+    "createTime": "2026-08-30T20:59:38.553188Z",
+    "updateTime": "2026-08-30T20:59:38.553188Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGblFXSmZTRk5XWW1wR2EzQTVTRGRaZDNWUVFtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Calzadilla"
+    },
+    "starRating": "ONE",
+    "comment": "Malísimo servicio, piden efectivo y sólo efectivo para una ficha de inflar las ruedas\n\n(Translated by Google)\nTerrible service, they demand cash and only cash for a token to inflate the tires",
+    "createTime": "2026-08-20T12:20:53.801065Z",
+    "updateTime": "2026-08-20T12:20:53.801065Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4ZlpUTkpkMFV5YUZwTE4wWnJiWEJSZWxkSVpVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Dario Muler"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-14T18:25:46.054539Z",
+    "updateTime": "2026-08-14T18:25:46.054539Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5Mk9EaGFUell4WXpScE1UVm5jWEJDVkhsTk5YYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "R g"
+    },
+    "starRating": "FIVE",
+    "comment": "Carga rápida de combustible\n\n(Translated by Google)\nFast fuel refueling",
+    "createTime": "2026-08-11T22:48:19.032395Z",
+    "updateTime": "2026-08-11T22:48:19.032395Z",
+    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwWVIwWk9OMVo2V0dSSk0yZGFNazV0U2w4eFQyYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Rocio Heinrich"
     },
     "starRating": "FOUR",
@@ -84,90 +169,5 @@
     "createTime": "2026-06-26T23:56:51.741364Z",
     "updateTime": "2026-06-26T23:56:51.741364Z",
     "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKb00xRjBhbG8yUlVwSFduRmFlR2hJZVdwSFoyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alejandro Cbrl"
-    },
-    "starRating": "FIVE",
-    "comment": "La.mejor estacion del pueblo!\n\n(Translated by Google)\nThe best station in town!",
-    "createTime": "2026-06-21T14:29:06.641488Z",
-    "updateTime": "2026-06-21T14:29:06.641488Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTFZESTNYell0YURabFIxUkZWRmhrU2tkTGVtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gerardo Carnevalini"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-19T00:32:47.794810Z",
-    "updateTime": "2026-06-19T00:32:47.794810Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kcmR6SkdTVGxZYVhNMVEyeEpSWEZ4YVRSemNrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Silvana Buezas"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-15T12:19:56.383622Z",
-    "updateTime": "2026-06-15T12:19:56.383622Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VMlJqaDNUSFU1TVhkVFQyNVhTM2xrYVVnemIxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcela A. Lavalle"
-    },
-    "starRating": "FIVE",
-    "comment": "Renovada estación, calidad atención\n\n(Translated by Google)\nRenovated station, quality service",
-    "createTime": "2026-06-08T19:08:25.851031Z",
-    "updateTime": "2026-06-08T19:08:25.851031Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twc1EzRnljVTl1TkdkcVdGVk9ZM2Q1UkRZeWRGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "leonardo robledo"
-    },
-    "starRating": "ONE",
-    "comment": "1 solo playero a las 12 de medio dia. Pesimo servicio\n\n(Translated by Google)\nOnly one beach attendant at noon. Terrible service.",
-    "createTime": "2026-06-08T15:12:53.137977Z",
-    "updateTime": "2026-06-08T15:12:53.137977Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWGNtVkhZUzFqZVZWTVRYUnlURFZXTkZvdFVVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Natalia Cabaña"
-    },
-    "starRating": "FOUR",
-    "comment": "Atención de primera en el Full. Felicitaciones!\n\n(Translated by Google)\nExcellent service at the Full. Congratulations!",
-    "createTime": "2026-05-30T21:14:30.924302Z",
-    "updateTime": "2026-05-30T21:14:30.924302Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VeVNtcHpkamRyVjB4SFJVZHhjM0pJY2pCTFVtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jose Villarrubia"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-28T01:29:15.002811Z",
-    "updateTime": "2026-05-28T01:29:15.002811Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsVlpWVlJVakZ5ZDJ0WUxVOWhSRWt4YzJkUVExRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Acosta Enrique"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-05-25T18:23:14.226795Z",
-    "updateTime": "2026-05-25T18:23:14.226795Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCRWNXRXpSekZ4U25ORVVIUkNMV1J1YW1aZlNYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rocio Sánchez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-19T12:26:41.192260Z",
-    "updateTime": "2026-05-19T12:26:41.192260Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OUGRHazFPV1JLVGxWSVFXdzJWRTh0Y1dGd1lrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo Ushuaia"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente el FULL, la atención es de primera! Felicitaciones!\n\n(Translated by Google)\nExcellent FULL package, top-notch service! Congratulations!",
-    "createTime": "2025-12-18T22:29:17.822752Z",
-    "updateTime": "2026-05-18T22:14:25.859778Z",
-    "name": "accounts/109853746269412609224/locations/6208441069977197261/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVlEzRkdUSE5sYVVwbU5FZFZSbHA0U21OQmJtYxAB"
   }]
 }

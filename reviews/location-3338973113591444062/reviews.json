@@ -1,6 +1,23 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Ezequiel Galardi"
+    },
+    "starRating": "ONE",
+    "comment": "Estafadores!!\n\nAntes de que cierre el mes me di de baja de las cocheras y me debitaron igual el mes siguiente. Nadie se hace cargo de nada, unos chantas\n\n(Translated by Google)\nScammers!!\n\nI cancelled my parking subscription before the end of the month, but they still charged me the following month. No one takes responsibility for anything; they\u0027re a bunch of crooks.",
+    "createTime": "2026-09-16T15:15:37.116667Z",
+    "updateTime": "2026-09-16T15:15:37.116667Z",
+    "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wSFJuWjZPRnBVUmt4c2JWaHRWRmhNYzA5eFdWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Cavallin"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-10T14:44:32.536728Z",
+    "updateTime": "2026-08-10T14:44:32.536728Z",
+    "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toTFQwaEpiVm93WmxGSGMzcHBTRUphWjJSbGRsRRAB"
+  }, {
+    "reviewer": {
       "displayName": "lu Frecero"
     },
     "starRating": "FIVE",
@@ -196,31 +213,5 @@
       "updateTime": "2025-12-24T15:16:39.327662Z"
     },
     "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5WVNWUmFjMWgyTUdweFFYRlpWMUZEVkdZelpFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Agustin Taborra"
-    },
-    "starRating": "ONE",
-    "comment": "No aceptan pago en efectivo, te atienden así nomás y no lo mencionan antes del ingreso, suerte si te agarra internet para poder sacar el auto\n\n(Translated by Google)\nThey don\u0027t accept cash, they just serve you without warning and don\u0027t mention it before you go in; good luck getting internet access to get your car out.",
-    "createTime": "2025-12-09T19:08:47.180516Z",
-    "updateTime": "2025-12-09T19:08:47.180516Z",
-    "reviewReply": {
-      "comment": "Hola Agustín perdón la demora en contestar tu situación vivida , en el ingreso en el mismo lugar que se retira el ticket hay un cartel informando la modalidad en forma de pago de los tickets , incluso en las cocheras hay más distribuidas , con respecto a internet hay un cartel al lado de la caja que se paga por ese modo dónde brindamos internet para que se conecten los usuarios que no lo tengan, Cualquier consulta te paso wathsapp 3416844104.",
-      "updateTime": "2026-03-11T14:40:31.947782Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wNVVGWk9OMlZKVmtwUVpuZzNUR2xaVjFCYU5HYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Silvina Cuffia"
-    },
-    "starRating": "THREE",
-    "comment": "Soy socia y percibo que ha bajado la calidad del servicio a los socios. Ejemplo si requieres verificar la presión de los neumáticos tienes que solicitar ficha tratando de encontrar al empleado para que te la entregue.\nPara acceder al sector para verificar la presion no tiene circulacion fácil de acceso\n\n(Translated by Google)\nI\u0027m a member and I\u0027ve noticed a decline in the quality of service for members. For example, if you need to check your tire pressure, you have to ask for a ticket and then try to find an employee to give it to you. The area where you check tire pressure isn\u0027t easily accessible.",
-    "createTime": "2025-10-14T01:01:20.281245Z",
-    "updateTime": "2025-10-14T01:01:20.281245Z",
-    "reviewReply": {
-      "comment": "Hola, ¿cómo estás?\nNos comunicamos porque hemos visto que recientemente dejaste un comentario en nuestro perfil de Google. Creemos que pudo haberse producido una confusión, ya que la reseña no corresponde a nuestro establecimiento.\n\nTe solicitamos, si es posible, corregirla o eliminarla, dado que impacta en nuestra calificación general.\nSi necesitás orientación para realizar el cambio, con gusto podemos ayudarte.\n\nAgradecemos tu tiempo y tu colaboración.",
-      "updateTime": "2025-12-01T19:16:55.218477Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3338973113591444062/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxWmMyNDRNVjgyTmxkVE5qZDBkbWswVERsak9IYxAB"
   }]
 }

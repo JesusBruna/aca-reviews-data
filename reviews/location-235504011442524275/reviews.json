@@ -1,6 +1,83 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "alejandro molina"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en ypf y gasolinera\n\n(Translated by Google)\nExcellent service at YPF and the gas station",
+    "createTime": "2026-09-28T19:13:05.142291Z",
+    "updateTime": "2026-09-28T19:13:05.142291Z",
+    "reviewReply": {
+      "comment": "Muchas Gracias!!!",
+      "updateTime": "2026-09-29T13:15:05.571960Z"
+    },
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GR2FVdExkRGRTYm1jMVdrTXlaekJqVEVOalJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "lrcx2007"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-23T00:47:35.579603Z",
+    "updateTime": "2026-09-23T00:47:35.579603Z",
+    "reviewReply": {
+      "comment": "Muchas gracias!!!\n",
+      "updateTime": "2026-09-29T13:14:51.456473Z"
+    },
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sU2FGRllkRlZaZUdKemFYWmhWVzV2ZFdoc1EyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Cabrera"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-09-04T04:25:44.058438Z",
+    "updateTime": "2026-09-04T04:26:54.210185Z",
+    "reviewReply": {
+      "comment": "Muchas gracias!!\n",
+      "updateTime": "2026-09-29T13:14:39.477790Z"
+    },
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5elZWUmhOR0YwYzFreVZVWklNak5wYkZoTVRHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miryam Adriana Niveiros"
+    },
+    "starRating": "FIVE",
+    "comment": "Hace ya un tiempo que no veníamos.  ¡El Hotel ha sido remodelado! Quedó muy lindo. Las habitaciones muy bonitas, la cena muy rica con precios razonables, y la atención excepcional.  Realmente para recomendar\n\n(Translated by Google)\nIt\u0027s been a while since we last visited. The hotel has been renovated! It looks beautiful. The rooms are lovely, the dinner is delicious and reasonably priced, and the service is exceptional. Highly recommended.",
+    "createTime": "2026-09-03T12:22:19.735385Z",
+    "updateTime": "2026-09-03T12:22:19.735385Z",
+    "reviewReply": {
+      "comment": "Mucahs gracias!!!\n",
+      "updateTime": "2026-09-29T13:14:27.081637Z"
+    },
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwTlJrVndSSGxVTjI5RFdVZHhWSFIwTUY5SllsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Blanco"
+    },
+    "starRating": "ONE",
+    "comment": "NO CARGAR INFINIA DIÉSEL,dos veces cargué,la semana pasada y hace dos meses atrás y a la Amarok se le encendió la luz del check del motor del tablero.OJO\n\n(Translated by Google)\nDO NOT FILL WITH INFINIA DIESEL. I filled up twice, last week and two months ago, and the check engine light on the Amarok\u0027s dashboard came on. WARNING",
+    "createTime": "2026-08-26T12:32:06.095376Z",
+    "updateTime": "2026-08-26T12:32:06.095376Z",
+    "reviewReply": {
+      "comment": "buenas tardes, contáctese con nosotros por este tema para interiorizarnos en lo sucedido. Tenemos certificaciones y controles de YPF y ACA en forma permanente\nMuchas gracias",
+      "updateTime": "2026-08-26T19:54:41.964604Z"
+    },
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WV2JFcGFjMk5uTmtKWFpWVmxjMjE2YW1aSFRIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Saloiña"
+    },
+    "starRating": "ONE",
+    "comment": "CUIDADO!!!!!!Hace dos meses cargamos Infinita diesel a una camioneta Amarok volviendo para capital,cargamos y a los pocos kilómetros se prendió la luz del check del motor,apagándose cuando se consumió el tanque de combustible,el sábado 22 de agosto 2026,llendo para el sur ,cargamos nuevamente, pasó exactamente lo mismo NO CARGAR COMBUSTIBLE,INFINIA DIÉSEL???????.Cargamos años atrás en varias oportunidades y nunca nos pasó eso.\nPor favor pongan detergente en los baños,nunca hay.\n\n(Translated by Google)\nWARNING!!! Two months ago, we filled up our Amarok pickup truck with Infinita Diesel on the way back to the capital. After filling up, the check engine light came on a few kilometers later, turning off when the tank was empty. On Saturday, August 22, 2026, heading south, we filled up again, and the exact same thing happened. DO NOT FILL UP WITH INFINIA DIESEL!!! We filled up there several times years ago, and this never happened.\n\nPlease put detergent in the restrooms; there\u0027s never any.",
+    "createTime": "2024-02-03T21:04:13.024967Z",
+    "updateTime": "2026-08-26T02:30:33.529900Z",
+    "reviewReply": {
+      "comment": "buenas tardes, contáctese con nosotros por este tema para interiorizarnos en lo sucedido. Tenemos certificaciones y controles de YPF y ACA en forma permanente\nMuchas gracias",
+      "updateTime": "2026-08-26T19:54:52.803811Z"
+    },
+    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0NnN6WDdRRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Ivan Gonzalez"
     },
     "starRating": "ONE",
@@ -24,6 +101,10 @@
     "starRating": "FIVE",
     "createTime": "2026-07-27T23:17:37.569426Z",
     "updateTime": "2026-07-27T23:17:37.569426Z",
+    "reviewReply": {
+      "comment": "muchas gracias\n",
+      "updateTime": "2026-08-26T19:55:17.397057Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWRFJqTjVSVVIwUTJ4Q1lVZDRlRlpJUkd0RE1GRRAB"
   }, {
     "reviewer": {
@@ -33,6 +114,10 @@
     "comment": "Muy buena la estación y excelente el restaurante\n\n(Translated by Google)\nThe station was very good and the restaurant was excellent.",
     "createTime": "2026-07-27T01:04:17.923382Z",
     "updateTime": "2026-07-27T01:04:17.923382Z",
+    "reviewReply": {
+      "comment": "Muchas gracias\n",
+      "updateTime": "2026-08-26T19:55:27.438184Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWlkwWmhZek55WW5wWlVITXhRMEZEV0hsR2QwRRAB"
   }, {
     "reviewer": {
@@ -41,6 +126,10 @@
     "starRating": "FIVE",
     "createTime": "2023-04-30T16:54:30.703889Z",
     "updateTime": "2026-07-24T10:43:30.563887Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:55:40.523128Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdGRPWUpnEAE"
   }, {
     "reviewer": {
@@ -49,6 +138,10 @@
     "starRating": "FIVE",
     "createTime": "2026-07-20T19:53:22.399049Z",
     "updateTime": "2026-07-20T19:53:22.399049Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:56:11.105807Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1ak5qbExUVmhSVG1wYVZIUjZUMUZYWm1OYVpWRRAB"
   }, {
     "reviewer": {
@@ -57,6 +150,10 @@
     "starRating": "FIVE",
     "createTime": "2026-07-18T23:51:06.918819Z",
     "updateTime": "2026-07-18T23:51:06.918819Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:56:18.005666Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WWVYRlRWelZJWHpRelZrTnpZVlpEUm14T1FVRRAB"
   }, {
     "reviewer": {
@@ -66,6 +163,10 @@
     "comment": "Excelente\n\n(Translated by Google)\nExcellent",
     "createTime": "2026-07-16T12:10:52.026399Z",
     "updateTime": "2026-07-16T12:10:52.026399Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:56:26.949077Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvNVltaGhNVlJaVkVKS2QxSjRNMUI0UTBGdmFFRRAB"
   }, {
     "reviewer": {
@@ -74,6 +175,10 @@
     "starRating": "FIVE",
     "createTime": "2026-06-27T18:08:59.965170Z",
     "updateTime": "2026-06-27T18:08:59.965170Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:56:43.243297Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Kd1NGUnpZWGxQTm5oV2VrMVRTWGRsZUhWVmNXYxAB"
   }, {
     "reviewer": {
@@ -82,6 +187,10 @@
     "starRating": "FIVE",
     "createTime": "2026-06-25T18:03:00.052836Z",
     "updateTime": "2026-06-25T18:03:00.052836Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:56:51.869024Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kTE1IVTJSVlJpZDBSeWEwUjNSakpWWjBRdFkzYxAB"
   }, {
     "reviewer": {
@@ -90,6 +199,10 @@
     "starRating": "FIVE",
     "createTime": "2026-06-25T17:53:12.760163Z",
     "updateTime": "2026-06-25T17:53:12.760163Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:57:02.324676Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCaGVIWk9lVmN4WTJsZmRXbEpSVlZMTkVrMGIyYxAB"
   }, {
     "reviewer": {
@@ -98,6 +211,10 @@
     "starRating": "FIVE",
     "createTime": "2026-06-25T17:40:52.782573Z",
     "updateTime": "2026-06-25T17:40:52.782573Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:57:10.117986Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xveVJFVk5iVGgwYTFCRldYQlRSRVJ2YjJ0NFEwRRAB"
   }, {
     "reviewer": {
@@ -106,6 +223,10 @@
     "starRating": "FIVE",
     "createTime": "2026-06-13T23:20:04.022991Z",
     "updateTime": "2026-06-13T23:20:04.022991Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:57:20.650822Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVWVYUXhkVU5XUzJGUlZsRjBZbGhMU1d4S1kyYxAB"
   }, {
     "reviewer": {
@@ -115,55 +236,10 @@
     "comment": "Pasamos de camino, baños om0ecables, muy buena atención.\n\n(Translated by Google)\nWe stopped by on the way, the restrooms were great, and the service was excellent.",
     "createTime": "2026-06-02T19:20:15.212887Z",
     "updateTime": "2026-06-02T19:20:15.212887Z",
+    "reviewReply": {
+      "comment": "Muchas gracias",
+      "updateTime": "2026-08-26T19:57:30.269628Z"
+    },
     "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0MU1XbFpORVJYYWtvMFZHZHpWa1Z4VkZac05YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "rodrigo garcia segura"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-24T18:40:15.448325Z",
-    "updateTime": "2026-05-24T18:40:15.448325Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oWVlVcHhMVTAxY0hOUFRWWTNabnB0U1RoZlpGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Eduardo Camazon"
-    },
-    "starRating": "FIVE",
-    "comment": "Cómo siempre!! Muy bueno\n\n(Translated by Google)\nAs always!! Very good",
-    "createTime": "2026-05-23T16:02:40.954923Z",
-    "updateTime": "2026-05-23T16:02:40.954923Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT204NE5tTTJjblpqVW5CbFF6UjNXbXcxWjNoQmNFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "soha osbourne"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-17T15:23:56.942945Z",
-    "updateTime": "2026-05-17T15:23:56.942945Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGdFdubHZXRXhUTFZaaVZGSmlYMFZvUlhvd2FsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Andrea Di Sera"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-10T17:48:12.001240Z",
-    "updateTime": "2026-05-10T17:48:12.001240Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGd00wcEtWRmhJV2tONk4wOTRabW8wVERsa1NXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ruben Ernesto Defferrari"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-27T18:39:01.378459Z",
-    "updateTime": "2026-04-27T18:39:01.378459Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWT1NGOTBOVkJyYldscWRGZEljR1V5Ymt4YWExRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Yasmin Zambon"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-14T12:45:29.946811Z",
-    "updateTime": "2026-04-14T12:45:29.946811Z",
-    "name": "accounts/109853746269412609224/locations/235504011442524275/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSelFVSlNNbGhXVkVKYU4xWklTV1ZUZFhOSWJWRRAB"
   }]
 }

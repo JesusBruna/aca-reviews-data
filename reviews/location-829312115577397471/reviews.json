@@ -1,6 +1,36 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Hde Exposito"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-07T17:26:24.453078Z",
+    "updateTime": "2026-09-07T17:26:24.453078Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tveVZEZGpOelpFVUhWcVdEQk1jbGxsZWtOVk1YYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Antonia Otazo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención zona de servicios exelente\n\n(Translated by Google)\nGood service, excellent service area",
+    "createTime": "2026-08-28T18:26:13.732058Z",
+    "updateTime": "2026-08-28T18:26:13.732058Z",
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ka1gyRTJNR3BoZGs1eWVIUjVlVzVZYldOaVpuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Garcia"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buenos servicios y prolijo lugar\n\n(Translated by Google)\nVery good service and a well-kept place",
+    "createTime": "2026-08-08T19:07:56.183727Z",
+    "updateTime": "2026-08-08T19:07:56.183727Z",
+    "reviewReply": {
+      "comment": "Sergio.\nGracias por tu reseña, nos alegra que hayas tenido una buena experiencia. Será un placer volver a atenderte.",
+      "updateTime": "2026-09-01T19:21:55.382311Z"
+    },
+    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkSGVVOHpaMFZRTFdzeldXWjZWVTlwVkdKb1dWRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Cristian Unda"
     },
     "starRating": "FIVE",
@@ -163,32 +193,5 @@
     "createTime": "2026-04-01T14:38:42.185392Z",
     "updateTime": "2026-04-01T14:38:42.185392Z",
     "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SUlIwZExUbVo2ZFdoNmRtWkRNR2w0VEhORlgyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Oscar Jaled"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy limpio y ordenado, precios acordes y muy buena atención.\n\n(Translated by Google)\nVery clean and tidy, reasonable prices and excellent service.",
-    "createTime": "2026-03-31T11:03:57.124373Z",
-    "updateTime": "2026-03-31T11:03:57.124373Z",
-    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wNFdGVjVha3BpZVhkVGJtUjZPV1JwT0ZOZlNrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mariana18"
-    },
-    "starRating": "FOUR",
-    "comment": "Hay poco personal para la atención\n\n(Translated by Google)\nThere is insufficient staff for customer service.",
-    "createTime": "2026-03-23T22:36:39.382095Z",
-    "updateTime": "2026-03-23T22:36:39.382095Z",
-    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkaVdYTjVjM2c0VkRWM1Z5MDVZMEowY21oZlNXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gd"
-    },
-    "starRating": "TWO",
-    "comment": "Carisimo el combustible, buena atención del personal de playa\n\n(Translated by Google)\nFuel is very expensive, but the service from the beach staff is good.",
-    "createTime": "2026-03-23T17:00:50.230550Z",
-    "updateTime": "2026-03-23T17:00:50.230550Z",
-    "name": "accounts/109853746269412609224/locations/829312115577397471/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwb1ZsaEdUV0pRVWpKQlJEQmZlVXh2ZG1KcWMzYxAB"
   }]
 }

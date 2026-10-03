@@ -1,11 +1,114 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Raul Albarracin"
+    },
+    "starRating": "FOUR",
+    "createTime": "2024-08-03T05:30:25.131015Z",
+    "updateTime": "2026-09-22T11:32:45.236592Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.",
+      "updateTime": "2026-09-22T11:34:09.058061Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChZDSUhNMG9nS0VJQ0FnSURidk9uWEpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angeles Peña"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-14T01:32:07.228374Z",
+    "updateTime": "2026-09-14T01:32:07.228374Z",
+    "reviewReply": {
+      "comment": "Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
+      "updateTime": "2026-09-17T14:19:08.286637Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKSVh6aE1WM1prUnpKSlpGQXhTSG95TUd0aFkwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "César Gabriel Rúa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-01T16:15:45.621129Z",
+    "updateTime": "2026-09-01T16:15:45.621129Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"",
+      "updateTime": "2026-09-03T18:51:42.518139Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjMmJqbFdlRWcwYUZCSmFFMVhWSGszY0Zkc1EwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marce Cuello Scida"
+    },
+    "starRating": "ONE",
+    "comment": "Faltan productos y limpieza\n\n(Translated by Google)\nProducts and cleaning supplies are lacking.",
+    "createTime": "2026-08-31T18:42:44.192466Z",
+    "updateTime": "2026-08-31T18:42:44.192466Z",
+    "reviewReply": {
+      "comment": "lamentamos mucho que te hayas llevado esa impresión de nuestra estación.",
+      "updateTime": "2026-09-03T18:52:24.338726Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvMGR6Rk5XR2RpV1daQ1lsSkhhekoxZEhBNWExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Ruiz"
+    },
+    "starRating": "FOUR",
+    "comment": "Me gusto\n\n(Translated by Google)\nI liked it",
+    "createTime": "2019-06-13T10:48:44.497674Z",
+    "updateTime": "2026-08-23T04:06:27.985431Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"",
+      "updateTime": "2026-08-23T14:13:23.404453Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ0cW9tZGtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Agustin Capdevila"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-20T13:05:48.906772Z",
+    "updateTime": "2026-08-20T13:05:48.906772Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"\n",
+      "updateTime": "2026-08-20T23:03:24.949894Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT25scE1XOWhTVloxY21KMFpuWmlhMnRKVTNaYVNXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "YOLI CC"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención siempre cuando viajo paró ahí\n\n(Translated by Google)\nExcellent service, I always stop there when I travel",
+    "createTime": "2026-08-19T00:41:48.452017Z",
+    "updateTime": "2026-08-19T00:41:48.452017Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"\n",
+      "updateTime": "2026-08-20T23:03:36.269225Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GdlEzbEdiWFJTVlZRM2RIRTRURWhoY1ZSTE0yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Wilson Paez"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-08-07T02:07:55.691314Z",
+    "updateTime": "2026-08-07T02:07:55.691314Z",
+    "reviewReply": {
+      "comment": "gracias por tu visita y por puntuarnos. Nos gustaría saber qué podríamos mejorar para que tu próxima visita sea de 5 estrellas. ¡Tu opinión nos ayuda a crecer",
+      "updateTime": "2026-08-18T19:07:53.781533Z"
+    },
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSSFVYZzJkVzlyWmkxbldrbE5kQzFmVGxSWVFYYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Hugo Roberto Villalba"
     },
     "starRating": "THREE",
     "createTime": "2026-07-30T13:30:05.057047Z",
     "updateTime": "2026-07-30T13:30:05.057047Z",
+    "reviewReply": {
+      "comment": "gracias por tu visita y por puntuarnos. Nos gustaría saber qué podríamos mejorar para que tu próxima visita sea de 5 estrellas. ¡Tu opinión nos ayuda a crecer",
+      "updateTime": "2026-08-18T19:07:13.087591Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oMmJGZFFWVmhYV0hRMmRISkRSMFowVEU5YWJXYxAB"
   }, {
     "reviewer": {
@@ -14,6 +117,10 @@
     "starRating": "FOUR",
     "createTime": "2026-07-25T12:17:09.547080Z",
     "updateTime": "2026-07-25T12:17:09.547080Z",
+    "reviewReply": {
+      "comment": "gracias por tu visita y por puntuarnos. Nos gustaría saber qué podríamos mejorar para que tu próxima visita sea de 5 estrellas. ¡Tu opinión nos ayuda a crecer",
+      "updateTime": "2026-08-18T19:07:38.356150Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GRmNGTmxRbm93YVhKUGQxRmFWRVp1Um5reGFWRRAB"
   }, {
     "reviewer": {
@@ -23,6 +130,10 @@
     "comment": "Muy bien\n\n(Translated by Google)\nVery good",
     "createTime": "2026-07-13T17:32:17.356365Z",
     "updateTime": "2026-07-13T17:32:17.356365Z",
+    "reviewReply": {
+      "comment": "gracias por tu visita y por puntuarnos. Nos gustaría saber qué podríamos mejorar para que tu próxima visita sea de 5 estrellas. ¡Tu opinión nos ayuda a crecer",
+      "updateTime": "2026-08-18T19:07:22.423427Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1WFVHNXpaREpLYUV4amEwUkRXV3BKTW5WaGVYYxAB"
   }, {
     "reviewer": {
@@ -32,6 +143,10 @@
     "comment": "Hermosa estación de servicio, limpio los sanitarios, tenes de todo en el minimercado y sobretodo la atención de los empleados\n\n(Translated by Google)\nBeautiful gas station, clean restrooms, the convenience store has everything you need, and above all, the staff are very attentive.",
     "createTime": "2026-07-12T01:54:34.509441Z",
     "updateTime": "2026-07-12T01:54:34.509441Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"",
+      "updateTime": "2026-08-18T19:04:57.151188Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJNVJFaEdiWGhSTVdGbmVsbHpXVmxNZDNOa1pHYxAB"
   }, {
     "reviewer": {
@@ -40,6 +155,10 @@
     "starRating": "FIVE",
     "createTime": "2026-07-11T11:41:21.867696Z",
     "updateTime": "2026-07-11T11:41:21.867696Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"",
+      "updateTime": "2026-08-18T19:05:04.372109Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WMFNGbFVjVmRhWVRKMlRITmxXWFJ2TFU0d2RGRRAB"
   }, {
     "reviewer": {
@@ -49,6 +168,10 @@
     "comment": "Todo nuevo, bien ubicada, para tener en cuenta. Recomendable\n\n(Translated by Google)\nEverything is new, well located, definitely worth considering. Highly recommended.",
     "createTime": "2026-07-06T17:57:04.692479Z",
     "updateTime": "2026-07-06T17:57:04.692479Z",
+    "reviewReply": {
+      "comment": "gracias por tu visita y por puntuarnos. Nos gustaría saber qué podríamos mejorar para que tu próxima visita sea de 5 estrellas. ¡Tu opinión nos ayuda a crecer",
+      "updateTime": "2026-08-18T19:06:52.433018Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2todlFXWnJZVXBEWTFCSFlrVnljSE5KVkUxdE5FRRAB"
   }, {
     "reviewer": {
@@ -57,6 +180,10 @@
     "starRating": "FIVE",
     "createTime": "2026-06-30T16:43:30.388179Z",
     "updateTime": "2026-06-30T16:43:30.388179Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"",
+      "updateTime": "2026-08-18T19:05:16.348622Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tocFZXNVpTWGx2UkVSNWFFZFJXR1owVWs5QmJFRRAB"
   }, {
     "reviewer": {
@@ -65,6 +192,10 @@
     "starRating": "TWO",
     "createTime": "2026-06-12T05:49:53.977616Z",
     "updateTime": "2026-06-12T05:49:53.977616Z",
+    "reviewReply": {
+      "comment": "lamentamos mucho que te hayas llevado esa impresión de nuestra estación. ",
+      "updateTime": "2026-08-18T19:09:41.942943Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSWGJYRlhVVzl2UWxBMVVTMDRTR3BVU0RaUmVGRRAB"
   }, {
     "reviewer": {
@@ -73,6 +204,10 @@
     "starRating": "FIVE",
     "createTime": "2026-05-29T18:49:20.728714Z",
     "updateTime": "2026-05-29T18:49:20.728714Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"",
+      "updateTime": "2026-08-18T19:05:27.665275Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WU1RIaDZiMFJ2U1c5U1dVdHpWa2htTUhFd2FrRRAB"
   }, {
     "reviewer": {
@@ -81,6 +216,10 @@
     "starRating": "FIVE",
     "createTime": "2026-05-23T22:48:45.512847Z",
     "updateTime": "2026-05-23T22:48:45.512847Z",
+    "reviewReply": {
+      "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"",
+      "updateTime": "2026-08-18T19:04:21.955454Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5ME1HRlFOM0JDY0VsdWEwbDVkM1JVUzJSeFVuYxAB"
   }, {
     "reviewer": {
@@ -90,6 +229,10 @@
     "comment": "Bien ubicado, completo, baño limpio aunque 75%, la mayor parte de las oportunidades sin papel ni toallas de papel; Muy lenta la carga de combustible.\n\n(Translated by Google)\nWell located, complete, clean bathroom although 75%, most opportunities without toilet paper or paper towels; Very slow fueling.",
     "createTime": "2026-05-20T00:10:55.500034Z",
     "updateTime": "2026-05-20T00:10:55.500034Z",
+    "reviewReply": {
+      "comment": "gracias por tu visita y por puntuarnos. Nos gustaría saber qué podríamos mejorar para que tu próxima visita sea de 5 estrellas. ¡Tu opinión nos ayuda a crecer",
+      "updateTime": "2026-08-18T19:06:30.196982Z"
+    },
     "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT205SmFFTkRORmwwU1Mxdk0ydFhkbVpSWldwV2IyYxAB"
   }, {
     "reviewer": {
@@ -98,80 +241,10 @@
     "starRating": "FIVE",
     "createTime": "2026-05-18T09:44:46.430214Z",
     "updateTime": "2026-05-18T09:44:46.430214Z",
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWRWN6aEViekZhWVZGM1UyZHZMUzFaT1ZNemQyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Jose Gaitan"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy rico el desayuno..muy limpias las habitaciones y RESALTAR sobre TODO a ALEJANDRA....una 👌 persona..atención..PREDISPOSICIÓN.!!!..\n\n(Translated by Google)\nThe breakfast was delicious, the rooms were very clean, and I must especially highlight Alejandra... a truly wonderful person... attentive and always willing to help!",
-    "createTime": "2026-05-16T14:42:47.888770Z",
-    "updateTime": "2026-05-16T14:42:47.888770Z",
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoMVpVOXBXamRpUW5FeGRGVm9kbDlEY1doUFZHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "santiago nelson camisay"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-11T04:50:18.488005Z",
-    "updateTime": "2026-05-11T04:50:18.488005Z",
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5U2FubHlXVTlVZDFSSU5VeGFkR00xYlRGNVRWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Monica Castillo"
-    },
-    "starRating": "FOUR",
-    "comment": "Excelente servicio!!!!!!! 👍 Baños impecables 👍👍👍 los felicito!!! Gracias!!!\n\n(Translated by Google)\nExcellent service! 👍 Spotless bathrooms 👍👍👍 Congratulations! Thank you!",
-    "createTime": "2026-05-02T21:56:49.841597Z",
-    "updateTime": "2026-05-02T21:56:49.841597Z",
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5R1JqQTFNM05OVVd4eVFTMVRlR3N0TXpWRWNFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Patricia"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente lugar y atención\n\n(Translated by Google)\nExcellent place and service",
-    "createTime": "2026-05-02T11:21:39.170366Z",
-    "updateTime": "2026-05-02T11:21:39.170366Z",
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psd2RIbzVSWEJLVW1sZmVGRndZVzFNZG5seFptYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Eliana Carrizo"
-    },
-    "starRating": "ONE",
-    "comment": "Un asco los baños por favor. Es una YPF aca y está así? Una falta de respeto para la gente.\n\n(Translated by Google)\nThe bathrooms are disgusting, seriously. This is a YPF gas station and it\u0027s like this? It\u0027s disrespectful to people.",
-    "createTime": "2026-04-05T20:47:27.959840Z",
-    "updateTime": "2026-04-05T20:47:27.959840Z",
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWZmExRmtaR2hsTW5wS2VDMVNZV1JsWlU5SGRuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "eliana gallo"
-    },
-    "starRating": "FOUR",
-    "comment": "Su servicompras es pequeño pero tiene lo básico .. baños galletas café etc\n\n(Translated by Google)\nTheir convenience store is small but has the basics... restrooms, cookies, coffee, etc.",
-    "createTime": "2026-03-30T00:25:37.262250Z",
-    "updateTime": "2026-03-30T00:25:37.262250Z",
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOSlJERjFRM2M1VmxwSlNHRkpORkJEYWtab1MzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Iñaki Inda"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
-    "createTime": "2026-03-24T22:26:31.121144Z",
-    "updateTime": "2026-03-24T22:26:31.121144Z",
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1clkwNTBkRFZNWTNoRFNXTktNblpNUWsxQlJtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Aguero"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-12T18:54:13.478587Z",
-    "updateTime": "2026-03-20T21:58:51.861851Z",
     "reviewReply": {
       "comment": "Qué bueno que te atendieron bien! Le pasaremos tu comentario a nuestro equipo de pista, les motivará mucho. ¡Saludos!\"",
-      "updateTime": "2026-03-12T19:30:26.869293Z"
+      "updateTime": "2026-08-18T19:03:48.185036Z"
     },
-    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twQlJtaGlhMVV4U1ZKb1MyeFJNMVZwWVdoQk9GRRAB"
+    "name": "accounts/109853746269412609224/locations/273276493457850534/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWRWN6aEViekZhWVZGM1UyZHZMUzFaT1ZNemQyYxAB"
   }]
 }

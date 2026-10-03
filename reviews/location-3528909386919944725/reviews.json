@@ -1,11 +1,101 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "francisco iacoviello"
+    },
+    "starRating": "FOUR",
+    "comment": "Cómodo por buen acceso y tiene lo necesario. Los deptos ubicados del lado de la ruta son algo ruidosos.\n\n(Translated by Google)\nConvenient due to good access and has everything you need. The apartments located on the road side are somewhat noisy.",
+    "createTime": "2026-09-15T12:18:26.477648Z",
+    "updateTime": "2026-09-15T12:18:26.477648Z",
+    "reviewReply": {
+      "comment": "¡Gracias Francisco! 😊 Nos alegra que el acceso y las instalaciones hayan sido de tu agrado. Respecto al ruido,  las habitaciones del lado de la ruta pueden verse afectadas por el tráfico. Si en una próxima visita preferís una habitación más tranquila, no dudes en pedirlo al momento del check-in y lo gestionamos. ¡Te esperamos pronto!\n\n El equipo de Hotel ACA Santa Rosa",
+      "updateTime": "2026-09-16T20:28:45.887473Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poSmRERklWWEZtTVZsc2RUTXhNV0Y2YlhFek1YYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Martin Sanchez Stagnaro"
+    },
+    "starRating": "ONE",
+    "comment": "Me robaron con el combustible. Cuidado, gente, acá tienen los surtidores manipulados\n\n(Translated by Google)\nI was robbed of my fuel. Be careful, people, the pumps here are rigged.",
+    "createTime": "2026-09-08T11:00:15.964475Z",
+    "updateTime": "2026-09-08T11:00:15.964475Z",
+    "reviewReply": {
+      "comment": "Buenos días nos gustaría que se comunicara con nosotros. Para ver a qué se refiere con su queja dado que los surtidores están conectados al sistema de YPF por lo cual podemos comprobar si hay alguna defraudación como dice.",
+      "updateTime": "2026-09-08T12:13:54.215741Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMExYbE5jRzFaUzNSTGRYUnpNRlJWVW5OT1IyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juancho"
+    },
+    "starRating": "THREE",
+    "comment": "Si pagaba con app YPF no me podiab hacer factura A\n\n(Translated by Google)\nIf I paid with the YPF app, they couldn\u0027t issue me an A invoice.",
+    "createTime": "2026-08-23T23:49:36.535806Z",
+    "updateTime": "2026-08-23T23:49:36.535806Z",
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT21samRHTlZRelp4Y21ORlUwVkVjbWMwY0U1bU0yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Frank Giordani"
+    },
+    "starRating": "ONE",
+    "comment": "Esta basura esta cerrada de 11pm a 7am… increíble que un ACA sobre ruta tenga estos horarios\n\n(Translated by Google)\nThis place is closed from 11pm to 7am… unbelievable that an ACA on the highway has these hours.",
+    "createTime": "2026-08-23T06:01:09.334237Z",
+    "updateTime": "2026-08-23T06:01:09.334237Z",
+    "reviewReply": {
+      "comment": "Gracias Frank por tu comentario. Entendemos que para un viajero en ruta el horario es un factor clave y lamentamos que no haya estado disponible cuando lo necesitaste.\nLos horarios reducidos en esta estación responden a la baja afluencia nocturna fuera de temporada. Si necesitás combustible o servicios a cualquier hora, nuestra estación YPF ACA del centro de Santa Rosa opera las 24 horas y queda a pocos minutos. 🚗\n\n¡Esperamos verte pronto!\nEl equipo de Estación YPF ACA Santa Rosa",
+      "updateTime": "2026-08-24T13:48:11.440013Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOb1RUTnRjRkk0ZVVneVoyOUtVelJUUVd0eFZXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "alin bronstein"
+    },
+    "starRating": "ONE",
+    "comment": "No puede ser q siendo socio no se pueda hacer factura A con la aplicación\n\n(Translated by Google)\nIt can\u0027t be that, as a member, you can\u0027t issue an A invoice with the application",
+    "createTime": "2026-08-18T19:02:59.276699Z",
+    "updateTime": "2026-08-18T19:02:59.276699Z",
+    "reviewReply": {
+      "comment": "Buenos días lamentamos su inconveniente pero es una disposición de YPF ya que la aplicación no es para empresas sino personal.",
+      "updateTime": "2026-08-19T12:46:50.330353Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGQ1dIUm5kMmRsYjBaVVEyRnFWMVYzWjBKMVlWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gonzalo Baracetti"
+    },
+    "starRating": "FOUR",
+    "comment": "Restaurante para recomendar platos para compartir, muy buena la calidad y la atención,  no por los precios un poco elevados para los q no son socios del aca (-20%).\n\n(Translated by Google)\nRestaurant to recommend for sharing dishes, very good quality and service, not so much for the prices which are a bit high for those who are not members of the ACA (-20%).",
+    "createTime": "2026-08-17T14:57:41.125431Z",
+    "updateTime": "2026-08-17T14:57:41.125431Z",
+    "reviewReply": {
+      "comment": "Buenas tardes muchas gracias por su calificación ",
+      "updateTime": "2026-08-17T16:45:31.382217Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVFltdEhOVUo1Tm1oc09IWlpUVlpKY1VsSFNXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guillermo Vieyro"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-08-08T18:15:56.358356Z",
+    "updateTime": "2026-08-08T18:15:56.358356Z",
+    "reviewReply": {
+      "comment": "Buenas noches muchas gracias por su calificación ",
+      "updateTime": "2026-08-10T03:43:22.079563Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0R2NFMXBhWFp4ZGxZelptaFRkV0pIWkdsbVExRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Dario Miranda orozco"
     },
     "starRating": "FIVE",
     "createTime": "2026-07-29T15:00:30.718264Z",
     "updateTime": "2026-07-29T15:00:30.718264Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos Dario!",
+      "updateTime": "2026-09-16T20:29:22.916521Z"
+    },
     "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWQ2RYTmxjMFkyVEV4NGRVRXpOVWh4ZVhaR1ZFRRAB"
   }, {
     "reviewer": {
@@ -41,6 +131,10 @@
     "comment": "Atención excelente. Comida variada y rica. Precio accesible en época de Milei\n\n(Translated by Google)\nExcellent service. Varied and delicious food. Affordable prices during Milei\u0027s presidency.",
     "createTime": "2026-07-10T01:35:51.231709Z",
     "updateTime": "2026-07-10T01:35:51.231709Z",
+    "reviewReply": {
+      "comment": "¡Gracias Fernando! 😊 Nos alegra que la atención, la comida y los precios hayan estado a la altura, en estos tiempos mantener una buena relación precio/calidad es todo un desafío y nos esforzamos para lograrlo. ¡Te esperamos pronto de nuevo!\n\nEl equipo de ACA Santa Rosa",
+      "updateTime": "2026-09-16T20:31:22.715270Z"
+    },
     "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNdGQzb3liRWx2WnpWSlNuaGFhV3hhVTE5SlUyYxAB"
   }, {
     "reviewer": {
@@ -49,6 +143,10 @@
     "starRating": "FIVE",
     "createTime": "2026-06-17T21:17:25.431576Z",
     "updateTime": "2026-06-17T21:17:25.431576Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos, Gisela!",
+      "updateTime": "2026-09-16T20:31:39.538694Z"
+    },
     "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sSk9XSnNWWFYwTWtSSU1VcGhXRmRwY0Vsd2VIYxAB"
   }, {
     "reviewer": {
@@ -58,6 +156,10 @@
     "comment": "Excelente atención de los playeros e higiene de los baños, en el estacionamiento hay unas mesitas y sillas de cemento\n\n(Translated by Google)\nExcellent service from the beach attendants and clean restrooms; in the parking lot there are some cement tables and chairs",
     "createTime": "2026-05-24T02:23:45.654818Z",
     "updateTime": "2026-05-24T02:23:45.654818Z",
+    "reviewReply": {
+      "comment": "¡Gracias Diego! 😊 Nos alegra que la atención de los playeros y la higiene de los baños hayan sido de tu agrado,  son aspectos que cuidamos mucho. \n¡Te esperamos pronto!\n\n El equipo de ACA Santa Rosa",
+      "updateTime": "2026-09-16T20:35:32.593537Z"
+    },
     "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkdGMxUk9RMkk0WTJoSE9HdHRUVlp2UjA1dVltYxAB"
   }, {
     "reviewer": {
@@ -66,6 +168,10 @@
     "starRating": "FIVE",
     "createTime": "2026-05-17T00:13:32.964093Z",
     "updateTime": "2026-05-17T00:13:32.964093Z",
+    "reviewReply": {
+      "comment": "Gracias por calificarnos Hernan!\n",
+      "updateTime": "2026-09-16T20:35:50.091481Z"
+    },
     "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GbVdEVnBVbk5uVEZkaGRGRTJhblEwU0RSaFdXYxAB"
   }, {
     "reviewer": {
@@ -136,91 +242,5 @@
       "updateTime": "2026-03-11T21:38:00.871658Z"
     },
     "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xscWJURmZNSGhJY2pkNmRVOUhkbTgwV1dNd1VXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo maulion"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente comida muy buen cervicio y leo el mozo un capo\n\n(Translated by Google)\nExcellent food, very good service, and Leo the waiter was fantastic.",
-    "createTime": "2026-03-08T02:42:09.260380Z",
-    "updateTime": "2026-03-08T02:42:09.260380Z",
-    "reviewReply": {
-      "comment": "Buenas noches muchas Gracias por su calificación ",
-      "updateTime": "2026-03-10T23:55:17.909415Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1MFJ6Z3paV3QzZG1kWFJVMW5TVU52VEU5MVJVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Emanuel Toranzo"
-    },
-    "starRating": "FIVE",
-    "comment": "La atención y comida excelente.  Cuenta con sala de juegos para niños\n\n(Translated by Google)\nThe service and food were excellent. It also has a children\u0027s playroom.",
-    "createTime": "2026-03-08T01:48:13.717001Z",
-    "updateTime": "2026-03-08T01:48:13.717001Z",
-    "reviewReply": {
-      "comment": "Muchas Gracias por su calificación ",
-      "updateTime": "2026-03-10T23:57:30.678184Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWbFowWk5SbEJ0VDFGM00zSXlUMWR4TlVwZmRHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "stella maris rivera"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente comida y atención del mozo!! Un genio Leo, súper atento.\n\n(Translated by Google)\nExcellent food and great service from the waiter!! Leo is a gem, super attentive.",
-    "createTime": "2026-03-08T01:13:42.478775Z",
-    "updateTime": "2026-03-08T01:13:42.478775Z",
-    "reviewReply": {
-      "comment": "Muchas Gracias por su calificación ",
-      "updateTime": "2026-03-10T23:56:16.878545Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ocFNtRktORkpaYVRNM2JqUnpSazFSUzBGeVJIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos Alberto Fernández"
-    },
-    "starRating": "FOUR",
-    "comment": "Todo bien.. una estrella más por la atención de Leo... gracias\n\n(Translated by Google)\nEverything\u0027s great...an extra star for Leo\u0027s attention...thanks",
-    "createTime": "2026-03-08T00:52:30.433214Z",
-    "updateTime": "2026-03-08T00:52:30.433214Z",
-    "reviewReply": {
-      "comment": "Buenas noches muchas Gracias por su calificación ",
-      "updateTime": "2026-03-10T23:55:46.051689Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toeVNqZElMVGg0UTJFeVlub3hVMHBhZUVveU4yYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Noelia Bournissen"
-    },
-    "starRating": "FIVE",
-    "comment": "Servicio ágil y eficiente! Muy buenos servicios para parar durante el viaje!\n\n(Translated by Google)\nFast and efficient service! Great places to stop along the way!",
-    "createTime": "2026-03-04T15:49:48.930324Z",
-    "updateTime": "2026-03-04T15:49:48.930324Z",
-    "reviewReply": {
-      "comment": "Buenos días muchas Gracias por su calificación ",
-      "updateTime": "2026-03-06T11:26:31.468648Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4eGMyMHhkRXBvUzJOb1QwbHFhSFpDU1RrMWJYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ignacio Berra"
-    },
-    "starRating": "FOUR",
-    "comment": "La comida rica y abundante. La atención muy buena. Hay descuento del 20% siendo socio del ACA.\n\n(Translated by Google)\nThe food was delicious and plentiful. The service was excellent. There\u0027s a 20% discount for ACA members.",
-    "createTime": "2026-02-25T12:08:46.114636Z",
-    "updateTime": "2026-02-25T12:08:46.114636Z",
-    "reviewReply": {
-      "comment": "Buenas noches muchas Gracias por su calificación ",
-      "updateTime": "2026-02-26T23:39:23.573876Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT210dlpsbG1ORkJFY0d3elQxQnhWRmRmVkhaQ1RVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Franco Guerra"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-02-22T04:23:00.529441Z",
-    "updateTime": "2026-02-22T04:23:00.529441Z",
-    "name": "accounts/109853746269412609224/locations/3528909386919944725/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTldVNXhNRFpaTFdjd2FFSndNM2hMZG5SZlRFRRAB"
   }]
 }

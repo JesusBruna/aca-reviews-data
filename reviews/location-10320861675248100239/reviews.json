@@ -1,12 +1,59 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Mariano Herrera"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!!!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2026-09-29T17:16:10.531362Z",
+    "updateTime": "2026-09-29T17:16:10.531362Z",
+    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1RU5HZFJUVlJtVjA5bFNqUkRPSEF4VG1KbGFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nadis turco"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-15T15:30:57.161348Z",
+    "updateTime": "2026-09-15T15:30:57.161348Z",
+    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twMVIyc3dUVXgwY0dWUWRHNHlTVk5ITVdkbmRGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Ramon Gimenez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-09-15T15:11:46.379135Z",
+    "updateTime": "2026-09-15T15:11:46.379135Z",
+    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWE5raFpRV2hqYkZObVZWOUJhMEZYVldvMmNsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lu Carvelo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-09T17:30:29.167603Z",
+    "updateTime": "2026-09-09T17:30:29.167603Z",
+    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT204eFZIVnZkREJoTkdScGVGQmlRalI2UkVkbUxYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "tigretuc"
+    },
+    "starRating": "THREE",
+    "comment": "Solicite un cargador para celular y el playero no tenía y la señora del bar tenía uno pero no coincidia...\n\n(Translated by Google)\nI asked for a cell phone charger, but the beach vendor didn\u0027t have one, and the lady at the bar had one, but it wasn\u0027t the right one...",
+    "createTime": "2026-08-14T20:57:04.881797Z",
+    "updateTime": "2026-08-14T20:57:04.881797Z",
+    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSlZ6aHpYMmQ1UjBkWVpsUldaWE5sYUdScWRVRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Atilio Sobrecasas"
     },
     "starRating": "TWO",
     "comment": "Mala atención . Llega el horario de las 22 y no atiende nadie. Hay que esperar una hora para que hagan \"cambio de turno\". Lo mismo sucede en horario matituno\n\n(Translated by Google)\nPoor service. It\u0027s 10 PM and nobody\u0027s there. You have to wait an hour for them to \"change shifts.\" The same thing happens in the morning.",
     "createTime": "2026-07-28T01:02:13.141598Z",
     "updateTime": "2026-07-28T01:02:13.141598Z",
+    "reviewReply": {
+      "comment": "Hola Atilio, lamentamos que tu experiencia no haya sido la esperada. Agradecemos que nos lo hagas saber, ya que tu opinion nos ayuda a mejorar. saludos‼",
+      "updateTime": "2026-10-02T14:34:06.788388Z"
+    },
     "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdlVHeEJSMmMyTUZkamFqQjFNMVYwWm1KVWVFRRAB"
   }, {
     "reviewer": {
@@ -16,6 +63,10 @@
     "comment": "Buena atención pero necesita. Ejirar el exterior\n\n(Translated by Google)\nGood service but needs it. [Extends]",
     "createTime": "2026-07-13T22:24:45.405113Z",
     "updateTime": "2026-07-13T22:24:45.405113Z",
+    "reviewReply": {
+      "comment": "‼Gracias por calificarnos y por confiar en nuestros servicios‼ Valoramos mucho tu opinión para mejorar y ofrecerte una exelente experiencia.",
+      "updateTime": "2026-10-02T14:28:43.764804Z"
+    },
     "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxSVdHaHBhR3g0V0ROamNVcEhhVTlCVnpNeVpYYxAB"
   }, {
     "reviewer": {
@@ -33,6 +84,10 @@
     "starRating": "FIVE",
     "createTime": "2026-05-15T22:04:19.318786Z",
     "updateTime": "2026-05-15T22:04:19.318786Z",
+    "reviewReply": {
+      "comment": "‼Muchas gracias por tu calificacíon‼ Agradecemos tu confianza y esperamos volver a verte pronto.",
+      "updateTime": "2026-10-02T14:20:24.494790Z"
+    },
     "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnd1FreDFNRE5EUVc1QlkxSjRXV1Y2WDBsUFRuYxAB"
   }, {
     "reviewer": {
@@ -173,66 +228,5 @@
       "updateTime": "2026-04-03T00:58:40.366880Z"
     },
     "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VFJEaHBXVGxqTTBkbGFTMXpjVzlPWVRkRllVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "juan ramirez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-31T12:38:38.603283Z",
-    "updateTime": "2026-03-31T12:38:38.603283Z",
-    "reviewReply": {
-      "comment": "¡Hola Juan Muchas gracias por tu valoración. Nos alegra que hayas tenido una gran experiencia ya que nuestro equipo trabaja día a día para lograrlo. ¡Esperamos seguir acompañándote durante éste año!\n",
-      "updateTime": "2026-04-03T00:59:26.677348Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT21weWRqVnBkRW95ZG1WelRsbFhSM1YyYkdkRkxVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lalo Lobo"
-    },
-    "starRating": "ONE",
-    "comment": "Buen servicio de los chicos ... Pero es lamentable el estado de la estación,muy abandonada,todo viejo,urgente una renovación\n\n(Translated by Google)\nThe staff provided good service... But the state of the station is deplorable, very neglected, everything is old, it urgently needs renovation",
-    "createTime": "2026-03-24T23:55:07.504521Z",
-    "updateTime": "2026-03-24T23:55:07.504521Z",
-    "reviewReply": {
-      "comment": "Hola Lalo!! Gracias por compartir tu opinión. Sentimos mucho escuchar que tu experiencia no fue satisfactoria,vamos a trabajar para mejorar saludos.",
-      "updateTime": "2026-03-25T00:41:49.063283Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WNFdHdHFTVEJGZG10NVJsWlpaR2MyWTJSQlVFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gonzalo Guzman"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-23T13:30:15.903233Z",
-    "updateTime": "2026-03-23T13:30:15.903233Z",
-    "reviewReply": {
-      "comment": "¡Hola Gonzalo! Muchas gracias por tu valoración. Nos alegra que hayas tenido una gran experiencia ya que nuestro equipo trabaja día a día para lograrlo. ¡Esperamos seguir acompañándote durante éste año!",
-      "updateTime": "2026-03-25T00:10:06.314728Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkNGJuQkpXSFJFWkZKRWJHcHFha1JYUVRCblRrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Cuenta Carlitos"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-21T13:30:25.666096Z",
-    "updateTime": "2026-03-21T13:30:25.666096Z",
-    "reviewReply": {
-      "comment": "¡Hola Carlos! Muchas gracias por tu  valoración. Nos alegra que hayas tenido una gran experiencia ya que nuestro equipo trabaja día a día para lograrlo. ¡Esperamos seguir acompañándote durante éste año!",
-      "updateTime": "2026-03-25T00:12:12.560266Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRNGJFZDFPVVZVYnpGeFNGUjBkbE5EYjNCUk1IYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Tania Gramajo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-21T13:30:16.103025Z",
-    "updateTime": "2026-03-21T13:30:16.103025Z",
-    "reviewReply": {
-      "comment": "¡Hola Tania! Muchas gracias por tu valoración. Nos alegra que hayas tenido una gran experiencia ya que nuestro equipo trabaja día a día para lograrlo. ¡Esperamos seguir acompañándote durante éste año!",
-      "updateTime": "2026-03-25T00:12:40.915324Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10320861675248100239/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jeVNtUjBRVUpFU0VJd01UUkNVbVZhYm5aNmIzYxAB"
   }]
 }

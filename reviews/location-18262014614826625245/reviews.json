@@ -1,20 +1,138 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Walter Pedro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-29T22:07:24.107995Z",
+    "updateTime": "2026-09-29T22:07:24.107995Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNdFNrbHBYMGRHT1hBNGRFWTFkMkl6VDBwU2EzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Paula Ledesma"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2026-09-27T21:48:17.386266Z",
+    "updateTime": "2026-09-27T21:48:17.386266Z",
+    "reviewReply": {
+      "comment": "Estimada María Paula:\nMuchas gracias por tu calificación de 5 estrellas y por tu comentario. Nos alegra saber que tu experiencia fue excelente.Tu valoración como Local Guide es muy importante para nosotros y nos motiva a seguir trabajando para brindar un servicio de calidad a cada cliente que nos visita.Esperamos volver a recibirte muy pronto.Muchas gracias por elegirnos.\n\nCordialmente\nYPF ACA - SANTA CLARA DEL MAR",
+      "updateTime": "2026-09-30T20:39:47.854863Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sdWRXZHJSa0ZQUkZGbVVWUkhkVVF6UmpoQ1QzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gaby N"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-24T23:28:55.867530Z",
+    "updateTime": "2026-09-24T23:28:55.867530Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KMGVIcERWa2w2YmtNNUxWUkNNM3BpVjJKUGFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Osvaldo Daniel Gramajo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-24T17:57:21.385749Z",
+    "updateTime": "2026-09-24T17:57:21.385749Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSS2JrcDJTbTl6YkVKS1FWTk1VRzFMUjNGR1ZXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emanuel Rojas"
+    },
+    "starRating": "TWO",
+    "createTime": "2026-09-17T23:47:19.563562Z",
+    "updateTime": "2026-09-17T23:47:19.563562Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOcVh6SlZVMkUzYkd4WVowTXhOMHBWY1ZWaGVXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "José fernandez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención y predisposición del personal.\nPregunta , las parrillas que vi hay, son solo para el personal? Socios ACA? o clientes también? Gracias\nJosé\n\n(Translated by Google)\nExcellent service and helpful staff.\nQuestion: Are the grills I saw there only for staff? ACA members? Or are they also for customers? Thanks, José",
+    "createTime": "2026-09-15T11:08:19.903751Z",
+    "updateTime": "2026-09-15T11:08:19.903751Z",
+    "reviewReply": {
+      "comment": "Estimado José:\nMuchas gracias por tu calificación de 5 estrellas y por valorar la atención de nuestro personal. Nos alegra mucho que hayas tenido una excelente experiencia.Respecto a tu consulta, te comentamos que las parrillas son de uso exclusivo para socios del Automóvil Club Argentino.Aprovechamos para invitarte a sumarte como socio, para que puedas disfrutar de este espacio y de los muchos otros beneficios que ofrece el ACA, como el auxilio mecánico en todo el país, descuentos en combustibles y servicios en nuestras estaciones, cobertura en alojamiento, seguros y recreación en todos los predios del país.Podés acercarte a nuestra administración y con gusto te asesoramos para asociarte.\nEsperamos volver a recibirte pronto.\nCordialmente\nYPF ACA - SANTA CLARA DEL MAR",
+      "updateTime": "2026-09-29T01:46:05.331207Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKVlpuZDFhalY1Y1dKdVpXMTZORTQ1VFZWM1NYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Parente"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-10T22:13:39.664999Z",
+    "updateTime": "2026-09-10T22:13:39.664999Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FMU5VNHRMWE5OZW05SWQzVXplV0pSVlZaVmJFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Ortuste"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-10T15:18:19.865994Z",
+    "updateTime": "2026-09-10T15:18:19.865994Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ScFFWaHZRbDh3UjB3MFUyaE5ZbGxtUjBOYWRtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Cejas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-30T22:35:00.070339Z",
+    "updateTime": "2026-08-30T22:35:00.070339Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzM1RUQmlObk5GZUVOdFZFVnpaVjl0Y2xOQ1lsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Angel Viva"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-24T14:21:59.739211Z",
+    "updateTime": "2026-08-24T14:21:59.739211Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjMFYxQlVVMGx4YlhOMFdEZHROMGRVT0ZKaFRVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Gustavo MAGRA"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen punto ACA y mrjorarará aun mas con la ampliacion que estan haciendo\n\n(Translated by Google)\nGood point ACA and it will improve even more with the expansion they are doing",
+    "createTime": "2021-01-21T11:59:53.278753Z",
+    "updateTime": "2026-08-17T17:42:35.077598Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5dE1PNldBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mateo Agueroo"
+    },
+    "starRating": "ONE",
+    "comment": "Calificación: ⭐ 1 estrella\n\n\"Instalaron un caño de desagüe hacia el arroyo, que YA supera su capacidad y está en mal estado. Agregar más agua va a empeorar las inundaciones. Además, analicé el agua de la estación y NO es apta para el consumo. Ni para tomar mate ni para cocinar. Riesgo para la salud pública.\"  Son cosas a tener en cuenta\n\n(Translated by Google)\nRating: ⭐ 1 star\n\n\"They installed a drainage pipe into the stream, which is already over capacity and in poor condition. Adding more water will only worsen the flooding. Furthermore, I tested the water at the station and it is NOT safe for consumption. Not for drinking mate, nor for cooking. A public health risk.\" These are things to keep in mind.",
+    "createTime": "2026-08-05T01:27:45.723151Z",
+    "updateTime": "2026-08-05T01:27:45.723151Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWWRIWkVla2RWYVdKSlFuWmlMVE5aTWpkaU1rRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "santiago de arizabalo"
+    },
+    "starRating": "THREE",
+    "comment": "Ypf nunca defrauda estés en el lugar que estés en el país vas a encontrar siempre una estación con buen combustible y excelente atención este local en particular cumple con todos estos requisitos\n\n(Translated by Google)\nYPF never disappoints; wherever you are in the country, you\u0027ll always find a station with good fuel and excellent service. This particular location meets all these requirements.",
+    "createTime": "2026-08-04T13:52:47.466325Z",
+    "updateTime": "2026-08-04T13:52:47.466325Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKbmFtOVVjbE5SUW1kdWFuTXpjMWMyTlU5eE1IYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Bonuccelli"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente servicio\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2026-07-30T22:56:18.442547Z",
+    "updateTime": "2026-08-03T21:39:54.295894Z",
+    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCMU1VWjZaekJEV1hwVWJXMUZSbG93TVcxbWQxRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Analia Gonzalez Garcia"
     },
     "starRating": "FOUR",
     "createTime": "2026-08-02T14:39:40.718785Z",
     "updateTime": "2026-08-02T14:39:40.718785Z",
     "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1a2VrcHpkRWhUVkdac2RYWkRWbWxRT1Vwa2RtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo Bonuccelli"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-07-30T22:56:18.442547Z",
-    "updateTime": "2026-07-30T22:56:18.442547Z",
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCMU1VWjZaekJEV1hwVWJXMUZSbG93TVcxbWQxRRAB"
   }, {
     "reviewer": {
       "displayName": "Rodrigo Nazar"
@@ -79,172 +197,5 @@
       "updateTime": "2026-07-29T23:38:37.696025Z"
     },
     "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toMVUyeDJaVjlSVVdkQlozRlNSQzAwVlVGdFlVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo Pizzicheml"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención Ivan y Demian\n\n(Translated by Google)\nExcellent service, Ivan and Demian.",
-    "createTime": "2026-07-28T13:10:18.399951Z",
-    "updateTime": "2026-07-28T13:10:18.399951Z",
-    "reviewReply": {
-      "comment": "Estimado Pablo Pizzicheml,\n\nMuchas gracias por sus 5 estrellas y por resaltar la excelente atención de Iván y Demian. Nos alegra que haya tenido una gran experiencia en YPF ACA Santa Clara del Mar.\n\nContamos con un equipo dedicado que trabaja todos los días para brindar un servicio amable, rápido y de excelencia.\n\nApreciamos mucho su comentario y será un gusto volver a verlo.\n\nSaludos cordiales,\nYPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:40:19.711213Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWNFl6ZEVkM1p4TXpSTVVGbHdUR0p3T0ZaRlNGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ruma Finochio"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-28T12:01:58.888060Z",
-    "updateTime": "2026-07-28T12:01:58.888060Z",
-    "reviewReply": {
-      "comment": "Estimado cliente\n\nMuchas gracias por su valoración de 5 estrellas. Para nosotros es fundamental brindar una atención de excelencia en cada visita.\n\nSu opinión nos motiva a seguir mejorando día a día.\n\nSerá un gusto volver a verlo en YPF ACA Santa Clara del Mar.\n\nSaludos cordiales,\nYPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T00:04:32.898475Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poMVVuQkxVMTlGTVZWUWFFTnNhSFV3TVdwc1FXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sebastian Biancolin"
-    },
-    "starRating": "FIVE",
-    "comment": "Buen serviciooo\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-06-23T20:36:51.449669Z",
-    "updateTime": "2026-07-28T11:59:16.736130Z",
-    "reviewReply": {
-      "comment": "Estimado Sebastian Biancolin,\nMuchas gracias por sus 5 estrellas y por el “buen servicio”. Nos alegra que su paso por la estación haya sido satisfactorio.En YPF ACA Santa Clara del Mar cada integrante del personal trabaja con compromiso, responsabilidad y dedicación para que cada carga sea ágil, segura y con trato cordial. Su valoración nos motiva a sostener ese nivel todos los días.\nGracias por elegirnos. \nLo esperamos nuevamente cuando ande por la zona\n\nSaludos cordiales\nYPF ACA Santa Clara del Mar",
-      "updateTime": "2026-06-25T02:02:17.097349Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xBelJrSTNXblZOV1dOWFZrSndjR1pKTTBveVowRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "nicolas flores"
-    },
-    "starRating": "FIVE",
-    "comment": "Super amable sebastian\n\n(Translated by Google)\nSebastian was super friendly.",
-    "createTime": "2026-07-28T11:56:35.486801Z",
-    "updateTime": "2026-07-28T11:56:35.486801Z",
-    "reviewReply": {
-      "comment": "Estimado Nicolas Flores,\n\nMuchísimas gracias por sus 5 estrellas y por destacar la amabilidad de Sebastián. Nos encanta saber que tuvo una experiencia tan cálida en YPF ACA Santa Clara del Mar.\n\nTrabajamos todos los días para que cada persona que nos visita se sienta bienvenida y con un servicio de calidad.\n\nLe agradecemos su comentario y esperamos tenerlo nuevamente por aquí.\n\nSaludos cordiales,\nYPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:40:52.878027Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGMVRrOUJZakJXWjJoRFpqVTRObmRsZWt0aVpuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ennia Carpinteria"
-    },
-    "starRating": "FIVE",
-    "comment": "Demian .. muy buena atención..\n\n(Translated by Google)\nDemian... very good service...",
-    "createTime": "2026-07-28T11:56:23.295538Z",
-    "updateTime": "2026-07-28T11:56:23.295538Z",
-    "reviewReply": {
-      "comment": "Estimada Ennia Carpinteria,\n\nMuchísimas gracias por sus 5 estrellas y por destacar la muy buena atención de Demian. Nos pone muy contentos que haya tenido una gran experiencia en YPF ACA Santa Clara del Mar.\n\nNuestro equipo trabaja cada día para brindar un servicio cordial, profesional y de calidad.\n\nAgradecemos su tiempo para dejarnos su comentario y esperamos volver a recibirla pronto.\n\nSaludos cordiales,\nYPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:41:30.675637Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pacFJVdFdTa3BZWm1SZlkzZFVWamxwVHpsVlNIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Federico Montes de Oca"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente servicio\n\n(Translated by Google)\nExcellent service",
-    "createTime": "2026-07-28T11:50:10.256125Z",
-    "updateTime": "2026-07-28T11:50:10.256125Z",
-    "reviewReply": {
-      "comment": "Estimado Federico Montes de Oca,\n\nMuchísimas gracias por sus 5 estrellas y por su comentario sobre nuestro servicio. Nos pone muy contentos saber que tuvo una excelente experiencia en YPF ACA Santa Clara del Mar.\n\nTrabajamos todos los días para mantener la calidad y la calidez en la atención a cada cliente que nos visita.\n\nAgradecemos que se haya tomado un momento para compartir su opinión y esperamos volver a recibirlo pronto.\n\nSaludos cordiales,\nYPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:42:09.157847Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aME5uWlZVRXBQWVd4S1NWUk1ZbWhZT1ROMk1HYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Facundo Rodríguez"
-    },
-    "starRating": "FIVE",
-    "comment": "Seba una atencion genial, muy buen servicio en la estacion.\n\n(Translated by Google)\nSeba, great service, very good service at the station.",
-    "createTime": "2026-07-28T11:28:01.124910Z",
-    "updateTime": "2026-07-28T11:28:01.124910Z",
-    "reviewReply": {
-      "comment": "Estimado Facundo Rodriguez,\n\nMuchísimas gracias por sus 5 estrellas y por destacar la genial atención de Seba. Nos alegra mucho saber que tuvo un muy buen servicio en nuestra estación.\n\nEn YPF ACA Santa Clara del Mar trabajamos con dedicación para que cada visita sea una experiencia positiva, brindando calidad y cercanía en cada detalle.\n\nAgradecemos sus palabras y esperamos contar con su visita nuevamente.\n\nSaludos cordiales,\nEquipo YPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:45:02.796224Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTVUyTndVa0paY1UxS1lYRm9ia3MwZEhGelNuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "EMILIO"
-    },
-    "starRating": "FIVE",
-    "comment": "Ivan y demian LOS MEJORES. bien temprano siempre con buena onda !\n\n(Translated by Google)\nIvan and Demian are the best! Always bright and early, always with great vibes!",
-    "createTime": "2026-03-23T12:09:00.581997Z",
-    "updateTime": "2026-07-28T11:25:42.137360Z",
-    "reviewReply": {
-      "comment": "Estimado Emilio,\n\nMuchas gracias por tomarse el tiempo de compartir su experiencia con nosotros. Nos alegra saber que Leandro le brindó una excelente atención. Valoramos su opinión y nos esforzamos continuamente por ofrecer el mejor servicio a nuestros clientes.\n\nAgradecemos su reconocimiento y le aseguramos que seguiremos manteniendo los altos estándares de calidad y atención que nos caracterizan en YPF ACA - Santa Clara del Mar.\n\nQuedamos a su disposición para cualquier otra consulta o necesidad que pueda tener.\n\nAtentamente,\nYPF ACA - Santa Clara del Mar",
-      "updateTime": "2026-03-24T18:13:47.155447Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwd2NqWlJZakZPY25wT1kyTklRMVZJVG5OcFdWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sebastian Corbetta"
-    },
-    "starRating": "FIVE",
-    "comment": "Ivan y demian. Te atienden re piola!\n\n(Translated by Google)\nIvan and Demian. They give really great service!",
-    "createTime": "2026-07-28T11:16:21.357362Z",
-    "updateTime": "2026-07-28T11:16:21.357362Z",
-    "reviewReply": {
-      "comment": "Estimado Sebastian Corbetta,\n\nMuchísimas gracias por sus 5 estrellas y por su comentario. Nos pone muy contentos saber que Iván y Demian le brindaron una atención cordial y de calidad.\n\nEn YPF ACA Santa Clara del Mar nuestro compromiso es ofrecer un servicio responsable, respetuoso y profesional a cada persona que nos visita.\n\nValoramos mucho su tiempo para dejarnos su opinión y esperamos recibirlo nuevamente pronto.\n\nSaludos cordiales,\nEquipo YPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:46:47.597846Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCc2J6VkpYM1pKYXpScU1HbERWMWh2VkZoM1pIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nicolas Leiva"
-    },
-    "starRating": "FIVE",
-    "comment": "Ivan y demian los mejores\n\n(Translated by Google)\nIvan and Demian are the best",
-    "createTime": "2026-07-28T11:16:16.544773Z",
-    "updateTime": "2026-07-28T11:16:16.544773Z",
-    "reviewReply": {
-      "comment": "Estimado Nicolas Leiva,\n\nMuchísimas gracias por sus 5 estrellas. Nos llena de orgullo leer que para usted Iván y Demian son los mejores. Sin duda les transmitiremos sus palabras, ya que se lo merecen.\n\nEn YPF ACA Santa Clara del Mar trabajamos cada día para que cada cliente que nos visita reciba un servicio de calidad, con cordialidad y compromiso.\n\nAgradecemos enormemente su tiempo y esperamos volver a recibirlo pronto por nuestra estación.\n\nSaludos cordiales,\nEquipo YPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:44:12.914914Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xreWFtVnFXVEZJVUVzeFZHZG9laTFhWlcxS01YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos Alberto Mamani Choque"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-28T11:11:25.246016Z",
-    "updateTime": "2026-07-28T11:11:25.246016Z",
-    "reviewReply": {
-      "comment": "Estimado cliente\n\nMuchas gracias por su valoración de 5 estrellas. Para nosotros es fundamental brindar una atención de excelencia en cada visita.\n\nSu opinión nos motiva a seguir mejorando día a día.\n\nSerá un gusto volver a verlo en YPF ACA Santa Clara del Mar.\n\nSaludos cordiales,\nYPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T00:04:19.199104Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5cVptSXdjMUExUjBwRFJVeFFPSGhpZGtjNU1sRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daysi Rossana Bogado Duarte"
-    },
-    "starRating": "FIVE",
-    "comment": "(Translated by Google) Yourself\n\n(Original)\nSeba",
-    "createTime": "2026-07-28T11:06:42.805761Z",
-    "updateTime": "2026-07-28T11:06:42.805761Z",
-    "reviewReply": {
-      "comment": "Estimada Daysi Rossana Bogado Duarte,\n\nMuchísimas gracias por sus 5 estrellas y por mencionar a Seba. Nos pone muy contentos saber que tuvo una buena experiencia en YPF ACA Santa Clara del Mar.\n\nContamos con un equipo comprometido que trabaja todos los días para brindar un servicio de calidad y atención cercana a cada cliente.\n\nAgradecemos su visita y esperamos volver a recibirla pronto.\n\nSaludos cordiales,\nEquipo YPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:48:10.470979Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOcllWZDVkemw0Y0VwdFRYUnFSbDh0WkdsallrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "dario besler"
-    },
-    "starRating": "FIVE",
-    "comment": "Demian  ivan nuy buena atención\n\n(Translated by Google)\nDemian Ivan, very good service.",
-    "createTime": "2026-07-28T11:05:40.795748Z",
-    "updateTime": "2026-07-28T11:05:40.795748Z",
-    "reviewReply": {
-      "comment": "Estimado Dario Besler,\n\nMuchísimas gracias por sus 5 estrellas y por destacar la muy buena atención de Demian e Iván. Nos llena de satisfacción saber que tuvo una buena experiencia en nuestra estación.\n\nEn YPF ACA Santa Clara del Mar trabajamos a diario para brindar un servicio de excelencia, con profesionalismo y compromiso con cada cliente.\n\nAgradecemos su comentario y esperamos volver a recibirlo pronto.\n\nSaludos cordiales,\nEquipo YPF ACA Santa Clara del Mar",
-      "updateTime": "2026-07-29T23:47:19.147963Z"
-    },
-    "name": "accounts/109853746269412609224/locations/18262014614826625245/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WR2FFUldiVmhwUldGTldFSkhXbWhsVUZCak9GRRAB"
   }]
 }

@@ -1,6 +1,82 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "MARCELO CRESPO"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-10-01T23:33:44.989688Z",
+    "updateTime": "2026-10-01T23:33:44.989688Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4NE1XSTRVMmxsZGxoalpFcHpaVjg0VGtkd1NrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Javier Yañez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2026-09-22T02:06:12.450506Z",
+    "updateTime": "2026-09-22T02:06:12.450506Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WdGRuY3RZa0o0U21samRXOUZiM0JrWDNab01WRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo de Lafuente"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-09-19T19:43:51.304382Z",
+    "updateTime": "2026-09-19T19:43:51.304382Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sT1ZqTnBYM0pNY0dGNFRHZE9iemROWjBaNk4xRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Castillo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-16T10:50:17.383757Z",
+    "updateTime": "2026-09-16T10:50:17.383757Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKWldFeGxXV3RWYVdKU05WcGFSWEZuV21WYWMwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Lempke"
+    },
+    "starRating": "FIVE",
+    "comment": "lugar comodo y practico, camino al oeste con cafeteria y al norte sin cafeteria, buena atencion, pertenece al ACA, hay para inflar ruedas gratis.\n\n(Translated by Google)\nComfortable and practical place, westbound with a cafeteria and northbound without a cafeteria, good service, belongs to the ACA, there is free tire inflation.",
+    "createTime": "2026-09-15T15:33:07.028014Z",
+    "updateTime": "2026-09-15T15:33:07.028014Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xscU5uSjNiVFk1V2xKeVlVaHJabHB6VjNVMVZsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Judith Melnik"
+    },
+    "starRating": "FIVE",
+    "comment": "Me quedé con la moto y el playero, Alexis me re banco. Estuve 3 hs ahí y me re ayudaron. Gracias por alegrarme la noche aunque venía siendo difícil el día!\n\n(Translated by Google)\nI kept the motorcycle and the beach bar; Alexis was a huge support. I was there for three hours and they were incredibly helpful. Thanks for brightening my night, even though it had been a tough day!",
+    "createTime": "2026-09-05T21:46:01.499338Z",
+    "updateTime": "2026-09-05T21:46:01.499338Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCek4ydGllbGhPZUZwRmRtUXhUa2hVWjFac1dIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lautaro Silvera"
+    },
+    "starRating": "ONE",
+    "comment": "Las dos veces que pasé como ahora a las 5:55 de la mañana un 3 de septiembre estuve esperando 5 minutos y nadie salió a atender\n\n(Translated by Google)\nBoth times I passed by like this one at 5:55 in the morning on September 3rd, I waited 5 minutes and nobody came out to help.",
+    "createTime": "2026-09-03T08:58:45.095375Z",
+    "updateTime": "2026-09-03T08:58:45.095375Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSaU1GOUlZMGRqTFZndE5VTTJOM3BOU0RVME1tYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Herrera"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-08-27T14:10:35.805184Z",
+    "updateTime": "2026-08-27T14:10:35.805184Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OeGN6aFBkMWhVVFRCaVJUZEVkbVJrTUMweFptYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Samanta Alegre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-21T23:29:31.763157Z",
+    "updateTime": "2026-08-21T23:29:31.763157Z",
+    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZMlRHOWZTVEJLYjFnelpucEtWVXBvZDNWM2MzYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Jorge GAZZERA"
     },
     "starRating": "FIVE",
@@ -119,96 +195,5 @@
     "createTime": "2026-05-02T02:36:14.271034Z",
     "updateTime": "2026-05-02T02:36:14.271034Z",
     "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VlpVWkhNRVY0VjNrNGNtNWljRmxmTFZWTlZrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Cristian Franco"
-    },
-    "starRating": "ONE",
-    "comment": "Muy muy lentos en atender.\n\n(Translated by Google)\nVery, very slow to respond.",
-    "createTime": "2026-04-30T16:52:45.019477Z",
-    "updateTime": "2026-04-30T16:52:45.019477Z",
-    "reviewReply": {
-      "comment": "Hola Cristian como estas, lamentamos la demora por la alta demanda en nuestra playa, a raíz de esto, estamos trabajando en este tema para mejorar día a día nuestro servicio de despacho, esperamos tenerte con nosotros en las próximas visitas.\n\nSaludos cordiales",
-      "updateTime": "2026-04-30T17:08:29.317664Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2podllsQnpXbVJEVjJ3ek1uaE1SMUZ5UTNGVlRIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Karen Celis"
-    },
-    "starRating": "ONE",
-    "comment": "El playero no tiene ganas de atender, te ve que estas ahi esperando Y NO TE ATIENDE, atendió a todas las motos de la provincia antes que a los autos que estabamos hace mas tiempo, yo se que debe ser un bajon atender con el clima frio, pero no se le escapa un gracias o un de nada ni de suerte\n\n(Translated by Google)\nThe gas station attendant doesn\u0027t seem to want to help. He sees you waiting there and IGNORES YOU. He served all the motorcycles from the province before the cars that had been there longer. I know it must be a drag to work in the cold weather, but he doesn\u0027t even say thank you, you\u0027re welcome, or good luck.",
-    "createTime": "2026-04-09T10:36:18.452558Z",
-    "updateTime": "2026-04-09T10:36:18.452558Z",
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMmQzVldNMXByUWt0aE1qSnRiazUzTlZoZlRtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Javier Acosta"
-    },
-    "starRating": "ONE",
-    "comment": "Te atienden sin ganas. Totalmente descuidada. Entorno horrible.\n\n(Translated by Google)\nThey serve you half-heartedly. Completely neglected. Horrid environment.",
-    "createTime": "2026-04-01T23:26:05.979171Z",
-    "updateTime": "2026-04-01T23:26:05.979171Z",
-    "reviewReply": {
-      "comment": "Estimado Javier lamentamos mucho tu experiencia, trabajare sobre este tema, asumo el compromiso para poder revertirlo y que puedas regresar a nuestra estacion!\nUn cordial.saludo",
-      "updateTime": "2026-04-03T04:24:39.034675Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ObVdWRlRXR3gwTFVobWFFVkhOVjlwTVZZM1drRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "jose robin"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-03-31T21:39:48.924100Z",
-    "updateTime": "2026-03-31T21:39:48.924100Z",
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOMWJHcHNTR3RJYWtKS2FYQmpXazVOY1dKdVZtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nora Herrera"
-    },
-    "starRating": "ONE",
-    "comment": "Ayer domingo 22/3 siendo las 14hs aproximadamente..vivimos una situación desagradable con mi familia y demás clientes que estaban en ese momento..un hombre muy alterado deambulaba con un cuchillo en la mano..quedando los playeros expuestos y en peligro ante terrible situación..ya que son reiterativas durante su jornada laboral!! Cuidemos la vida humana antes de llenarse los bolsillos!!!\n\n(Translated by Google)\nYesterday, Sunday, March 22nd, at approximately 2 PM, my family and other customers experienced an unpleasant situation. A very agitated man was wandering around with a knife in his hand, leaving the beach attendants exposed and in danger. This terrible situation is a recurring problem during their workday! Let\u0027s protect human life before lining our pockets!",
-    "createTime": "2026-03-23T04:17:36.388650Z",
-    "updateTime": "2026-03-23T04:17:36.388650Z",
-    "reviewReply": {
-      "comment": "Nora, estamos al tanto y realmente lamentamos mucho lo sucedido, por suerte no paso a mayores, de todas maneras, contamos con personal policial las 24hs quienes actúan ante este tipo de situaciones, ellos se encargan de mantener la seguridad de día y noche en nuestras estaciones, tanto del personal como de nuestros clientes.\nSaludos cordiales",
-      "updateTime": "2026-04-06T22:51:23.563016Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT25nNGJHVmxiV1pRUlVGV2RHeEJNR2xyU2s1MlExRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Daniel"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-03-22T20:52:05.311889Z",
-    "updateTime": "2026-03-22T20:52:05.311889Z",
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4M04yRXhWa0ZCU0Y5dGJqTldXWE52WDJ4QlQzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mariana Deabato"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-03-17T18:49:43.870579Z",
-    "updateTime": "2026-03-17T18:49:43.870579Z",
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOZlpucFRNbHAxWDBGNmIxcEpXbTVqYldoSmIzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Cristian Albornoz"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención , hoy siendo las 6 am los playeros me cambiaron la rueda sin problema ,muy buena predisposición! Gracias Ariel y Braian , volveré sin duda...\n\n(Translated by Google)\nExcellent service! Today at 6 am the attendants changed my tire without any problem. Very helpful! Thanks Ariel and Braian, I\u0027ll definitely be back...",
-    "createTime": "2026-02-01T13:09:47.176369Z",
-    "updateTime": "2026-02-01T13:09:47.176369Z",
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kbWJFOVpVbXBKYzJwVU9WcHFiVkE0TUVsT2FVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "EcoBaires Joape"
-    },
-    "starRating": "FIVE",
-    "comment": "Fuy bien atendido por el personal playero!!\n\n(Translated by Google)\nI received excellent service from the beach staff!",
-    "createTime": "2026-02-01T12:53:27.535917Z",
-    "updateTime": "2026-02-01T12:53:27.535917Z",
-    "name": "accounts/109853746269412609224/locations/6749634904380992735/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WR2JURlBTV041U2xwRlRrUmFUMmcxY21aQldFRRAB"
   }]
 }

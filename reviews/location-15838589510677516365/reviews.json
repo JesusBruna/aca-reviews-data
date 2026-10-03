@@ -1,11 +1,176 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Fernando Cano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-01T15:24:38.126581Z",
+    "updateTime": "2026-10-01T15:24:38.126581Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BeFVHZ3llRXhETmtSbWQyMXJZbGhUWWxoalkzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Harbertz"
+    },
+    "starRating": "ONE",
+    "comment": "PÉSIMO SERVICIO no hay vez que vaya y no me vuelquen un montón de nafta afuera por rebalsar el tanque. No solo ensucian todo el vehículo sino que encima te cobran la nafta tirada!!! Cada vez que voy son 500 o más que tengo que pagar solo porque deciden no parar a tiempo\n\n(Translated by Google)\nTERRIBLE SERVICE. Every time I go, they spill a ton of gas on me because the tank overflows. Not only do they make a mess of the whole vehicle, but they also charge me for the wasted gas! Every time I go, I have to pay 500 pesos or more just because they decide not to stop on time.",
+    "createTime": "2026-09-16T15:52:24.590536Z",
+    "updateTime": "2026-09-16T15:52:24.590536Z",
+    "reviewReply": {
+      "comment": "Hola, Paula. Lamentamos el malestar que te generaron estas situaciones y agradecemos que nos lo hayas hecho saber.\n\nQueremos aclararte que actualmente todos los picos surtidores de la estación son nuevos y cuentan con un sistema de corte automático que interrumpe el suministro cuando el combustible alcanza el nivel adecuado en el pico. Por su funcionamiento, el surtidor no debería continuar cargando una vez que se produce ese corte.\n\nCuando se produce un rebalse a pesar del correcto funcionamiento del pico, también puede existir una dificultad en el sistema de venteo del tanque del vehículo. Estos respiraderos permiten que el aire desplazado por el combustible pueda salir mientras se realiza la carga. Si están obstruidos, parcialmente bloqueados o presentan alguna falla, el aire puede no evacuarse correctamente y provocar que el combustible ascienda rápidamente por el cuello de carga, generando un rebalse y haciendo que el sistema de corte actúe de manera reiterada.\n\nDe todos modos, queremos revisar cada situación para asegurarnos de que el equipo esté funcionando correctamente y encontrar la mejor solución. Nuestra intención es brindarte una carga segura, limpia y sin inconvenientes.\n\nAgradeceré puedas comunicarte con nosotros al 3446-638498 con la finalidad de ver esta situación en particular, que claramente no es la que se repite en cada carga, y podría deberse a algún problema específico.\n\nA disposición.",
+      "updateTime": "2026-09-23T23:01:53.106987Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kbFZVWkhUMVl5VkZvelUwWmlTbGxqUlhSWWNHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "juan dupouy"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención en el Shop. Kiara super amable y muy dispuesta a ayudar!! Excelente la felicito 👏!!!\n\n(Translated by Google)\nExcellent service at the shop. Kiara was super friendly and very willing to help! Excellent, congratulations! 👏",
+    "createTime": "2026-09-11T23:43:09.832221Z",
+    "updateTime": "2026-09-11T23:43:09.832221Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Juan, por tu excelente calificación y por destacar la atención de Kiara! ⭐⭐⭐⭐⭐ Nos alegra muchísimo saber que te atendió con amabilidad y predisposición. Vamos a compartirle tus felicitaciones, que seguramente le van a encantar. ¡Te esperamos nuevamente! 👏😊",
+      "updateTime": "2026-09-23T22:58:30.940168Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTWJuRnJkVTlNVjFvd1JXSlVibXB5YkdZNWVtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "fabian peisino"
+    },
+    "starRating": "ONE",
+    "comment": "Muy mala atencion\n\n(Translated by Google)\nVery poor service",
+    "createTime": "2026-09-10T16:14:01.245623Z",
+    "updateTime": "2026-09-10T16:14:01.245623Z",
+    "reviewReply": {
+      "comment": "Hola Fabian! Ante todo, muchas gracias por tomarte el tiempo de calificarnos. Me gustaría conocer los fundamentos de tu comentario, y si hubo algún motivo en particular que nos puedas comentar y ayudar a mejorarlo. Estamos a disposición! Mi whatsapp 3446638498",
+      "updateTime": "2026-09-23T22:55:31.825696Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CMk4xOW9iVXRyZG5FeFdXeHhjVFJ5UjFVd2JWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Vale Bin (Vale Valeria)"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente 👌\n\n(Translated by Google)\nExcellent 👌",
+    "createTime": "2026-09-09T04:44:18.021189Z",
+    "updateTime": "2026-09-09T04:44:18.021189Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Vale! ⭐⭐⭐⭐⭐ Nos alegra muchísimo saber que tu experiencia fue excelente. Agradecemos mucho que te hayas tomado el tiempo de dejarnos tu calificación y comentario. ¡Esperamos volver a verte pronto! 😊",
+      "updateTime": "2026-09-23T22:58:12.467229Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GRU9HZElNSFpOVlRkV1gxVmxOWEJZVW1Ga1pYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ser PaKi"
+    },
+    "starRating": "FIVE",
+    "comment": "Con la exelente atención y prolijidad de Elías ,en el boxes del lubricentro ACA de Venado Tuerto\n\n(Translated by Google)\nWith the excellent attention and thoroughness of Elias, in the ACA lubrication center\u0027s pit box in Venado Tuerto",
+    "createTime": "2026-09-05T15:16:43.725456Z",
+    "updateTime": "2026-09-05T15:16:43.725456Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias por tu excelente calificación y por tus palabras! ⭐⭐⭐⭐⭐ Nos alegra muchísimo saber que destacás la atención y la prolijidad de Elías. Vamos a compartirle tu reconocimiento, que seguramente será una gran motivación para seguir brindando el mejor servicio. ¡Te esperamos nuevamente! 😊",
+      "updateTime": "2026-09-23T22:57:55.445899Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poa1ZUUm9jMGR3TlV0UUxUQnZRaTFvUzBsTFMxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Marta Espinosa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-29T14:06:34.685422Z",
+    "updateTime": "2026-08-29T14:06:34.685422Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Marina, por tu calificación y por compartir tu experiencia! ⭐⭐⭐⭐ Nos alegra saber que tu visita fue positiva. Si hubo algún detalle que podamos mejorar para que tu próxima experiencia sea de 5 estrellas, estaremos encantados de escucharte. ¡Esperamos volver a verte pronto! 😊",
+      "updateTime": "2026-09-23T22:57:25.568318Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ1h6SnNNalpmYUhoVGVGUjJUVmxFV0MxelRXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Castilla"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-29T12:32:07.669517Z",
+    "updateTime": "2026-08-29T12:32:07.669517Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Romina, por tu calificación y por tomarte el tiempo de compartir tu experiencia! ⭐⭐⭐⭐ Nos alegra saber que tu visita fue positiva. Esperamos volver a recibirte pronto y seguir mejorando para ofrecerte siempre la mejor experiencia. 😊",
+      "updateTime": "2026-09-23T22:56:44.120083Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsbk4yRjFWamhoVFhsb2FUZEVlRGx0UWxGdmJWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daiana Bellón"
+    },
+    "starRating": "FIVE",
+    "comment": "Necesitaría  comunicarme con ustedes, que numero de teléfono pueden brindarme ya que el fijo no se encuentra disponible.\n\n(Translated by Google)\nI need to contact you; what phone number can you provide me since the landline is unavailable?",
+    "createTime": "2026-08-19T15:43:14.251727Z",
+    "updateTime": "2026-08-25T11:06:31.740338Z",
+    "reviewReply": {
+      "comment": "Daiana, buenas tardes.\nEl celular de nuestra gerencia es 3446-638498. Por cualquier consulta podes enviarnos un whatsapp.\nSi el motivo de la calificación es sólo para consultar el contacto, agradeceré puedas borrar el puntaje, o acompañarnos con 5 estrellas!\nA disposición.",
+      "updateTime": "2026-08-24T19:26:33.651888Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwQ2JXVllXVnBMTVdGQk9VZGlUbk15VUhWeFMyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Lucas Anton Chiera"
+    },
+    "starRating": "ONE",
+    "comment": "Personal irrespetuoso\n\n(Translated by Google)\nDisrespectful staff",
+    "createTime": "2026-08-17T16:10:38.176892Z",
+    "updateTime": "2026-08-17T16:10:38.176892Z",
+    "reviewReply": {
+      "comment": "Hola Matías, buenas tardes.\nLamentamos muchísimo tu comentario, y agradeceré puedas comunicarte conmigo para saber un poco más sobre tu experiencia, y que nos ayudes a mejorarlo.\nEstoy a disposición.\n03446-15638498\nJulián.",
+      "updateTime": "2026-08-24T19:27:55.993725Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWldVeDRPSEZyTXkwd2NqQnJNM2huTUd4WlFtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nelly Barreyro"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención del personal.\n\n(Translated by Google)\nExcellent service from the staff.",
+    "createTime": "2026-08-13T13:37:21.079054Z",
+    "updateTime": "2026-08-13T13:37:21.079054Z",
+    "reviewReply": {
+      "comment": "Hola Nelly! Muchísimas gracias por otorgarnos una calificación de 5 estrellas! Valoramos mucho tu tiempo y comentario. Te esperamos!!",
+      "updateTime": "2026-08-24T19:27:07.124193Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Ca1lTMVJVV0YwWWxFNE4wbE5XV1I0VmpCNFJGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ernesto Sacchi"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy dificil acceso, si hay mas de 3 vehiculos quedas ocupando la calle dificultando la circulacion\n\n(Translated by Google)\nVery difficult access; if there are more than 3 vehicles, you end up blocking the street and hindering traffic.",
+    "createTime": "2026-08-07T13:25:27.462742Z",
+    "updateTime": "2026-08-07T13:25:27.462742Z",
+    "reviewReply": {
+      "comment": "Hola Ernesto!\nGracias por valorar nuestra atención. \nTe contamos que por ordenanza tenemos un gran espacio reservado para el ingreso a la estación, el cual abonamos mensualmente como estacionamiento, para que los clientes estén mas comodos y seguros. Lamentablemente no todos los conductores lo respetan, y estacionan haciendo uso del cordón amarillo de acceso, lo que dificulta realmente la circulación.\nTe esperamos nuevamente!",
+      "updateTime": "2026-08-10T17:17:36.632490Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOSWVteDZSWG8xVDFGNVNFMTNOVEJaVXpCcVVGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matías Michel"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-03T19:32:00.593710Z",
+    "updateTime": "2026-08-03T19:32:00.593710Z",
+    "reviewReply": {
+      "comment": "Hola Matías! Muchas gracias por tu reseña. Te esperamos!!\n",
+      "updateTime": "2026-08-10T17:19:51.853175Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trNWFFZ3dNbGhVUkhwbmQzaG5XWE5oTjNreU1tYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Bruno Bulaich"
     },
     "starRating": "FIVE",
     "createTime": "2026-08-02T21:01:02.481287Z",
     "updateTime": "2026-08-02T21:01:02.481287Z",
+    "reviewReply": {
+      "comment": "Bruno, ¡gracias por elegirnos y por dejarnos tu excelente valoración! ⭐⭐⭐⭐⭐ Nos alegra saber que tu paso por la estación fue una buena experiencia. ¡Esperamos que vuelvas a visitarnos pronto! ⛽😊",
+      "updateTime": "2026-08-10T17:26:45.733653Z"
+    },
     "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0UE5XTjJhakpHUlMxQ1lVeEJSbWx5YlRGTFJuYxAB"
   }, {
     "reviewer": {
@@ -14,6 +179,10 @@
     "starRating": "THREE",
     "createTime": "2026-08-01T04:33:03.916464Z",
     "updateTime": "2026-08-01T04:33:03.916464Z",
+    "reviewReply": {
+      "comment": "¡Gracias, Ana, por tu valoración! ⭐⭐⭐ Nos gustaría saber qué aspectos de tu experiencia podemos mejorar para alcanzar una mejor calificación. ¡Esperamos volver a recibirte y brindarte una experiencia aún mejor! ⛽😊",
+      "updateTime": "2026-08-10T17:22:34.562330Z"
+    },
     "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVU5ITTNOWGxOYm1OSlNURlBWRTlvZFU5MmFYYxAB"
   }, {
     "reviewer": {
@@ -23,6 +192,10 @@
     "comment": "La atención de la chica de la caja super amable ,la limpieza un 10\n\n(Translated by Google)\nThe cashier was super friendly, and the cleanliness was a 10/10.",
     "createTime": "2026-07-26T01:03:35.191273Z",
     "updateTime": "2026-07-26T01:03:35.191273Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Ana Inés, por tu excelente valoración! 😊 Nos alegra muchísimo saber que destacaste la amabilidad de nuestra compañera de caja y la limpieza de la estación. Trabajamos todos los días para brindar una atención cordial y mantener nuestros espacios en las mejores condiciones. ¡Te esperamos nuevamente! ⛽💙",
+      "updateTime": "2026-08-10T17:20:40.119952Z"
+    },
     "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxbE4yMDFYMjFQWmtzeVJGYzNjMnR1Vkc5c2RuYxAB"
   }, {
     "reviewer": {
@@ -31,6 +204,10 @@
     "starRating": "THREE",
     "createTime": "2026-07-25T14:57:00.204413Z",
     "updateTime": "2026-07-25T14:57:00.204413Z",
+    "reviewReply": {
+      "comment": "¡Muchas gracias, Virginia, por tu valoración y por elegirnos! ⭐ Nos alegra mucho saber que tu experiencia fue positiva, y nos encantaría llegar a las 5 estrellas que todos nuestros clientes merecen. ¡Te esperamos nuevamente! ⛽😊",
+      "updateTime": "2026-08-10T17:21:27.987254Z"
+    },
     "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxR2EzcGZlWGRhVFVOUGR6aHNVMTl6ZVRsd1VVRRAB"
   }, {
     "reviewer": {
@@ -40,6 +217,10 @@
     "comment": "Unos genios, tanto los playeros como quienes atienden el full. Si quieren un servicio completo, con la mejor onda y atención de calidad, esta es la mejor estación. Muy recomendado! 😁\n\n(Translated by Google)\nThey\u0027re all fantastic, both the attendants and the full-service staff. If you want complete service, with the best vibes and top-notch attention, this is the best station. Highly recommended! 😁",
     "createTime": "2026-07-24T20:08:12.007362Z",
     "updateTime": "2026-07-24T20:08:12.007362Z",
+    "reviewReply": {
+      "comment": "¡Mariela, qué alegría leer tu comentario! 😁 Gracias por recomendarnos y por destacar tanto a nuestros vendedores de playa como al equipo de Full. Nos encanta saber que encontraste en nuestra estación un servicio completo, buena onda y una atención que estuvo a la altura de tus expectativas.\n\nComentarios como el tuyo nos dan mucha energía para seguir trabajando con la misma dedicación. ¡Gracias por elegirnos y por recomendarnos! ⛽💙",
+      "updateTime": "2026-08-10T17:28:20.015840Z"
+    },
     "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNk5rOTRXa2hIWWxReGVUbGhiMDVCT0RWVWJVRRAB"
   }, {
     "reviewer": {
@@ -49,6 +230,10 @@
     "comment": "Muy desconforme con la atención. Mientras esperábamos para llenar el tanque para volver a Córdoba, mi hijo que tiene problemas en los riñones necesitaba ir al baño. Preguntamos en la full, nos dijeron que no tenían, que preguntemos a las chicas que cargaban nafta. No sólo nos dijeron que no tenían baño, sino que nos negaron el libro de quejas. Primera vez que nos pasa en una YPF, le pondría 0 estrellas la verdad\n\n(Translated by Google)\nVery dissatisfied with the service. While we were waiting to fill up the tank to return to Córdoba, my son, who has kidney problems, needed to use the restroom. We asked at the full station, and they told us they didn\u0027t have one, and that we should ask the women pumping the gas. Not only did they tell us they didn\u0027t have a restroom, but they also refused to give us the complaint book. This is the first time this has happened to us at a YPF station; I would honestly give it zero stars.",
     "createTime": "2026-07-12T18:37:12.089235Z",
     "updateTime": "2026-07-12T18:37:12.089235Z",
+    "reviewReply": {
+      "comment": "Hola Ivana. Lamentamos sinceramente la situación que nos contás y entendemos especialmente la preocupación que implica estar viajando con un niño que necesitaba utilizar el baño. También lamentamos que la atención recibida y la respuesta ante tu pedido del libro de quejas hayan hecho que te sintieras desatendida.\n\nTomamos muy en serio lo que nos señalás y vamos a revisar internamente lo sucedido con el equipo, ya que nuestro objetivo es brindar siempre una atención respetuosa y predispuesta, especialmente ante situaciones que requieren consideración.\n\nTe pedimos disculpas por la experiencia que tuviste en nuestra estación y agradecemos que nos hayas hecho llegar tu reclamo. Esperamos poder recuperar tu confianza en una próxima visita.",
+      "updateTime": "2026-08-10T17:23:17.877165Z"
+    },
     "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tscGVWZDBTa0pRTm1kNVNsRnZhV2xUY2xFd05XYxAB"
   }, {
     "reviewer": {
@@ -58,120 +243,10 @@
     "comment": "Pobre atención\n\n(Translated by Google)\nPoor service",
     "createTime": "2026-07-10T22:12:00.557217Z",
     "updateTime": "2026-07-10T22:12:00.557217Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UVJHVkRTMkZrV1ZVemRXTlBSR1V3UmtkZlJHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Luca Regatuso"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy amable la gente que atiende\n\n(Translated by Google)\nThe staff were very friendly.",
-    "createTime": "2026-07-04T13:54:51.638610Z",
-    "updateTime": "2026-07-04T13:54:51.638610Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25remJXZE1WVTFZWVZsVFUwTkNPRWRMUzBSYVMxRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gabriel Olivero"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-27T12:50:03.615798Z",
-    "updateTime": "2026-06-27T12:50:03.615798Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SV1VtTkVjMVIzZEVSQk5YWmlZVnBYTVdkYVJFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Belen Chiosso"
-    },
-    "starRating": "FIVE",
-    "comment": "Sinceramente terminamos almorzando ahí de casualidad \u0026 que GRAN sorpresa nos llevamos!!! La comida es congelada (se nos indicó en el momento) pero estaba riquísima.\n\nTema aparte la atención: el personal es atento y MUY MUY amable. Una chica y un chico nos tuvieron mucha paciencia (éramos varios) y fueron muy cálidos, con una GRAN sonrisa.\n\nPara rematar, llegó la encargada del lugar y WOW, la misma buena predisposición de antes y más.\n\nPongo 5 estrellas pero se merecen mil!!!!\n\n(Translated by Google)\nWe honestly ended up having lunch there by chance, and what a wonderful surprise! The food was frozen (we were told this at the time), but it was delicious.\n\nThe service was outstanding: the staff was attentive and incredibly friendly. A young woman and man were very patient with us (there were several of us) and were very welcoming, with big smiles.\n\nTo top it all off, the manager arrived, and wow, she was just as helpful and even more so than before.\n\nI\u0027m giving it 5 stars, but they deserve a thousand!",
-    "createTime": "2026-06-15T18:22:53.227883Z",
-    "updateTime": "2026-06-15T18:22:53.227883Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaWFJXcHhWR2RoTXprMFlsZDFhakpPY3pNMFQyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Luis Valladares"
-    },
-    "starRating": "FOUR",
-    "createTime": "2022-05-05T16:41:00.948364Z",
-    "updateTime": "2026-06-12T19:23:40.724168Z",
     "reviewReply": {
-      "comment": "¡Hola Luis! Gracias por tomarte el tiempo de calificarnos. Esperamos, en tu próxima visita, ganarnos 5 estrellas 😉",
-      "updateTime": "2025-03-09T16:46:59.255267Z"
+      "comment": "Hola Miguel. Lamentamos que tu experiencia con nuestra atención no haya sido la esperada. Agradecemos que nos lo hagas saber, ya que tus comentarios nos ayudan a detectar aspectos que debemos mejorar. Esperamos poder brindarte una mejor experiencia en tu próxima visita. ¡Gracias por tu aporte!",
+      "updateTime": "2026-08-10T17:21:52.130723Z"
     },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybUplQ2ZnEAE"
-  }, {
-    "reviewer": {
-      "displayName": "Filoshark en Ruta"
-    },
-    "starRating": "FIVE",
-    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-06-06T23:10:36.241143Z",
-    "updateTime": "2026-06-06T23:10:36.241143Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCTlJVZHZXa1o2VFZGRlFVRmlNSFJZZUROZmFFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lore Patek"
-    },
-    "starRating": "FOUR",
-    "comment": "Buena estación\n\n(Translated by Google)\nGood season",
-    "createTime": "2026-06-06T13:44:30.927649Z",
-    "updateTime": "2026-06-06T13:44:30.927649Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOUGVWVnNRWGhNT1dWUlYxUmxSRTlOTlZCMFowRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Adriana Garcia"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-05-20T21:14:53.982223Z",
-    "updateTime": "2026-05-20T21:14:53.982223Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT214MlkzSlZkVXhST0RrMWR6aEdhVWhLWmpGSFZWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fernando Siner"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-18T11:46:52.705592Z",
-    "updateTime": "2026-05-18T11:46:52.705592Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taYVpXSllhV2MxVFhaaWEzSkVNV1pyTlhSbFIyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rodolfo Biaggk"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-09T15:20:00.888351Z",
-    "updateTime": "2026-05-09T15:20:00.888351Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twSmIybEpNbGgzVW5SamEzaHRTR3hUUjB0MlFrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Osvaldo Orozco"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente Atención y predisposición ELIAS!!!  como siempre está en todos los detalles del servi gracias .. los playeros excelente atención TMB\n\n(Translated by Google)\nExcellent service and helpfulness, Elias! As always, he\u0027s attentive to every detail. Thank you! The beach attendants were also excellent.",
-    "createTime": "2026-05-08T01:38:49.220734Z",
-    "updateTime": "2026-05-08T01:38:49.220734Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CeVVXRmhlRGxyWlVGblVtbDBPVWQwYld4M2IwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Andrea Milardovich"
-    },
-    "starRating": "FIVE",
-    "comment": "Elias...Un muchacho encantador que solucionó la cubierta del.auto sin nada a cambio.\nGracias pir ayudarme.!\n\n(Translated by Google)\nElias...A lovely young man who fixed my car cover without asking for anything in return.\n\nThank you for helping me!",
-    "createTime": "2026-05-07T16:06:57.169002Z",
-    "updateTime": "2026-05-07T16:06:57.169002Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5RWR6Tk9XR3RuYjE5RmVuTllWemxqTkc0eWJYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ivo Ulman"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-30T01:07:51.574485Z",
-    "updateTime": "2026-04-30T01:07:51.574485Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWlN6SkthbnBwVnpoaWFXMVFZVWRvZUZacmVWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Cecilia Acosta"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-04-24T19:44:17.351384Z",
-    "updateTime": "2026-04-24T19:44:17.351384Z",
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSNmEyRkJTbkJMVXpsWFgyUmxORmhSWTJWQlRrRRAB"
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UVJHVkRTMkZrV1ZVemRXTlBSR1V3UmtkZlJHYxAB"
   }]
 }

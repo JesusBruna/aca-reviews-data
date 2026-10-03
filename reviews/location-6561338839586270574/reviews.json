@@ -1,6 +1,105 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Fabio Ferrarese"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-24T12:16:22.351596Z",
+    "updateTime": "2026-09-24T12:16:22.351596Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaWGFrTnRNekl0Y0dOekxUZFNOalprWHpKRlVsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge González"
+    },
+    "starRating": "ONE",
+    "comment": "Una vergüenza la estación de servicios los baños clausurados abría que preguntarle a los playeros dónde hacen sus necesidades?\n\n(Translated by Google)\nThe service station is a disgrace; the bathrooms are closed. Should we ask the attendants where they relieve themselves?",
+    "createTime": "2026-09-17T10:50:20.207905Z",
+    "updateTime": "2026-09-17T10:50:20.207905Z",
+    "reviewReply": {
+      "comment": "Hola Jorge, lamentamos el inconveniente en el momento que concurriste a nuestra estación, nos vimos obligados a cerrar el baño de hombres por la rotura de un caño de agua, que por suerte ya se encuentra reparado.\nEl personal de la estación cuenta con vestuario y baño propio, donde lo hemos ofrecido como alternativa a nuestros clientes, de habernos comunicado esto, por su puesto tu hubiéramos asistido de alguna manera, te pedimos disculpas y te esperamos como siempre en nuestra estaciòn\nSaludos cordiales",
+      "updateTime": "2026-09-18T15:18:59.674008Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT204eFRqUXdXbGt6UkdKZkxYZFNMVkZ5TUVFMlEyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emmanuel Pintos"
+    },
+    "starRating": "ONE",
+    "comment": "Baño clausurado, no tienen agua caliente lo único que tienen es mala onda , re chiquito el full.\n\n(Translated by Google)\nBathroom closed, they don\u0027t have hot water, all they have is bad vibes, the full room is tiny.",
+    "createTime": "2026-09-16T12:36:38.026082Z",
+    "updateTime": "2026-09-16T12:36:38.026082Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCQlRuRm1TRTlRTUdkM01taFpXa1ZFU21Gb05HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "gustavofparez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-15T18:36:28.427267Z",
+    "updateTime": "2026-09-15T18:36:28.427267Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeFlWaEVTSHBtTkhoR1NrZGxVbGRQVFRrMGFGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carla Sosa"
+    },
+    "starRating": "FOUR",
+    "comment": "Rápida atención y queda de paso\n\n(Translated by Google)\nQuick service and it\u0027s on the way",
+    "createTime": "2026-09-13T20:57:32.951412Z",
+    "updateTime": "2026-09-13T20:57:32.951412Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkd05rTXpkMWRIVEZBNVNERnpTREJmYWtSNVRsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "david Gauna"
+    },
+    "starRating": "ONE",
+    "comment": "Servicio lento, espera y espera....\n\n(Translated by Google)\nSlow service, waiting and waiting....",
+    "createTime": "2026-09-01T21:05:23.263818Z",
+    "updateTime": "2026-09-01T21:05:23.263818Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxa1lqaDBlbWwyUkhCNVJpMWhNVzAzYlV0RldsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Lopez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Leandro. Gracias\n\n(Translated by Google)\nLeandro provided excellent service. Thank you.",
+    "createTime": "2026-08-19T23:42:35.516751Z",
+    "updateTime": "2026-08-19T23:42:35.516751Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTE5ESlZkSGRTT0VGT1JGVTFlWGhqY1RKVFExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "maxi momundel"
+    },
+    "starRating": "THREE",
+    "createTime": "2025-10-04T16:49:41.752588Z",
+    "updateTime": "2026-08-17T20:13:34.341346Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoR2FWOU1ObXN6U2pKVmQyMW5NVUpwWXpWTWEyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "marianela.2023"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención..\n\n(Translated by Google)\nExcellent service.",
+    "createTime": "2026-08-16T23:04:23.401493Z",
+    "updateTime": "2026-08-16T23:04:23.401493Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xSmNIUXljbGN6UXpWUlZuZFRiRGRJVEc1ME0wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Dappiano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-16T19:07:23.707789Z",
+    "updateTime": "2026-08-16T19:07:23.707789Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSTFRsWm1WMFJtTWpGR1RXMXlZMjFwT1RkS1JsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "luisa vayo"
+    },
+    "starRating": "FIVE",
+    "comment": "Ariel, Manuel y Tato genios. Me resolvieron una rueda que pinché en el camino. Muy atentos y predispuestos.\n\n(Translated by Google)\nAriel, Manuel, and Tato are geniuses. They fixed a flat tire I got on the road. Very attentive and helpful.",
+    "createTime": "2026-08-06T18:45:17.226725Z",
+    "updateTime": "2026-08-06T18:45:17.226725Z",
+    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0NFZIUTJhSEpvYWtvMmRHeHliRUZxT1ZoQlFVRRAB"
+  }, {
+    "reviewer": {
       "displayName": "lucas galarza"
     },
     "starRating": "ONE",
@@ -83,130 +182,5 @@
     "createTime": "2026-06-19T15:10:08.463952Z",
     "updateTime": "2026-06-19T15:10:08.463952Z",
     "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vM1RUVkpRMlYwZEhKbVUwRnRRM2xWVFY5bGEwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "gustab butriboguich"
-    },
-    "starRating": "THREE",
-    "comment": "Buenos precios en combustible, pero con problemas recurrentes con el posnet y las tarjetas.\n\n(Translated by Google)\nGood fuel prices, but with recurring problems with the POS terminal and cards.",
-    "createTime": "2026-06-19T13:04:08.678926Z",
-    "updateTime": "2026-06-19T13:04:08.678926Z",
-    "reviewReply": {
-      "comment": "Hola Gustavo muchas gracias por participar, lamentamos haber tenido este inconveniente con el cobro, estamos trabajando en el tema para solucionarlo, te esperamos nuevamente\n\nSaludos cordiales",
-      "updateTime": "2026-06-19T14:39:26.733023Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toRFYyd3dlbGgzY0ZoSVVrUjJRamxJTjNRM2FtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Roque Paradiso"
-    },
-    "starRating": "FIVE",
-    "comment": "Quiero destacar la atención del personal\nDe esta estación de servicio, especialmente de Ricardo, que me convecio para hacerme socio, muy bien\nYPF.\n\n(Translated by Google)\nI want to highlight the excellent service from the staff at this gas station, especially Ricardo, who convinced me to become a member. Very good, YPF.",
-    "createTime": "2026-06-02T15:58:19.502760Z",
-    "updateTime": "2026-06-02T15:58:19.502760Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Roque por tu calificación, te esperamos como siempre en nuestras estaciones para seguir mejorando día a día.\nSaludos coridiales",
-      "updateTime": "2026-06-03T14:41:24.873871Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FNFV6bExTMVJHUzNCTFkyMTBjVEZFUlVjeVpWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "José Alberto Del Campo"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy estrategico\n\n(Translated by Google)\nVery strategic",
-    "createTime": "2026-06-02T11:16:50.015882Z",
-    "updateTime": "2026-06-02T11:16:50.015882Z",
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5WmNtZENPVGxzTjJJNWRGWkdWREZ3YkhwWFNHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Yamila Gisela Segata"
-    },
-    "starRating": "THREE",
-    "comment": "Sólo nafta... Es muy chica siempre lleno porque tienen buen precio no dan a basto los playeros\n\n(Translated by Google)\nJust gas... It\u0027s very small, always packed because they have good prices, the attendants can\u0027t keep up.",
-    "createTime": "2026-05-30T19:07:00.727649Z",
-    "updateTime": "2026-05-30T19:07:00.727649Z",
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWTE5YZFdMV3B4U1hKT05YVXRWSEZJZWxGeU5YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Hoppers Mabel beaver"
-    },
-    "starRating": "FIVE",
-    "comment": "Error error 403403",
-    "createTime": "2026-05-24T15:35:03.913658Z",
-    "updateTime": "2026-05-24T15:35:03.913658Z",
-    "reviewReply": {
-      "comment": "Hola Mabel gracias por tu comentario, te esperamos nuevamente en nuestras estaciones para seguir mejorando día a día.\nSaludos cordiales",
-      "updateTime": "2026-05-26T13:37:25.799928Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnM1drdzFMVk4wTUZSemVXZzJRemRzYkRnNU5sRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Carlos Gamarra"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-24T13:02:22.687105Z",
-    "updateTime": "2026-05-24T13:02:22.687105Z",
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT25od1pUTk1TbWxKTkU1MGRWOW5NR0pWTFRWM01rRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Laura Santillan"
-    },
-    "starRating": "ONE",
-    "comment": "Malísima la atención sin ganas de trabajar la que está mano al oeste me atendió uno todo barbudo un mal aspecto encima maleducado\n\n(Translated by Google)\nThe service was terrible, they clearly didn\u0027t seem to be working. The guy on the west side served me with a big beard, he looked awful and was rude.",
-    "createTime": "2026-05-21T00:37:31.409455Z",
-    "updateTime": "2026-05-21T00:37:31.409455Z",
-    "reviewReply": {
-      "comment": "Laura lamentamos tu experiencia en nuestra estación, tomo tu comentario para trabajar de inmediato en este punto, te esperamos nuevamente para poder seguir mejorando nuestra atención día a día.\nSaludos cordiales\n",
-      "updateTime": "2026-05-21T17:14:09.000389Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWFVGVnFkakpUWlc0M2IzRklWV1ZyYmtabE1YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "facundo tablada"
-    },
-    "starRating": "FIVE",
-    "comment": "Hoy tuve un inconveniente a la mañana y Agradezco al playero Flavio por ayudarme con excelente atención y buena onda.🫂\n\n(Translated by Google)\nI had a problem this morning and I\u0027m grateful to the gas station attendant Flavio for his excellent service and friendly attitude. 🫂",
-    "createTime": "2026-05-19T01:28:18.203715Z",
-    "updateTime": "2026-05-19T01:28:18.203715Z",
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT205R2VGcDVXRFZxVVZkSlRqWkNkR1JTTnpOZlJtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sebastián Vallese"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-05-17T18:34:01.987738Z",
-    "updateTime": "2026-05-17T18:34:01.987738Z",
-    "reviewReply": {
-      "comment": "Sebastián muchas gracias por tu calificación, te esperamos como siempre en nuestras estaciones para seguir mejorando.\nSaludos cordiales",
-      "updateTime": "2026-05-18T13:31:19.407751Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BMk9YVkxORFJ2UkVkRFQyTjVSVTlWT0ZocWRXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Eliana Schroh"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención!\n\n(Translated by Google)\nExcellent service!",
-    "createTime": "2026-05-17T13:56:21.885665Z",
-    "updateTime": "2026-05-17T13:56:21.885665Z",
-    "reviewReply": {
-      "comment": "Eliana muchas gracias por tu calificación, nos alegra muchísimo que tu experiencia haya sido buena en nuestras estaciones, te esperamos nuevamente.\nSaludos cordiales",
-      "updateTime": "2026-05-18T13:33:17.224304Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkMU5USk1RMWhvYzI1aWVXY3pVbWR2WlhaeWFFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Roberto camba delgado"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy amable el personal\n\n(Translated by Google)\nThe staff were very friendly.",
-    "createTime": "2026-05-16T12:38:26.796131Z",
-    "updateTime": "2026-05-16T12:38:26.796131Z",
-    "reviewReply": {
-      "comment": "Roberto gracias por tu calificación, te esperamos como siempre en nuestras estaciones para seguir mejorando día a día.\nSaludos cordiales",
-      "updateTime": "2026-05-18T13:58:27.349744Z"
-    },
-    "name": "accounts/109853746269412609224/locations/6561338839586270574/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGdGNrNVdORTA1WjFkTmJ6ZGpObUk0UWxaaFRXYxAB"
   }]
 }

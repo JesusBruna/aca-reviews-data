@@ -1,6 +1,146 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "And Valeria Villegas"
+    },
+    "starRating": "FOUR",
+    "comment": "Lo básico tienen, el baño muy limpio\n\n(Translated by Google)\nThey have the basics, the bathroom is very clean",
+    "createTime": "2026-09-29T10:29:48.635753Z",
+    "updateTime": "2026-09-29T10:29:48.635753Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVMmRXVmZXbm94U1VOVVZXWm9Sa2t6YzE5c1JrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "juan perez"
+    },
+    "starRating": "ONE",
+    "comment": "Horrible. Baño clausurado! Vergonzoso\n\n(Translated by Google)\nHorrible. Bathroom closed! Shameful.",
+    "createTime": "2026-09-28T20:33:18.265931Z",
+    "updateTime": "2026-09-28T20:33:18.265931Z",
+    "reviewReply": {
+      "comment": "Hola Juan, agradecemos por tomarte el tiempo para escribir esta reseña. Los baños de la estación están siendo renovados, Específicamente el sistema de descarga de inodoros, por esa razón se nos hace imposible habilitar el servicio hasta que no esté la obra terminada. En el lugar hay cartelería indicando el motivo por el cual los baños están cerrados. Esperamos que la próxima vez también se tome el tiempo para escribir lo positivo que tiene la estación. Saludos ",
+      "updateTime": "2026-09-28T21:15:39.961468Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GaWVHdG9TSGhxY2tsQ1pWSmlWMUZGUTNVelUxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "norberto morichetti"
+    },
+    "starRating": "ONE",
+    "createTime": "2026-09-19T11:44:28.934013Z",
+    "updateTime": "2026-09-19T11:44:28.934013Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kMWRUbHZkMng2TWtKaFdVaGpZVzA1UVhWdVNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "carmen querenghi"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-09-18T12:11:36.697783Z",
+    "updateTime": "2026-09-18T12:11:36.697783Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWTVVDMHdRemQ0UjFCak1tTjNRWE5GVkdONFpXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Scaccia"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente servicio y atención en el pueblo de Encón. Ideal para repostar combustible y tomarse un café. Baños muy limpios. Amplio lugar para estacionar, inclusive si quieres tomar un descanso. Hay un espacio arbolado, inclusive con una zona de churrasqueras. Ubicada estratégicamente en tu camino hacia o desde San Juan, Mendoza y San Luis.\n\n(Translated by Google)\nExcellent service and attention in the town of Encón. Ideal for refueling and grabbing a coffee. Very clean restrooms. Ample parking, even if you want to take a break. There\u0027s a wooded area, including a barbecue area. Strategically located on your way to or from San Juan, Mendoza, and San Luis.",
+    "createTime": "2026-09-13T11:52:43.967935Z",
+    "updateTime": "2026-09-13T11:52:43.967935Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2podGFFZHlSalZzUWsxUmF6Y3lXVmw2U1d4elUyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Acuña"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-09-08T16:15:58.641050Z",
+    "updateTime": "2026-09-08T16:27:38.150769Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwck5XSmtkMWRHVURCWWIxWmpYMGQyTjFGeGEyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hde Exposito"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-09-07T17:24:51.209827Z",
+    "updateTime": "2026-09-07T17:24:51.209827Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ad1pVaGlkRVJ2YVd0RWRHMHdiVGRQYUVWNFpHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "DANIEL AGUILAR"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-09-02T19:24:27.057556Z",
+    "updateTime": "2026-09-02T19:24:27.057556Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aQ05VOVhha2REV1d4NVRpMXhhalJSYVRWYWJuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gerardo Daniel Isasi"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bueno servicio\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-08-31T22:20:55.629113Z",
+    "updateTime": "2026-08-31T22:20:55.629113Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4eWVURlVVbkp1VFdOT1JXNHpiSEp1VjNKU1dGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Molina"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-31T21:15:13.415955Z",
+    "updateTime": "2026-08-31T21:15:13.415955Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aSVVIVjBUMFpEVnprd1ZqSjVSVVE0WDAwdFFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Raul Tejada"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-21T03:15:43.391621Z",
+    "updateTime": "2026-08-21T03:15:43.391621Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsa1pWbFlSSHBMY0VwblNDMXFSRnBXTWpWM2VrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lilian Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Quiero agradecer enormemente al personal que atiende el shop de YPF , viaje a San Juan el pasado viernes 14/8 y al pagar lo que compre deje mis lentes recetados , no me di cuenta sino hasta llegar a la ciudad y codo regrese el 17/8 estaban allí , esperando a su dueña .Agradezco enormemente el gesto !, muchas gcs por la amabilidad!!!!!!\n\n(Translated by Google)\nI want to express my sincere gratitude to the staff at the YPF shop. I traveled to San Juan last Friday, August 14th, and when I paid for my purchases, I left my prescription glasses behind. I didn\u0027t realize it until I arrived back in the city, and when I returned on August 17th, they were there, waiting for their owner. I am incredibly grateful for their kindness! Thank you so much for your thoughtfulness!",
+    "createTime": "2026-08-18T10:29:48.024586Z",
+    "updateTime": "2026-08-18T10:29:48.024586Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5SlNFbG1lR2R4VDFwZldtVktXV3czV0hSYWVrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eugenia “Euge” Martínez"
+    },
+    "starRating": "FIVE",
+    "comment": "De esas paradas que se vuelven parte del viaje… 🚐✨\nACA YPF El Encón, una parada obligada entre San Luis y San Juan. Buena energía, buen descanso y a seguir rodando por Argentina. 🇦🇷❤️\nPorque cuando viajamos… ¡pa’ dónde pinte! 😍🚐\nGracias x su atención y cordialidad.\n\n(Translated by Google)\nOne of those stops that becomes part of the journey… 🚐✨\nACA YPF El Encón, a must-stop between San Luis and San Juan. Good vibes, a good rest, and onward to the journey through Argentina. 🇦🇷❤️\nBecause when we travel… we go wherever we want! 😍🚐\nThank you for your attention and friendliness.",
+    "createTime": "2026-08-14T13:58:39.548509Z",
+    "updateTime": "2026-08-14T13:58:39.548509Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5RVIyRmhaVzl2Wm1OQllqVmlUa3R5T0c5b2VYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "francisco jorge quiroga"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-13T16:06:42.134914Z",
+    "updateTime": "2026-08-13T16:06:42.134914Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aMlIwOHpjMGR4Y25oVmFuWlRRM1JhWWswdFNuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana Accoroni"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-12T17:29:21.449469Z",
+    "updateTime": "2026-08-12T17:29:21.449469Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWMFFWbFpiRVkwUjFkM2NHd3dWV1Z1U1ZwZlJGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carlos Flores (Carlitos)"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-10T00:04:21.188030Z",
+    "updateTime": "2026-08-10T00:04:21.188030Z",
+    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WaGRtWjBjR2hQTlZSVVdtdGpMUzE1UjBkQ1kyYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Marcelo Pintorelli"
     },
     "starRating": "FOUR",
@@ -33,148 +173,5 @@
     "createTime": "2026-07-28T17:25:09.407846Z",
     "updateTime": "2026-07-28T17:25:09.407846Z",
     "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKRk1YQmxRMWxQUjNGcFRtTnlWVXhoTUdoMFlXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marco Gantus"
-    },
-    "starRating": "ONE",
-    "createTime": "2026-07-26T22:06:21.812762Z",
-    "updateTime": "2026-07-26T22:06:21.812762Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jMlRXTklUR0UxVEROVk1VdDRTMkZ1V25GVlJrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Romina Herrera"
-    },
-    "starRating": "ONE",
-    "comment": "Baños muy sucio\n\n(Translated by Google)\nVery dirty bathrooms",
-    "createTime": "2026-07-26T20:02:07.296942Z",
-    "updateTime": "2026-07-26T20:02:07.296942Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xadGRHdHdabkY1YmtkaVVUQXljRk56WWtOTGJtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jesus Troncoso"
-    },
-    "starRating": "ONE",
-    "comment": "pase por ahí el día lunes 20 de julio a las 21.20 aproximadamente, entre porque no llegaba a san luis, sino ni entraba.  muy mala atención me rompen la cerradura de la tapa de combustible, que siempre lo abro y cierro yo pero esta vez no lo hice porque me puse a lavar los vidrios ya que no lo hacian tuve que pedir 2 veces que me cargaran los puntos. Pocos cuidadosos tengan más empatia. Lamentablemente ya que es una estación que está a poco metros de la ruta.\n\n(Translated by Google)\nI passed by there on Monday, July 20th, at approximately 9:20 PM. I went in because I couldn\u0027t make it to San Luis; otherwise, I wouldn\u0027t have gone in at all. The service was terrible. They broke the lock on the fuel cap, which I always open and close myself, but this time I didn\u0027t because I was washing the windows. Since they wouldn\u0027t do it, I had to ask twice to have my points credited. They\u0027re inconsiderate; they should have more empathy. It\u0027s unfortunate, especially since it\u0027s a station located just a few meters from the highway.",
-    "createTime": "2026-07-23T20:30:18.118668Z",
-    "updateTime": "2026-07-23T20:30:18.118668Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCVlIxVllTblZwY0Vrd1ozSlpOMlptV0dSMVUyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juanjo Serra"
-    },
-    "starRating": "FIVE",
-    "comment": "Llegué a la Estación después de 2 hrs de viaje desde San Luis, y no tenía agua para habilitar los baños.\nEntonces, ¿Por qué le pongo 5 estrellas?\nPorque la atención de la señorita del mostrador fue espectacular.\nPero resulta que me vengo a enterar que al gobierno de San Juan el \"barrio\" (como lo llaman) o asentamiento Encon les importa un rábano.\nSerá porque son poco más de 300 habitantes? Será porque muchos de ellos pertenecen a pueblos originarios? No, no puede ser! Si se desviven frente a las cámaras de televisión para defender los derechos de los que menos tienen!\nEl caso es que el problema de la provisión de agua potable tiene ya más de 5 años de historia. Y cuando tienen la suerte de tener agua, la misma trae un alto contenido de arsénico, de modo que obliga a que todas las casas deberían (¿?) contar con filtros para poder beberla sin contaminarse.\nLo mismo que, cuando consiguieron que les habiliten una escuela secundaria, vino la ministra de educación y les dijo que funcionaran en el edificio de la primaria, porque total era lo mismo. Y, a fuerza de manifestar mucho tiempo en la calle, consiguieron que les adecuen un edificio aparte con techos de chapa.\nEntonces, las cinco estrellas son para la estación de servicio de Encon, que es un bastión del Automóvil Club desde 1963. Que es un paso obligado entre Mendoza, San Juan y San Luis. Un oasis en una ruta donde no hay nada a menos de 200 km para donde vayas.\nCero estrellas para un gobierno que sólo considera que son 300 votos que no mueven la aguja. En vez de pensar que son 300 personas que luchan y viven en este suelo bendito.\n\n(Translated by Google)\nI arrived at the station after a 2-hour trip from San Luis, and there was no water to flush the bathrooms.\n\nSo why am I giving it 5 stars?\n\nBecause the service from the young woman at the counter was spectacular.\n\nBut it turns out that the San Juan government couldn\u0027t care less about the \"neighborhood\" (as they call it) or settlement of Encon.\nIs it because there are just over 300 inhabitants? Is it because many of them belong to indigenous communities? No, it can\u0027t be! They\u0027re always so eager to defend the rights of the poor in front of the TV cameras!\n\nThe fact is, the problem of the drinking water supply has been going on for more than 5 years. And when they are lucky enough to have water, it has a high arsenic content, so every house should (shouldn\u0027t?) have filters to be able to drink it without contamination.\n\nThe same thing happened when they finally got a high school approved. The Minister of Education came and told them to operate in the elementary school building, because it was all the same. And after a long period of protesting in the streets, they finally managed to get a separate building with a corrugated iron roof.\n\nSo, five stars go to the Encon service station, a stronghold of the Automobile Club since 1963. It\u0027s a must-stop between Mendoza, San Juan, and San Luis. An oasis on a route where there\u0027s nothing for less than 200 km in any direction.\n\nZero stars for a government that only considers 300 votes that don\u0027t make a difference. Instead of thinking that they are 300 people who struggle and live on this blessed land.",
-    "createTime": "2026-07-23T03:20:31.487331Z",
-    "updateTime": "2026-07-23T03:20:31.487331Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTVkydHZhRTFXZERaelFrbzJaVWhwTVVoTU1XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "federico kahl"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-07-19T22:52:09.219870Z",
-    "updateTime": "2026-07-19T22:52:09.219870Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCRWNuSnRTVmRxYVVoZk5EQmhOMmxTU0dSSE5FRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Andres"
-    },
-    "starRating": "ONE",
-    "comment": "Está bien por el combustible. Pero nada de servicios como baños limpios o un mínimercado full acorde. En esta oportunidad que paso los baños clausurados.. Unica estación de servicio en kms\n\n(Translated by Google)\nThe fuel is good. But there are no amenities like clean restrooms or a decent convenience store. This time I passed by, the restrooms were closed. It\u0027s the only gas station for miles around.",
-    "createTime": "2026-07-19T15:42:55.923597Z",
-    "updateTime": "2026-07-19T15:42:55.923597Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SM1ltbENlV05ZY25KbFExRnhTMUZDUjFsWVpIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Itati Genoveva Fernandez"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-07-18T20:03:46.053694Z",
-    "updateTime": "2026-07-18T20:03:46.053694Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OaGFFZFNaVzF1Tm1SS2FHWmlZbFJaVDFvdFdFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mariano"
-    },
-    "starRating": "FIVE",
-    "comment": "Bien\n\n(Translated by Google)\nGood",
-    "createTime": "2026-07-18T10:58:13.980669Z",
-    "updateTime": "2026-07-18T10:58:13.980669Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rM0xVaDFkR1ZUV0dFeE1HNW5SRWhpUlRka05XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Karina Pagano"
-    },
-    "starRating": "THREE",
-    "comment": "Te salva, donde no hay nada, aparece este pequeño lugar a ofrecer servicios necesarios\n\n(Translated by Google)\nIt saves you; where there\u0027s nothing, this little place appears to offer necessary services.",
-    "createTime": "2026-07-17T22:37:29.444645Z",
-    "updateTime": "2026-07-17T22:37:29.444645Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkT1JtTldWVUp4ZEV0amNrRnRZelEzVFhkNmEyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "leonardo oviedo"
-    },
-    "starRating": "ONE",
-    "comment": "La de freeshop una mal educada, los baños una mugre, el café es un asco, comprar para tirarlo\n\n(Translated by Google)\nThe duty-free shop staff were rude, the bathrooms were filthy, the coffee was awful, buy it only to throw it away",
-    "createTime": "2023-04-24T23:08:49.465041Z",
-    "updateTime": "2026-07-16T13:14:56.586101Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por su comentario Leonardo. Queremos que su experiencia en nuestra estación sea la Mejor , por ello tenemos disponible para cobros con tarjeta de crédito y débito, app YPF, QR, transferencia bancaria y efectivo.",
-      "updateTime": "2023-04-26T12:09:42.242937Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/ChZDSUhNMG9nS0VJQ0FnSURSdHJIbkNBEAE"
-  }, {
-    "reviewer": {
-      "displayName": "Hugo Alberto Caresani"
-    },
-    "starRating": "FOUR",
-    "comment": "Después de un largo recorrido desde la ciudad de San Luis es un oasis encontrarse con el ACA del Encon,tiene un buen espacio como para distenderse y descansar.La atención es cordial.\n\n(Translated by Google)\nAfter a long drive from the city of San Luis, the ACA in Encon is a welcome oasis. It has a good amount of space to relax and unwind. The service is friendly.",
-    "createTime": "2026-06-27T22:05:37.008834Z",
-    "updateTime": "2026-06-27T22:05:37.008834Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5bWVFTjVaVnB6VjNkNlVUTldaMGhRY1RKSk5tYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan Naretto"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-19T01:49:22.414212Z",
-    "updateTime": "2026-06-19T01:49:22.414212Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sWlMya3hXRUpFU1RrMGNrNVlVSHB6VVVSc2EwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gime"
-    },
-    "starRating": "THREE",
-    "comment": "Los playeros muy macanudos, los baños muy abandonados.\nSe puede descansar si vas en motorhome.\nNo hay aire para inflar los neumáticos y no hay casi nada para comprar de comida y bebidas\n\n(Translated by Google)\nThe beachgoers are great, but the restrooms are very run down. You can rest if you\u0027re traveling in a motorhome. There\u0027s no air conditioning for tires, and hardly any food or drinks to buy.",
-    "createTime": "2026-06-12T05:22:14.586683Z",
-    "updateTime": "2026-06-12T05:22:14.586683Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOSFEwNU5ZbmszZDNwME9YcE5UMFJpYzI5M1VsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "mario etchebarne"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-06-07T22:20:58.438561Z",
-    "updateTime": "2026-06-07T22:20:58.438561Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SRlIyNWpZM0pwYjNkek5UUnpZVll6VWpKelZHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Chonino"
-    },
-    "starRating": "FIVE",
-    "comment": "Atencion  motoviajeros esta es la ultima estacion de combustible no hay otra hasta San Luis capital en total 200 km. Peeeero tanto saliendo de aqui para San Luis o viceversa  tenes a mitad de camino sobre el pueblito de  San Antonio el \"Kiosco Silvia y combustible\" (asi està en google maps)  que vende nafta. Sobre la ruta 147  veras su inconfundible cartel ofreciendo kiosco y nafta. Es la salvacion si vas muy cargado y moto con autonomia media\n\n(Translated by Google)\nAttention motorcyclists! This is the last gas station; there isn\u0027t another one until San Luis city, a total of 200 km. However, whether you\u0027re traveling from here to San Luis or vice versa, about halfway there in the small town of San Antonio is \"Kiosco Silvia y Combustible\" (that\u0027s how it appears on Google Maps), which sells gasoline. You\u0027ll see its unmistakable sign on Route 147 offering gas and fuel. It\u0027s a lifesaver if you\u0027re carrying a lot of gear and your motorcycle has a medium range.",
-    "createTime": "2026-05-27T10:23:17.900236Z",
-    "updateTime": "2026-05-27T10:25:35.394162Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aUFluWXpablEwVGs0dFZ6QmpPVlY0VEZkblRGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Antonio Muñoz"
-    },
-    "starRating": "FOUR",
-    "comment": "Tipica estacion antigua de El Encon, buena atencion de los empleados , y baños correctos. Un local comercial chico y sencillo.\n\n(Translated by Google)\nTypical old-fashioned station in El Encon, good service from the staff, and decent restrooms. A small and simple commercial space.",
-    "createTime": "2026-05-22T03:19:07.214698Z",
-    "updateTime": "2026-05-22T03:19:07.214698Z",
-    "name": "accounts/109853746269412609224/locations/10917902775629832707/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psZllrWXlPRXBpTVVGYWVXWmZURXN5YlRJMlgzYxAB"
   }]
 }

@@ -1,12 +1,174 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Fernando Garcia"
+    },
+    "starRating": "FOUR",
+    "comment": "Gran parque para descansar de la ruta muy ricos sanguches\n\n(Translated by Google)\nGreat park to rest from the road, very tasty sandwiches",
+    "createTime": "2018-09-13T12:30:29.264469Z",
+    "updateTime": "2026-09-27T22:09:23.915570Z",
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/ChdDSUhNMG9nS0VJQ0FnSURROGRmSWxnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Víctor D. Piñeiro"
+    },
+    "starRating": "FIVE",
+    "comment": "Tradicional y hermosa parada en el camino a Córdoba\n\n(Translated by Google)\nA traditional and beautiful stop on the way to Córdoba",
+    "createTime": "2021-04-04T18:34:35.371220Z",
+    "updateTime": "2026-09-24T17:03:14.909495Z",
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/ChdDSUhNMG9nS0VJQ0FnSUNLMXFPbXVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ANA MARÍA ZABALA DE LÓPEZ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-21T18:02:25.882130Z",
+    "updateTime": "2026-09-21T18:02:25.882130Z",
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OaWIxOUZXRXB5UmxoU2RrTlJWVVEwZWxwRE0wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carolina Mellian"
+    },
+    "starRating": "FIVE",
+    "comment": "Mauro, elian y Roxana, placer de encontrarlos en nuestros caminos 😎\n\n(Translated by Google)\nMauro, Elian and Roxana, it\u0027s a pleasure to meet you on our paths 😎",
+    "createTime": "2026-09-21T17:12:07.027180Z",
+    "updateTime": "2026-09-21T17:12:07.027180Z",
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0V056UTBjVmd3YzNwSE9YcEVTbGxhTFhCcWRIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "pablo scarramberg"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-09-14T10:37:15.526154Z",
+    "updateTime": "2026-09-14T10:37:15.526154Z",
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KT1UwdGhXRFF5TjFCeGJ6bFBaVEJhZGxCTGVuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, baños limpios. El parque del ACA está muy lindo\n\n(Translated by Google)\nGood service, clean restrooms. The ACA park is very nice.",
+    "createTime": "2026-09-13T23:01:58.706487Z",
+    "updateTime": "2026-09-13T23:14:11.519251Z",
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jdE5tUkhZME14V1hGallucHdlRkZOVVZsbVFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mandy Albo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-11T21:00:19.539953Z",
+    "updateTime": "2026-09-11T21:00:19.539953Z",
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JeWFXRTNSakZ0UjE5SGRrTnBOWEJMU25CdlFsRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Saint Girons"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-09-10T23:16:30.698875Z",
+    "updateTime": "2026-09-10T23:16:30.698875Z",
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oWlNGQllPRWM0UzNvdGFUbEdhblYwY0dkNVVIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Matias Pereyra"
+    },
+    "starRating": "FIVE",
+    "comment": "Exelente atención,y muy buena predisposición en todo momento,muy agradecido por la ayuda que me brindo\n\n(Translated by Google)\nExcellent service and a very helpful attitude at all times; I am very grateful for the help you provided.",
+    "createTime": "2026-09-04T00:31:03.693255Z",
+    "updateTime": "2026-09-04T00:31:03.693255Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación, los esperamos en su próximo viaje.",
+      "updateTime": "2026-09-10T17:27:20.774158Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaU1NTMWZjRkptZG5CdVVXeE9ZVkUzZVVWRWIzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "luciana Andrich"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy atenta Betiana, súper amable y simpática\n\n(Translated by Google)\nBetiana was very attentive, super kind and friendly",
+    "createTime": "2026-08-11T19:25:43.324782Z",
+    "updateTime": "2026-08-11T19:25:43.324782Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación, los esperamos en su próximo viaje.",
+      "updateTime": "2026-09-10T17:27:32.103539Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKd1FqTXlPRlpGUjE4NFdHUnNjbFpKU25scFlWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "maria julia druille"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar para descansar. Tranquilidad, abundante sombra . Buena atención.\n\n(Translated by Google)\nA great place to relax. Peaceful, with plenty of shade. Good service.",
+    "createTime": "2023-03-02T02:03:01.483051Z",
+    "updateTime": "2026-08-09T04:44:23.637900Z",
+    "reviewReply": {
+      "comment": "Gracias Maria julia por su visita a la estación. ",
+      "updateTime": "2023-03-02T02:43:52.545769Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/ChZDSUhNMG9nS0VJQ0FnSURoNUlYY2FnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Lya Rinaudo"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente atención. Lugar alejado del mundo. Tiene  lo necesario para reabastecerse y seguir viaje\n\n(Translated by Google)\nExcellent service. A secluded spot. It has everything you need to restock and continue your journey.",
+    "createTime": "2026-08-09T03:18:30.837361Z",
+    "updateTime": "2026-08-09T03:18:30.837361Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:26:59.898043Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwalRsOVFSMVJpUkdWRVJuZEViVk50VWxKNkxYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Marcelo Zambrano"
+    },
+    "starRating": "FIVE",
+    "comment": "Esta ubicado lugar estratégico a su vez se nota reforma para mejorar atención a sus clientes\n\n(Translated by Google)\nIt is located in a strategic place and has also undergone renovations to improve customer service.",
+    "createTime": "2026-08-05T13:54:48.032727Z",
+    "updateTime": "2026-08-05T13:54:48.032727Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:27:10.266838Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGdVlqVk5TRWhGYUZOSWRucEhVMFZ5VnpsbmVFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Verruno"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-05T13:19:37.771998Z",
+    "updateTime": "2026-08-05T13:19:37.771998Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:27:17.161791Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sclZWbHBhVVJHUlZKaWRETnFjbXg0U0ZCRFQwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "veronica galvan"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-08-05T08:17:03.178351Z",
+    "updateTime": "2026-08-05T08:17:03.178351Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:27:25.581805Z"
+    },
+    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wNFNFRlNkVkpHVVVWak1XeGFWVVJZWW5kelJXYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Hector Bupo"
     },
     "starRating": "FOUR",
     "comment": "Un poco lenta la atención. Baños en mal estado\n\n(Translated by Google)\nThe service was a bit slow. The restrooms were in poor condition.",
     "createTime": "2026-08-02T01:10:33.764351Z",
     "updateTime": "2026-08-02T01:10:33.764351Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación, le pedimos disculpa si en ese momento no estaban en optimas condiciones los baños. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:28:27.709872Z"
+    },
     "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KTk5GVkxibkZFUmxGbWMyRk5aSFJUYTBobk1uYxAB"
   }, {
     "reviewer": {
@@ -15,6 +177,10 @@
     "starRating": "FIVE",
     "createTime": "2026-07-31T03:21:02.526821Z",
     "updateTime": "2026-07-31T03:21:02.526821Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:28:36.161127Z"
+    },
     "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNMk1YSjVXbEprVVdoQlRVMXVTazlKZUVWcVZuYxAB"
   }, {
     "reviewer": {
@@ -24,6 +190,10 @@
     "comment": "Paré una vez, me impactó el hermoso silencio del lugar. Tiene un parque de descanso bellísimo.\n\n(Translated by Google)\nI stopped once, and I was struck by the beautiful silence of the place. It has a lovely park for relaxing.",
     "createTime": "2026-07-22T09:34:12.950745Z",
     "updateTime": "2026-07-22T09:34:12.950745Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:28:45.510978Z"
+    },
     "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KcFEydExaemhEWmswNWQxbHlaSEZNWnpoM1RtYxAB"
   }, {
     "reviewer": {
@@ -32,6 +202,10 @@
     "starRating": "FOUR",
     "createTime": "2026-07-22T03:17:26.930683Z",
     "updateTime": "2026-07-22T03:17:26.930683Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:28:53.864348Z"
+    },
     "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KdE5VOW9OWFJQVHpVMmNUUmFNa1k0Uld3Mk4xRRAB"
   }, {
     "reviewer": {
@@ -41,133 +215,10 @@
     "comment": "Hola buenas tardes. Muy buena la atención de Elian y Betiana. Te dan ganas de volver a pasar por el lugar!!! Gracias🙏🏻🫶🏻\n\n(Translated by Google)\nHello, good afternoon. Elian and Betiana provided excellent service. It makes you want to come back! Thank you 🙏🏻🫶🏻",
     "createTime": "2026-07-16T22:16:22.371316Z",
     "updateTime": "2026-07-16T22:16:22.371316Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su visita y puntuación. Los esperamos nuevamente. !!!",
+      "updateTime": "2026-08-10T17:29:43.956235Z"
+    },
     "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSc1VEYzVZWGhoWlhCMGFVMW1ZbFExWlc1d2JtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gabriela Mulero"
-    },
-    "starRating": "FIVE",
-    "comment": "Está muy bien para cargar NAFTA y parada al aire libre. No tiene muchas opciones para comer\n\n(Translated by Google)\nIt\u0027s great for filling up with gas and resting outdoors. There aren\u0027t many food options.",
-    "createTime": "2026-07-16T12:49:12.317424Z",
-    "updateTime": "2026-07-16T12:49:12.317424Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT210UmJESnNVSFJ0VjNOS2FFZHBZV2huTVVrNWIzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ariel Mansilla"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-11T23:12:47.666517Z",
-    "updateTime": "2026-07-11T23:12:47.666517Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoUmVEQjRPVVJyUTBKSlJtZDRjVUpvU0cxV1dVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sebastian Ordoñez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-07T13:52:24.881934Z",
-    "updateTime": "2026-07-07T13:52:24.881934Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xWVdYRjRPRXBSVFZsWVpHbzNVbEZNUjJsNWFHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "juan ríos185"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención muy amables precios muy axesibles\n\n(Translated by Google)\nExcellent service, very friendly, very affordable prices",
-    "createTime": "2026-07-04T21:35:03.252920Z",
-    "updateTime": "2026-07-04T21:35:03.252920Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSaGF6a3pMVm8wTTNCVFpsTXhVVjgzVW14d1YyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Esteban Gui"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención. Lugar tranquilo para sentarse a descansar de los viajes\n\n(Translated by Google)\nExcellent service. A quiet place to sit and rest after traveling.",
-    "createTime": "2026-07-02T21:20:23.811277Z",
-    "updateTime": "2026-07-02T21:20:23.811277Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCcExVOVVNMlZQTVVsemNGSmpaRzQxVVRnMmNFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Matías Piñero"
-    },
-    "starRating": "FIVE",
-    "comment": "El ACA de Tortugas no falla: excelente atención, baños siempre limpios, un parque increíble y bien cuidado.\n\nSiempre paramos cuando vamos y volvemos de Córdoba; es un lugar ideal para hacer una pausa, recuperarse y seguir el viaje. Muy recomendable.\n\n(Translated by Google)\nThe ACA in Tortugas never disappoints: excellent service, always clean restrooms, and an amazing, well-maintained park.\n\nWe always stop there when traveling to and from Córdoba; it\u0027s the perfect place to take a break, recharge, and continue your trip. Highly recommended.",
-    "createTime": "2026-06-25T16:18:33.811638Z",
-    "updateTime": "2026-06-25T16:18:33.811638Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sS01tZGxUVm8yYlZKV1lXeFBXVFZrU1dSSVNFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcos Giampieri"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-10T13:52:01.431780Z",
-    "updateTime": "2026-06-10T13:52:01.431780Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCcllrVndOWEpqYzBsSlowRnlSRGhMZFUxZmQzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Joseph Leopold Astolfi"
-    },
-    "starRating": "THREE",
-    "comment": "Lugar tranquilo. Tienen excelentes sandwiches. Tambien tienen platos congelados que calientan que son ricos como las lentejas. Pero lamentablemente con poco stock, lo que no se entiende siendo congelados que se pueden guardar bastante tiempo\n\n(Translated by Google)\nQuiet place. They have excellent sandwiches. They also have frozen meals that you heat up, which are delicious, like lentils. But unfortunately, they don\u0027t have much stock, which is hard to understand since frozen meals can be stored for quite a while.",
-    "createTime": "2026-05-29T15:50:23.394211Z",
-    "updateTime": "2026-05-29T15:50:23.394211Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkZlZuVjFNVUpJVTNwVFJubzFWMlpaWkVkdE4zYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Luis Faraz"
-    },
-    "starRating": "ONE",
-    "createTime": "2026-05-27T10:28:55.304079Z",
-    "updateTime": "2026-05-27T10:28:55.304079Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVlYyZENkbWxOY0ZWc1NGOVRPR0pwUjJvMFVWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mario Razik"
-    },
-    "starRating": "TWO",
-    "comment": "La empanada no puede estar peor.  HORRIBLE!!!\nTienen buena sombra para descanso.\n\n(Translated by Google)\nThe empanada couldn\u0027t be worse. HORRIBLE!!!\nThey have good shade for resting.",
-    "createTime": "2026-05-26T17:06:48.492786Z",
-    "updateTime": "2026-05-26T17:07:30.018907Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5Rk9HUkpjMHhKVnpoU2RWZDZZWEJhTVhkWE1rRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ysabel Espinoza"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-21T12:57:24.417393Z",
-    "updateTime": "2026-05-21T12:57:24.417393Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSd0xVSllWVGg1YjIxeFRFNVhjRm81TVhwMVpFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Diego Scalvacioo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-05-19T23:13:46.157334Z",
-    "updateTime": "2026-05-19T23:13:46.157334Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psSGNGbDRWM0ZTY0daVFIzQlNXVEE0V205aFJsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "jose dionisio Brizuela"
-    },
-    "starRating": "FIVE",
-    "comment": "Un atención muy prolija y de mucha eficiencia\n\n(Translated by Google)\nVery thorough and efficient service",
-    "createTime": "2026-05-02T18:02:36.025856Z",
-    "updateTime": "2026-05-02T18:02:36.025856Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwRVozaHJja2R2TUU5VGJXcHZZMnRNTmtReGRsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alfredo Hernandez"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-05-01T00:50:28.661082Z",
-    "updateTime": "2026-05-01T00:50:28.661082Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT214MmNYWnVZMGszYTBneGRXRndkRzFNYlhGdFpFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Susana Padín"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-04-25T21:17:47.688482Z",
-    "updateTime": "2026-04-25T21:17:47.688482Z",
-    "name": "accounts/109853746269412609224/locations/18309083315201690451/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZMlkwSlFiVGxuYWpsd2VrWk5XWEZ0WVVKdk0yYxAB"
   }]
 }

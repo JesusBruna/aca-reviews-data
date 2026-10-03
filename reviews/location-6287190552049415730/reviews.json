@@ -1,172 +1,252 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Griselda Hrycuk"
+    },
+    "starRating": "THREE",
+    "comment": "Nada que opinar\n\n(Translated by Google)\nNothing to say",
+    "createTime": "2023-08-11T09:56:11.740818Z",
+    "updateTime": "2026-09-27T20:54:38.577904Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Griselda, sentimos que tu experiencia no haya sido 5 estrellas. Alguna sugerencia que nos permita mejorar y brindar un servicio de excelencia? esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:06:09.262112Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwLV9UeE1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Arturo Sanchez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-24T19:33:24.071397Z",
+    "updateTime": "2026-09-24T19:33:24.071397Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Arturo, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:06:29.832589Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sS1h6ZFhSMEl5UlcxZlMzWnRSMWt4VmtWQ2NIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian GÓMEZ Gómez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-23T19:56:00.485500Z",
+    "updateTime": "2026-09-23T19:56:00.485500Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio Cristian, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:06:43.103421Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWaVkxcGpWR1JwU0VNek5YWnZVUzB4ZEhsQ1EzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Benjamin Arce"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente ubicación\n\n(Translated by Google)\nExcellent location",
+    "createTime": "2026-09-15T19:09:37.656222Z",
+    "updateTime": "2026-09-15T19:09:37.656222Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:06:49.869406Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CNWJFWlRUSGRGTVVOcFVYbEVXRlZPVW1jNVdYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "rodri batista"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-09-10T21:56:01.216908Z",
+    "updateTime": "2026-09-10T21:56:01.216908Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:06:56.046250Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOamN6ZFJSbnBXT1VOVmVrZzNWREkyYVdGS1NYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Maria Rojas"
+    },
+    "starRating": "ONE",
+    "comment": "Pésima atención de los expendedores de combustibles. Te atienden como si fuera que le vas a pedir limosna. Una vergüenza. Si no les gusta trabajar que se vayan a sus respectivos hogares. Después lloran cuando cierran la empresa.\nJueves 10 de septiembre de 2026, 0730 am.\n\n(Translated by Google)\nTerrible service from gas station attendants. They treat you like you\u0027re begging for handouts. It\u0027s a disgrace. If they don\u0027t like to work, they should go home. Then they cry when the company closes.\nThursday, September 10, 2026, 7:30 a.m.",
+    "createTime": "2026-09-10T10:41:01.577047Z",
+    "updateTime": "2026-09-10T10:42:50.696935Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, lamentamos tan terrible experiencia. Alguna sugerencia? Tu opinion nos ayuda a mejorar! esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:08:13.967950Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnd2VITTVOa1JLVmpSdU9UVnNSRVpDZGtzMU1HYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ernesto Z"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-09-07T14:57:17.150897Z",
+    "updateTime": "2026-09-07T14:57:17.150897Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:09:04.873460Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5MWNrbHlUbGxUY1dOV2VFdFFaMUJyZWtaTGNGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Fernandez Xifra"
+    },
+    "starRating": "ONE",
+    "comment": "Me parece muy raro que en todas las ypf full tengan promoción x ej. La del café y una medialuna a 3.000 pesos y en esta solo lo\nrespeten a la siesta x que es el horario más crítico con la presencia de clientes.\n\n(Translated by Google)\nI find it very strange that all YPF Full stations have promotions, for example, the one for coffee and a croissant for 3,000 pesos, and at this one they only honor it during siesta time because it\u0027s the most critical time with the presence of customers.",
+    "createTime": "2026-09-07T10:24:23.357546Z",
+    "updateTime": "2026-09-07T10:24:23.357546Z",
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2podFJURlBRakJvU0hReFNHNXZTMWxIZDBwcGQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juanca Basterra"
+    },
+    "starRating": "FIVE",
+    "comment": "Ser parte del ACA Corrientes es un orgullo que recién empieza, especialmente por su personal.\nGracias por recibirme con una atención impecable, educación y una predisposición única, recordándome al hacerme socio el valor de la calidez de la vieja escuela y el verdadero significado de un gran legado.\n\n(Translated by Google)\nBeing part of ACA Corrientes is a source of pride that\u0027s just beginning, especially because of its staff.\n\nThank you for welcoming me with impeccable service, courtesy, and a unique willingness to help, reminding me, upon becoming a member, of the value of old-school warmth and the true meaning of a great legacy.",
+    "createTime": "2026-09-04T03:35:46.112473Z",
+    "updateTime": "2026-09-04T03:36:07.933328Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:10:43.784846Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1T1gzbHhOVUoxZDE5WlkwVkVOSE5pTTNKVFMwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Ines Egel"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente Atencion Amo Corrientes\n\n(Translated by Google)\nExcellent service. I love Corrientes.",
+    "createTime": "2026-09-03T18:38:37.864432Z",
+    "updateTime": "2026-09-03T18:38:37.864432Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:10:52.385463Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoMVZsQTFkM1pVYURSNlFrNTBhV3haUTFCYU9VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Nestor Woodyatt"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, todos los servicios necesarios para el automotor, hasta polarizados\n\n(Translated by Google)\nGood service, all the necessary automotive services, even window tinting",
+    "createTime": "2018-12-21T10:21:37.799503Z",
+    "updateTime": "2026-08-29T14:09:38.443308Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:11:00.121937Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChdDSUhNMG9nS0VJQ0FnSURJaExUTXBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Braian Fernandez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-29T05:10:13.175490Z",
+    "updateTime": "2026-08-29T05:10:13.175490Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:11:07.882166Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OalNuZGtlWFZQVGpobU1HbE9XRWhWU0ZkQk0wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernanda Alsina"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente la atención de Verónica, muy atenta\n\n(Translated by Google)\nVeronica\u0027s service was excellent, she was very attentive.",
+    "createTime": "2026-08-27T20:18:54.192979Z",
+    "updateTime": "2026-08-27T20:18:54.192979Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:11:14.553640Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWb0xYQlplRWRvYlVsMmJrSTBUbWg1WnpCclpIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "lorena oliver6"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-26T16:24:55.012464Z",
+    "updateTime": "2026-08-26T16:24:55.012464Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:11:21.814383Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT201dlRGaHVkMnc1TkU5VFYwRmpXbGxTTTNsTGQwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Raggi"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent\n\n(Original)\nExcelente",
+    "createTime": "2021-07-03T15:48:30.463150Z",
+    "updateTime": "2026-08-14T15:38:01.651881Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por opinar sobre nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2021-10-14T19:06:42.091208Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSURxa3ZIelBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Vallejos"
+    },
+    "starRating": "ONE",
+    "comment": "Un desastre te hacen esperan un montón si tenés una moto. Tienen que poner cartel de prioridad autos entonces no esperas 20 minutos, están más preocupados por la propina del auto que otra cosa un desastre, mañosos y viejos todos los playeros\n\n(Translated by Google)\nIt\u0027s a disaster; they make you wait ages if you have a motorcycle. They need to put up a \"priority car\" sign so you don\u0027t have to wait 20 minutes. They\u0027re more concerned with the tip than anything else. It\u0027s a disaster, and all the gas station attendants are sly and old.",
+    "createTime": "2026-08-12T16:54:48.169686Z",
+    "updateTime": "2026-08-12T16:54:48.169686Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:11:43.906038Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOMk5VcHRiMGd6TW05V1ZFNUVUM3BmVWxFdFVVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Noni Moreno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-11T16:17:57.988802Z",
+    "updateTime": "2026-08-11T16:17:57.988802Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:11:51.349927Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGRGVWVm9VVkV4UkhkbFZIVlhZVzh6U1RKVFJrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hugo roberto Ciancio"
+    },
+    "starRating": "ONE",
+    "comment": "Hola quería saber si se hace el descuento en combustibles a socios del ACA. Gracias.\n\n(Translated by Google)\nHello, I wanted to know if ACA members receive a fuel discount. Thank you.",
+    "createTime": "2026-08-05T22:07:58.976235Z",
+    "updateTime": "2026-08-05T22:07:58.976235Z",
+    "reviewReply": {
+      "comment": "Hola Hugo! Si hacemos descuento en combustible a los socios ACA! \nPodrias por favor compartirnos el motivo de calificarnos con una sola estrella? Eso nos ayuda a mejorar! Muchas gracias!",
+      "updateTime": "2026-09-29T09:02:35.956924Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WFFuUkxNR1paYWpJNWFFaDBSMUZaYmtOUFgwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Obregon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-03T10:38:00.962471Z",
+    "updateTime": "2026-08-03T10:38:00.962471Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:11:58.677744Z"
+    },
+    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oMGNDMWpOa05qZFhWb2RVNDNZek4xZURCVlozYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Ricardo Cardozo"
     },
     "starRating": "FIVE",
     "comment": "Un capo el playero\n\n(Translated by Google)\nThe beach guy\u0027s a boss",
     "createTime": "2026-07-30T16:07:40.372111Z",
     "updateTime": "2026-07-30T16:07:40.372111Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por valorar nuestro servicio, esperamos vuelva pronto a visitarnos. Saludos cordiales. Equipo ACA Corrientes",
+      "updateTime": "2026-09-29T09:12:06.985446Z"
+    },
     "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poNVUwSjJVRzB4TW01VVlUUk9aMGg0VkMxWmRtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Diego Joaquín"
-    },
-    "starRating": "THREE",
-    "createTime": "2026-07-30T03:40:21.057490Z",
-    "updateTime": "2026-07-30T03:40:21.057490Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ReldsVnhUR2t3V1RKb1dVTldTRGQzY3pGM1JuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Oscar Eduardo Rojas"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-29T00:40:25.444552Z",
-    "updateTime": "2026-07-29T00:40:25.444552Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toQ1JVbFVTakpVTldWbFkwdE9VVkZFY1hRNFVsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Romina Comeliesi"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-26T20:59:58.395379Z",
-    "updateTime": "2026-07-26T20:59:58.395379Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4cGJIZzFNMmcxVGs1cVRtaGlNMWxmTjJkYVRWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Oscar Raul Beltra"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-26T13:04:56.622142Z",
-    "updateTime": "2026-07-26T13:04:56.622142Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkTlFqYzVlR2hVWjJWR1VYSnBjbEZ6VjFGVFFVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Maria Fernández"
-    },
-    "starRating": "FIVE",
-    "comment": "Precios únicos y con descuento en horarios nocturnos. Buena atención. Se aceptan tarjetas y controlan gratis el aceite y agua.\n\n(Translated by Google)\nUnique prices and discounts during nighttime hours. Good service. Credit cards accepted and free oil and water checks.",
-    "createTime": "2026-07-15T13:29:37.625406Z",
-    "updateTime": "2026-07-21T17:45:07.724068Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kMFpreHFZMFZsWldWalVYUlpja042TUd4b1lYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carlos Moschen"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-12T18:13:18.719194Z",
-    "updateTime": "2026-07-12T18:13:18.719194Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psNGFHRjJZM0Z5YlhsYVdIZExRalk1UzJKa2FGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Pablo SH"
-    },
-    "starRating": "FOUR",
-    "comment": "Todo bien el lugar solo que es complicado en hora pico por el tránsito\n\n(Translated by Google)\nThe place is great, it\u0027s just complicated during rush hour due to traffic.",
-    "createTime": "2026-07-04T14:47:03.018770Z",
-    "updateTime": "2026-07-04T14:47:03.018770Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT205RlNrcFlhemw2TUZGNmFXNUZhRVJETkdsWGRHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rodolfo Martín Lopez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-07-02T18:08:31.759234Z",
-    "updateTime": "2026-07-02T18:08:31.759234Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWFJHUTRiM2xKZVZWeVVHZGhXVWhSVlhKTGVVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Italo pignataro"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-28T23:26:15.636177Z",
-    "updateTime": "2026-06-28T23:26:15.636177Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4M2FqVnhiRWswWVVjM1UyVmtVbEF0TjBsaVdIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Griselda Hrycuk"
-    },
-    "starRating": "THREE",
-    "comment": "Nada que opinar\n\n(Translated by Google)\nNothing to say",
-    "createTime": "2023-08-11T09:56:11.740818Z",
-    "updateTime": "2026-06-25T20:18:58.757179Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwLV9UeE1nEAE"
-  }, {
-    "reviewer": {
-      "displayName": "facundo carli"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-18T19:35:22.863674Z",
-    "updateTime": "2026-06-18T19:35:22.863674Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaaWRuQnZhR3REUjBsRWIwbHBTbXhXVlVZM1VYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Alejandro Raffin"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-16T16:10:30.236576Z",
-    "updateTime": "2026-06-16T16:10:30.236576Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsd1pHVlhSVVZ4WjNWT2FFWXpSM05RYkZreVprRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Charlie Charlie"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención.. y calidad!\n\n(Translated by Google)\nExcellent service and quality!",
-    "createTime": "2026-06-16T03:27:11.535779Z",
-    "updateTime": "2026-06-16T03:27:11.535779Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paNWNXSlRjVkYzVlhBdE9GOUZVVkJGTmsxMlYwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Juan José Acevedo"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-06-03T17:26:32.925446Z",
-    "updateTime": "2026-06-03T17:26:32.925446Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oNmFtaEZWRVJRYW1wVFRIWnVlR1pYYXpSVlVXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rosa Goitia"
-    },
-    "starRating": "FOUR",
-    "comment": "Bien lugar de paso, para merendar, estacion de servicio\n\n(Translated by Google)\nGood place to stop, for a snack, service station",
-    "createTime": "2026-05-31T00:35:33.147466Z",
-    "updateTime": "2026-05-31T00:35:33.147466Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxTU1tUkpVbXBMZWxGQ1dFSnJWa0Z4WVU1clRuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Miguel Olivarez"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-05-26T12:01:13.900517Z",
-    "updateTime": "2026-05-26T12:01:13.900517Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNeVJtRnFZVXhPVGtnMlZqQkRibkJ6YVdoMlEyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Javier Ojeda"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena la atención del señor Carlos\n\n(Translated by Google)\nMr. Carlos provided excellent service.",
-    "createTime": "2026-05-23T22:59:23.418546Z",
-    "updateTime": "2026-05-23T22:59:23.418546Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKcFdqbFdRamRFVTB0MGFtNTBjRmxTYTNOTE9FRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "victor baez"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención del Sr. Carlos Lopez\n\n(Translated by Google)\nExcellent service from Mr. Carlos Lopez",
-    "createTime": "2026-05-23T22:49:38.717342Z",
-    "updateTime": "2026-05-23T22:49:38.717342Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkV1NGRXpTR3hKWnpSdlJrVXpjVlZ6T0d0NGJtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "cristian javier Romero"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención del playero Carlos y muy linda la estación\n\n(Translated by Google)\nExcellent service from the attendant Carlos and a very nice station",
-    "createTime": "2026-05-21T19:04:49.243781Z",
-    "updateTime": "2026-05-21T19:04:49.243781Z",
-    "name": "accounts/109853746269412609224/locations/6287190552049415730/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWUGNWOVpURE5HWm5OSU1tdFJlalo1Vm5GSmFIYxAB"
   }]
 }
