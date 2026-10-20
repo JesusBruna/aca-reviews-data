@@ -1,6 +1,33 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Anibal Corrales"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor de las atenciones de Nadia y Luciana.\n\n(Translated by Google)\nNadia and Luciana provided the best service.",
+    "createTime": "2026-10-04T21:38:31.402905Z",
+    "updateTime": "2026-10-04T21:38:31.402905Z",
+    "name": "accounts/109853746269412609224/locations/6742742050423821099/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVVQxZERMVk56Y20xblIyUTVNVVp2Y2xsT1QwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paula Gil"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de las empleadas y todo super limpio. Incluso los baños, impecables.\n\n(Translated by Google)\nExcellent service from the staff and everything was super clean. Even the bathrooms were spotless.",
+    "createTime": "2026-10-04T20:29:02.107684Z",
+    "updateTime": "2026-10-04T20:29:02.107684Z",
+    "name": "accounts/109853746269412609224/locations/6742742050423821099/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWM2RsZzNTRE5rYmpSVFZYVnROVzVhYm1GalYwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Cedeira"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente  atención, los baños impecables. Muy recomendable.\n\n(Translated by Google)\nExcellent service, spotless bathrooms. Highly recommended.",
+    "createTime": "2026-10-04T20:28:05.918817Z",
+    "updateTime": "2026-10-04T20:28:05.918817Z",
+    "name": "accounts/109853746269412609224/locations/6742742050423821099/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kNVZIVkJZbFJGYVdKbmNsaDBSVFl6ZVhWU1RFRRAB"
+  }, {
+    "reviewer": {
       "displayName": "laura busato"
     },
     "starRating": "FIVE",
@@ -154,31 +181,5 @@
     "createTime": "2026-09-07T00:10:25.678432Z",
     "updateTime": "2026-09-07T00:10:25.678432Z",
     "name": "accounts/109853746269412609224/locations/6742742050423821099/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poa1NWaHdaSGc0WmtGTVluRlBlVFU0TkdaM2VrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Tony"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención en el full los sanitarios súper limpios\n\n(Translated by Google)\nExcellent service at the full, the restrooms were super clean.",
-    "createTime": "2026-09-07T00:10:11.321575Z",
-    "updateTime": "2026-09-07T00:10:11.321575Z",
-    "name": "accounts/109853746269412609224/locations/6742742050423821099/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCS1FXSkRVV1JwYkVWQ1kwbEJjekl6U0VObE1sRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ice Bunny"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-09-06T12:06:19.295639Z",
-    "updateTime": "2026-09-06T12:06:19.295639Z",
-    "name": "accounts/109853746269412609224/locations/6742742050423821099/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSM0xWcGFWRjlhWXkxRVdsSmxiVWR2VW1zNWFFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fernanda Nievas"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atencion!! Las chicas fueron muy amables!! 100 % recomendable.\n\n(Translated by Google)\nExcellent service!! The girls were very friendly!! 100% recommended.",
-    "createTime": "2026-09-02T17:34:02.197125Z",
-    "updateTime": "2026-09-02T17:35:42.363307Z",
-    "name": "accounts/109853746269412609224/locations/6742742050423821099/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkSk9WSXdPV0ZEUlZKcFpFMVRMV05xYmxGd2RFRRAB"
   }]
 }

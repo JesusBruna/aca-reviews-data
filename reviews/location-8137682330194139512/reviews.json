@@ -1,6 +1,23 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Lautaro Reyes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-04T23:35:25.394077Z",
+    "updateTime": "2026-10-04T23:35:25.394077Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wUVRFeEtXRTFyVFhKVU5IWnBZbHBuY1hnNVgzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Paula Ferrari"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2026-10-04T12:19:55.201885Z",
+    "updateTime": "2026-10-04T12:19:55.201885Z",
+    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sWE9EVmFTREp0TURJM2FEZzFNRVYyTVcxaGNGRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Federico Corral"
     },
     "starRating": "FIVE",
@@ -217,31 +234,5 @@
       "updateTime": "2026-09-09T12:59:42.324403Z"
     },
     "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGMWF6WTFhRE53YzFGT01saERjbk5WZFY5SWFVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "SERGIO DANIEL"
-    },
-    "starRating": "THREE",
-    "comment": "Poca variedad de facturas, atención normal.\n\n(Translated by Google)\nLimited selection of pastries, average service.",
-    "createTime": "2026-09-02T08:50:30.515229Z",
-    "updateTime": "2026-09-02T08:50:30.515229Z",
-    "reviewReply": {
-      "comment": "Gracias por compartir tu experiencia y por dejarnos 3 estrellas. 🙌 Tomamos en cuenta lo que nos comentás sobre la variedad de facturas y la atención. Estos comentarios también nos ayudan a ver dónde podemos mejorar. ¡Ojalá en tu próxima visita podamos sorprenderte un poquito más!",
-      "updateTime": "2026-09-02T14:36:53.368677Z"
-    },
-    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pobmVETmFVR3RtT0hVdFFYbFdhSFJ4U1d4SlFYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gisela Debra Cisterna"
-    },
-    "starRating": "FIVE",
-    "comment": "El único lugar abierto para comer algo un martes a la 1am. Golazo.\n\n(Translated by Google)\nThe only place open to eat something on a Tuesday at 1am. Amazing.",
-    "createTime": "2026-09-02T03:45:14.519905Z",
-    "updateTime": "2026-09-02T03:45:14.519905Z",
-    "reviewReply": {
-      "comment": "¡Gracias por elegirnos en esa parada de madrugada! 😊 Nos alegra poder estar abiertos cuando más se necesita y ofrecerte una opción para comer algo a cualquier hora. ¡Te esperamos nuevamente! 💙\n",
-      "updateTime": "2026-09-02T14:37:42.205147Z"
-    },
-    "name": "accounts/109853746269412609224/locations/8137682330194139512/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VeWExSktTbVJUTW05UlIzRjRORGxyYW01a09GRRAB"
   }]
 }

@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ale Danna"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-12T17:01:57.530678Z",
+    "updateTime": "2021-02-12T17:01:57.530678Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5aS1EZ0Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Veliz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-12T16:52:47.052261Z",
+    "updateTime": "2021-02-12T16:52:47.052261Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5OF9fazJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Laurens"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-02-11T21:19:36.014010Z",
+    "updateTime": "2021-02-11T21:19:36.014010Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5MDdTY0hBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Federico Faccipieri"
+    },
+    "starRating": "FIVE",
+    "comment": "Cumple satisfactoriamente su funcionalidad\n\n(Translated by Google)\nIt fulfills its function satisfactorily.",
+    "createTime": "2021-02-11T15:04:33.743543Z",
+    "updateTime": "2021-02-11T15:04:33.743543Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5NDlPNTBBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Núñez (Rafa)"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien gracias\n\n(Translated by Google)\nVery well thank you",
+    "createTime": "2021-02-11T01:27:10.986177Z",
+    "updateTime": "2021-02-11T01:27:20.955437Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5dzh1N3RBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Lorang"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-10T20:07:27.609370Z",
+    "updateTime": "2021-02-10T20:07:27.609370Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5ZzZIa3pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Fernández"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-10T16:56:22.631602Z",
+    "updateTime": "2021-02-10T16:56:22.631602Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5X2JlSG93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Daniel Salerno"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-02-10T12:27:54.480118Z",
+    "updateTime": "2021-02-10T12:27:54.480118Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5X2VqZXVRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Yanina Eugenia Kuglien"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-10T10:38:42.399328Z",
+    "updateTime": "2021-02-10T10:38:42.399328Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5dmRQeWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Caballero"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-09T17:46:43.537079Z",
+    "updateTime": "2021-02-09T17:46:43.537079Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5blpiQ0JREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Clara Farias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-02-09T10:58:11.919456Z",
+    "updateTime": "2021-02-09T10:58:11.919456Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5N2JDeTlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Nicolella"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-08T20:38:34.409721Z",
+    "updateTime": "2021-02-08T20:38:34.409721Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5ell6allBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Humoffe"
+    },
+    "starRating": "THREE",
+    "comment": "Sin dudas la opción mejor ubicada en camino a Bariloche, SMA.\n\n(Translated by Google)\nWithout a doubt, the best located option on the way to Bariloche, SMA.",
+    "createTime": "2021-02-08T13:09:55.461190Z",
+    "updateTime": "2021-02-08T13:11:13.992123Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5OWR1emlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Meza"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-08T04:55:19.245101Z",
+    "updateTime": "2021-02-08T04:55:19.245101Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5dGIzdW9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Lascano"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-02-07T13:30:23.932918Z",
+    "updateTime": "2021-02-07T13:30:23.932918Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5bGF1TXpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nicolas Diaz"
+    },
+    "starRating": "TWO",
+    "createTime": "2021-02-07T04:02:59.751565Z",
+    "updateTime": "2021-02-07T04:02:59.751565Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5NVpXc29RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paola Altuve"
+    },
+    "starRating": "ONE",
+    "comment": "Lo más asqueroso... Nos colocan  en mesa un vino abierto, al tomar más abajo de la mitad de la botella cae una mosca de la botella a la copa, no hubo por parte del restaurant ninguna cortesía y a parte te cobran el vino!\n\n(Translated by Google)\nThe most disgusting thing... They placed an open bottle of wine on the table, and when we drank from less than halfway through, a fly fell from the bottle into the glass. There was no courtesy from the restaurant, and on top of that, they charged us for the wine!",
+    "createTime": "2021-02-07T01:07:33.437688Z",
+    "updateTime": "2021-02-07T01:09:55.128258Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5NWFxcUtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Romina Baudino"
+    },
+    "starRating": "ONE",
+    "comment": "El lugar es lindo pero la atención es pésima\nNo se puede desayunar  no tienen ni para hacer un café con leche\nLa persona q me atendió nos trato pésimo sin necesidad\nDebe ser un tema de la atención del ACA q ya me ha pasado en otros lugares\nUna pena\n\n(Translated by Google)\nThe place is nice, but the service is terrible. You can\u0027t get breakfast; they don\u0027t even have the basics for making a coffee with milk. The person who served me was incredibly rude for no reason. It must be a problem with ACA\u0027s service; it\u0027s happened to me in other places before. What a shame.",
+    "createTime": "2021-02-06T10:28:34.718618Z",
+    "updateTime": "2021-02-06T10:28:34.718618Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia ",
+      "updateTime": "2025-07-19T22:01:23.410233Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5eGFTX3dBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Carla Schiavi"
+    },
+    "starRating": "FOUR",
+    "comment": "Limpios los baños!! Buena atención.\n\n(Translated by Google)\nThe bathrooms were clean!! Great service.",
+    "createTime": "2021-02-05T23:56:27.077882Z",
+    "updateTime": "2021-02-05T23:56:27.077882Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5LWFlOG9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra gomez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-02-05T19:37:38.695890Z",
+    "updateTime": "2021-02-05T19:37:38.695890Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5LVpyLWt3RRAB"
+  }]
+}

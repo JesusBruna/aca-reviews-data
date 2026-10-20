@@ -1,6 +1,19 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Yamil Dayub"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención de Dana.\n\n(Translated by Google)\nDana provided excellent service.",
+    "createTime": "2026-10-03T19:26:56.528495Z",
+    "updateTime": "2026-10-03T19:26:56.528495Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Yamil! Gran barista Dana. Te esperamos nuevamente. ",
+      "updateTime": "2026-10-03T19:44:58.912833Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT201WlVYWm5YMGhoYmxocVdqQkxZWE5TWkhGTGVIYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Gustavo Gris"
     },
     "starRating": "FIVE",
@@ -17,7 +30,7 @@
       "displayName": "Eduardo Modenesi"
     },
     "starRating": "FIVE",
-    "comment": "Siempre atención esmerada y gentil! Hoy lugar tranquilo para conversar y encontrarse con amigos. Muy rico el cafecito y también las medialunas!\n\n(Translated by Google)\nAlways attentive and friendly service! Today, a quiet place to chat and meet up with friends. The coffee and croissants were delicious!",
+    "comment": "Siempre atención esmerada y gentil! Hoy lugar tranquilo para conversar y encontrarse con amigos. Muy rico el cafecito y también las medialunas!\n\n(Translated by Google)\nAlways attentive and friendly service! Today, a quiet place to chat and meet up with friends. The coffee and croissants are delicious!",
     "createTime": "2017-08-19T00:33:05.315Z",
     "updateTime": "2026-09-25T13:02:56.737773Z",
     "reviewReply": {
@@ -237,18 +250,5 @@
       "updateTime": "2026-07-24T22:08:09.831905Z"
     },
     "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSV2VISkJTbmxvWmtzelJHeEVjWFExUmtoRk5VRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gustavo Federico Rosso"
-    },
-    "starRating": "THREE",
-    "comment": "Sin minimercado\n\n(Translated by Google)\nWithout a minimarket",
-    "createTime": "2026-07-13T20:43:19.548333Z",
-    "updateTime": "2026-07-13T20:43:19.548333Z",
-    "reviewReply": {
-      "comment": "Hola Gustavo! Estamos en remodelacion. Esta semana volvemos a abrir con una imagen totalmente renovada y que les va a encantar. Te esperamos. ",
-      "updateTime": "2026-07-13T20:57:42.111989Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2559334849713613102/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKaGJIZEZRM05VVDB0bWNtZDNkQzFoYkU1dGFsRRAB"
   }]
 }

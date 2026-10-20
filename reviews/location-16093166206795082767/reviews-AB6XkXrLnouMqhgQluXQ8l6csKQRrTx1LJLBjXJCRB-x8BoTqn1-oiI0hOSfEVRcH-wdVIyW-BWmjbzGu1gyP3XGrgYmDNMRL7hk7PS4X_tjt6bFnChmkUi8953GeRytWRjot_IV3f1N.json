@@ -1,0 +1,218 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Ruben Jatib"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-24T13:31:39.279224Z",
+    "updateTime": "2023-12-24T13:31:39.279224Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxck95STRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Othaheguy"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención. El más grande sándwich de mila. Para compartir\nPero a Gualberto le gusto la pizzetita\n\n(Translated by Google)\nExcellent service. The biggest milanesa sandwich. Perfect for sharing. But Gualberto liked the small pizza too.",
+    "createTime": "2023-12-21T23:23:12.942315Z",
+    "updateTime": "2023-12-21T23:23:12.942315Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario, los esperamos nuevamente ",
+      "updateTime": "2023-12-22T10:34:02.583921Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxNkozdDVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Bravo"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-12-21T11:10:33.244083Z",
+    "updateTime": "2023-12-21T11:10:33.244083Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario,lo esperamos nuevamente ",
+      "updateTime": "2023-12-22T10:34:35.443383Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxaU1IZG1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leonardo Bullin"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2023-12-19T21:07:51.619740Z",
+    "updateTime": "2023-12-19T21:07:51.619740Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario, lo esperamos nuevamente ",
+      "updateTime": "2023-12-22T10:34:51.721740Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURWXzlQTEdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maximiliano Walter"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-12T13:18:50.303763Z",
+    "updateTime": "2023-12-12T13:18:50.303763Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURWLXREVzZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudio Garcia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-10T14:22:27.951875Z",
+    "updateTime": "2023-12-10T14:22:27.951875Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURWOFA2cUpBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Carpio"
+    },
+    "starRating": "TWO",
+    "comment": "Mucha espera para un café cuando era la única esperando. Las medialunas parecían del día anterior.\n\n(Translated by Google)\nIt was a long wait for a coffee, even though I was the only one waiting. The croissants looked like they were from the day before.",
+    "createTime": "2023-12-08T21:50:25.246227Z",
+    "updateTime": "2023-12-08T21:50:25.246227Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia, vamos a mejorar esos aspectos",
+      "updateTime": "2023-12-22T10:35:26.736534Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWN2QzZm53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Walter Vera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-12-08T00:13:02.044761Z",
+    "updateTime": "2023-12-08T00:13:02.044761Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWcVluemtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santiago Guerci"
+    },
+    "starRating": "ONE",
+    "comment": "Solía ser una buena estación para parar a comer. Ya no.\n\n(Translated by Google)\nIt used to be a good station to stop for lunch. Not anymore.",
+    "createTime": "2023-12-07T23:45:18.923785Z",
+    "updateTime": "2023-12-07T23:45:18.923785Z",
+    "reviewReply": {
+      "comment": "Lamentamos su experiencia ",
+      "updateTime": "2023-12-22T10:35:44.181588Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNWcWZMT193RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Perez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-07T21:34:35.264802Z",
+    "updateTime": "2023-12-07T21:34:35.264802Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWaWY2cEhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mabel Santoro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-12-07T09:38:33.533122Z",
+    "updateTime": "2023-12-07T09:38:33.533122Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWbm92Q2J3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Veronica Echenique"
+    },
+    "starRating": "FIVE",
+    "comment": "solo cargamos  combustible y nos atendieron muy bien\n\n(Translated by Google)\nWe only filled up with fuel and the service was excellent.",
+    "createTime": "2023-12-04T17:58:43.711729Z",
+    "updateTime": "2023-12-04T17:58:43.711729Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario ",
+      "updateTime": "2023-12-22T10:36:00.563485Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURsdjg2VFF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Frassoni"
+    },
+    "starRating": "FOUR",
+    "comment": "Bien ubicada para hacer una parada al ir de Rosario a Buenos Aires, buena atención y si bien no fui muchas veces, la comida está bien y a precios razonables. El lugar es cómodo y la zona tranquila, ya que si bien se llega desde la ruta 9, está a cierta distancia, se puede descansar un rato y seguir viaje.\n\n(Translated by Google)\nWell located for a stop on the way from Rosario to Buenos Aires, the service is good, and although I haven\u0027t been there many times, the food is decent and reasonably priced. The place is comfortable and the area is quiet; although you can get there from Route 9, it\u0027s a bit of a drive, so you can rest for a while and continue your trip.",
+    "createTime": "2023-12-04T09:40:19.798262Z",
+    "updateTime": "2023-12-04T09:40:19.798262Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario, lo esperamos nuevamente ",
+      "updateTime": "2023-12-04T10:28:00.497325Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURsbDQtZnh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Tamara Insaurralde"
+    },
+    "starRating": "FIVE",
+    "comment": "Baños limpios.\n\n(Translated by Google)\nClean bathrooms.",
+    "createTime": "2023-12-03T19:10:20.246411Z",
+    "updateTime": "2023-12-03T19:10:20.246411Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario, lo  esperamos nuevamente ",
+      "updateTime": "2023-12-04T10:28:28.084752Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURsczVlN2dBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Malica"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy limpio y buena atención\n\n(Translated by Google)\nVery clean and good service",
+    "createTime": "2021-06-25T03:46:35.527461Z",
+    "updateTime": "2023-11-30T13:16:22.328290Z",
+    "reviewReply": {
+      "comment": "Muchísimas gracias por su comentario, la esperamos nuevamente ",
+      "updateTime": "2023-12-04T10:28:50.216519Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSURxb0tqemZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Madias"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo bien\n\n(Translated by Google)\nAll good",
+    "createTime": "2023-11-29T12:06:46.897592Z",
+    "updateTime": "2023-11-29T12:06:46.897592Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario ",
+      "updateTime": "2023-12-04T10:29:00.939821Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSURsZ0xyQXpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "22peligro22 haffner"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio y atención, recomiendo\n\n(Translated by Google)\nExcellent service and attention, I recommend it.",
+    "createTime": "2023-11-29T00:25:23.363462Z",
+    "updateTime": "2023-11-29T00:25:23.363462Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su comentario ",
+      "updateTime": "2023-12-04T10:29:11.655228Z"
+    },
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsOS0zNWZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Gerpe"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-25T20:55:10.590029Z",
+    "updateTime": "2023-11-25T20:55:10.590029Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsb19xQU5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Brian Orellana"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-24T04:06:26.382603Z",
+    "updateTime": "2023-11-24T04:06:26.382603Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsamVXOHdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Alberto Solimano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-11-23T22:46:16.408867Z",
+    "updateTime": "2023-11-23T22:46:16.408867Z",
+    "name": "accounts/109853746269412609224/locations/16093166206795082767/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsOWNPeklnEAE"
+  }]
+}

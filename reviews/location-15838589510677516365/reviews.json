@@ -1,6 +1,23 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Marcos Andres Mena"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-04T13:57:39.391851Z",
+    "updateTime": "2026-10-04T13:57:39.391851Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OQmExOVFUR3R6VDFORU5XbEdkRGhEUlhCNFFYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "FERNANDO EZEQUIEL ZARATE"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenísimo la atención de los empleados\n\n(Translated by Google)\nThe staff provided excellent service.",
+    "createTime": "2026-10-03T20:20:49.263351Z",
+    "updateTime": "2026-10-03T20:20:49.263351Z",
+    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGYWEwMUVNak4zWjBSNFEyaFdNVmxCVUZGelFtYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Fernando Cano"
     },
     "starRating": "FIVE",
@@ -222,31 +239,5 @@
       "updateTime": "2026-08-10T17:28:20.015840Z"
     },
     "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNk5rOTRXa2hIWWxReGVUbGhiMDVCT0RWVWJVRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Ivana Chiavassa"
-    },
-    "starRating": "ONE",
-    "comment": "Muy desconforme con la atención. Mientras esperábamos para llenar el tanque para volver a Córdoba, mi hijo que tiene problemas en los riñones necesitaba ir al baño. Preguntamos en la full, nos dijeron que no tenían, que preguntemos a las chicas que cargaban nafta. No sólo nos dijeron que no tenían baño, sino que nos negaron el libro de quejas. Primera vez que nos pasa en una YPF, le pondría 0 estrellas la verdad\n\n(Translated by Google)\nVery dissatisfied with the service. While we were waiting to fill up the tank to return to Córdoba, my son, who has kidney problems, needed to use the restroom. We asked at the full station, and they told us they didn\u0027t have one, and that we should ask the women pumping the gas. Not only did they tell us they didn\u0027t have a restroom, but they also refused to give us the complaint book. This is the first time this has happened to us at a YPF station; I would honestly give it zero stars.",
-    "createTime": "2026-07-12T18:37:12.089235Z",
-    "updateTime": "2026-07-12T18:37:12.089235Z",
-    "reviewReply": {
-      "comment": "Hola Ivana. Lamentamos sinceramente la situación que nos contás y entendemos especialmente la preocupación que implica estar viajando con un niño que necesitaba utilizar el baño. También lamentamos que la atención recibida y la respuesta ante tu pedido del libro de quejas hayan hecho que te sintieras desatendida.\n\nTomamos muy en serio lo que nos señalás y vamos a revisar internamente lo sucedido con el equipo, ya que nuestro objetivo es brindar siempre una atención respetuosa y predispuesta, especialmente ante situaciones que requieren consideración.\n\nTe pedimos disculpas por la experiencia que tuviste en nuestra estación y agradecemos que nos hayas hecho llegar tu reclamo. Esperamos poder recuperar tu confianza en una próxima visita.",
-      "updateTime": "2026-08-10T17:23:17.877165Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tscGVWZDBTa0pRTm1kNVNsRnZhV2xUY2xFd05XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "miguel deramo"
-    },
-    "starRating": "THREE",
-    "comment": "Pobre atención\n\n(Translated by Google)\nPoor service",
-    "createTime": "2026-07-10T22:12:00.557217Z",
-    "updateTime": "2026-07-10T22:12:00.557217Z",
-    "reviewReply": {
-      "comment": "Hola Miguel. Lamentamos que tu experiencia con nuestra atención no haya sido la esperada. Agradecemos que nos lo hagas saber, ya que tus comentarios nos ayudan a detectar aspectos que debemos mejorar. Esperamos poder brindarte una mejor experiencia en tu próxima visita. ¡Gracias por tu aporte!",
-      "updateTime": "2026-08-10T17:21:52.130723Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838589510677516365/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UVJHVkRTMkZrV1ZVemRXTlBSR1V3UmtkZlJHYxAB"
   }]
 }

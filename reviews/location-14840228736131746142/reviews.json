@@ -1,6 +1,49 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Alejandro Raimondi - Equipo Provincia de Bs. As. - RAI"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien atendido por Cristian\n\n(Translated by Google)\nExcellent service from Cristian",
+    "createTime": "2026-10-04T17:59:23.587345Z",
+    "updateTime": "2026-10-04T17:59:23.587345Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT214a2VGZGxRMkp3ZFZOV1lXaFBibVpPUkU1aVZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gisel Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "10 puntos la atencion de charly cepeda siempre con buena cara y muy buena onda\n\n(Translated by Google)\n10 out of 10 Charly Cepeda\u0027s service, always friendly and with a great attitude",
+    "createTime": "2026-10-04T16:43:49.400873Z",
+    "updateTime": "2026-10-04T16:43:49.400873Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkT2VWUjBkRUY1TlcxemVHVkZTRWxLWDBVNVNtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria rosa Mansilla"
+    },
+    "starRating": "FIVE",
+    "comment": "Espectacular la atención de Cristian,hace años paro en la estación y el siempre con su buena onda ojalá muchos fueran así\n\n(Translated by Google)\nCristian\u0027s service is spectacular. I\u0027ve been stopping at the station for years and he\u0027s always so friendly. I wish more people were like him.",
+    "createTime": "2026-10-04T16:42:11.783945Z",
+    "updateTime": "2026-10-04T16:42:11.783945Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BMmRXRjFSRjlsUkZONWFYTnhXWE01YlRCM00wRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Capofer Pitufo KZen"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-04T16:30:27.954554Z",
+    "updateTime": "2026-10-04T16:30:27.954554Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjNVRqTXRTWEE1TjAxMFNUSXhaRU5PZGtSSVlrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Valeria Cugnata"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-02T19:27:12.640413Z",
+    "updateTime": "2026-10-02T19:27:12.640413Z",
+    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GTWJGaGxjVkJrWkZaZlkzZGlURmcwTTA5cVQzYxAB"
+  }, {
+    "reviewer": {
       "displayName": "santiago gurina"
     },
     "starRating": "FIVE",
@@ -159,70 +202,5 @@
       "updateTime": "2026-09-25T19:11:16.160640Z"
     },
     "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT201aE1XSjRhemxqU1ZOeWJUWllSV3hIU0VaWlNHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Martin Colombo"
-    },
-    "starRating": "FOUR",
-    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
-    "createTime": "2026-09-14T03:26:47.954445Z",
-    "updateTime": "2026-09-14T03:26:47.954445Z",
-    "reviewReply": {
-      "comment": "¡Gracias por tu valoración! Nos alegra saber que recibiste una buena atención. Seguimos trabajando para que cada visita sea aún mejor. ¡Saludos de YPF ACA Chascomús!",
-      "updateTime": "2026-09-25T19:10:40.426617Z"
-    },
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT201aWRIRk5XWEV6VWpNelQzTmxjVkkzYVd0d01WRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gabriel Sueldo"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buenos sándwiches y excelente servicio. Totalmente recomendable\n\n(Translated by Google)\nGreat sandwiches and excellent service. Highly recommended.",
-    "createTime": "2026-09-13T23:01:09.933702Z",
-    "updateTime": "2026-09-13T23:01:09.933702Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por recomendarnos! Nos alegra que hayas disfrutado los sándwiches y, sobre todo, la atención recibida. ¡Esperamos volver a verte pronto!",
-      "updateTime": "2026-09-25T19:10:58.243806Z"
-    },
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT214VGJuQmZhV1F3WVhFMWRYSldXakl3TUZaM1ZYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Matias Bogarin"
-    },
-    "starRating": "ONE",
-    "comment": "Las media lunas de hace un par de hora, le pedí un submarino lo trajo frío y el chocolate horrible te guste o no atalaya es atalaya 🤷‍♂️\n\n(Translated by Google)\nThe croissants from a couple of hours ago, I ordered a submarine sandwich and it came out cold and the chocolate was awful, whether you like it or not, Atalaya is Atalaya 🤷‍♂️",
-    "createTime": "2026-09-13T21:02:50.250818Z",
-    "updateTime": "2026-09-13T21:02:50.250818Z",
-    "reviewReply": {
-      "comment": "Lamentamos mucho la experiencia que nos contás. Tanto el estado de las medialunas como la preparación del submarino están lejos del servicio que buscamos brindar. Gracias por detallarnos lo ocurrido y por acompañar la reseña con una foto; vamos a revisar estos puntos con nuestro equipo para evitar que vuelva a suceder. Esperamos poder brindarte una experiencia mucho mejor en una próxima visita.\nYPF ACA Chascomús",
-      "updateTime": "2026-09-25T19:12:35.944250Z"
-    },
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KSlpYVmxZekJ6TnpSM1RFOVBkRnBrV2tGRFpWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jose Rossi"
-    },
-    "starRating": "FIVE",
-    "comment": "Simple, cómodo y completo. Muy buena atención\n\n(Translated by Google)\nSimple, convenient, and complete. Excellent service.",
-    "createTime": "2026-09-09T01:01:29.297768Z",
-    "updateTime": "2026-09-09T01:01:29.297768Z",
-    "reviewReply": {
-      "comment": "¡Gracias por tu valoración! Apreciamos que hayas compartido tu experiencia y esperamos que en tu próxima visita podamos alcanzar las 5 estrellas. ¡Te esperamos!",
-      "updateTime": "2026-09-25T19:12:03.210788Z"
-    },
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNemJFSlFkV3BLU1RoTmNuaGtTV3RyVlRreVJuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Stella Cardozo"
-    },
-    "starRating": "FIVE",
-    "comment": "Comimos super rico... Fue una parada rápida, pero imposible no parar a comer!!!\n\n(Translated by Google)\nThe food was delicious... It was a quick stop, but we couldn\u0027t resist stopping for a bite!",
-    "createTime": "2026-09-07T15:38:51.046712Z",
-    "updateTime": "2026-09-07T15:38:52.482059Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por compartir tu experiencia! 😊 Nos encanta saber que disfrutaste de tu parada y de la comida. ¡Esperamos volver a recibirte pronto en YPF ACA Chascomús!",
-      "updateTime": "2026-09-07T19:57:00.398847Z"
-    },
-    "name": "accounts/109853746269412609224/locations/14840228736131746142/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4R1dXODRjV2x3WDBKUmVtZGtTemhhWVRaRlFtYxAB"
   }]
 }

@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Diego Martín Argañaraz"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio de playa GNC 👍🏻\n\n(Translated by Google)\nGood service at the GNC beach 👍🏻",
+    "createTime": "2026-10-05T12:18:44.217595Z",
+    "updateTime": "2026-10-05T12:18:44.217595Z",
+    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSVFFWcHBOM1ZVWW1WWFoyOXNiMU5CYTJsTmRuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Gastón Aristides"
     },
     "starRating": "ONE",
@@ -230,17 +239,5 @@
       "updateTime": "2026-09-14T16:42:42.739857Z"
     },
     "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pod1lUSmllWEpyVlROTlNYUkdUWFpOVGt0aFlWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Kevyn Gonzalez"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-09-10T22:00:15.257631Z",
-    "updateTime": "2026-09-10T22:00:15.257631Z",
-    "reviewReply": {
-      "comment": "Hola Kevyn, gracias por tu valoración y por tu tiempo, es muy importante para seguir mejorando.\nNos gustaria saber que servicios utilizaste, nos podrás comentar?\nRecorda que podes seguirnos en instagram para enterarte de todos los beneficios y promociones que tenemos para vos.\n\nsaludos \nEquipo YPF ACA PILAR",
-      "updateTime": "2026-09-14T16:42:03.602499Z"
-    },
-    "name": "accounts/109853746269412609224/locations/651290643148390126/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJMFVFOWxkazVWUjNvdE5YQkNjMHRMVWtKS1NHYxAB"
   }]
 }

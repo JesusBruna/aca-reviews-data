@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Nadia Malek"
+    },
+    "starRating": "FIVE",
+    "comment": "Haber un genio. Excelente atención\n\n(Translated by Google)\nThere must be a genius. Excellent service.",
+    "createTime": "2026-10-03T21:05:23.691018Z",
+    "updateTime": "2026-10-03T21:05:23.691018Z",
+    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/Ci9DQUlRQUNvZENodHljRjlvT21odFFXY3dVekZZVGtzeVJGZExYMHRaVmpFeE5GRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Cristian Moyano"
     },
     "starRating": "FOUR",
@@ -158,18 +167,5 @@
     "createTime": "2026-08-14T04:16:30.723703Z",
     "updateTime": "2026-08-14T04:26:22.014047Z",
     "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toR2NrdHZWRjlRUVRkelZXb3hZWGd0ZEY5WWFIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jorge Garcia Guibout"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención tanto en las bombas de combustible, el servicompras y el lavadero. Muy recomendable el servicio de lavadero por precio y calidad.\n\n(Translated by Google)\nExcellent service at the gas pumps, convenience store, and car wash. The car wash is highly recommended for its price and quality.",
-    "createTime": "2022-02-16T11:48:25.527645Z",
-    "updateTime": "2026-08-08T20:12:44.862560Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu gran valoración Jorge! 🥰 Estamos encantados de saber que te hemos dejado una buena impresión. Te esperamos pronto para seguir ofreciéndote lo mejor.",
-      "updateTime": "2024-10-22T22:51:30.455667Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10539008023529743134/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXeUphZ2xRRRAB"
   }]
 }

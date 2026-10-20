@@ -1,6 +1,14 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Ulises Rojas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-10-03T05:13:22.597875Z",
+    "updateTime": "2026-10-03T05:13:22.597875Z",
+    "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxd1ZsbGlPVGRxTm05TWNHSXRhVVV0VXpWcmQxRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Juliano Conzatti"
     },
     "starRating": "FIVE",
@@ -180,18 +188,5 @@
     "createTime": "2026-04-18T03:06:55.889509Z",
     "updateTime": "2026-04-18T03:06:55.889509Z",
     "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4Tk9WaDNZV2xMVmtSd1gxaHpjMnhrWWtKTlExRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nelson"
-    },
-    "starRating": "ONE",
-    "comment": "(Translated by Google) YPF gas station below standard - Rude attendant, no windshield washer fluid, I looked for the manager and they said there wasn\u0027t any.\n\n(Original)\nPosto fora do padrão YPF - Atendente mal educado, não havia água para limpar o parabrisa, procurei o gerente e disseram que não havia.",
-    "createTime": "2026-03-25T23:01:31.049490Z",
-    "updateTime": "2026-03-25T23:01:31.049490Z",
-    "reviewReply": {
-      "comment": "Hola estimado. Lamentamos que su visita no haya sido la esperada. Favor siempre contactarse con la oficina, si el playero no le da la indicación favor consulte en el servicompras. Lamentamos lo ocurrido y tomaremos cartas con las personas que estuvieron en el turno. Saludos",
-      "updateTime": "2026-03-26T03:03:17.032554Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3778560078587040720/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTFZHUjBOWFIxUmpVdFVXRTViVUpOVkMxcmJVRRAB"
   }]
 }

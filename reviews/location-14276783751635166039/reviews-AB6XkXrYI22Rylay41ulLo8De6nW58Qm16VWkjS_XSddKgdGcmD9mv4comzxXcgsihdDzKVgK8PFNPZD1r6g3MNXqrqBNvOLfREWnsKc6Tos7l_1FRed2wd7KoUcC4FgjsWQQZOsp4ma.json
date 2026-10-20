@@ -1,0 +1,179 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "jesica da costa"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-02-07T01:11:05.633Z",
+    "updateTime": "2018-02-07T01:11:05.633Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3MGNXQUF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Román Donadío"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-02-06T18:09:34.833Z",
+    "updateTime": "2018-02-06T18:09:34.833Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRdzVEekJBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nancy Maya"
+    },
+    "starRating": "ONE",
+    "createTime": "2018-02-06T11:06:32.992Z",
+    "updateTime": "2018-02-06T11:06:32.992Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURnN2ZlOG93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juanmera4 Mera"
+    },
+    "starRating": "THREE",
+    "comment": "YPF mal shop tiene y mala atención.\n\n(Translated by Google)\nYPF has a bad shop and bad service.",
+    "createTime": "2018-02-06T01:51:01.328Z",
+    "updateTime": "2018-02-06T01:51:21.427Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRNHVHbFFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Delgado"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena Estación de Servicios. Estratégicamente ubicada.\n\n(Translated by Google)\nVery good service station. Strategically located.",
+    "createTime": "2018-02-05T16:41:02.390Z",
+    "updateTime": "2018-02-05T16:43:08.663Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-21T21:55:28.589757Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnMTdPWUVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Truppel"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-02-05T13:50:10.794Z",
+    "updateTime": "2018-02-05T13:50:10.794Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURRM0plWnZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rene Gusi"
+    },
+    "starRating": "THREE",
+    "comment": "Ok",
+    "createTime": "2018-02-05T01:42:08.066Z",
+    "updateTime": "2018-02-05T01:42:12.640Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnLXNhZ1pnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Capriolo"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-02-04T17:34:12.980Z",
+    "updateTime": "2018-02-04T17:34:12.980Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURBaU1QSWJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Natalia Heredia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-02-04T17:22:45.490Z",
+    "updateTime": "2018-02-04T17:22:45.490Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSURRNUpUVGZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Wolf"
+    },
+    "starRating": "THREE",
+    "comment": "Normal",
+    "createTime": "2018-02-04T03:48:55.011Z",
+    "updateTime": "2018-02-04T03:49:00.920Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBOHJMXzhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Fernando Rodriguez"
+    },
+    "starRating": "THREE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2018-02-03T21:32:47.592Z",
+    "updateTime": "2018-02-03T21:33:00.323Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3eHE2ODN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liliam Susana Villarroel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-02-03T19:29:40.536Z",
+    "updateTime": "2018-02-03T19:29:40.536Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRaE92aVZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "nicolas pathauer"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-02-03T15:59:22.517Z",
+    "updateTime": "2018-02-03T15:59:22.517Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURBd0tmRTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel G."
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente, buen servicio y atención, le dejo 4 estrellas , solo porque los precios del shop son un robo, el resto todo bien , baños limpios\n\n(Translated by Google)\nExcellent, good service and attention, I\u0027m giving it 4 stars only because the shop prices are outrageous, everything else is fine, clean bathrooms",
+    "createTime": "2018-02-03T08:58:52.379Z",
+    "updateTime": "2018-02-03T09:00:25.233Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3bDRhaG5BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gloria Gloria"
+    },
+    "starRating": "ONE",
+    "comment": "La estación de servicio es hermosa y muy completa, pero el personal parece programado para no colaborar en nada, ni saber nada...parecen zombies\n\n(Translated by Google)\nThe gas station is beautiful and very well-equipped, but the staff seem programmed not to help with anything, or know anything...they\u0027re like zombies.",
+    "createTime": "2018-02-03T05:13:59.424Z",
+    "updateTime": "2018-02-03T05:15:13.456Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndXRibWZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Keyla Carulli"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-02-02T19:24:52.256Z",
+    "updateTime": "2018-02-02T19:24:52.256Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3MjhUVnZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "pipiodecelina@gmail. com Moreyra"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-02-02T12:21:55.066Z",
+    "updateTime": "2018-02-02T12:21:55.066Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3MU55dnhnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastián Sebastián"
+    },
+    "starRating": "FOUR",
+    "comment": "Hotel de paso. Lindo para pasar la noche en el viaje desde o hacia los Lagos del Sur. Aunque no tiene lujos, tiene todos los servicios importantes, incluyendo Wi-Fi.\n\n(Translated by Google)\nA roadside hotel. Nice for spending the night on a trip to or from the Southern Lakes. While not luxurious, it has all the essential amenities, including Wi-Fi.",
+    "createTime": "2018-02-01T20:05:11.530Z",
+    "updateTime": "2018-02-01T20:05:11.530Z",
+    "reviewReply": {
+      "comment": "Gracias Sebastián por darnos una calificación tan positiva y por recomendar nuestro motel a otros viajeros. Estoy seguro de que todo nuestro personal también disfrutó mucho atendiéndote. Esperamos volver a verte pronto y que la próxima vez seamos aún mejor",
+      "updateTime": "2018-02-13T03:44:26.200734Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSURRajlqRjZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Bren Nievas"
+    },
+    "starRating": "ONE",
+    "createTime": "2018-02-01T16:12:56.244Z",
+    "updateTime": "2018-02-01T16:12:56.244Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnazRheW13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "eduardo Kralj"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-02-01T11:42:53.984Z",
+    "updateTime": "2018-02-01T11:42:53.984Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRaWZ1U0R3EAE"
+  }]
+}

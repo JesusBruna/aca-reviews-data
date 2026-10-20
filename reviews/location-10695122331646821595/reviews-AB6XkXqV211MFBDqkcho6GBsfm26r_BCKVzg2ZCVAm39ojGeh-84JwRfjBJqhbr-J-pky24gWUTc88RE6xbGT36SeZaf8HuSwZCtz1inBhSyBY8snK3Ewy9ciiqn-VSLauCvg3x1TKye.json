@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Beatriz Levin"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2020-11-27T23:39:09.950219Z",
+    "updateTime": "2020-11-27T23:39:18.723836Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURpN0lyRm9RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Romero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-11-22T22:44:06.294136Z",
+    "updateTime": "2020-11-22T22:44:06.294136Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURpaVBpRXNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ana beatriz moyano"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy bien\n\n(Translated by Google)\nVery good",
+    "createTime": "2020-11-22T00:58:58.391409Z",
+    "updateTime": "2020-11-22T00:58:58.391409Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURpa011dlFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roxana Sobol"
+    },
+    "starRating": "FOUR",
+    "comment": "BAR; CAFÉ; COMBUSTIBLE\n\n(Translated by Google)\nBAR; CAFE; FUEL",
+    "createTime": "2020-11-18T12:32:06.579290Z",
+    "updateTime": "2020-11-18T12:32:31.847683Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpdDg2b3RRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hugo sergio turlione"
+    },
+    "starRating": "THREE",
+    "comment": "No hay atención a las mesas. es autoservicio.\n\n(Translated by Google)\nThere is no table service. It\u0027s self-service.",
+    "createTime": "2020-08-22T23:13:33.132657Z",
+    "updateTime": "2020-11-17T17:09:48.953987Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNDcnRDU053EAE"
+  }, {
+    "reviewer": {
+      "displayName": "gerardo oscar rosales"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2020-11-17T01:22:51.478620Z",
+    "updateTime": "2020-11-17T01:22:51.478620Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpdTdIbHNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Molina"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-11-02T13:09:39.703666Z",
+    "updateTime": "2020-11-02T13:09:39.703666Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpanZIcTVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patricia Rivadera"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-10-30T22:58:37.137988Z",
+    "updateTime": "2020-10-30T22:58:37.137988Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpaHRmVWVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marito Dado"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2020-10-25T01:00:14.860897Z",
+    "updateTime": "2020-10-25T01:00:14.860897Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSUNpM0szUEZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raúl Ruiz Vega"
+    },
+    "starRating": "THREE",
+    "comment": "La calidad del combustible, se podría mejorar\n\n(Translated by Google)\nThe quality of the fuel could be improved.",
+    "createTime": "2020-10-16T00:04:49.254184Z",
+    "updateTime": "2020-10-16T00:04:49.254184Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURDajRXbk13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ariela Zalazar"
+    },
+    "starRating": "THREE",
+    "createTime": "2020-10-10T22:47:37.808808Z",
+    "updateTime": "2020-10-10T22:47:37.808808Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURDczVtNmFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "mary amn pandolfo vercesi"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención!\n\n(Translated by Google)\nGreat service!",
+    "createTime": "2020-10-10T14:33:35.363574Z",
+    "updateTime": "2020-10-10T14:33:35.363574Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURDMF9TbDBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Marcelo Diaz"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atención y cordialidad. Me recomendaron descargarme la app de YPF y me pareció buena iniciativa.\n\n(Translated by Google)\nExcellent service and friendly staff. They recommended I download the YPF app, which I thought was a great idea.",
+    "createTime": "2020-10-07T17:39:43.645411Z",
+    "updateTime": "2020-10-07T17:40:29.546689Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURDbmI2TnVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "roberto armando bazan"
+    },
+    "starRating": "FOUR",
+    "comment": "Es toda gente amiga, que está muy comprometida con el cliente, con el turismo y el rally etc.\n\n(Translated by Google)\nThey are all friendly people, who are very committed to the customer, to tourism and the rally, etc.",
+    "createTime": "2018-09-06T10:43:36.793671Z",
+    "updateTime": "2020-10-07T11:48:00.248696Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSUNndmFPbTRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ricardo Magnacco"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y cordialidad\n\n(Translated by Google)\nGood service and friendliness",
+    "createTime": "2020-10-04T16:39:24.766689Z",
+    "updateTime": "2020-10-04T16:39:25.568496Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURDcGE3WW5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Roques de Borda"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente.\n\n(Translated by Google)\nExcellent.",
+    "createTime": "2020-10-01T18:32:31.010161Z",
+    "updateTime": "2020-10-01T18:32:31.010161Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURDOGFfNEt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucho Ludueña"
+    },
+    "starRating": "FIVE",
+    "comment": "Joya\n\n(Translated by Google)\nJewel",
+    "createTime": "2020-09-26T20:36:05.209333Z",
+    "updateTime": "2020-09-26T20:36:05.209333Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURDanJ5cnl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Basso"
+    },
+    "starRating": "THREE",
+    "comment": "Muy lenta la atención. Pero como en  la mayoría de las YPF. Deberían eliminar o cambiar el sistema de puntos, que solamente sirve para hacernos perder mucho tiempo. Por tratar de ganar una pelota al cabo de 2 años de juntar puntos, nos pasamos la vida esperando en la cola para cargar combustible.\n\n(Translated by Google)\nThe service is incredibly slow. But that\u0027s typical of most YPF stations. They should eliminate or change the points system, which only serves to waste our time. Trying to win a ball after two years of collecting points means we spend our lives waiting in line to fill up.",
+    "createTime": "2020-09-24T10:10:05.189009Z",
+    "updateTime": "2020-09-24T10:15:14.884316Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChZDSUhNMG9nS0VJQ0FnSURDaG95UUxBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Arconstanzo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-09-17T16:29:40.837316Z",
+    "updateTime": "2020-09-17T16:29:40.837316Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURDckpIeDN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Jaime"
+    },
+    "starRating": "FIVE",
+    "createTime": "2020-09-13T15:55:33.411660Z",
+    "updateTime": "2020-09-13T15:55:33.411660Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/ChdDSUhNMG9nS0VJQ0FnSURDbUwyTi1BRRAB"
+  }]
+}

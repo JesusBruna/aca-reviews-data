@@ -1,6 +1,14 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Daniel Alfonsin"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-03T15:31:55.012864Z",
+    "updateTime": "2026-10-03T15:31:55.012864Z",
+    "name": "accounts/109853746269412609224/locations/7801942086659808563/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoV1NEWk1RbHBYVFVwNGJEZ3pVMjVGVGkxa1MzYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Fanny Robledo"
     },
     "starRating": "FIVE",
@@ -230,17 +238,5 @@
       "updateTime": "2026-08-31T13:31:57.286663Z"
     },
     "name": "accounts/109853746269412609224/locations/7801942086659808563/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWeE1qbGFXWFpuVGpsRFZXZDBOM1l5VUZSMlNtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Sofia Jimena Corbalan"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-08-04T10:30:30.451997Z",
-    "updateTime": "2026-08-04T10:30:30.451997Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por calificarnos con 5 estrellas! Apreciamos mucho tu confianza y esperamos recibirte nuevamente.",
-      "updateTime": "2026-08-31T13:27:41.636154Z"
-    },
-    "name": "accounts/109853746269412609224/locations/7801942086659808563/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxTFIzQlhhV2czWjFWMWJUZDVOblUxZUVSdE1HYxAB"
   }]
 }

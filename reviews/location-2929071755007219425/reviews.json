@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Francisco Nestor Botta"
+    },
+    "starRating": "FIVE",
+    "comment": "Recepción y atención, más que conforme.  Los socios del ACA, necesitamos de estos lugares, para ir cumpliendo nuestras etapas. a lo largo de nuestras rutas.   Establecimiento de díez.\n\n.\n\n(Translated by Google)\nReception and service were more than satisfactory. We, the members of the ACA, need places like this to complete our stages along our routes. A top-notch establishment.\n\n",
+    "createTime": "2026-10-03T14:32:46.557694Z",
+    "updateTime": "2026-10-03T14:32:46.557694Z",
+    "name": "accounts/109853746269412609224/locations/2929071755007219425/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tocVNtZFBUV2RTT0hCdldGUk5TMDFVVkc5a2QxRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Ruben Rios"
     },
     "starRating": "FIVE",
@@ -245,18 +254,5 @@
       "updateTime": "2026-08-24T14:53:46.586636Z"
     },
     "name": "accounts/109853746269412609224/locations/2929071755007219425/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFek5GSjBjVmhLUkZaaVpFRnhYMVV5WWpsVGNsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Emir Aressi"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buen servicio, y sobre todo muy amable la empleada, pasé a tomar un café y súper recomendable.\n\n(Translated by Google)\nExcellent service, and the employee was especially friendly. I stopped by for a coffee and highly recommend it.",
-    "createTime": "2026-08-23T17:02:11.997617Z",
-    "updateTime": "2026-08-23T17:02:11.997617Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tu opinión, la valoramos muchísimo. Te esperamos cuando gustes. ",
-      "updateTime": "2026-08-23T19:30:42.543346Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2929071755007219425/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCWFZXdGlVRFY0ZWxoT1FtOU1ZVU5TZGs5c1lVRRAB"
   }]
 }

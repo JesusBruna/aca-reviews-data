@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Jorge Zavala"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente Santiago\n\n(Translated by Google)\nExcellent Santiago",
+    "createTime": "2026-10-03T15:21:11.276325Z",
+    "updateTime": "2026-10-03T15:21:11.276325Z",
+    "name": "accounts/109853746269412609224/locations/11189743280620158761/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWlZVRnpjMnhZZVRoRFVHTndVMFZDTWxKbFJYYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Gabriel Torres"
     },
     "starRating": "FIVE",
@@ -239,18 +248,5 @@
       "updateTime": "2026-07-28T14:32:31.227954Z"
     },
     "name": "accounts/109853746269412609224/locations/11189743280620158761/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GdVozcERVRTQwZDFOclFqRTRURUk0TjNWRE5XYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "C daniel braiott"
-    },
-    "starRating": "FIVE",
-    "comment": "Fui al full en este caso buena atención\n\n(Translated by Google)\nI went to the full service in this case, and the service was good.",
-    "createTime": "2026-07-21T21:36:29.461472Z",
-    "updateTime": "2026-07-21T21:36:29.461472Z",
-    "reviewReply": {
-      "comment": "“¡Hola Daniel, gracias por tu comentario! Nos pone muy contentos saber que destacas la experiencia de ser atendido en ACA San Luis. Nuestro equipo trabaja con compromiso y vocación de servicio para brindar una atención cordial y profesional.\nNo olvides descargar la App YPF y seguirnos en @acasanluis.”",
-      "updateTime": "2026-07-28T14:32:06.335636Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11189743280620158761/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKRGVGOU1iMGQwY0ZwQmFqRnNTamxPU0cxT0xWRRAB"
   }]
 }

@@ -1,6 +1,14 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Rafael Hector"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-10-05T01:15:18.289369Z",
+    "updateTime": "2026-10-05T01:15:18.289369Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSTGFqbHhTM2hYTWt4aGNreG9PV0ZsTFVoaVlXYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Guillermo Parra"
     },
     "starRating": "FIVE",
@@ -192,17 +200,5 @@
       "updateTime": "2026-09-07T12:56:55.406376Z"
     },
     "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVMGIyMU9Rak0yT1cxaE5HdEhZMFE0YmpWNWQyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rodrigo Chiossi"
-    },
-    "starRating": "ONE",
-    "createTime": "2026-09-06T15:02:00.652687Z",
-    "updateTime": "2026-09-06T15:02:00.652687Z",
-    "reviewReply": {
-      "comment": "Hola, Rodrigo. Lamentamos que tu experiencia en YPF ACA Chos Malal no haya sido la esperada. Nos gustaría saber qué aspectos podemos mejorar, por eso valoramos que te hayas tomado el tiempo de dejarnos tu calificación. Seguiremos trabajando para brindar una mejor atención en cada visita. ⛽\n",
-      "updateTime": "2026-09-07T12:58:15.896097Z"
-    },
-    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKUFFWUTFZVnBtTkZCSVJqYzBOSEJ5Y2xCcWNHYxAB"
   }]
 }

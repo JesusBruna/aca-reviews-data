@@ -1,6 +1,42 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Miguel Angel balistrere"
+    },
+    "starRating": "ONE",
+    "comment": "No tienen escáner\n\n(Translated by Google)\nThey don\u0027t have a scanner.",
+    "createTime": "2026-10-05T13:33:29.591593Z",
+    "updateTime": "2026-10-05T13:33:29.591593Z",
+    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pscE5scDRTalp6TFY5RGFGVndiMlpRWTFOdlEyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adolfo Quinteiro"
+    },
+    "starRating": "FIVE",
+    "comment": "buenísimo gracias\n\n(Translated by Google)\nGreat, thanks!",
+    "createTime": "2026-10-03T12:45:45.569337Z",
+    "updateTime": "2026-10-03T12:45:45.569337Z",
+    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JeU1FSnlSV2hFWlV0UlpUaEdXRmwzUkdOMVJVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Martinez"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención..excelente personal de trabajo\n\n(Translated by Google)\nVery good service...excellent staff",
+    "createTime": "2026-10-03T12:36:12.233902Z",
+    "updateTime": "2026-10-03T12:36:12.233902Z",
+    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paVk9XNVlZVmxHZW14ek4ycEZVelpKWTFsTFRtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto Micucci"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención\n\n(Translated by Google)\nThe service was very good.",
+    "createTime": "2026-10-03T12:28:43.697678Z",
+    "updateTime": "2026-10-03T12:28:43.697678Z",
+    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SVlpqVk9Nbk5xTjBOcE1tbHFNRTh0VldkbE1HYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Osvaldo Cuello"
     },
     "starRating": "FIVE",
@@ -197,7 +233,7 @@
       "displayName": "Mario Pompozzi"
     },
     "starRating": "FIVE",
-    "comment": "Muy buena atención y excelente servicio\n\n(Translated by Google)\nVery good attention and excellent service",
+    "comment": "Muy buena atención y excelente servicio\n\n(Translated by Google)\nVery good attention and excellent service.",
     "createTime": "2026-09-16T21:02:18.196266Z",
     "updateTime": "2026-09-16T21:02:18.196266Z",
     "reviewReply": {
@@ -205,57 +241,5 @@
       "updateTime": "2026-09-17T13:08:11.041049Z"
     },
     "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKNGNWOW9TVWxYUWxCUlFsVndSV2RsY1daaVowRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Aldo Dario Rau"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención, todo muy bien, los mozos del café son muy amables y atentos.\n\n(Translated by Google)\nExcellent service, everything was great, the waiters at the cafe are very friendly and attentive.",
-    "createTime": "2026-09-16T21:00:49.039942Z",
-    "updateTime": "2026-09-16T21:00:49.039942Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu calificación, Aldo! Nos pone muy contentos saber que tuviste una buena experiencia con nosotros. Trabajamos todos los días para brindar el mejor servicio posible. ¡Esperamos verte de nuevo pronto!",
-      "updateTime": "2026-09-28T12:52:29.536561Z"
-    },
-    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4MlEzQlBVMUJ6TmpjME9GOVRWMUI0WkdVd2NGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "alejandro lombardi"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente, nada que objetar con el personal\n\n(Translated by Google)\nExcellent, no complaints about the staff",
-    "createTime": "2026-09-16T20:29:05.777445Z",
-    "updateTime": "2026-09-16T20:29:05.777445Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu calificación, Alejandro! Nos pone muy contentos saber que tuviste una buena experiencia con nosotros. Trabajamos todos los días para brindar el mejor servicio posible. ¡Esperamos verte de nuevo pronto!\n",
-      "updateTime": "2026-09-17T13:08:19.008374Z"
-    },
-    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwelRuSnZPV0pXZUZoYWJEQmFMVTh0TmxGSGRHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "yamiii pietrobelli"
-    },
-    "starRating": "FIVE",
-    "comment": "Un ambiente agradable, cálido y con muy buena predisposición, además muy rico café preparan los chicos\n\n(Translated by Google)\nA pleasant, warm atmosphere with a very helpful attitude, plus the guys make really good coffee",
-    "createTime": "2026-09-16T20:08:20.354728Z",
-    "updateTime": "2026-09-16T20:08:20.354728Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu calificación, yamiii! Nos pone muy contentos saber que tuviste una buena experiencia con nosotros. Trabajamos todos los días para brindar el mejor servicio posible. ¡Esperamos verte de nuevo pronto!\n",
-      "updateTime": "2026-09-17T13:08:30.856375Z"
-    },
-    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kUFh6WlhjVzF5Y1RaNGNVWjZXVkZWTWsxR1NWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Claudio Vallejo"
-    },
-    "starRating": "FIVE",
-    "comment": "Mí experiencia es un placer cada día ver y sentir la calidad humana y buena atención que brindan las personas a cargo de la atencion\n\n(Translated by Google)\nMy experience is a pleasure every day to see and feel the human quality and good attention provided by the people in charge of care.",
-    "createTime": "2026-09-16T17:30:36.395073Z",
-    "updateTime": "2026-09-16T17:30:36.395073Z",
-    "reviewReply": {
-      "comment": "¡Muchas gracias por tu calificación, Claudio! Nos pone muy contentos saber que tuviste una buena experiencia con nosotros. Trabajamos todos los días para brindar el mejor servicio posible. ¡Esperamos verte de nuevo pronto!\n",
-      "updateTime": "2026-09-17T13:08:43.174797Z"
-    },
-    "name": "accounts/109853746269412609224/locations/8983193634567568949/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5dGMyUnRZV2wxU1c5V2RXVmpZbWhoTUcwNFptYxAB"
   }]
 }

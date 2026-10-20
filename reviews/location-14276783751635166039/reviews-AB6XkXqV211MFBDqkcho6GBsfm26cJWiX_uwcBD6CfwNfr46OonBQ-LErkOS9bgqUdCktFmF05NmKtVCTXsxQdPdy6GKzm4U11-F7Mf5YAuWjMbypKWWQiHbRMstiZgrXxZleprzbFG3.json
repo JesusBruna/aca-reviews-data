@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Diego Gonzalez"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-10-28T13:03:41.861813Z",
+    "updateTime": "2018-10-28T13:03:41.861813Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3NWYtOGV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martín Amarilla"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-10-28T13:01:14.998986Z",
+    "updateTime": "2018-10-28T13:01:14.998986Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUR3NWJPTnpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Joaquin Ortega"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-10-27T16:58:03.123049Z",
+    "updateTime": "2018-10-27T16:58:03.123049Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3cm9PZlpnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Axel O\u0027BRIEN"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-10-27T16:16:26.604975Z",
+    "updateTime": "2018-10-27T16:16:26.604975Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3cnFUV1B3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Joel Maximiliano Alaniz"
+    },
+    "starRating": "TWO",
+    "createTime": "2018-10-26T21:41:48.645150Z",
+    "updateTime": "2018-10-26T21:41:48.645150Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3cXFIbk9BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Donoso"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2018-10-26T12:35:41.224351Z",
+    "updateTime": "2018-10-26T12:35:52.122004Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3NHZpbGNnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariana Castro Peña"
+    },
+    "starRating": "FIVE",
+    "comment": "Normal",
+    "createTime": "2018-10-26T10:12:50.534081Z",
+    "updateTime": "2018-10-26T10:12:59.130602Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUR3d3JTbzd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Lizarazu"
+    },
+    "starRating": "ONE",
+    "createTime": "2018-10-26T10:06:25.631371Z",
+    "updateTime": "2018-10-26T10:06:25.631371Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3d3FpS0VBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cindy Belén Pérez Echegaray"
+    },
+    "starRating": "ONE",
+    "comment": "Pésima atención.\n\n(Translated by Google)\nTerrible service.",
+    "createTime": "2018-10-26T01:26:28.097373Z",
+    "updateTime": "2018-10-26T01:26:37.812302Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3N1BqSGN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ismael Coiro"
+    },
+    "starRating": "FOUR",
+    "createTime": "2018-10-24T17:27:54.443060Z",
+    "updateTime": "2018-10-24T17:27:54.443060Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3bUktZlR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Roberto izak Mercado"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2018-10-23T20:15:07.345314Z",
+    "updateTime": "2018-10-23T20:15:21.324012Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3NkpMcVpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "alejandro flaca"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención del personal .... un lugar muy cálido .....!!!\n\n(Translated by Google)\nExcellent service from the staff... a very welcoming place...!!!",
+    "createTime": "2018-10-23T13:31:26.910503Z",
+    "updateTime": "2018-10-23T13:32:03.512933Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3cUszMUxnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Elena María Chamorro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-10-23T12:33:24.928254Z",
+    "updateTime": "2018-10-23T12:33:24.928254Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUR3cUxueDlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Nano"
+    },
+    "starRating": "THREE",
+    "createTime": "2018-10-17T21:18:16.623555Z",
+    "updateTime": "2018-10-17T21:18:16.623555Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3XzUzTFl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pieralisi"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen café.\n\n(Translated by Google)\nGood coffee.",
+    "createTime": "2018-10-17T20:15:58.095677Z",
+    "updateTime": "2018-10-17T20:15:58.095677Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3XzRYS2NBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Ain Pino"
+    },
+    "starRating": "FIVE",
+    "comment": "Los baños estan increiblementr limpios, se puede medir la presión de las ruedas y tienen wifi que te pasan la clave aunque no consumas nada....!!\n\n(Translated by Google)\nThe bathrooms are incredibly clean, you can check your tire pressure, and they have Wi-Fi and they\u0027ll give you the password even if you don\u0027t use anything...!!",
+    "createTime": "2018-10-17T17:03:08.021889Z",
+    "updateTime": "2018-10-17T17:04:08.268064Z",
+    "reviewReply": {
+      "comment": "Gracias por su calificación y comentario ",
+      "updateTime": "2025-07-20T14:20:18.233334Z"
+    },
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3XzR5VkNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marisa Alias"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-10-17T14:17:35.460144Z",
+    "updateTime": "2018-10-17T14:17:35.460144Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUN3djhlWG53RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Granja LA ESPERADA"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención...\n\n(Translated by Google)\nExcellent service...",
+    "createTime": "2018-10-16T20:06:26.479640Z",
+    "updateTime": "2018-10-16T20:06:48.268269Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUR3Z3VXWWpRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Alvarez"
+    },
+    "starRating": "ONE",
+    "comment": "Mala predisposición de playeeos\n\n(Translated by Google)\nBad predisposition of beachgoers",
+    "createTime": "2018-10-15T19:18:59.853838Z",
+    "updateTime": "2018-10-15T19:19:25.565160Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChZDSUhNMG9nS0VJQ0FnSUR3N3N6VlN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Oscar"
+    },
+    "starRating": "ONE",
+    "comment": "Mala atención, como siempre una sola opción de combustible, infinia, el drugstore malo\n\n(Translated by Google)\nPoor service, as always only one fuel option, Infinia, the drugstore is bad",
+    "createTime": "2018-10-14T13:50:44.287220Z",
+    "updateTime": "2018-10-14T13:52:06.107674Z",
+    "name": "accounts/109853746269412609224/locations/14276783751635166039/reviews/ChdDSUhNMG9nS0VJQ0FnSUR3a3FUSHdBRRAB"
+  }]
+}

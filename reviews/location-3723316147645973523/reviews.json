@@ -1,6 +1,22 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "pablo rossi"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-05T09:24:35.898469Z",
+    "updateTime": "2026-10-05T09:24:35.898469Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWalkzcEtXVXhIY2xsdWIyTXRObTR5VDNSMVNIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Tabor"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-03T17:03:04.843480Z",
+    "updateTime": "2026-10-03T17:03:04.843480Z",
+    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSRWVYTnRMVzFRZEhCd2JWTnRhMUU0ZW05WExYYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Gustavo Del Rio"
     },
     "starRating": "FOUR",
@@ -186,30 +202,5 @@
       "updateTime": "2026-09-15T20:01:53.771760Z"
     },
     "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WZmNGZGFNakptTUZwTE5IUlpVbkZ2U2pWMU5YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Montse falo x2"
-    },
-    "starRating": "TWO",
-    "comment": "Domingo 16 horas solicité que me carguen solo un monto específico de dinero y según la playera “la máquina no funcionó”. Me llenó el tanque y el costo fue más del doble. No ofreció ninguna solución viable. Inevitable plantear la duda de si fue un error humano o fue a propósito.\n\n(Translated by Google)\nOn Sunday at 4 PM, I requested a specific amount of money be added to my tank, and according to the attendant, \"the machine wasn\u0027t working.\" They filled my tank, but the cost was more than double. They offered no viable solution. It\u0027s impossible not to wonder if it was human error or intentional.",
-    "createTime": "2026-09-04T00:16:28.180819Z",
-    "updateTime": "2026-09-04T00:16:28.180819Z",
-    "reviewReply": {
-      "comment": "Antes que nada, quiero ofrecerte mis sinceras disculpas por la mala experiencia que tuviste.\nRespecto a lo sucedido, me gustaría darte la tranquilidad de que nuestros surtidores cuentan con un sistema de programación riguroso que no presenta fallas. En este caso puntual, se trató de un error humano en la operación.\nAsimismo, me parece importante comentarte que la colaboradora que te atendió no obtiene ningún tipo de beneficio con esta situación. Ella se encuentra atravesando una situación familiar compleja y, con la intención de no generar inconvenientes ni cargar a la empresa en este momento —pese al respaldo constante que le brindamos—, omitió escalar el problema a sus superiores para darle la resolución que correspondía.\nEntendemos que esto no justifica lo ocurrido hacia ti como cliente, y asumimos la responsabilidad que nos compete. Este hecho nos sirve para reforzar internamente nuestros protocolos, asegurando a todo nuestro equipo que siempre deben apoyarse en el personal de supervisión para resolver cualquier eventualidad.\nAgradecemos sinceramente que nos hayas hecho llegar tu comentario, ya que nos ayuda a corregir fallas y seguir mejorando la calidad de nuestro servicio. Saludos cordiales",
-      "updateTime": "2026-09-15T20:15:08.114132Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5cFdtcERiVU5hYjJnMmIxZzFOMjQwUVRaV1JIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Leandro Ch"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-09-02T02:33:50.711739Z",
-    "updateTime": "2026-09-02T02:33:50.711739Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Leandro!! Saludos",
-      "updateTime": "2026-09-15T20:15:29.673257Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3723316147645973523/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RM2VuZzVOMnhwZDJWc1ZqSkhSRlJqWkdsdGVtYxAB"
   }]
 }

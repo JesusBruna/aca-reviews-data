@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Maria Florencia Mansilla"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente Atención de Matias ,\n\n(Translated by Google)\nExcellent service from Matias,",
+    "createTime": "2026-10-03T23:17:24.915377Z",
+    "updateTime": "2026-10-03T23:17:24.915377Z",
+    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/Ci9DQUlRQUNvZENodHljRjlvT201Q1RtMUhYMm8wWkhWTGJEZEJVVWxLTTAwMmNuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Guillermo Ramos"
     },
     "starRating": "FIVE",
@@ -202,18 +211,5 @@
     "createTime": "2026-08-19T22:38:11.670320Z",
     "updateTime": "2026-08-19T22:38:11.670320Z",
     "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSZmFXUnFYMlJwVmpZNVNVUjVha3N6TmxadVVIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "nikko"
-    },
-    "starRating": "THREE",
-    "comment": "La atención es buena , pero demoran demasiado.\n*Soy una persona muy paciente.No me quiero imaginar alguién ansioso.\n\n(Translated by Google)\nThe service is good, but they take too long.\n\nI\u0027m a very patient person. I can\u0027t imagine someone anxious.",
-    "createTime": "2026-08-19T19:26:34.794776Z",
-    "updateTime": "2026-08-19T19:26:34.794776Z",
-    "reviewReply": {
-      "comment": "¡Gracias Nikko por tu visita y comentario! Toda sugerencia es bienvenida para poder mejorar, la tomamos. Te esperamos en tu próximo recorrido :) También te invitamos a sumarte a nuestra comunidad digital en Instagram @ypfgrupopignatta y en Facebook nos encontrás como YPF Grupo Pignatta #SomosParteDeTuRecorrido",
-      "updateTime": "2026-08-24T15:47:36.789890Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10695122331646821595/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psbWVYcHlVWE5MYVhWbWJtZHZZWFZCU1hKR1ZWRRAB"
   }]
 }

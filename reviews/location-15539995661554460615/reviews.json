@@ -1,6 +1,14 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Cristina Ramb"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-04T10:27:07.805703Z",
+    "updateTime": "2026-10-04T10:27:07.805703Z",
+    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWmNVVnBjakpvUW5WeFluVnRkMG93TlMxalExRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Braian Alexander Silva"
     },
     "starRating": "FIVE",
@@ -204,17 +212,5 @@
       "updateTime": "2026-08-27T03:33:11.759882Z"
     },
     "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsVE1XZEJkRlptZVdGSGMzTTBZMjFvWkhoNlJuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "sergio veliz"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-08-25T03:24:41.765142Z",
-    "updateTime": "2026-08-25T03:24:41.765142Z",
-    "reviewReply": {
-      "comment": "Gracias Sergio por tu excelente opinión.!!\nEsperamos contar nuevamente con tu presencia en nuestras instalaciones!!",
-      "updateTime": "2026-08-25T11:57:23.640942Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15539995661554460615/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KVGJucFlabFZSVjFsVldsOHpNbDlKZFhrMU9HYxAB"
   }]
 }

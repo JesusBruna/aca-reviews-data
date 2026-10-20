@@ -1,11 +1,83 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Proyectos F.C Proyectos F.C"
+    },
+    "starRating": "FIVE",
+    "comment": "Hacía tiempo no me atendían tan bien en un lugar, desde la calidad del café y la comida hasta la limpieza y la dedicación de las chicas detrás del mostrador. Baños limpios como hacía tiempo no veía y los playeros un 10! Sin dudas voy a volver a elegirlos cuando vuelva a pasar por Villa María\n\n(Translated by Google)\nIt had been a long time since I\u0027d received such excellent service, from the quality of the coffee and food to the cleanliness and the dedication of the girls behind the counter. The restrooms were spotless, the cleanest I\u0027ve seen in ages, and the staff were fantastic! I\u0027ll definitely choose them again when I\u0027m back in Villa María.",
+    "createTime": "2026-10-04T17:37:02.719659Z",
+    "updateTime": "2026-10-04T17:37:02.719659Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxbmFGOVVZMFZKTTFWTlNVdzNZMmgyUVdOTWFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marina Sanchez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2018-07-28T14:57:55.822Z",
+    "updateTime": "2026-10-03T20:26:44.195110Z",
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChZDSUhNMG9nS0VJQ0FnSURndjhyeU5REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alicia Grenat"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención esta mañana fui me atendieron muy bien y mi marido carga siempre nafta  aca Excelente atención\n\n(Translated by Google)\nExcellent service this morning, I went and they treated me very well, and my husband always fills up his tank here. Excellent service.",
+    "createTime": "2026-10-03T17:47:00.249974Z",
+    "updateTime": "2026-10-03T17:47:00.249974Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por sus comentarios !! La esperamos nuevamente 🙌🏻🙌🏻",
+      "updateTime": "2026-10-03T18:11:06.231794Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xobGJtRnBOMWh5Wm1GTFQyaDVPV1l0ZERKcVdXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Silvana Gimenez"
+    },
+    "starRating": "ONE",
+    "comment": "Día 3 de Octubre de 2026 12.40 hs promoción de hamburguesas vinieron tarde y sin lo promocionado, al consultar que faltaba las verduras dicen que es a elección... De quién...estaba dentro de la promocion\n\n(Translated by Google)\nOctober 3, 2026, 12:40 PM: Hamburger promotion. They arrived late and without what was advertised. When asked about the missing vegetables, they said it was optional... Whose option was included in the promotion?",
+    "createTime": "2026-10-03T15:51:00.713056Z",
+    "updateTime": "2026-10-03T15:51:00.713056Z",
+    "reviewReply": {
+      "comment": "Agradecemos su comentario y efectivamente las hamburguesas tienen el opcional de verduras. Lamentamos que no se lo hayan comunicado al momento de la compra. Tendremos en cuenta la situación para que no se repita. Saludos cordiales.\n",
+      "updateTime": "2026-10-03T16:44:52.119887Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOTFpVbzRNRUpLWXpac01HeFZaRkZuVFRGMFkyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfredo Franck"
+    },
+    "starRating": "ONE",
+    "comment": "No pidan hamburguesa pq te tardan 3 horas en prepararlas\n\n(Translated by Google)\nDon\u0027t order a hamburger because it takes 3 hours to prepare them",
+    "createTime": "2026-10-03T15:36:53.782390Z",
+    "updateTime": "2026-10-03T15:36:53.782390Z",
+    "reviewReply": {
+      "comment": "Sr Alfredo toda la comida que se comercializa en nuestro local se\nCocina en el momento y por ello en momentos de alta demanda podemos llegar a tener demoras.\nEntendemos que cuando habla de 3 horas no lo hace en sentido literal y de igual manera le pedimos disculpas si la experiencia no fue de su agrado. \n",
+      "updateTime": "2026-10-03T16:47:18.053541Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaVozUlhlWGx1ZWkxblFVUndTMlJrY1dwTVJHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Laura Frezzi Marquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-02T23:02:51.514431Z",
+    "updateTime": "2026-10-02T23:02:51.514431Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por su calificación 🙌🏻",
+      "updateTime": "2026-10-03T18:11:22.342688Z"
+    },
+    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GQlkzWjNiRFZMZGxONVNtb3pXblJQYW5WdE0xRRAB"
+  }, {
+    "reviewer": {
       "displayName": "tito vernetti"
     },
     "starRating": "FIVE",
     "createTime": "2026-10-02T13:32:01.786662Z",
     "updateTime": "2026-10-02T13:32:01.786662Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por calificarnos 🙌🏻🙌🏻",
+      "updateTime": "2026-10-03T18:11:36.055717Z"
+    },
     "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5bVkwOVFjVmxYVkdsYVFuWmxWbUZyYjFkZlowRRAB"
   }, {
     "reviewer": {
@@ -173,80 +245,5 @@
       "updateTime": "2026-10-01T21:09:57.652612Z"
     },
     "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kTVJGUTNZVGxFUmt0WVRFOUNNbFZvZUZSblYwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Valeria Gentili"
-    },
-    "starRating": "FOUR",
-    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
-    "createTime": "2022-02-11T06:29:25.986741Z",
-    "updateTime": "2026-09-19T10:33:30.349308Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por tomarse el tiempo en calificarnos ",
-      "updateTime": "2026-10-01T21:10:10.186247Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/ChdDSUhNMG9nS0VJQ0FnSURteDk2RTFnRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "YANINA BONAVIA"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-09-19T03:10:16.760749Z",
-    "updateTime": "2026-09-19T03:10:16.760749Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Yanina",
-      "updateTime": "2026-10-01T21:10:19.384001Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnMk9YRXdXa1oyT0c1Zk5VcFJNelF4YVRKNWNrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lautaro ligios"
-    },
-    "starRating": "FIVE",
-    "comment": "Remodelada a nueva.\nBaños limpios.\n\n(Translated by Google)\nCompletely renovated.\nClean bathrooms.",
-    "createTime": "2026-09-17T01:05:07.670119Z",
-    "updateTime": "2026-09-17T01:05:07.670119Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Lautaro por calificarnos 🙌🏻",
-      "updateTime": "2026-10-01T21:10:36.875005Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taSlRta3dOWFZ2TWtOT1R6Sm9jRTR3WmpKc2RYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Victoria Bacaloni"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-09-15T23:05:07.385264Z",
-    "updateTime": "2026-09-15T23:05:07.385264Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Victoria por calificarnos ",
-      "updateTime": "2026-10-01T21:10:48.061808Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KalFraDNPRGMzYkVJNGRXbGpZVkUxYkZkS1FsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Fernanda Astrada"
-    },
-    "starRating": "FOUR",
-    "createTime": "2026-09-15T11:32:25.448339Z",
-    "updateTime": "2026-09-15T11:32:25.448339Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Fernanda por calificarnos",
-      "updateTime": "2026-10-01T21:10:59.544099Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poWFVWcHVXR0pqVlVSUFdHaEROSGREZG1aa1kzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marcelo Colombi"
-    },
-    "starRating": "FOUR",
-    "comment": "Muy lindas instalaciones\n\n(Translated by Google)\nVery nice facilities",
-    "createTime": "2026-09-09T16:18:46.944184Z",
-    "updateTime": "2026-09-09T16:18:46.944184Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por sus comentarios ",
-      "updateTime": "2026-09-09T17:43:00.711491Z"
-    },
-    "name": "accounts/109853746269412609224/locations/10933277104463478772/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKME9FdG9TVWh6TkdrMFduRXlObXhoZUVseU1uYxAB"
   }]
 }

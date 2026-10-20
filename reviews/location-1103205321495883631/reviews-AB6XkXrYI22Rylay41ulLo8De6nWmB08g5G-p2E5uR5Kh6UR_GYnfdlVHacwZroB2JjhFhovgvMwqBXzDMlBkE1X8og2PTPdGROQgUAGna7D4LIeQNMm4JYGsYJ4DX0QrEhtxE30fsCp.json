@@ -1,0 +1,177 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Abel Diaz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2017-01-19T23:45:47.553Z",
+    "updateTime": "2017-01-19T23:45:47.553Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3eW9UUExBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Puerto"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención,  playeros amables y podes pagar con tarjeta\n\n(Translated by Google)\nGood service, friendly staff, and you can pay by card.",
+    "createTime": "2017-01-19T00:48:01.381Z",
+    "updateTime": "2017-01-19T00:48:57.899Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURnZ1lMSV9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "César Mantilla"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-01-14T03:23:09.902Z",
+    "updateTime": "2017-01-14T03:23:09.902Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRMHNyeTJRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gustavo Noriega"
+    },
+    "starRating": "THREE",
+    "comment": "Sólo desayuné ahí. La atención fue amable\n\n(Translated by Google)\nI only had breakfast there. The service was friendly.",
+    "createTime": "2017-01-13T00:45:19.425Z",
+    "updateTime": "2017-01-13T08:15:18.461Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURBNmVuZGpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sonia Velazquez"
+    },
+    "starRating": "THREE",
+    "comment": "Limpio hermosa vistas\n\n(Translated by Google)\nClean, beautiful views",
+    "createTime": "2017-01-05T17:13:04.097Z",
+    "updateTime": "2017-01-05T17:15:31.066Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURndUppUktnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Javier Navajas"
+    },
+    "starRating": "TWO",
+    "comment": "Cerrado de noche para comprar\n\n(Translated by Google)\nClosed at night for shopping",
+    "createTime": "2017-01-05T15:49:58.124Z",
+    "updateTime": "2017-01-05T15:50:26.861Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURneHFiOTh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Omar Walter Fuentes"
+    },
+    "starRating": "TWO",
+    "comment": "No es bueno el servicio para ser automóvil club ! Muy chico zona de cafetería ...\n\n(Translated by Google)\nThe service is not good for an automobile club! The cafe area is very small...",
+    "createTime": "2017-01-04T09:29:02.340Z",
+    "updateTime": "2017-01-04T09:30:59.159Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBZzVhRlVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "MAP 78"
+    },
+    "starRating": "FOUR",
+    "createTime": "2017-01-03T09:56:58.225Z",
+    "updateTime": "2017-01-03T09:56:58.225Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURnbTZLU25nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Charly Moraña"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-12-24T21:45:33.367Z",
+    "updateTime": "2016-12-24T21:45:33.367Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURRamJuQmNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "edgardo crespo"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención, muy buena\n\n(Translated by Google)\nThe service was very good.",
+    "createTime": "2016-12-22T16:07:45.744Z",
+    "updateTime": "2016-12-22T16:08:13.979Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURnd0luN0ZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pamela Morsentti"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-12-20T18:55:03.140Z",
+    "updateTime": "2016-12-20T18:55:03.140Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURRMTdpSWdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Stur Leonardo Luis"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-12-19T04:54:14.434Z",
+    "updateTime": "2016-12-19T04:54:14.434Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnc3BUUVd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cristhian Emanuel Sandoval"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-12-10T17:47:50.950Z",
+    "updateTime": "2016-12-10T17:47:56.270Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURnN2ZIWDNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Santillan"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-12-02T16:15:28.368Z",
+    "updateTime": "2016-12-02T16:15:28.368Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSUNnb0lUMml3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Heber Lopez"
+    },
+    "starRating": "THREE",
+    "createTime": "2016-11-15T15:24:45.276Z",
+    "updateTime": "2016-11-15T15:24:49.497Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNndXYtdkhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lotes Obera"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2016-11-08T20:24:13.851Z",
+    "updateTime": "2016-11-08T20:24:19.167Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURRbGF6dVRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fabian Ariel Garcia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2016-11-08T17:22:09.406Z",
+    "updateTime": "2016-11-08T17:22:09.406Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRbmJIYVNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Calvetti"
+    },
+    "starRating": "TWO",
+    "comment": "Estación de servicios\n\n(Translated by Google)\nService station",
+    "createTime": "2016-02-29T15:56:46.252Z",
+    "updateTime": "2016-10-30T21:20:55.486Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChdDSUhNMG9nS0VJQ0FnSURBMUl1TXd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Ariel G"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2016-10-17T13:27:14.784Z",
+    "updateTime": "2016-10-17T13:27:34.530Z",
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSURnNzhlMlpREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nora Busetta"
+    },
+    "starRating": "FIVE",
+    "comment": "Lugar sumamente relajante y con una cordial atención.\n\n(Translated by Google)\nA very relaxing place with friendly service.",
+    "createTime": "2016-09-27T12:48:19.345Z",
+    "updateTime": "2016-09-27T12:52:31.019Z",
+    "reviewReply": {
+      "comment": "Muchas gracias! Trabajamos constantemente para brindarles el mejor servicio. Saludos!",
+      "updateTime": "2023-01-09T12:39:55.175137Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1103205321495883631/reviews/ChZDSUhNMG9nS0VJQ0FnSUNBd3VLMEtnEAE"
+  }]
+}

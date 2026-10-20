@@ -1,6 +1,32 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Adolfo Joulia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-05T11:04:06.961511Z",
+    "updateTime": "2026-10-05T11:04:06.961511Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KZk1XeEROVzFQWVc1dWFUZzBUbmc1YVd4VVJFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Valeria Muratore"
+    },
+    "starRating": "FIVE",
+    "comment": "Octubre 2026 estan reparando la YPF full el sector cafeteria, tienen un carrito afuera con comidas bebidas y kiosko.\nCalifico el hospedaje, son unos tipo dormis tiene todo lo necesario para pasar una buena noche de descanso y seguir viaje, ducha, las camas bien, tiene un espacio verde para tomar mate o que los chicos corran un rato.\nSiendo del ACA pagamos la hab triple 86mil, considero muy buen precio.\n\n(Translated by Google)\nAs of October 2026, the YPF station is undergoing extensive renovations, particularly the cafeteria area. They have a food cart outside with drinks and a kiosk.\nI\u0027d rate the accommodations; they\u0027re like dormitories, but they have everything you need for a good night\u0027s rest before continuing your trip: a shower, comfortable beds, and a green space for drinking mate or letting the kids run around.\nBeing members of the ACA (Automobile Club of Argentina), we paid 86,000 pesos for a triple room, which I consider a very good price.",
+    "createTime": "2026-10-04T08:25:09.970149Z",
+    "updateTime": "2026-10-04T08:25:09.970149Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWSmVGZGpWWGcxUTNaV1FWbFpNbXBITVRWUllVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Heriberto Miguel Demicheli"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención de Cecilia\n\n(Translated by Google)\nCecilia provided excellent service.",
+    "createTime": "2026-10-04T01:01:36.827898Z",
+    "updateTime": "2026-10-04T01:01:36.827898Z",
+    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxRVFVUmlMVXBWUzFabU1rdDBXVXRFUlZORFdrRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Cristian Purgardt"
     },
     "starRating": "FIVE",
@@ -206,42 +232,5 @@
       "updateTime": "2026-09-06T13:22:50.488601Z"
     },
     "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WVGQyZ3pjSGQwYmpKWVpISjROamcwVTBaSWFGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Raul Hernando"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-09-04T01:56:23.348543Z",
-    "updateTime": "2026-09-04T01:56:23.348543Z",
-    "reviewReply": {
-      "comment": "Gracias Raul por tu reseña, nos pone muy contentos leerla. En CALEU CALEU — Estación y Motel buscamos justamente eso, que cada visita sea una buena experiencia. Vamos a compartirlo con el equipo. ¡Hasta la próxima!",
-      "updateTime": "2026-09-04T19:24:01.396599Z"
-    },
-    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSSGEzTlphbXBTTmxCaVlUSm5ZV2s1V0hoSmFGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Roberto Cifarelli"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-09-03T01:04:04.378711Z",
-    "updateTime": "2026-09-03T01:04:04.378711Z",
-    "reviewReply": {
-      "comment": "Gracias Roberto por tu reseña, nos pone muy contentos leerla. En CALEU CALEU — Estación y Motel buscamos justamente eso, que cada visita sea una buena experiencia. Vamos a compartirlo con el equipo. ¡Hasta la próxima!",
-      "updateTime": "2026-09-03T19:22:57.453047Z"
-    },
-    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KS2QybE5PR3R5YjFaeFgxTjRTMjgwUmxaQlZsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gabriela Tacull"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención y predisposición de Cecilia .  Me guío y ayudo en todo.\nGracias\n\n(Translated by Google)\nCecilia provided excellent service and was very helpful. She guided and assisted me throughout the process.\n\nThank you",
-    "createTime": "2026-08-31T22:26:14.520519Z",
-    "updateTime": "2026-08-31T22:26:14.520519Z",
-    "reviewReply": {
-      "comment": "Gracias Gabriela por tu reseña, nos pone muy contentos leerla. En CALEU CALEU — Estación y Motel buscamos justamente eso, que cada visita sea una buena experiencia. Vamos a compartirlo con el equipo. ¡Hasta la próxima!",
-      "updateTime": "2026-09-01T18:40:44.105993Z"
-    },
-    "name": "accounts/109853746269412609224/locations/1988985900989530919/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRNFRrNDVhazFwUzBWSFQyUTFURFJSTXpkWE0zYxAB"
   }]
 }

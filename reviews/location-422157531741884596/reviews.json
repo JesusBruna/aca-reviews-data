@@ -1,6 +1,49 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Daniel Osvaldo Naredo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-04T22:08:22.821308Z",
+    "updateTime": "2026-10-04T22:08:22.821308Z",
+    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOMlNtTlVjbU0yYjBWTFlWSkthamM0VDFoWlYzYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "el canal de viole"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención del personal los servicios excelente.\n\n(Translated by Google)\nGood attention from the staff, excellent services.",
+    "createTime": "2026-10-04T19:09:07.319693Z",
+    "updateTime": "2026-10-04T19:09:07.319693Z",
+    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ablpGSTNkbmt3VFZKNk5VcFhkakpRTFVOYWVVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "DarkBlade"
+    },
+    "starRating": "ONE",
+    "comment": "Dan asco. Todos los sabados en la madrugada (5 AM), cargo nafta y siempre lo mismo. 1 solo playero para mas de 10 autos con solo 2 surtidores habilitados. Lo que deberia ser una maniobra rapida, se transforma en terapia de paciencia, mas de 20 minutos de espera. Pienso que, deberian tener 2 playeros o bien, habilitar auto surtidores. Hay que comenzar a pensar un poco mas en el cliente y el servicio me parece.\n\n(Translated by Google)\nThey\u0027re disgusting. Every Saturday at 5 AM, I fill up my tank and it\u0027s always the same. Just one attendant for more than 10 cars with only two pumps working. What should be a quick process turns into a test of patience, with waits of over 20 minutes. I think they should have two attendants or at least enable drive-through pumps. They need to start thinking a little more about the customer and the service, it seems to me.",
+    "createTime": "2026-10-03T08:25:39.016884Z",
+    "updateTime": "2026-10-03T10:18:34.046029Z",
+    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sYU1UbEVTRnBLTjBSU01tWldjbmhDUm1sNWVXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "José Franco"
+    },
+    "starRating": "THREE",
+    "createTime": "2026-10-02T22:07:03.639548Z",
+    "updateTime": "2026-10-02T22:07:03.639548Z",
+    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT205SE5uaDRPRVJHWnpOU01sbFZlRTVKWW5KbFVuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "A. Horacio Almoño"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención, como siempre  espectacular...especialmente Walter...soy socio vitalicio del ACA...\n\n(Translated by Google)\nThe service, as always, was spectacular...especially Walter...I\u0027m a lifetime member of the ACA...",
+    "createTime": "2026-10-02T14:44:20.240966Z",
+    "updateTime": "2026-10-02T14:44:20.240966Z",
+    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4amVYbGhUMUprY0d0bkxYRTBkalk0Y0RSaFlrRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Vasco Erramuspe"
     },
     "starRating": "FIVE",
@@ -188,70 +231,5 @@
       "updateTime": "2026-09-30T15:33:11.097932Z"
     },
     "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Jek9GSnpObmRSVW1GS1R6RXRNME5EYVROQloyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Carina Cepellotti"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy amable y servicial.\n\n(Translated by Google)\nVery kind and helpful.",
-    "createTime": "2026-09-24T21:48:08.695827Z",
-    "updateTime": "2026-09-24T21:48:08.695827Z",
-    "reviewReply": {
-      "comment": "Hola Carina, agradecemos tu valoración y el tiempo que te tomaste para tal fin, es muy importante para nosotros.\nRecordá que podes seguirnos en Instagram para enterarte de todos los beneficios y promociones que tenemos para vos.\n\nsaludos \nEquipo ACA BARRACAS",
-      "updateTime": "2026-09-30T15:31:31.552174Z"
-    },
-    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxV01uSlFlbXQwWlRkZmVETlZlakI1ZGxvNVlXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jessica Gonzalez"
-    },
-    "starRating": "FIVE",
-    "comment": "Los chicos unos genios todos 👌\n\n(Translated by Google)\nThe boys are all geniuses 👌",
-    "createTime": "2026-09-24T21:32:56.576530Z",
-    "updateTime": "2026-09-24T21:32:56.576530Z",
-    "reviewReply": {
-      "comment": "Hola Jessica, agradecemos tu valoración y el tiempo que te tomaste para tal fin, es muy importante para nosotros.\nRecordá que podes seguirnos en Instagram para enterarte de todos los beneficios y promociones que tenemos para vos.\n\nsaludos \nEquipo ACA BARRACAS",
-      "updateTime": "2026-09-30T15:31:22.847105Z"
-    },
-    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT214c1pEVlJWV1JWUXpkNWRucFRaRWhSZGxBMmFsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Rober Serrano"
-    },
-    "starRating": "FIVE",
-    "comment": "Me atendió Walter muy buena atención\n\n(Translated by Google)\nWalter served me very well.",
-    "createTime": "2026-09-24T21:23:30.401120Z",
-    "updateTime": "2026-09-24T21:23:30.401120Z",
-    "reviewReply": {
-      "comment": "Hola Rober, agradecemos tu valoración y el tiempo que te tomaste para tal fin, es muy importante para nosotros.\nRecordá que podes seguirnos en Instagram para enterarte de todos los beneficios y promociones que tenemos para vos.\n\nsaludos \nEquipo ACA BARRACAS",
-      "updateTime": "2026-09-30T15:31:06.775993Z"
-    },
-    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT205NmJuTlRSbmMwVDFjNFZGOVVRak5vWDNFemNWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "marina rivero"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención de Walter ,amable y cordial. Un placer.\n\n(Translated by Google)\nWalter provided excellent service; he was kind and friendly. A pleasure.",
-    "createTime": "2026-09-24T21:18:25.719035Z",
-    "updateTime": "2026-09-24T21:18:25.719035Z",
-    "reviewReply": {
-      "comment": "Hola Marina, agradecemos tu valoración y el tiempo que te tomaste para tal fin, es muy importante para nosotros.\nRecordá que podes seguirnos en Instagram para enterarte de todos los beneficios y promociones que tenemos para vos.\n\nsaludos \nEquipo ACA BARRACAS",
-      "updateTime": "2026-09-30T15:30:40.735191Z"
-    },
-    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oaGJrSjNaMjFUUzFWS09XMURRa0l0VWxwZlMyYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gabriela Caffaro"
-    },
-    "starRating": "FIVE",
-    "comment": "Super atento Walter, no dejo servicio por ofrecer, asi da gusto!\n\n(Translated by Google)\nWalter was incredibly attentive, he didn\u0027t miss a single opportunity to help, it\u0027s a pleasure!",
-    "createTime": "2026-09-24T20:59:03.382937Z",
-    "updateTime": "2026-09-24T20:59:03.382937Z",
-    "reviewReply": {
-      "comment": "Hola Gabriela, agradecemos tu valoración y el tiempo que te tomaste para tal fin, es muy importante para nosotros.\nRecordá que podes seguirnos en Instagram para enterarte de todos los beneficios y promociones que tenemos para vos.\n\nsaludos \nEquipo ACA BARRACAS",
-      "updateTime": "2026-09-30T15:28:37.054135Z"
-    },
-    "name": "accounts/109853746269412609224/locations/422157531741884596/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKT2VFeHFWVjlZVTNoQ2ExQnVNMlJvYlRscVMxRRAB"
   }]
 }

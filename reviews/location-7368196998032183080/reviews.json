@@ -1,12 +1,34 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Faviana Pozobon"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atencion  y excelente la amabilidad del playero Dante .\n\n(Translated by Google)\nVery good service and excellent friendliness from the beach attendant Dante.",
+    "createTime": "2026-10-04T22:15:52.092058Z",
+    "updateTime": "2026-10-04T22:15:52.092058Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toM1NXTktPRGgyWm1WaGJXMTFNRlF6WlZwVmNrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Restauracion Central"
+    },
+    "starRating": "FIVE",
+    "comment": "muy buena\n\n(Translated by Google)\nvery good",
+    "createTime": "2026-10-03T12:51:32.132339Z",
+    "updateTime": "2026-10-03T12:51:32.132339Z",
+    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSeFkyUTRTVU5PTlRONllWWnhWbUUxUmpKNlZuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Gloria Villasanti"
     },
     "starRating": "FIVE",
     "comment": "Fui atendida por Dante y un 10 su atención !!\n\n(Translated by Google)\nI was helped by Dante and his service was a 10/10!!",
     "createTime": "2026-10-01T22:40:57.882363Z",
     "updateTime": "2026-10-01T22:40:57.882363Z",
+    "reviewReply": {
+      "comment": "Estimada Gloria, muchas gracias por tu comentario. Qué bueno que la atención de Dante haya sido un 10!",
+      "updateTime": "2026-10-02T20:35:40.081401Z"
+    },
     "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKemQyVTJYMHR2UkZsWU1VeFRjMUJrTWpGRVIzYxAB"
   }, {
     "reviewer": {
@@ -16,6 +38,10 @@
     "comment": "Siempre me atiende re bien!  Muy amables todos en dante y demás compañeros\n\n(Translated by Google)\nHe always treats me really well! Everyone at Dante and the rest of the team is very kind.",
     "createTime": "2026-09-30T17:42:22.731072Z",
     "updateTime": "2026-09-30T17:42:22.731072Z",
+    "reviewReply": {
+      "comment": "Estimada Marianne, gracias por compartir tu experiencia. Qué lindo saber que siempre recibís una atención amable, tanto de Dante como del resto de nuestro equipo.",
+      "updateTime": "2026-10-02T20:37:39.624764Z"
+    },
     "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRMFdTMDBSbUpuUkRadWVuVnhPSFEzWTBveGVFRRAB"
   }, {
     "reviewer": {
@@ -25,6 +51,10 @@
     "comment": "Excelente atención. Dante, un genio! 10 puntos el servicio.\n\n(Translated by Google)\nExcellent service. Dante is a genius! 10 out of 10 for service.",
     "createTime": "2026-09-30T16:52:41.497670Z",
     "updateTime": "2026-09-30T16:52:41.497670Z",
+    "reviewReply": {
+      "comment": "Estimado Juan, muchas gracias por tu valoración. Nos da mucha alegría que destaques la atención de Dante y el servicio recibido.",
+      "updateTime": "2026-10-02T20:41:49.692174Z"
+    },
     "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sVVZHdEpNVzlpT0Zod2VuZ3RNbnBCWkdKbFgxRRAB"
   }, {
     "reviewer": {
@@ -220,31 +250,5 @@
       "updateTime": "2026-09-28T15:56:06.070413Z"
     },
     "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5eWVVNVpjM0U1Y0UxVmQzWTFNM3A0WW5reldHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "María Bartoluzzi"
-    },
-    "starRating": "FIVE",
-    "comment": "Buenas tardes.muy buena la atencion me encanto la amabilidad de Dante.es muy atento.\n\n(Translated by Google)\nGood afternoon. The service was excellent; I loved Dante\u0027s kindness. He is very attentive.",
-    "createTime": "2026-09-27T15:49:44.246795Z",
-    "updateTime": "2026-09-27T15:49:44.246795Z",
-    "reviewReply": {
-      "comment": "Estimada María, muchas gracias por tus palabras. Qué lindo que hayas destacado la amabilidad y atención de Dante. Gracias por compartir tu experiencia con nosotros!",
-      "updateTime": "2026-09-28T15:57:56.166628Z"
-    },
-    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCTldUTTJOalJHTUZKeWJUbFJaSFJ4UWsxSVVXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Verónica García"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención,muy amables los chicos que atienden en especial los playeros Florencia,Dante, Leonardo y Joel.\n\n(Translated by Google)\nExcellent service, the staff are very friendly, especially the beach attendants Florencia, Dante, Leonardo and Joel.",
-    "createTime": "2026-09-26T20:42:50.108389Z",
-    "updateTime": "2026-09-26T20:42:50.108389Z",
-    "reviewReply": {
-      "comment": "Estimada Verónica,  muchas gracias por reconocer el trabajo de nuestro equipo. Se los vamos a transmitir!",
-      "updateTime": "2026-09-28T16:01:45.814684Z"
-    },
-    "name": "accounts/109853746269412609224/locations/7368196998032183080/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkeldGRlFjSEJyVVhWWU1UbFJVbFl0YldWdGVGRRAB"
   }]
 }

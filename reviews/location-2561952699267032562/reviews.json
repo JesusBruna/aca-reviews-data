@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Ana Belén"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor YPF de todas, te atienden bien siempre, aunque esté siempre llena. Buen servicio, quizás xq son del ACA\n\n(Translated by Google)\nThe best YPF station of all; they always treat you well, even when it\u0027s always packed. Good service, maybe because they\u0027re affiliated with the ACA (Automobile Club of Argentina).",
+    "createTime": "2026-10-03T13:35:43.400246Z",
+    "updateTime": "2026-10-03T13:35:43.400246Z",
+    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCV1lqTjRVVzgwVkZkME1XeDRRalJ5ZDNOUFRYYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Liliana Lucci"
     },
     "starRating": "ONE",
@@ -237,18 +246,5 @@
       "updateTime": "2026-08-26T18:01:16.239465Z"
     },
     "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOcU1WSkxjbUpuV0UwMlh6aERYMWhGTFdRM1pIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Gerardo Delgado"
-    },
-    "starRating": "ONE",
-    "comment": "En la carta un precio, en la caja otro, no se hacen responsables de esas diferencias, y además la atención de los chicos en la caja pésima! Muy mala experiencia!!!! 👎🏻\n\n(Translated by Google)\nThe menu has one price, the register another, and they refuse to take responsibility for the discrepancies. Plus, the service at the register was terrible! A very bad experience!!!! 👎🏻",
-    "createTime": "2026-08-08T17:03:30.241305Z",
-    "updateTime": "2026-08-08T17:03:30.241305Z",
-    "reviewReply": {
-      "comment": "Lamentamos que haya tenido una mala experiencia. De todos modos, queremos aclarar que en nuestra estación no contamos con una carta de precios como en un restaurante. Al tratarse de una estación de servicio, los precios de los productos se encuentran exhibidos en las pantallas del sistema de venta al momento de realizar el pedido.\n\nPor este motivo, es posible que se haya producido una confusión con otro comercio. De todas maneras, si la situación ocurrió en nuestra estación, agradeceríamos que nos brinde más detalles para poder revisarla internamente.",
-      "updateTime": "2026-08-11T18:06:47.032484Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2561952699267032562/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVd2VFTlJhMEpXYkVsdFFuVmtZMFJhZW1JMlIxRRAB"
   }]
 }

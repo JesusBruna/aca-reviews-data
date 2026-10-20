@@ -1,0 +1,180 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Martín Burgos"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio. Lugar para descansar luego de muchas horas de manejo.\n\n(Translated by Google)\nGood service. A place to rest after many hours of driving.",
+    "createTime": "2024-01-26T12:11:31.933440Z",
+    "updateTime": "2024-01-26T12:11:31.933440Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROdV83aFdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "José Federico Cortés"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención.\nEl personal muy atento a las solicitudes del cliente.\nTuve que hacer fila para cargar combustible.\nMuy recomendable\n\n(Translated by Google)\nExcellent service.\nThe staff was very attentive to customer requests.\nI had to wait in line to get fuel.\nHighly recommended.",
+    "createTime": "2024-01-25T14:49:46.437254Z",
+    "updateTime": "2024-01-25T14:49:46.437254Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChdDSUhNMG9nS0VJQ0FnSURObzh2WjJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "hugo gomez"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-01-24T23:25:01.863390Z",
+    "updateTime": "2024-01-24T23:25:01.863390Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROcmIybmJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Pereira"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-01-23T11:53:49.691482Z",
+    "updateTime": "2024-01-23T11:53:49.691482Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROc2Z1M01nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Cesar Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2024-01-23T00:15:58.004794Z",
+    "updateTime": "2024-01-23T00:15:58.004794Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChdDSUhNMG9nS0VJQ0FnSUROZ2Y2b2pBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Chávez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-22T23:56:18.843886Z",
+    "updateTime": "2024-01-22T23:56:18.843886Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROZ2VxZ0ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alexandra Kloster"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-01-22T22:08:55.632400Z",
+    "updateTime": "2024-01-22T22:08:55.632400Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROX3FiOUt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "marcelo abraham"
+    },
+    "starRating": "ONE",
+    "comment": "Pésima atención. No hay wifi. No hay comida si paras a comer. Solo a los q se hospedan.\n\n(Translated by Google)\nTerrible service. No Wi-Fi. No food if you stop to eat. Only for hotel guests.",
+    "createTime": "2024-01-22T21:34:09.480524Z",
+    "updateTime": "2024-01-22T21:34:09.480524Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROX3VDaEdBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "rudy bonilla"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-01-26T18:44:08.302698Z",
+    "updateTime": "2024-01-22T12:30:01.016362Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdllIWEdREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Esteban Palaszczuk"
+    },
+    "starRating": "TWO",
+    "comment": "Los baños estaban inutilizables de tan sucios.\n\n(Translated by Google)\nThe bathrooms were unusable because they were so dirty.",
+    "createTime": "2024-01-10T17:14:57.962849Z",
+    "updateTime": "2024-01-22T02:36:32.663815Z",
+    "reviewReply": {
+      "comment": "gracias por su opinión nos ayuda a seguir mejorando!\nsaludos.-",
+      "updateTime": "2024-01-11T14:23:13.964151Z"
+    },
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChdDSUhNMG9nS0VJQ0FnSUQxeDVtM2hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "MiniMarket CentellaOnline"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente\n\n(Translated by Google)\nExcellent",
+    "createTime": "2024-01-22T02:04:26.844188Z",
+    "updateTime": "2024-01-22T02:04:26.844188Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChdDSUhNMG9nS0VJQ0FnSUROeHZTUjlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Norberto Ricardo Kelm"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-21T23:17:07.519997Z",
+    "updateTime": "2024-01-21T23:17:07.519997Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROLXU2UVZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alfred Rod"
+    },
+    "starRating": "FIVE",
+    "comment": "Calidad 👍\n\n(Translated by Google)\nQuality 👍",
+    "createTime": "2024-01-21T20:57:44.553322Z",
+    "updateTime": "2024-01-21T20:57:44.553322Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROMnZQUkJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "cristian mambrin"
+    },
+    "starRating": "FIVE",
+    "comment": "Buen lugar para hacer un descanso y llenar el tanque para seguir viaje.\n\n(Translated by Google)\nGood place to take a break and fill up the tank to continue the journey.",
+    "createTime": "2024-01-21T12:10:50.614689Z",
+    "updateTime": "2024-01-21T12:10:50.614689Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROaXR6a0F3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano Guzmán"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-01-21T12:07:08.897812Z",
+    "updateTime": "2024-01-21T12:07:08.897812Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROaW95SklBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Nimia Melany Gonzalez Rivas"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2024-01-20T16:38:40.347954Z",
+    "updateTime": "2024-01-20T16:38:40.347954Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROdU1IdUZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "mariela gil"
+    },
+    "starRating": "THREE",
+    "createTime": "2024-01-20T09:03:55.057822Z",
+    "updateTime": "2024-01-20T09:03:55.057822Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUROcU9pVlB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo LUCENA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2024-01-19T01:12:31.140571Z",
+    "updateTime": "2024-01-19T01:12:31.140571Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOajg3MGVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Ozuna"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2024-01-16T19:41:56.530650Z",
+    "updateTime": "2024-01-16T19:41:56.530650Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOellfUFlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Nazareno Chirino"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención me gustó poder cambiar allí reales y que estaba cerca de la frontera\n\n(Translated by Google)\nGood service, I liked being able to exchange reais there and that it was close to the border",
+    "createTime": "2024-01-15T01:40:48.779782Z",
+    "updateTime": "2024-01-15T01:40:48.779782Z",
+    "name": "accounts/109853746269412609224/locations/9304894923443142675/reviews/ChZDSUhNMG9nS0VJQ0FnSUNOZ2VDNmZnEAE"
+  }]
+}

@@ -1,0 +1,182 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Silvio Vignolo"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-24T19:22:43.595398Z",
+    "updateTime": "2023-10-24T19:22:43.595398Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1bm9XVk5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pablo Jimenez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-10-23T04:13:34.208262Z",
+    "updateTime": "2023-10-23T04:13:34.208262Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1bXFIXy1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Canalis"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bueno\n\n(Translated by Google)\nVery good",
+    "createTime": "2023-10-20T16:28:38.562027Z",
+    "updateTime": "2023-10-20T16:28:38.562027Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1bktYR1hnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Gabriel Chauderlot"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-18T11:05:24.565257Z",
+    "updateTime": "2023-10-18T11:05:24.565257Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ1d0xEMFV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "ANA MARIA GARCIA"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente los sanitarios!!! La atención muy buena 👌\n\n(Translated by Google)\nExcellent restrooms!!! Very good service 👌",
+    "createTime": "2023-10-17T20:52:51.270649Z",
+    "updateTime": "2023-10-17T20:52:51.270649Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1dDVQNzd3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "juanes berni"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-10-08T03:39:34.625852Z",
+    "updateTime": "2023-10-08T03:39:34.625852Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURabS1hMjRBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcelo Mansilla"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-10-06T03:06:00.947402Z",
+    "updateTime": "2023-10-06T03:06:00.947402Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURaallqY293RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ruben Lusa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-09-29T21:00:40.172406Z",
+    "updateTime": "2023-09-29T21:00:40.172406Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURaeHNlS093EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Pedro Maranges Balma"
+    },
+    "starRating": "FOUR",
+    "comment": "Parada obligada en busca de una buena atencion\n\n(Translated by Google)\nA must-stop for those seeking excellent service.",
+    "createTime": "2023-09-20T18:09:11.335095Z",
+    "updateTime": "2023-09-20T18:09:11.335095Z",
+    "reviewReply": {
+      "comment": "Gracias, su comentario nos ayuda a crecer, lo esperamos nuevamente!",
+      "updateTime": "2023-10-11T21:34:41.337545Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaejZiOGV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Miranda"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-09-06T16:25:27.374006Z",
+    "updateTime": "2023-09-06T16:25:27.374006Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaX0pQZHpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Rebori"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-09-06T00:47:54.290667Z",
+    "updateTime": "2023-09-06T00:47:54.290667Z",
+    "reviewReply": {
+      "comment": "Muchas gracias, nos impulsa a crecer, lo esperamos de nuevo!",
+      "updateTime": "2023-10-11T21:35:16.891600Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaN0xtLUhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "hernan guanco"
+    },
+    "starRating": "THREE",
+    "comment": "Buen trato y servicio\n\n(Translated by Google)\nGood treatment and service",
+    "createTime": "2023-08-30T17:46:02.054851Z",
+    "updateTime": "2023-08-30T17:46:02.054851Z",
+    "reviewReply": {
+      "comment": "Gracias por comentar! nos ayuda a mejorar, lo esperamos de nuevo!",
+      "updateTime": "2023-10-11T21:35:46.644821Z"
+    },
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSURwNThPSHFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariano Simss"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-28T11:16:09.690930Z",
+    "updateTime": "2023-08-28T11:16:09.690930Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURwNDdfVWZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Zulma Argañaraz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-22T03:34:09.560743Z",
+    "updateTime": "2023-08-22T03:34:09.560743Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSURwanMtd0ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Diego Compagnucci"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-13T11:24:42.778986Z",
+    "updateTime": "2023-08-13T11:24:42.778986Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwMy16b3R3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "luis Español"
+    },
+    "starRating": "FIVE",
+    "comment": "Además de combustible ricos sándwiches\n\n(Translated by Google)\nIn addition to fuel, delicious sandwiches",
+    "createTime": "2023-08-07T14:58:00.948219Z",
+    "updateTime": "2023-08-07T14:58:19.535041Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwbGV5M0VnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Denis Morales"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-08-07T13:22:59.180933Z",
+    "updateTime": "2023-08-07T13:22:59.180933Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwNVptUERREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pablo Zanlungo"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-08-06T02:05:17.619448Z",
+    "updateTime": "2023-08-06T02:05:17.619448Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwaWZlZEV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Wagner"
+    },
+    "starRating": "FIVE",
+    "comment": "Esta estación posee carga para gnc?\n\n(Translated by Google)\nDoes this station have CNG refueling?",
+    "createTime": "2023-08-03T12:03:32.572107Z",
+    "updateTime": "2023-08-03T12:03:32.572107Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwdHVhcHNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Zamudio"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-07-31T23:47:05.813891Z",
+    "updateTime": "2023-07-31T23:47:05.813891Z",
+    "name": "accounts/109853746269412609224/locations/3918729990868918457/reviews/ChdDSUhNMG9nS0VJQ0FnSUNwMG9PTnh3RRAB"
+  }]
+}

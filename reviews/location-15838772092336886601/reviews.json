@@ -1,6 +1,14 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Renzo Gamer"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-10-04T12:46:02.456049Z",
+    "updateTime": "2026-10-04T12:46:02.456049Z",
+    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkVlNIcDFZMTl5ZVc5WVNIZGxVRTl6VGpWUE0yYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Hector Vergara Olivera"
     },
     "starRating": "FOUR",
@@ -165,18 +173,5 @@
     "createTime": "2026-07-28T12:52:10.846269Z",
     "updateTime": "2026-07-28T12:52:10.846269Z",
     "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5S1ZuRnpNWGhGT0dORFZFTmhTbGhZYW5Kd2EwRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Marina Parma"
-    },
-    "starRating": "ONE",
-    "comment": "Playeros prepotentes, tratan mal y estafan ofreciendo un servicio que luego no funciona y no devuelven el dinero ni se hacen cargo, exponiendo al viajero a un accidente en una ruta que no tiene muchas opciones de estaciones de servicio. Terribles desgraciados!!!!\n\n(Translated by Google)\nArrogant gas station attendants treat passengers badly and scam them by offering a service that doesn\u0027t work and then refuse to refund money or take responsibility, putting travelers at risk of accidents on a route with few gas station options. Terrible scoundrels!",
-    "createTime": "2026-07-26T06:22:31.084338Z",
-    "updateTime": "2026-07-26T06:22:31.084338Z",
-    "reviewReply": {
-      "comment": "Hola Marina, lamento mucho  el mal momento que has pasado en nuestra estación,si tienes posibilidades de escribirme por WhatsApp y comentarme\nLo ocurrido, te lo agradeceré, para poder corregir nuestro error. Te paso\nMi número 3804374675. Alejandra",
-      "updateTime": "2026-07-27T19:19:43.380227Z"
-    },
-    "name": "accounts/109853746269412609224/locations/15838772092336886601/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSRmNEVkJWM1E0U1hSSk9WODNUV3RTWWpsNVVWRRAB"
   }]
 }

@@ -1,0 +1,174 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Alberto Mignola"
+    },
+    "starRating": "THREE",
+    "comment": "No es un buen lugar para desayunar\n\n(Translated by Google)\nIt\u0027s not a good place for breakfast.",
+    "createTime": "2023-02-05T20:25:02.086169Z",
+    "updateTime": "2023-02-05T20:25:02.086169Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoNVBEVFBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria Isabel Benz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-04T18:34:22.051621Z",
+    "updateTime": "2023-02-04T18:34:22.051621Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoMkxPSTJ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriana Balocchi"
+    },
+    "starRating": "FOUR",
+    "comment": "Muy buena atencion\n\n(Translated by Google)\nVery good service",
+    "createTime": "2023-02-04T13:44:37.272848Z",
+    "updateTime": "2023-02-04T13:44:37.272848Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSUNobU5hRzRnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Graciela González"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena\n\n(Translated by Google)\nGood",
+    "createTime": "2023-02-01T21:51:07.690302Z",
+    "updateTime": "2023-02-01T21:51:07.690302Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCXzZTeFhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Clau Bitz"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
+    "createTime": "2023-01-30T20:30:11.776321Z",
+    "updateTime": "2023-01-30T20:30:11.776321Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCNTZmVFl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "sebastian amaya"
+    },
+    "starRating": "THREE",
+    "comment": "Lentos , siempre...\n\n(Translated by Google)\nSlow, always...",
+    "createTime": "2023-01-30T16:59:57.257003Z",
+    "updateTime": "2023-01-30T16:59:57.257003Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcDdfOVVREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mónica Paturlanne"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-30T16:53:20.090418Z",
+    "updateTime": "2023-01-30T16:53:20.090418Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcDZfOVB3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ana Vallejos"
+    },
+    "starRating": "FOUR",
+    "comment": "Exelente servicio es mi parador\n\n(Translated by Google)\nExcellent service at my favorite rest stop",
+    "createTime": "2023-01-28T17:27:30.005513Z",
+    "updateTime": "2023-01-28T17:27:30.005513Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCaTZPRExREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Daniel Rodriguez"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención, todos los medios de pago.\n\n(Translated by Google)\nGood service, all payment methods accepted.",
+    "createTime": "2023-01-28T12:14:05.220652Z",
+    "updateTime": "2023-01-28T12:14:05.220652Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCODZhR2FBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Monica Lezcano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-28T02:31:36.826949Z",
+    "updateTime": "2023-01-28T02:31:36.826949Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSURCMC1HbHFnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "María Soledad de la Rosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Como siempre, el ACA es confiable. Sólo utilicé el bar y los baños. Estaba cortada la autopista Carlos Paz - Córdoba y allí supieron indicarme cómo tomar la colectora para ir hacia Córdoba Capital. Podrían arreglar las canillas de los baños, ya que sale agua a borbotones de las canillas y hay emergencia hídrica. Deberían cuidar ese detalle. Pero soy social del ACA por algo: garantía de calidad.\n\n(Translated by Google)\nAs always, the ACA is reliable. I only used the bar and restrooms. The Carlos Paz-Córdoba highway was closed, and they were able to direct me to the service road to get to Córdoba City. They could fix the bathroom faucets, as water is gushing out and there\u0027s a water shortage. They should take care of that. But I\u0027m a member of the ACA for a reason: a guarantee of quality.",
+    "createTime": "2023-01-28T01:28:46.021309Z",
+    "updateTime": "2023-01-28T01:28:46.021309Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMDlxdFlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "César"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-26T23:36:48.556956Z",
+    "updateTime": "2023-01-26T23:36:48.556956Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCX2ZuVEtREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Silvia Fernandez"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención.\n\n(Translated by Google)\nGood service.",
+    "createTime": "2023-01-26T21:18:04.085461Z",
+    "updateTime": "2023-01-26T21:18:04.085461Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCX1pTLUhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Martin Cargnelutti"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-26T18:23:24.379642Z",
+    "updateTime": "2023-01-26T18:23:24.379642Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdmFLUUl3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mauro Ayala"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-26T18:12:27.280304Z",
+    "updateTime": "2023-01-26T18:12:27.280304Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCdmZTREV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Alejandro Boudet"
+    },
+    "starRating": "FIVE",
+    "comment": "Un muy buen punto de encuentro al ingreso de Villa Carlos Paz. Toda las calidad de servicio de las restantes YPF más el servicio a Socios del Automóvil club Argentino\n\n(Translated by Google)\nA great meeting point at the entrance to Villa Carlos Paz. All the quality service of other YPF stations plus service for members of the Argentine Automobile Club.",
+    "createTime": "2023-01-26T00:17:36.597979Z",
+    "updateTime": "2023-01-26T00:17:36.597979Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcmJ6U0lnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Mazzieri"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-25T14:02:21.109064Z",
+    "updateTime": "2023-01-25T14:02:21.109064Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSURCOWFYbm1BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Note Importa"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-01-24T16:30:08.955Z",
+    "updateTime": "2023-01-24T16:30:08.955Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCcGEtX0hREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Stella Bonetti"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy cordiales y atentos en la atención su personal.Predispuestos al asesoramiento de los clientes.Muy buenas ofertas\n\n(Translated by Google)\nThe staff were very friendly and attentive. They were always willing to help customers. They had great deals.",
+    "createTime": "2023-01-23T20:24:57.143733Z",
+    "updateTime": "2023-01-23T20:24:57.143733Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChdDSUhNMG9nS0VJQ0FnSURCdWJIel9BRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Lopez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-22T17:18:15.641118Z",
+    "updateTime": "2023-01-22T17:18:15.641118Z",
+    "name": "accounts/109853746269412609224/locations/16439864451681857894/reviews/ChZDSUhNMG9nS0VJQ0FnSURCaWNHc2RnEAE"
+  }]
+}

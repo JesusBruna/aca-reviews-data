@@ -1,12 +1,80 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Gonzalo Viola"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-10-03T18:44:09.045118Z",
+    "updateTime": "2026-10-03T18:44:09.045118Z",
+    "reviewReply": {
+      "comment": "Gracias ",
+      "updateTime": "2026-10-03T20:38:46.493679Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tablZETmxMV3hNT1hsRU16Uk1XbGR2YUY5Qk9VRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "salvador gatica"
+    },
+    "starRating": "THREE",
+    "comment": "Los playeros son algo descortés, y no tienen prioridad para discapacitados\n\n(Translated by Google)\nThe beach staff are somewhat rude, and they don\u0027t give priority to disabled people.",
+    "createTime": "2026-10-03T02:42:37.404356Z",
+    "updateTime": "2026-10-03T02:42:37.404356Z",
+    "reviewReply": {
+      "comment": "Le pedimos disculpas discapacitado solo tiene prioridad en baños y estacionamiento no en despacho de combustible gracias ",
+      "updateTime": "2026-10-03T20:40:37.112907Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJelJuZEZXa3BoWWxsb1FVeDFYMVpxUkZwaFZIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Dai Fernandez (La de Historia)"
+    },
+    "starRating": "FIVE",
+    "comment": "La atención es genial! Zaida me asesoró y fue la mejor estadía para descansar y comer algo rico.\n\nVengan a este lugar, no lo duden!\n\n(Translated by Google)\nThe service is fantastic! Zaida gave me great advice, and it was the best stay for relaxing and enjoying delicious food.\n\nCome to this place, don\u0027t hesitate!",
+    "createTime": "2026-10-02T16:47:14.202098Z",
+    "updateTime": "2026-10-02T16:47:14.202098Z",
+    "reviewReply": {
+      "comment": "Gracias muy amable saludos cordiales .",
+      "updateTime": "2026-10-02T21:26:34.018378Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aZlgwazVORkpzWDNsSFYySnphMFF5TWpsSWJtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Osky Crivelli"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atencion y asesoramiento  por parte de miguel   que me motivo a asociarme al ACA muy contento\n\n(Translated by Google)\nExcellent service and advice from Miguel, who motivated me to join the ACA. Very happy.",
+    "createTime": "2026-10-02T16:08:42.288560Z",
+    "updateTime": "2026-10-02T16:08:42.288560Z",
+    "reviewReply": {
+      "comment": "Gracias muy amable saludos cordiales ",
+      "updateTime": "2026-10-02T21:18:12.918347Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SbGRERmFhRVptTVRrMk5GUTNRelJXVVVZNVMxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Graciela Cohen"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente servicio en la estación de servicio de YPF DEL Automóvil Club en CABA en la tienda FULL.\n\n(Translated by Google)\nExcellent service at the YPF service station of the Automobile Club in CABA at the FULL store.",
+    "createTime": "2026-10-01T23:27:34.301335Z",
+    "updateTime": "2026-10-01T23:27:34.301335Z",
+    "reviewReply": {
+      "comment": "Gracias graciela muy amable saludos cordiales ",
+      "updateTime": "2026-10-03T20:41:05.981970Z"
+    },
+    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jNFF6TmhVMlpJYWpVMlF6bFliRk5NZEVGdkxVRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Mariano Gastón Cabrera Bonalve"
     },
     "starRating": "ONE",
     "comment": "La atención de la playa es bastante ineficiente. Se arman cola de Vehículos y tienen espacios vacíos. Incluso poniendo a un tipo a ordenar la carga. Eligen a uno que no tiene ningún criterio.\n\n(Translated by Google)\nThe service at the parking lot is quite inefficient. There are long lines of vehicles even with empty spaces. They even assign someone to organize the loading. And they choose someone who has no sense of judgment.",
     "createTime": "2026-10-01T18:33:44.100547Z",
     "updateTime": "2026-10-01T18:33:44.100547Z",
+    "reviewReply": {
+      "comment": "Gracias lamentamos la experiencia si hay una sola fila y el orden es por la misma fila  saludos",
+      "updateTime": "2026-10-02T21:20:58.289421Z"
+    },
     "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNNU0zVTROVmR1UW5sUlVXNXdUa3RuTTAxd05VRRAB"
   }, {
     "reviewer": {
@@ -16,6 +84,10 @@
     "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
     "createTime": "2026-10-01T15:04:52.601483Z",
     "updateTime": "2026-10-01T15:04:52.601483Z",
+    "reviewReply": {
+      "comment": "Gracias muy amable saludos cordiales ",
+      "updateTime": "2026-10-02T21:21:28.186808Z"
+    },
     "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xob1pGbDBTRWhmUVZOekxVdEtlRUkxVDFsVFJWRRAB"
   }, {
     "reviewer": {
@@ -185,69 +257,5 @@
       "updateTime": "2026-09-25T11:59:25.602431Z"
     },
     "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kUldYWmFlVU5HY2tsWlIyaFFMVkk1TUZCRFNtYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Tienda Ciprés"
-    },
-    "starRating": "FIVE",
-    "comment": "Fui el martes 22/9/26 a las 21 y ee atendió el mejor playero del mundo. Se me había roto la ventanilla me la desarmo y me arregló el sistema. Gracias!\n\n(Translated by Google)\nI went on Tuesday, September 22nd, 2026 at 9 PM and was served by the best gas station attendant in the world. My window was broken, he took it apart and fixed the system. Thank you!",
-    "createTime": "2026-09-24T22:28:32.147932Z",
-    "updateTime": "2026-09-24T22:28:32.147932Z",
-    "reviewReply": {
-      "comment": "Gracias un placer atenderte muy amable saludos cordiales ",
-      "updateTime": "2026-09-24T23:06:45.538817Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CNWNsUkROVEpwWkVKWWNYUmhaSEIyT1U1WFJuYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Milagros Baez"
-    },
-    "starRating": "FIVE",
-    "comment": "Ariel un genio! Me asesoro y acomodo todo lo que necesitaba el auto!\n\n(Translated by Google)\nAriel is a genius! He advised me and arranged everything the car needed!",
-    "createTime": "2026-09-24T12:16:34.596849Z",
-    "updateTime": "2026-09-24T12:16:34.596849Z",
-    "reviewReply": {
-      "comment": "Gracias milagros por tu comentario saludos cordiales ",
-      "updateTime": "2026-09-24T23:07:12.642465Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKR2FHVkNTRzV6YzFaMU5FVnZOWFJCZVU5Tk5WRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Agu Cantero"
-    },
-    "starRating": "FIVE",
-    "comment": "Volve Mario,!\n\n(Translated by Google)\nCome back Mario!",
-    "createTime": "2026-09-23T22:28:58.027836Z",
-    "updateTime": "2026-09-23T22:28:58.027836Z",
-    "reviewReply": {
-      "comment": "Gracias muy amable saludos ",
-      "updateTime": "2026-09-24T23:07:35.549055Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsRFlXUnJVVTAwZFRZNFFXaEVWQzFNT0RkWFRrRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lorena Pennise"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-09-23T02:04:35.546540Z",
-    "updateTime": "2026-09-23T02:04:35.546540Z",
-    "reviewReply": {
-      "comment": "Gracias muy amable ",
-      "updateTime": "2026-09-23T02:20:38.457854Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xadlFqQjZkMDlFY2xreE1sSXlUMGQ0WVRKTVluYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Eduardo Cassullo"
-    },
-    "starRating": "FIVE",
-    "comment": "Este lugar es mi casa\nY Zaida y Sacha son de la familia!!\n\n(Translated by Google)\nThis place is my home.\nAnd Zaida and Sacha are family!",
-    "createTime": "2026-09-22T22:32:12.320701Z",
-    "updateTime": "2026-09-22T22:32:12.320701Z",
-    "reviewReply": {
-      "comment": "Gracias eduardo muy amable saludos cordiales ",
-      "updateTime": "2026-09-22T23:06:34.620356Z"
-    },
-    "name": "accounts/109853746269412609224/locations/2111243949080318212/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSUWNscDZZVXRWV0hNNVRqSmtRM2RzWmpaa0xYYxAB"
   }]
 }

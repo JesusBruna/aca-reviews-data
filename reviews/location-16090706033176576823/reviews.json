@@ -1,6 +1,14 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Renzo Gamer"
+    },
+    "starRating": "FOUR",
+    "createTime": "2026-10-04T12:46:26.084046Z",
+    "updateTime": "2026-10-04T12:46:26.084046Z",
+    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ScWVrbEtWRzlETjJVeGFsUnVXRFY2TjNwb2FuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Walter Caresani"
     },
     "starRating": "FOUR",
@@ -233,18 +241,5 @@
       "updateTime": "2026-08-18T19:20:50.344523Z"
     },
     "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJNE5qQndaak52YW1nd1RHRkhkRGhLTWpaV05YYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Miryan Liseth"
-    },
-    "starRating": "FOUR",
-    "comment": "Este YPF es chiquito pero el personal es muy amable\n\n(Translated by Google)\nThis YPF is small but the staff is very friendly.",
-    "createTime": "2026-07-29T10:15:50.199142Z",
-    "updateTime": "2026-07-29T10:15:50.199142Z",
-    "reviewReply": {
-      "comment": " Nos alegra saber que tuviste una buena experiencia. Esperamos verte pronto en tu próxima carga.\"",
-      "updateTime": "2026-08-18T19:20:57.507141Z"
-    },
-    "name": "accounts/109853746269412609224/locations/16090706033176576823/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twNlRFMTNPVlZWVDA1NmMwVklPRlZDVlZWSFMyYxAB"
   }]
 }

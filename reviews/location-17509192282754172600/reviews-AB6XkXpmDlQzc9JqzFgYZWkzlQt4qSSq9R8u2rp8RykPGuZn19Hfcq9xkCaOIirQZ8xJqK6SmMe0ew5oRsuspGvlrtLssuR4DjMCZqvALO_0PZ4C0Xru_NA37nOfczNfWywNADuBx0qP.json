@@ -1,0 +1,38 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "visitalapaz Entre Rios"
+    },
+    "starRating": "FIVE",
+    "comment": "Estación de Servicios Automóvil Club Argentino, YPF en el centro de la ciudad de La Paz, excelente atención, tiene un minishop muy bien surtido.\n\n(Translated by Google)\nAutomóvil Club Argentino YPF service station in downtown La Paz, excellent service, has a very well-stocked mini-shop.",
+    "createTime": "2017-01-13T11:22:20.242Z",
+    "updateTime": "2017-01-13T11:24:06.747Z",
+    "name": "accounts/109853746269412609224/locations/17509192282754172600/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRck8tVllBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Alejandro Fausd"
+    },
+    "starRating": "FIVE",
+    "createTime": "2016-12-21T00:18:41.645Z",
+    "updateTime": "2016-12-21T00:18:41.645Z",
+    "name": "accounts/109853746269412609224/locations/17509192282754172600/reviews/ChdDSUhNMG9nS0VJQ0FnSURnNHFiZDVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Nael Rod"
+    },
+    "starRating": "THREE",
+    "comment": "Gran atención y servicio. Aunque aún le falta un poco para ser suficiente.\n\n(Translated by Google)\nGreat attention and service. Although it still falls a little short of being perfect.",
+    "createTime": "2016-07-18T17:56:06.323Z",
+    "updateTime": "2016-07-18T17:56:43.532Z",
+    "name": "accounts/109853746269412609224/locations/17509192282754172600/reviews/ChZDSUhNMG9nS0VJQ0FnSURndlBQMVp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Luis Angel Ponce"
+    },
+    "starRating": "ONE",
+    "comment": "El único lugar donde no se puede pagar con tarjeta y sólo abre durante el día.\n\n(Translated by Google)\nThe only place where you can\u0027t pay by card and it\u0027s only open during the day.",
+    "createTime": "2016-05-20T22:47:55.048Z",
+    "updateTime": "2016-05-20T22:48:26.681Z",
+    "name": "accounts/109853746269412609224/locations/17509192282754172600/reviews/ChdDSUhNMG9nS0VJQ0FnSURRd2VxTGt3RRAB"
+  }]
+}

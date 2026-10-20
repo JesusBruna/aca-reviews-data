@@ -1,0 +1,171 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Juan Bonazeski"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-27T21:13:02.582967Z",
+    "updateTime": "2021-11-27T21:14:02.030576Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHOXYzN1ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Gomez"
+    },
+    "starRating": "THREE",
+    "comment": "Siempre está llena\n\n(Translated by Google)\nIt\u0027s always busy",
+    "createTime": "2021-11-24T18:40:30.901093Z",
+    "updateTime": "2021-11-24T18:40:30.901093Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHNnRmYlF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pedro Pavão"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent service\n\n(Original)\nOtimo atendimento",
+    "createTime": "2021-11-24T12:05:06.223164Z",
+    "updateTime": "2021-11-24T12:05:20.655737Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHcXA2dEhBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcela Miranda"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-24T01:07:37.307270Z",
+    "updateTime": "2021-11-24T01:07:37.307270Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHaW91aUhnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Dr. Renato Murad"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-23T21:12:53.618171Z",
+    "updateTime": "2021-11-23T21:12:53.618171Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHaXJ5X2tBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sebastian Damus"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-23T14:15:56.813061Z",
+    "updateTime": "2021-11-23T14:15:56.813061Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHc3IzVW1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rebeca Arotcharen (Becc)"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-23T11:51:33.083537Z",
+    "updateTime": "2021-11-23T11:51:33.083537Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHc3RTZHl3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Hamza Bukhari"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-23T01:52:49.619569Z",
+    "updateTime": "2021-11-23T01:52:49.619569Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHa3FUcjNBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Netto Junqueira"
+    },
+    "starRating": "THREE",
+    "comment": "(Translated by Google) The only reason the fuel is so expensive is the terrible service.\n\n(Original)\nSó pelo valor do combustível mesmo péssimo atendimento.",
+    "createTime": "2021-11-12T12:35:55.183659Z",
+    "updateTime": "2021-11-23T00:55:26.086246Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHdC02QmR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jacky Wu"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-22T22:39:20.363525Z",
+    "updateTime": "2021-11-22T22:39:20.363525Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHNHMzNDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Karina Guitton"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención. Precios. Y servicios! Histórico en la región.\n\n(Translated by Google)\nExcellent service, prices, and amenities! A landmark in the region.",
+    "createTime": "2021-11-22T16:58:52.522291Z",
+    "updateTime": "2021-11-22T16:58:52.522291Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHb3NXUTZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rodrigo Vieira"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good service. Cheap gasoline for Brazilians. Line of at least 1 hour, even in the early morning.\n\n(Original)\nBom atendimento. Gasolina barata para brasileiros. Fila de no mínimo 1h, mesmo pela madrugada.",
+    "createTime": "2021-11-21T06:47:50.599490Z",
+    "updateTime": "2021-11-21T06:47:50.599490Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHbk5HWDdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano Arce"
+    },
+    "starRating": "ONE",
+    "createTime": "2021-11-20T15:43:20.128782Z",
+    "updateTime": "2021-11-20T15:43:20.128782Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHck1UZkFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Uli Stella"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-19T22:30:38.872302Z",
+    "updateTime": "2021-11-19T22:30:38.872302Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHOUxhRDZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Guadalupe Vilar"
+    },
+    "starRating": "THREE",
+    "comment": "todo bien, resulta raro que no acepten tarjeta previaje\n\n(Translated by Google)\nEverything\u0027s fine, it\u0027s just strange that they don\u0027t accept Previa cards",
+    "createTime": "2021-11-19T16:39:34.162696Z",
+    "updateTime": "2021-11-19T16:39:34.162696Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHdElxd2RREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Angiee"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-09-13T23:41:47.122436Z",
+    "updateTime": "2021-11-18T09:09:33.470574Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSUM2dTlEcVdnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ale Varela"
+    },
+    "starRating": "FOUR",
+    "createTime": "2021-11-18T03:07:37.382220Z",
+    "updateTime": "2021-11-18T03:07:37.382220Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHLU1HbEp3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ernesto Borges"
+    },
+    "starRating": "FIVE",
+    "comment": "Buenas atención, servicio rápido.\n\n(Translated by Google)\nGood service, fast service.",
+    "createTime": "2021-11-17T15:25:35.827744Z",
+    "updateTime": "2021-11-17T15:25:35.827744Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHMk9hcU5BEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Leal"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Brazilians are having a party with the cheap exchange rate.\n\n(Original)\nOs brasileiros fazem a festa com câmbio barato",
+    "createTime": "2021-11-15T17:57:20.306578Z",
+    "updateTime": "2021-11-15T18:01:53.137216Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChdDSUhNMG9nS0VJQ0FnSURHa1AtSDhRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Anak Ferreira"
+    },
+    "starRating": "THREE",
+    "createTime": "2021-11-15T16:08:33.804400Z",
+    "updateTime": "2021-11-15T16:08:33.804400Z",
+    "name": "accounts/109853746269412609224/locations/15516558717533724848/reviews/ChZDSUhNMG9nS0VJQ0FnSURHa0piQlVnEAE"
+  }]
+}

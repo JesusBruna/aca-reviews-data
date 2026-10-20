@@ -1,0 +1,199 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jair da Silva"
+    },
+    "starRating": "ONE",
+    "createTime": "2026-08-10T12:07:15.113520Z",
+    "updateTime": "2026-08-10T12:07:15.113520Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT25weFJtSndhRTlQU0RsamFYcGpPV3BUY0RscVoxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adriano Bueno"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-08T17:10:19.042909Z",
+    "updateTime": "2026-08-08T17:10:19.042909Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsa2MyMDNUVkJDYWtwbWNFRjFZek5KTjNWSmFIYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Lindomar Lorscheiter"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-08T10:44:22.762685Z",
+    "updateTime": "2026-08-08T10:44:22.762685Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKM2NFcHpOMlJNUVdOMmJXbGpNWGRaYTB3eWFrRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Neuri Nascimento"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-04T13:13:09.290990Z",
+    "updateTime": "2026-08-04T13:13:09.290990Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twbE5sZEpUR2hSU0VKb1VFaERhV2RDV21WTGQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "cristiano leao Leao"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-08-04T07:13:39.469219Z",
+    "updateTime": "2026-08-04T07:13:39.469219Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGbFNEaERNVWd5YnpSUFlWVXdja05VWkc1aGFVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea T. Barone"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-31T12:25:43.980081Z",
+    "updateTime": "2026-07-31T12:25:43.980081Z",
+    "reviewReply": {
+      "comment": "Gracias por su reseña. \nLa esperamos nuevamente ",
+      "updateTime": "2026-07-31T12:47:35.995134Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWQmVrNUxiMEptUkY5UWFXZFROM1YyU2s1VlprRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mario Garay"
+    },
+    "starRating": "FOUR",
+    "comment": "Excelente servicios.\nRealmente, luego de subir la Cuesta de Lipán, y antes de San Pedro de Atacama, hay que parar aquí.\nSiempre disponen de combustibles y servicios.\n\n(Translated by Google)\nExcellent service.\nReally, after climbing the Lipán Pass and before reaching San Pedro de Atacama, you have to stop here.\nThey always have fuel and services available.",
+    "createTime": "2026-07-30T15:15:14.695533Z",
+    "updateTime": "2026-07-30T15:15:14.695533Z",
+    "reviewReply": {
+      "comment": "Gracias por su visita. \nLo esperamos nuevamente ",
+      "updateTime": "2026-07-31T12:46:49.217879Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4YWNFdFJjSGRPVVhkT1dqYzFTRVZtTWpCek9FRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Cornejo Valdivia"
+    },
+    "starRating": "FOUR",
+    "comment": "Buen lugar para cargar combustible y comer algo hasta que habran la frontera, si es que llegas antes de las 9 am.  Obvio que para el regreso ugual.\n\n(Translated by Google)\nGood place to refuel and grab a bite to eat until the border opens, if you arrive before 9 am. Obviously, the same applies on the way back.",
+    "createTime": "2018-01-02T23:07:50.667Z",
+    "updateTime": "2026-07-21T11:48:58.947216Z",
+    "reviewReply": {
+      "comment": "Gracias por su opinión \nLo esperamos en su próximo viaje",
+      "updateTime": "2026-07-31T12:48:24.099694Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/ChZDSUhNMG9nS0VJQ0FnSURBaC1pLU13EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jean Roberto Polak"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good service, free Wi-Fi, good bathroom, it\u0027s a shame there\u0027s no shower.\n\n(Original)\nBom atendimento wi-fi liberado banheiro bom,pena não ter ducha.",
+    "createTime": "2026-07-20T20:37:49.100024Z",
+    "updateTime": "2026-07-20T20:37:49.100024Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario ",
+      "updateTime": "2026-07-21T16:12:09.679492Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkaVVqWjVUamhaVkU1VVpEaG9hbXBhTWpKdlZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Felix Jonke"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-07-09T21:48:33.481182Z",
+    "updateTime": "2026-07-09T21:48:33.481182Z",
+    "reviewReply": {
+      "comment": "Gracias por su opinión \nEsperamos su visita nuevamente ",
+      "updateTime": "2026-07-31T12:48:52.772667Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWMldEZzBSVUpLV0RWR09WSm9ZM1JHWnpsUlMwRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "VIVE CON SALUD"
+    },
+    "starRating": "FIVE",
+    "comment": "Tengo que decirlo, los precios de los productos son bastante elevados,  y eso porque esta en medio de la nada, pues tiene logica, lo importante es que dentro hay diversidad de alimento, sin duda alguna eso es lo mejor y la calefación dentro de la tienda lo es todo para aquellos a quienes les toca espara un poco por X y Y motivos como el que me paso en una de mis llegadas y tuve que esperar más de 4 horas, porque comenzo a nevar al otro lado de la frontera, y el haber contado con una tienda muy bien abastecida, con buena calefacción y baño, eso es ameritable ✌️👌👍\n\n(Translated by Google)\nI have to say, the prices are quite high, and that\u0027s because it\u0027s in the middle of nowhere, which makes sense. The important thing is that there\u0027s a wide variety of food inside; without a doubt, that\u0027s the best part. And the heating inside the store is everything for those who have to wait a bit for whatever reason, like what happened to me on one of my arrivals when I had to wait more than 4 hours because it started snowing on the other side of the border. Having a well-stocked store with good heating and a bathroom is truly commendable. ✌️👌👍",
+    "createTime": "2026-07-07T03:18:22.022309Z",
+    "updateTime": "2026-07-07T03:18:22.022309Z",
+    "reviewReply": {
+      "comment": "Buenos días le agradezco el comentario. \nEsperamos su regreso a nuestras instalaciones ",
+      "updateTime": "2026-07-07T11:24:07.740894Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaWIzVjJWalpCU1ZwQ2RXeGFWemQzY0VKeGFFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "luis fernando"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent gas station on the border. Sandwiches 🍔 and great service. I was able to refuel without any problems.\n\n(Original)\nExcelente posto na fronteira. Sanduíche 🍔 e ótimo atendimento. Consegui abastecer normalmente.",
+    "createTime": "2026-07-03T18:35:36.171754Z",
+    "updateTime": "2026-07-03T18:35:36.171754Z",
+    "reviewReply": {
+      "comment": "Gracias por su comentario, los esperamos nuevamente ",
+      "updateTime": "2026-07-07T11:24:56.885992Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SSE1teHdaRzFzTFhaUFRXdDBWVlZsUkZOQlgyYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Deny Jose"
+    },
+    "starRating": "THREE",
+    "comment": "(Translated by Google) Hot shower\n\n(Original)\nDucha quente",
+    "createTime": "2026-07-02T17:15:04.055952Z",
+    "updateTime": "2026-07-02T17:15:04.055952Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4MFkzRjZZVWd0WVV0aVQzSkdSak5LTlhCQ1prRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Paula"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-06-22T02:53:27.770616Z",
+    "updateTime": "2026-06-22T02:53:27.770616Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT210R2FXOVVOMnRMUVhobVRIQkhRME56Vkd0UWFWRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Nolasco Pinto Pohlmann"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-06-18T04:09:35.749006Z",
+    "updateTime": "2026-06-18T04:09:35.749006Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFMVMzaHVUM0l6YzNKR1pFZG5ZMDA0YWt4aVpuYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "cristian alvarez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-06-16T21:36:13.112204Z",
+    "updateTime": "2026-06-16T21:36:13.112204Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psQlFXdE9NMUJxZFd0eFgweDNSbnBPWDNWYVZGRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ariel Prieto"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención\n\n(Translated by Google)\nGood service",
+    "createTime": "2026-06-10T10:04:37.925405Z",
+    "updateTime": "2026-06-10T10:04:37.925405Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5WFQzWmhaRFZoT1hGS1IybGZXV2M0VGtwVmRFRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Adair Pessatto frassao"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-06-06T05:00:26.782800Z",
+    "updateTime": "2026-06-06T05:00:26.782800Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aV1JFdHhTekpMZG1kaVRuZG1MVVJHU0UxT2JtYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "sebastian chahle"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención de Rolando Mamani\n\n(Translated by Google)\nExcellent service from Rolando Mamani",
+    "createTime": "2026-06-05T16:32:28.637468Z",
+    "updateTime": "2026-06-05T16:32:28.637468Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wRFVGSXpSVGRYZFhWUFMzVnJSM2hDT1hKcFdYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Alfredo Dominguez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2026-06-05T16:30:55.817940Z",
+    "updateTime": "2026-06-05T16:30:55.817940Z",
+    "name": "accounts/109853746269412609224/locations/1243722777492158217/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FNVpuSTVVQzFsZDIxUlkzTnFibWxoVW1SZlJrRRAB"
+  }]
+}

@@ -1,6 +1,69 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Graciela De Prez"
+    },
+    "starRating": "FIVE",
+    "comment": "muy linda estación y muy buena atención de todos los empleados, especialmente Almendra del kiosco.\n\n(Translated by Google)\nVery nice station and very good service from all the employees, especially Almendra at the kiosk.",
+    "createTime": "2026-10-03T20:28:33.786597Z",
+    "updateTime": "2026-10-03T20:28:33.786597Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOYVJYRmpURTAwZG5oaFpVTmFRV1p6VURabGRVRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Laura Nieto"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente lugar... atención inmejorable y productos excelentes!!! Siempre vuelvo...\n\n(Translated by Google)\nExcellent place... unbeatable service and excellent products!!! I always come back...",
+    "createTime": "2026-10-03T16:07:45.920306Z",
+    "updateTime": "2026-10-03T16:07:45.920306Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5NVQyTkNRMGw0Y1V4NGJrTnNSM1JzVTJsMVJHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miller Madregal"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena la atención, muchas gracias almendra por tu atención y amabilidad.\nExcelente servicio, muy recomendable.\n¡volveremos!\n\n(Translated by Google)\nExcellent service, thank you so much Almendra for your attention and kindness.\nHighly recommended!\nWe\u0027ll be back!",
+    "createTime": "2026-10-03T14:50:29.846163Z",
+    "updateTime": "2026-10-03T14:50:29.846163Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkNWRGVlNaakZtVmpCbVEzcHBRVkZmU1VWUFJXYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mauso"
+    },
+    "starRating": "FIVE",
+    "comment": "Un gran lugar ...buena atención, calidad en sus productos...volveremos pronto\n\n(Translated by Google)\nA great place...good service, quality products...we\u0027ll be back soon",
+    "createTime": "2026-10-03T14:40:53.303248Z",
+    "updateTime": "2026-10-03T14:42:31.788145Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wVExWZERkemxOY0RGeFNVb3hXRk5GTjJKZlQxRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mauso garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "Un placer pasar por la estacion...desde neuquen hasta Comodoro no encontre una mejor atencion y calidad...muy recomendable\n\n(Translated by Google)\nIt was a pleasure passing through the station...from Neuquén to Comodoro I didn\u0027t find better service and quality...highly recommended",
+    "createTime": "2026-10-03T14:39:31.006621Z",
+    "updateTime": "2026-10-03T14:39:31.006621Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGeUxVWm5jekZEWWxKQlh6bENTMnh1ZW04ME0yYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "lautaro falabella"
+    },
+    "starRating": "FIVE",
+    "comment": "Playero Claudio de YPF ACA El Bolsón Rio Negro.\nUn lujo el cérvicio. Gracias totales!!!!\n\n(Translated by Google)\nClaudio, the gas station attendant at YPF ACA in El Bolsón, Río Negro.\n\nThe service was excellent. Thank you so much!",
+    "createTime": "2026-10-02T23:07:06.089986Z",
+    "updateTime": "2026-10-02T23:07:06.089986Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wT05XdGhkMU53YnpKbFltSjRVVkJ1WDFsRlZHYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Gabriel Giuso"
+    },
+    "starRating": "FIVE",
+    "comment": "La mejor atención,la empleada administrativa,es muy cordial y diligente,su eficiencia para solucionar los requerimientos del socio, es alto nivel,me alegra enormemente que el club ,tenga está calidad de empleados,cuidemoslos\n\n(Translated by Google)\nThe best service; the administrative employee is very friendly and diligent. Her efficiency in resolving member requests is top-notch. I\u0027m so glad the club has such high-quality employees. Let\u0027s take care of them.",
+    "createTime": "2026-10-02T18:01:02.058176Z",
+    "updateTime": "2026-10-02T18:15:58.852461Z",
+    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKdmVIQnZjVGRVUnpoNlduZDNVblk1TkhkSFYzYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Rocío de la Vega"
     },
     "starRating": "ONE",
@@ -118,71 +181,5 @@
     "createTime": "2026-09-23T16:31:38.935378Z",
     "updateTime": "2026-09-23T16:31:38.935378Z",
     "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT210RGFXbGZRWFpUYTJaNGJHRmlNa051TkZaSlNHYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Jeremías Gabriel Ancalao"
-    },
-    "starRating": "FIVE",
-    "comment": "Claudio",
-    "createTime": "2026-09-23T15:51:24.636245Z",
-    "updateTime": "2026-09-23T15:51:24.636245Z",
-    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwSlZGUlliREpJU0ROdWEwVjVTMnhvT0VRd2NIYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "bruno corroppoli"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy buena atención y predisposición del personal. Siempre cordiales y atentos.\n\n(Translated by Google)\nExcellent service and helpful staff. Always friendly and attentive.",
-    "createTime": "2026-09-23T15:08:57.737083Z",
-    "updateTime": "2026-09-23T15:08:57.737083Z",
-    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWUFFtY3RVa1l4VmxoTU5IWllNVWN0UWtwdFRsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Joaquin Ramirez"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-09-23T15:05:58.814535Z",
-    "updateTime": "2026-09-23T15:05:58.814535Z",
-    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSc2FtSnlRbDlzUW1OUWRHTXdYMmR0V1ZGeU0yYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Emiliano Squadroni"
-    },
-    "starRating": "FIVE",
-    "comment": "Almendra y Rodrigo unos capos !\nSuper atentos !\nCafé genial .\n\n(Translated by Google)\nAlmendra and Rodrigo are awesome!\nSuper attentive!\nGreat coffee.",
-    "createTime": "2026-09-23T14:58:10.732160Z",
-    "updateTime": "2026-09-23T14:58:10.732160Z",
-    "reviewReply": {
-      "comment": "Gracias Emiliano ! Esperamos volver a verte pronto por la estación.",
-      "updateTime": "2026-09-23T15:37:52.485082Z"
-    },
-    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGMWRTMUxVVkJqWXpaNWFVbHhlRmhtVG05alRXYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "aurora lavia"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy lindo y rico todo! Fuimos a comer y las hamburguesas increibles!!!\nLa atencion de almendra y rodrigo la mejor.\n\n(Translated by Google)\nEverything was so lovely and delicious! We went for lunch and the burgers were incredible!!!\nAlmendra and Rodrigo\u0027s service was the best.",
-    "createTime": "2026-09-20T16:36:05.619719Z",
-    "updateTime": "2026-09-20T16:36:05.619719Z",
-    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wS1RubDRhVVJ0VVRjeFNuaFhaREpTYTFWUWJsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Samuel Mayorga"
-    },
-    "starRating": "FIVE",
-    "comment": "Buena atención de Almendra. Muy rico todo...\n\n(Translated by Google)\nAlmendra provided excellent service. Everything was delicious...",
-    "createTime": "2026-09-20T16:31:59.128261Z",
-    "updateTime": "2026-09-20T16:31:59.128261Z",
-    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVVpVeFlkMGhTVEVoMVZHNWtXalpsWjB0SWMzYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Nicolás Horiszny2"
-    },
-    "starRating": "FIVE",
-    "comment": "Una excelente atencíon todo muy prolijo de la parte de cafeteria unos genios Rodri Almendra y Mariano siempre con una buena onda al llegar te atienden RE bien y los baños simepre impecables ni un problema se mantienen limpios a cada rato genios totales\n\n(Translated by Google)\nExcellent service, everything is very well done in the cafeteria; Rodri Almendra and Mariano are geniuses, always friendly and welcoming. They treat you very well when you arrive, and the bathrooms are always spotless, never a problem, they\u0027re constantly cleaned. Absolute geniuses!",
-    "createTime": "2026-09-19T14:25:27.815082Z",
-    "updateTime": "2026-09-19T14:25:27.815082Z",
-    "name": "accounts/109853746269412609224/locations/1981887218224238304/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaRGFqRnhZelpGUVVjMVNIcFlOelJPWVdFNVZrRRAB"
   }]
 }

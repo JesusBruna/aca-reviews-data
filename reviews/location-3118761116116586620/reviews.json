@@ -1,11 +1,24 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "NICOLAS BARJACOBA"
+    },
+    "starRating": "ONE",
+    "comment": "Fui a cargar nafta a la madrugada y pedí para ir al baño y me dijeron que estaba cerrado. Obviamente que no cargué nada y me fui, como no van a tener baño disponibles así sea de noche. Raro en una ypf. Un cliente menos.\n\n(Translated by Google)\nI went to get gas in the early morning and asked to use the restroom, but they told me it was closed. Obviously, I didn\u0027t fill up and left. How could they not have restrooms available at night? Strange for a YPF station. One less customer.",
+    "createTime": "2026-10-04T15:40:51.004706Z",
+    "updateTime": "2026-10-04T15:40:51.004706Z",
+    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxZlEyOWZRVlV5VmpJdGJXNVJjRXg2UjJSUGIwRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Mario Villegas"
     },
     "starRating": "FIVE",
     "createTime": "2026-10-01T16:15:31.687754Z",
     "updateTime": "2026-10-01T16:15:31.687754Z",
+    "reviewReply": {
+      "comment": "Gracias Mario por tu valoración. ",
+      "updateTime": "2026-10-02T18:27:38.418839Z"
+    },
     "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCbmRteHZUM3B4VFdSMFExVmlhMnMwT1VKU1dIYxAB"
   }, {
     "reviewer": {
@@ -235,18 +248,5 @@
       "updateTime": "2026-07-24T00:12:26.080425Z"
     },
     "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOTmNucGFhRXRuT1VSME5UaG1kblEzYVRWeWFWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Lucho Dominguez"
-    },
-    "starRating": "ONE",
-    "comment": "Lo peor si están apurados no vayan tienen un frío en orto los playeros\n\n(Translated by Google)\nThe worst thing is if you\u0027re in a hurry, don\u0027t go, the beachgoers are freezing.",
-    "createTime": "2026-07-21T21:43:37.796434Z",
-    "updateTime": "2026-07-21T21:43:37.796434Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Lucho por tu valoración y comentario. Lamentamos tu mala experiencia. Nos gustaría saber bien cómo fue la situación ya que tienen prohibido atender a varios clientes a la vez por razones de seguridad. ",
-      "updateTime": "2026-07-24T00:09:13.268058Z"
-    },
-    "name": "accounts/109853746269412609224/locations/3118761116116586620/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkaVRVOTZWbFo1UVhwVlNFbGZlV28yTmpKalRXYxAB"
   }]
 }

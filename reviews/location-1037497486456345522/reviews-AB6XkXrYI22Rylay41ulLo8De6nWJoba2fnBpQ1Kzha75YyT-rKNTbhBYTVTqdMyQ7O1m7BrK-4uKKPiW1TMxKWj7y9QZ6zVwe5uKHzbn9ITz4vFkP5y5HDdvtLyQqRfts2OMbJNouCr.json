@@ -1,0 +1,242 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Michael Agustín Lara"
+    },
+    "starRating": "FIVE",
+    "comment": "✨",
+    "createTime": "2022-06-25T10:20:37.867333Z",
+    "updateTime": "2022-06-25T10:20:37.867333Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURPMEtxNDVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Amalia Ramirez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-23T00:09:04.134944Z",
+    "updateTime": "2022-06-23T00:09:04.134944Z",
+    "reviewReply": {
+      "comment": "Hola Amalia! gracias por pasar, te esperamos a la vuelta",
+      "updateTime": "2022-07-07T20:56:12.064409Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPejQ3UWdnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Martin H.F. Giusti"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-20T19:21:37.676980Z",
+    "updateTime": "2022-06-20T19:21:37.676980Z",
+    "reviewReply": {
+      "comment": "Gracias Martin!",
+      "updateTime": "2022-07-07T20:56:32.300331Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPdTdEM05REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rodolfo Gustavo Leon"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-16T23:03:53.593766Z",
+    "updateTime": "2022-06-16T23:03:53.593766Z",
+    "reviewReply": {
+      "comment": "Gracias Rodolfo! Hasta la proxima!",
+      "updateTime": "2022-07-07T20:57:12.138009Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPN2JhMWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "diego vargas"
+    },
+    "starRating": "THREE",
+    "createTime": "2022-06-09T21:24:50.775532Z",
+    "updateTime": "2022-06-09T21:24:50.775532Z",
+    "reviewReply": {
+      "comment": "Hola Diego! gracias por elegirnos, te esperamos la proxima",
+      "updateTime": "2022-07-07T20:57:57.554158Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPOXUtdHhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristina Rivas"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atención y encontras de todo en su centro comercial\n\n(Translated by Google)\nGreat service and you can find everything in their shopping center",
+    "createTime": "2022-06-08T01:55:06.772343Z",
+    "updateTime": "2022-06-08T01:55:06.772343Z",
+    "reviewReply": {
+      "comment": "Hola Cristina! Te cuento que tenemos nuevo menú vegetariano con la incorporacion de la NOT Chiken Crispy! No te la podes perder!",
+      "updateTime": "2022-07-07T21:02:47.910260Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPLXF6OWRREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alhu Rogatky"
+    },
+    "starRating": "FIVE",
+    "comment": "Atencion las 24 hs full servi muy buena atencion calidad en los productos\n\n(Translated by Google)\n24-hour service, excellent customer service, high-quality products",
+    "createTime": "2022-06-07T16:50:07.640888Z",
+    "updateTime": "2022-06-07T16:50:07.640888Z",
+    "reviewReply": {
+      "comment": "Gracias Alhu! Somos la única opcion 24 hs en comidas de todo el norte neuquino todos los días del año. Gracias por elegirnos, te esperamos la proxima :)",
+      "updateTime": "2022-07-07T21:06:04.801133Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPMm9HUUR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miriam del Carmen Garces"
+    },
+    "starRating": "FOUR",
+    "comment": "Un lugar agradable para tomar un café... Limpió el lugar.\n\n(Translated by Google)\nA nice place to have a coffee... He cleaned the place.",
+    "createTime": "2022-05-30T18:08:59.818419Z",
+    "updateTime": "2022-05-30T18:08:59.818419Z",
+    "reviewReply": {
+      "comment": "Hola Miriam! Capacitamos a nuestros colaboradores para poder ofrecerte el mejor café de 5 hispanos. Gracias por visitarnos, te esperamos la proxima!",
+      "updateTime": "2022-07-07T21:09:43.344103Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPOElMY3F3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leo Jaconis"
+    },
+    "starRating": "THREE",
+    "comment": "Excelente ACA. Completo y con buena atención\n\n(Translated by Google)\nExcellent ACA. Comprehensive and with good service.",
+    "createTime": "2022-05-22T23:27:17.073898Z",
+    "updateTime": "2022-05-22T23:27:45.506774Z",
+    "reviewReply": {
+      "comment": "Hola Leo! Gracias por visitarnos :)",
+      "updateTime": "2022-07-07T21:10:46.981815Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQydmMzREh3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Sergio Nahuel Garcia"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-20T17:40:34.959944Z",
+    "updateTime": "2022-05-20T17:40:34.959944Z",
+    "reviewReply": {
+      "comment": "Gracias Sergio!",
+      "updateTime": "2022-07-07T21:11:05.946089Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQybGN1R1ZnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Julio Rolando Aráuz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-18T18:01:54.241611Z",
+    "updateTime": "2022-05-18T18:01:54.241611Z",
+    "reviewReply": {
+      "comment": "Grande Julio! Saludos",
+      "updateTime": "2022-07-07T21:11:27.283798Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNmFtdTZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "CLAUDIA LIRA"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-18T00:41:22.736059Z",
+    "updateTime": "2022-05-18T00:41:22.736059Z",
+    "reviewReply": {
+      "comment": "Hola Claudia! Gracias por tu visita :)",
+      "updateTime": "2022-07-07T21:12:03.547008Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOFp1TFlnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Madriela Saldias"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención  ,baños muy limpios ¡¡\n\n(Translated by Google)\nGreat service, very clean bathrooms!",
+    "createTime": "2022-05-17T06:08:09.172246Z",
+    "updateTime": "2022-05-17T06:08:09.172246Z",
+    "reviewReply": {
+      "comment": "Hola Madriela! gracias por tu visita. Ale y Rosita hacen un gran trabajo con los baños y nuestros clientes los cuidan y agradecen. Buen viaje!",
+      "updateTime": "2022-07-07T21:13:56.825753Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyNFkybzNRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "fabo alarcon"
+    },
+    "starRating": "FIVE",
+    "comment": "Los playeros son muy lentos\n\n(Translated by Google)\nThe beachgoers are very slow",
+    "createTime": "2022-05-16T18:08:27.394276Z",
+    "updateTime": "2022-05-16T18:08:27.394276Z",
+    "reviewReply": {
+      "comment": "Hola Fabo! Gracias por tu buena claificación. Existen varios factores que en ocasiones demoran el cobro de las ventas. Trabajamos para mejorar  eso. Saludos",
+      "updateTime": "2022-07-08T13:47:21.948019Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyd2NYQ29RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "mirta turzo"
+    },
+    "starRating": "FIVE",
+    "comment": "Todo muy bieb\n\n(Translated by Google)\nEverything\u0027s great",
+    "createTime": "2022-05-14T18:37:32.061212Z",
+    "updateTime": "2022-05-14T18:37:32.061212Z",
+    "reviewReply": {
+      "comment": "Saludos Mirta! gracias por elegirnos :)",
+      "updateTime": "2022-07-08T13:47:57.368067Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyOXJmdkt3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Fernando Ureña"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy bien el shop, pude pagar con qr q antes no se podia. Excelente los productos y precios.\n\n(Translated by Google)\nThe shop is great; I was able to pay with a QR code, which wasn\u0027t possible before. The products and prices are excellent.",
+    "createTime": "2021-05-22T01:32:37.966722Z",
+    "updateTime": "2022-05-14T16:11:16.038253Z",
+    "reviewReply": {
+      "comment": "Hola Fernando: Ya podes elegir pagar con app YPF y disfrutar de todos los descuentos y beneficios de ser cliente. Te esperamos la proxima!",
+      "updateTime": "2022-07-08T13:50:36.219480Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSURLdl9MTXdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Cristian Aguilar"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-10T16:18:32.820636Z",
+    "updateTime": "2022-05-10T16:18:32.820636Z",
+    "reviewReply": {
+      "comment": "Gracias Saludos!",
+      "updateTime": "2022-07-08T13:50:52.625645Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQya3FmRWxRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Ailen Villegas"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-09T02:51:22.698035Z",
+    "updateTime": "2022-05-09T02:51:22.698035Z",
+    "reviewReply": {
+      "comment": "Hola Ailen! te esperamos a la vuelta! gracias por elegirnos :)",
+      "updateTime": "2022-07-18T11:58:03.503204Z"
+    },
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyM05pdi13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "alejandra biasone"
+    },
+    "starRating": "THREE",
+    "comment": "Le falran cosas\n\n(Translated by Google)\nIt\u0027s missing things",
+    "createTime": "2022-05-08T12:55:30.047866Z",
+    "updateTime": "2022-05-08T12:55:30.047866Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyckpyMWVnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jax X29"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena atención. De todo un poco.\n\n(Translated by Google)\nGood service. A little bit of everything.",
+    "createTime": "2022-05-07T18:11:03.032626Z",
+    "updateTime": "2022-05-07T18:11:03.032626Z",
+    "name": "accounts/109853746269412609224/locations/1037497486456345522/reviews/ChdDSUhNMG9nS0VJQ0FnSUQydEtlZ25RRRAB"
+  }]
+}

@@ -1,6 +1,15 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Natalia Gonzalez"
+    },
+    "starRating": "FIVE",
+    "comment": "Voy siempre, atienden bien :)\n\n(Translated by Google)\nI go there all the time, they provide good service :)",
+    "createTime": "2026-10-04T01:34:55.327322Z",
+    "updateTime": "2026-10-04T01:34:55.327322Z",
+    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKclNVVlVabXhKYlhOSFZEaFdWMEpZWm1sR1VrRRAB"
+  }, {
+    "reviewer": {
       "displayName": "Nancy"
     },
     "starRating": "FIVE",
@@ -209,17 +218,5 @@
       "updateTime": "2026-09-15T19:38:24.923918Z"
     },
     "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1RGFYaFhkMnByYTFGQ1dXRlZUSHB4UjI1WVNsRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "ricardo coronel"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-09-03T16:16:24.114192Z",
-    "updateTime": "2026-09-03T16:16:24.114192Z",
-    "reviewReply": {
-      "comment": "Buenas tardes Ricardo!!!! Agradecemos tu calificación y te esperamos nuevamente, Gracias por elegirnos\n",
-      "updateTime": "2026-09-15T19:45:36.362092Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11887773088728540195/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxNmVWZG9OeTEwYlZkWVkyTm1PRU5vVWpsdlVrRRAB"
   }]
 }

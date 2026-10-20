@@ -1,0 +1,230 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Carlos Guerra"
+    },
+    "starRating": "FOUR",
+    "comment": "Buena gente\n\n(Translated by Google)\nGood people",
+    "createTime": "2023-03-13T00:51:53.878244Z",
+    "updateTime": "2023-03-13T00:51:53.878244Z",
+    "reviewReply": {
+      "comment": "Gracias Carlos! Que lindo que destaques esa virtud en el equipo de trabajo! ",
+      "updateTime": "2023-04-09T04:01:59.724029Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSURoLWFqeVZREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Horacio Segura"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-08T17:15:31.090153Z",
+    "updateTime": "2023-03-08T17:15:31.090153Z",
+    "reviewReply": {
+      "comment": "Gracias Horacio por tu valoración! ",
+      "updateTime": "2023-04-09T04:02:19.845621Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSURoanNTRUR3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Eduardo Goizueta"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buen lugar para disfrutar\n\n(Translated by Google)\nA great place to enjoy",
+    "createTime": "2023-03-07T11:28:20.860331Z",
+    "updateTime": "2023-03-07T11:28:20.860331Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Eduardo! Nos cinoelce mucho tu comentario!  ",
+      "updateTime": "2023-04-09T04:02:48.769235Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSURoeHRLMEN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "FRIGORIFICO LAUNION"
+    },
+    "starRating": "TWO",
+    "createTime": "2023-03-05T22:30:58.495360Z",
+    "updateTime": "2023-03-05T22:30:58.495360Z",
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSURoOHBfV293RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emiliano Andrés Gabet"
+    },
+    "starRating": "FIVE",
+    "comment": "Un 10 en todo\n\n(Translated by Google)\nA 10 out of 10 in everything",
+    "createTime": "2023-03-04T14:19:15.547643Z",
+    "updateTime": "2023-03-04T14:19:15.547643Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Emiliano por tu comentario! Nos alegra que esa sea tu experiencia en ACA VIEDMA",
+      "updateTime": "2023-03-04T14:52:34.596317Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSURoZ3JuYWFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Lucia Zambrano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-04T12:47:11.499537Z",
+    "updateTime": "2023-03-04T12:47:11.499537Z",
+    "reviewReply": {
+      "comment": "Gracias Lucía por tu puntuación ",
+      "updateTime": "2023-03-04T14:52:56.583797Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSURoZ296OTdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Adolfo Faré"
+    },
+    "starRating": "THREE",
+    "comment": "Buen servicio\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-03-02T13:22:25.943717Z",
+    "updateTime": "2023-03-02T13:22:25.943717Z",
+    "reviewReply": {
+      "comment": "Gracias Enrique por tu comentario ",
+      "updateTime": "2023-03-04T14:53:13.740556Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSURoMU1lR0dnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alejandro Daniel"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-02T00:00:49.137598Z",
+    "updateTime": "2023-03-02T00:00:49.137598Z",
+    "reviewReply": {
+      "comment": "Gracias Alejandro por tu valoración ",
+      "updateTime": "2023-03-04T14:53:32.106507Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSURoNUpLSjV3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eder Ramirez"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-02-26T20:37:48.128261Z",
+    "updateTime": "2023-02-26T20:37:48.128261Z",
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSURob1B6Z1h3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jacobo Baszkir"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-24T08:58:15.316931Z",
+    "updateTime": "2023-02-24T08:58:15.316931Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Jacobo por tu valoración ",
+      "updateTime": "2023-03-04T14:53:53.104644Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUNobC1hTk93EAE"
+  }, {
+    "reviewer": {
+      "displayName": "florencia de gennaro"
+    },
+    "starRating": "THREE",
+    "comment": "Como casi todas la estaciones de servicio del ACA, limpias pero súper lentas en la atención\n\n(Translated by Google)\nLike almost all ACA service stations, clean but extremely slow service",
+    "createTime": "2023-02-23T22:52:28.144091Z",
+    "updateTime": "2023-02-23T22:52:28.144091Z",
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUNocDlXVEF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Heidi Kunstler"
+    },
+    "starRating": "FIVE",
+    "comment": "Atención muy amable\n\n(Translated by Google)\nVery friendly service",
+    "createTime": "2023-02-23T15:51:07.446190Z",
+    "updateTime": "2023-02-23T15:51:07.446190Z",
+    "reviewReply": {
+      "comment": "Nos alegra mucho Heidi hayas tenido una buena experiencia en ACA VIEDMA",
+      "updateTime": "2023-03-04T14:54:42.888738Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoaDZ2Uy1RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Di Fabio"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención d los empleados!!!\n\n(Translated by Google)\nExcellent service from the employees!!!",
+    "createTime": "2023-02-23T11:41:40.608752Z",
+    "updateTime": "2023-02-23T11:41:40.608752Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Claudia por tu comentario!  Nos complace que recibas tal atención de nuestro equipo de trabajo ",
+      "updateTime": "2023-03-04T14:55:24.831538Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoLTQzeXZ3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Liliana Palma"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención!\n\n(Translated by Google)\nExcellent service!",
+    "createTime": "2023-02-21T01:10:46.903428Z",
+    "updateTime": "2023-02-21T01:10:46.903428Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Liliana! ",
+      "updateTime": "2023-03-04T14:55:40.297756Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoby1iNDlnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jesica López"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-19T15:40:41.248891Z",
+    "updateTime": "2023-02-19T15:40:41.248891Z",
+    "reviewReply": {
+      "comment": "Gracias Jesuca por tu valoración ",
+      "updateTime": "2023-03-04T14:56:00.232168Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoN2JpbDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Claudia Ghibaudo"
+    },
+    "starRating": "FIVE",
+    "comment": "Buena atencion\n\n(Translated by Google)\nGood service",
+    "createTime": "2023-02-19T00:04:18.386149Z",
+    "updateTime": "2023-02-19T00:04:18.386149Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Claudia por tu comentario ",
+      "updateTime": "2023-03-04T14:57:02.643207Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoamNDa0RBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Enrique Alfonso"
+    },
+    "starRating": "THREE",
+    "comment": "En esta ocasión no tenían infinia diésel... sospechoso porque está por aumentar...\n\n(Translated by Google)\nThis time they didn\u0027t have Infinia diesel... suspicious because the price is about to increase...",
+    "createTime": "2023-02-16T19:34:23.906118Z",
+    "updateTime": "2023-02-16T19:34:23.906118Z",
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUNobVltcVV3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Melisa Lucco"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-02-15T20:18:57.570951Z",
+    "updateTime": "2023-02-15T20:18:57.570951Z",
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoOGJteEFnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rosa Sosa"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, muy amables. El shop está cerrado durante la noche, abre a las 7 de la mañana, y tenes que esperar un toque para las medialunas recién horneadas.\n\n(Translated by Google)\nExcellent service, very friendly. The shop is closed overnight, opens at 7 am, and you have to wait a little while for the freshly baked croissants.",
+    "createTime": "2023-02-14T11:49:18.873448Z",
+    "updateTime": "2023-02-14T11:49:18.873448Z",
+    "reviewReply": {
+      "comment": "Gracias Rosa por tu comentario",
+      "updateTime": "2023-03-04T14:57:48.589937Z"
+    },
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoX3RfTVRBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela Ricca"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-12T01:54:58.000379Z",
+    "updateTime": "2023-02-12T01:54:58.000379Z",
+    "name": "accounts/109853746269412609224/locations/15679973824289135347/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoNXZYT2xnRRAB"
+  }]
+}

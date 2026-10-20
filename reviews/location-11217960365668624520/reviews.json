@@ -1,10 +1,19 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Leandro Tedesco"
+    },
+    "starRating": "FIVE",
+    "comment": "Hola quiero dejar un comentario por una  muy buena atención  de unos de los playeros que me atendió con muy buena onda y me salvó con el aceite , espero no confundirme con el nombre si no mal recuerdo Daniel , si lo ves espero que seas vos. Jajaja gracias .\n\n(Translated by Google)\nHi, I wanted to leave a comment about the excellent service I received from one of the gas station attendants. He was very friendly and saved me with the oil. I hope I\u0027m not mistaken about his name; if I remember correctly, it was Daniel. If you see this, I hope it\u0027s you! Haha, thanks.",
+    "createTime": "2026-10-03T03:24:26.657926Z",
+    "updateTime": "2026-10-03T03:24:26.657926Z",
+    "name": "accounts/109853746269412609224/locations/11217960365668624520/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WUkxWbEhVR1JPYkVweFpWWXRZbWhtTXpOaFRuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Mariela Silvina Domecq"
     },
     "starRating": "FIVE",
-    "comment": "Quiero destacar la excelente atención y educación del playero Daniel.\nHe cargado en varias oportunidades y su trato y respeto es siempre excelente.\n\n(Translated by Google)\nI want to highlight the excellent service and courtesy of Daniel, the gas station attendant. I\u0027ve filled up with gas several times, and his treatment and respect are always outstanding.",
+    "comment": "Quiero destacar la excelente atención y educación del playero Daniel.\nHe cargado en varias oportunidades y su trato y respeto es siempre excelente.\n\n(Translated by Google)\nI want to highlight the excellent service and courtesy of the attendant Daniel. I\u0027ve filled up with him several times, and his treatment and respect are always outstanding.",
     "createTime": "2026-10-01T00:36:37.750903Z",
     "updateTime": "2026-10-01T00:36:37.750903Z",
     "name": "accounts/109853746269412609224/locations/11217960365668624520/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwc1IzWXhTbUZyZUhkcUxWRm1aRVJmU0dwblptYxAB"
@@ -214,18 +223,5 @@
       "updateTime": "2026-09-26T00:33:21.106812Z"
     },
     "name": "accounts/109853746269412609224/locations/11217960365668624520/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVk0yUXlWRWRUZFdaMGMySnNUSGRWTTJKdVJYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Celina Illanes"
-    },
-    "starRating": "FIVE",
-    "comment": "excelente atención de todos los plateros,pero sobre todo Tamara! genia!\n\n(Translated by Google)\nExcellent service from all the silversmiths, but especially Tamara! She\u0027s amazing!",
-    "createTime": "2026-09-23T19:55:08.362435Z",
-    "updateTime": "2026-09-23T19:55:08.362435Z",
-    "reviewReply": {
-      "comment": "Estimada Celina, muchas gracias por destacar la atención de nuestro equipo. Esperamos recibirte pronto nuevamente por la estación. ¡Saludos!",
-      "updateTime": "2026-09-26T00:08:38.101867Z"
-    },
-    "name": "accounts/109853746269412609224/locations/11217960365668624520/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prelVGVlZWMEU1U1hKaVEwdzNZVms0Y2xKdFVsRRAB"
   }]
 }

@@ -1,6 +1,58 @@
 {
   "reviews": [{
     "reviewer": {
+      "displayName": "Liga de Futbol"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención, ambiente agradable muy recomendable\n\n(Translated by Google)\nExcellent service, pleasant atmosphere, highly recommended",
+    "createTime": "2026-10-02T22:07:04.193874Z",
+    "updateTime": "2026-10-02T22:07:04.193874Z",
+    "reviewReply": {
+      "comment": "Muchas gracias por el comentario y la calificación!",
+      "updateTime": "2026-10-03T17:58:48.233361Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kbGRHUlNVV2hIY1daNVJWaEVXSEpYZVhwWWExRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mariela Tauz"
+    },
+    "starRating": "FIVE",
+    "comment": "Muy buena atención. Blanca, Mili y Denise muy amables. Excelente...\n\n(Translated by Google)\nExcellent service. Blanca, Mili, and Denise were very kind. Excellent...",
+    "createTime": "2026-10-02T22:03:58.032628Z",
+    "updateTime": "2026-10-02T22:03:58.032628Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Mariela por el comentario y calificación!",
+      "updateTime": "2026-10-03T17:59:12.921019Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kclgyTjFjbWRsVWtsQ1puRnRWRGhyY3pWalprRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "ALEJANDRO ADRIAN SANCHEZ"
+    },
+    "starRating": "FIVE",
+    "comment": "Quiero detallar la Exelente atención del personal !! Y las instalaciones. Y detalló el mejor café que se toma en la zona , es el que este equipo da !! Felicitaciones\n\n(Translated by Google)\nI want to highlight the excellent service from the staff and the facilities. And I must say, the best coffee in the area is what this team serves! Congratulations!",
+    "createTime": "2026-10-02T21:21:31.469471Z",
+    "updateTime": "2026-10-02T21:21:31.469471Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Alejandro por hacernos llegar tu comentario y calificación!",
+      "updateTime": "2026-10-03T17:58:18.841866Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wVVJuRmpMWFJCTUcwMVpWOTRZVU5SV0c5amVYYxAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Sebastian Morales"
+    },
+    "starRating": "FIVE",
+    "comment": "Excelente atención en playa Sergio un capo!! Y el café muy bueno, como la atención de Blanca!! Una grosa\n\n(Translated by Google)\nExcellent service at Playa Sergio, you\u0027re a star!! And the coffee was very good, as was Blanca\u0027s service!! She\u0027s amazing",
+    "createTime": "2026-10-02T21:12:52.248538Z",
+    "updateTime": "2026-10-02T21:18:05.223090Z",
+    "reviewReply": {
+      "comment": "Muchas gracias Jorge, haremos llegar su comentario a Blanca y Sergio, seguro se pondrán muy contentos!",
+      "updateTime": "2026-10-03T18:00:31.433520Z"
+    },
+    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kVlpIWXpOMkZuVmt4b09HUTFiMmxHYjNscWNuYxAB"
+  }, {
+    "reviewer": {
       "displayName": "Marcelo Kozachenko"
     },
     "starRating": "FIVE",
@@ -206,56 +258,5 @@
       "updateTime": "2026-09-03T12:24:15.809640Z"
     },
     "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvNU1FRXhZVzlEZG1oSFlYVnhSV2w1Y2kxeFJFRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Mauri Cicutta"
-    },
-    "starRating": "FIVE",
-    "comment": "Excelente atención\n\n(Translated by Google)\nExcellent service",
-    "createTime": "2026-08-14T12:00:16.366909Z",
-    "updateTime": "2026-08-14T12:00:16.366909Z",
-    "reviewReply": {
-      "comment": "Muchas gracias por hacernos llegar tu comentario y calificacion.",
-      "updateTime": "2026-08-18T22:17:42.566767Z"
-    },
-    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psWVptMXBTbTF6Um0xSlUwNTVTR1I2YXpkeGVWRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Emilia Diaz"
-    },
-    "starRating": "FIVE",
-    "comment": "Muy amable Blanca ♡\n\n(Translated by Google)\nVery kind, Blanca ♡",
-    "createTime": "2026-08-09T23:38:14.939916Z",
-    "updateTime": "2026-08-09T23:38:14.939916Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Emilia por hacernos llegar su comentario y calificación!",
-      "updateTime": "2026-08-09T23:55:35.838430Z"
-    },
-    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SQlYxQklNMUpyTW1SUGIxSjBhWEZZZEdNMlZGRRAB"
-  }, {
-    "reviewer": {
-      "displayName": "Edgardo Daniel Carignano"
-    },
-    "starRating": "FIVE",
-    "createTime": "2026-08-07T02:28:43.291497Z",
-    "updateTime": "2026-08-07T02:28:43.291497Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Edgardo por su calificación!",
-      "updateTime": "2026-08-07T06:55:48.669752Z"
-    },
-    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZNExXdzViblk1WlRGbVNIbFJiWEkzZW1zNVRYYxAB"
-  }, {
-    "reviewer": {
-      "displayName": "Francisco Contreras"
-    },
-    "starRating": "FIVE",
-    "comment": "Exelente\n\n(Translated by Google)\nExcellent",
-    "createTime": "2026-07-28T15:46:00.608527Z",
-    "updateTime": "2026-07-28T15:46:00.608527Z",
-    "reviewReply": {
-      "comment": "Muchas gracias Francisco por hacernos llegar tu comentario y calificacion!!",
-      "updateTime": "2026-07-29T15:36:38.239913Z"
-    },
-    "name": "accounts/109853746269412609224/locations/17283777982574224322/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ONFZteGlNRTFqVFZCWVJsRkRibUpYTVVWcVZXYxAB"
   }]
 }
